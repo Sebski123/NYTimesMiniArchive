@@ -1,0 +1,154 @@
+[
+    {
+        "puzzle_id": 19498,
+        "promo_id": null,
+        "version": 3,
+        "puzzle_meta": {
+            "formatType": "Normal",
+            "publishType": "Daily",
+            "title": "The Mini Crossword",
+            "printDate": "2021-08-27",
+            "printDotw": 0,
+            "editor": "",
+            "height": 5,
+            "width": 5,
+            "author": "Joel Fagliano"
+        },
+        "print_date": "2021-08-27",
+        "enhanced_tier_date": null,
+        "puzzle_data": {
+            "clues": {
+                "A": [
+                    {
+                        "clueStart": 2,
+                        "clueNum": 1,
+                        "clueEnd": 4,
+                        "value": "Item of apparel often worn backward"
+                    },
+                    {
+                        "clueStart": 5,
+                        "clueNum": 4,
+                        "clueEnd": 9,
+                        "value": "20 years, in the Gettysburg Address"
+                    },
+                    {
+                        "clueStart": 10,
+                        "clueNum": 6,
+                        "clueEnd": 11,
+                        "value": "Heave-___"
+                    },
+                    {
+                        "clueStart": 13,
+                        "clueNum": 7,
+                        "clueEnd": 14,
+                        "value": "Narcissist's main concern"
+                    },
+                    {
+                        "clueStart": 15,
+                        "clueNum": 8,
+                        "clueEnd": 19,
+                        "value": "TV awards"
+                    },
+                    {
+                        "clueStart": 20,
+                        "clueNum": 10,
+                        "clueEnd": 22,
+                        "value": "Lincoln who gave the \"House Divided Speech,\" which hints at this puzzle's theme"
+                    }
+                ],
+                "D": [
+                    {
+                        "clueStart": 2,
+                        "clueNum": 1,
+                        "clueEnd": 7,
+                        "value": "Laugh sound from Santa"
+                    },
+                    {
+                        "clueStart": 3,
+                        "clueNum": 2,
+                        "clueEnd": 18,
+                        "value": "Military group"
+                    },
+                    {
+                        "clueStart": 4,
+                        "clueNum": 3,
+                        "clueEnd": 19,
+                        "value": "Golf ball stands"
+                    },
+                    {
+                        "clueStart": 5,
+                        "clueNum": 4,
+                        "clueEnd": 20,
+                        "value": "Mets stadium replaced by Citi Field"
+                    },
+                    {
+                        "clueStart": 6,
+                        "clueNum": 5,
+                        "clueEnd": 21,
+                        "value": "It fixes a cowlick"
+                    },
+                    {
+                        "clueStart": 17,
+                        "clueNum": 9,
+                        "clueEnd": 22,
+                        "value": "Maine's postal abbreviation"
+                    }
+                ]
+            },
+            "answers": [
+                null,
+                null,
+                "H",
+                "A",
+                "T",
+                "S",
+                "C",
+                "O",
+                "R",
+                "E",
+                "H",
+                "O",
+                null,
+                "M",
+                "E",
+                "E",
+                "M",
+                "M",
+                "Y",
+                "S",
+                "A",
+                "B",
+                "E",
+                null,
+                null
+            ],
+            "layout": [
+                0,
+                0,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                0,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                0,
+                0
+            ]
+        }
+    }
+]

@@ -1,0 +1,226 @@
+[
+    {
+        "puzzle_id": 12101,
+        "promo_id": null,
+        "version": 3,
+        "puzzle_meta": {
+            "formatType": "Normal",
+            "publishType": "Daily",
+            "title": "The Mini Crossword",
+            "printDate": "2016-08-27",
+            "printDotw": 0,
+            "editor": "",
+            "height": 7,
+            "width": 7,
+            "author": "Joel Fagliano"
+        },
+        "print_date": "2016-08-27",
+        "enhanced_tier_date": null,
+        "puzzle_data": {
+            "clues": {
+                "A": [
+                    {
+                        "clueStart": 2,
+                        "clueNum": 1,
+                        "clueEnd": 5,
+                        "value": "Body part that might be furrowed"
+                    },
+                    {
+                        "clueStart": 8,
+                        "clueNum": 5,
+                        "clueEnd": 13,
+                        "value": "Flat, as in geometry"
+                    },
+                    {
+                        "clueStart": 14,
+                        "clueNum": 7,
+                        "clueEnd": 20,
+                        "value": "Clothes in a hamper"
+                    },
+                    {
+                        "clueStart": 21,
+                        "clueNum": 8,
+                        "clueEnd": 23,
+                        "value": "Mined metal"
+                    },
+                    {
+                        "clueStart": 25,
+                        "clueNum": 9,
+                        "clueEnd": 27,
+                        "value": "HDTV brand"
+                    },
+                    {
+                        "clueStart": 28,
+                        "clueNum": 10,
+                        "clueEnd": 34,
+                        "value": "Temporary stay"
+                    },
+                    {
+                        "clueStart": 35,
+                        "clueNum": 12,
+                        "clueEnd": 40,
+                        "value": "Like the terms \"dough\" and \"cheddar,\" for money"
+                    },
+                    {
+                        "clueStart": 43,
+                        "clueNum": 13,
+                        "clueEnd": 46,
+                        "value": "They can wink and blink"
+                    }
+                ],
+                "D": [
+                    {
+                        "clueStart": 2,
+                        "clueNum": 1,
+                        "clueEnd": 44,
+                        "value": "Bird, or M.L.B. player"
+                    },
+                    {
+                        "clueStart": 3,
+                        "clueNum": 2,
+                        "clueEnd": 17,
+                        "value": "Competed in a marathon"
+                    },
+                    {
+                        "clueStart": 4,
+                        "clueNum": 3,
+                        "clueEnd": 46,
+                        "value": "Not sober, in a way"
+                    },
+                    {
+                        "clueStart": 5,
+                        "clueNum": 4,
+                        "clueEnd": 40,
+                        "value": "Battle exhortation"
+                    },
+                    {
+                        "clueStart": 8,
+                        "clueNum": 5,
+                        "clueEnd": 43,
+                        "value": "Prisoner's monitored release"
+                    },
+                    {
+                        "clueStart": 13,
+                        "clueNum": 6,
+                        "clueEnd": 34,
+                        "value": "House speaker Paul"
+                    },
+                    {
+                        "clueStart": 14,
+                        "clueNum": 7,
+                        "clueEnd": 35,
+                        "value": "What \"L\" stands for in box scores"
+                    },
+                    {
+                        "clueStart": 31,
+                        "clueNum": 11,
+                        "clueEnd": 45,
+                        "value": "Air Force ___"
+                    }
+                ]
+            },
+            "answers": [
+                null,
+                null,
+                "B",
+                "R",
+                "O",
+                "W",
+                null,
+                null,
+                "P",
+                "L",
+                "A",
+                "N",
+                "A",
+                "R",
+                "L",
+                "A",
+                "U",
+                "N",
+                "D",
+                "R",
+                "Y",
+                "O",
+                "R",
+                "E",
+                null,
+                "R",
+                "C",
+                "A",
+                "S",
+                "O",
+                "J",
+                "O",
+                "U",
+                "R",
+                "N",
+                "S",
+                "L",
+                "A",
+                "N",
+                "G",
+                "Y",
+                null,
+                null,
+                "E",
+                "Y",
+                "E",
+                "S",
+                null,
+                null
+            ],
+            "layout": [
+                0,
+                0,
+                1,
+                1,
+                1,
+                1,
+                0,
+                0,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                0,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                0,
+                0,
+                1,
+                1,
+                1,
+                1,
+                0,
+                0
+            ]
+        }
+    }
+]

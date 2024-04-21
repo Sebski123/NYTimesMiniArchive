@@ -1,0 +1,154 @@
+[
+    {
+        "puzzle_id": 12338,
+        "promo_id": null,
+        "version": 3,
+        "puzzle_meta": {
+            "formatType": "Normal",
+            "publishType": "Daily",
+            "title": "The Mini Crossword",
+            "printDate": "2016-10-13",
+            "printDotw": 0,
+            "editor": "",
+            "height": 5,
+            "width": 5,
+            "author": "Joel Fagliano"
+        },
+        "print_date": "2016-10-13",
+        "enhanced_tier_date": null,
+        "puzzle_data": {
+            "clues": {
+                "A": [
+                    {
+                        "clueStart": 0,
+                        "clueNum": 1,
+                        "clueEnd": 1,
+                        "value": "With 3-Across, soup veggies, represented literally"
+                    },
+                    {
+                        "clueStart": 3,
+                        "clueNum": 3,
+                        "clueEnd": 4,
+                        "value": "\"___ I was saying ...\""
+                    },
+                    {
+                        "clueStart": 5,
+                        "clueNum": 5,
+                        "clueEnd": 9,
+                        "value": "Vision-correcting procedure"
+                    },
+                    {
+                        "clueStart": 10,
+                        "clueNum": 7,
+                        "clueEnd": 14,
+                        "value": "Company that made Pong and Asteroids"
+                    },
+                    {
+                        "clueStart": 15,
+                        "clueNum": 8,
+                        "clueEnd": 19,
+                        "value": "Relinquished"
+                    },
+                    {
+                        "clueStart": 20,
+                        "clueNum": 9,
+                        "clueEnd": 21,
+                        "value": "With 10-Across, hair problem, represented literally"
+                    },
+                    {
+                        "clueStart": 23,
+                        "clueNum": 10,
+                        "clueEnd": 24,
+                        "value": "Grades from 65-69"
+                    }
+                ],
+                "D": [
+                    {
+                        "clueStart": 0,
+                        "clueNum": 1,
+                        "clueEnd": 20,
+                        "value": "TV's Melrose ___"
+                    },
+                    {
+                        "clueStart": 1,
+                        "clueNum": 2,
+                        "clueEnd": 21,
+                        "value": "Gobbled up"
+                    },
+                    {
+                        "clueStart": 3,
+                        "clueNum": 3,
+                        "clueEnd": 23,
+                        "value": "Put on television"
+                    },
+                    {
+                        "clueStart": 4,
+                        "clueNum": 4,
+                        "clueEnd": 24,
+                        "value": "Loses control on an icy road"
+                    },
+                    {
+                        "clueStart": 7,
+                        "clueNum": 6,
+                        "clueEnd": 17,
+                        "value": "Last word of many a Donald Trump tweet"
+                    }
+                ]
+            },
+            "answers": [
+                "P",
+                "E",
+                null,
+                "A",
+                "S",
+                "L",
+                "A",
+                "S",
+                "I",
+                "K",
+                "A",
+                "T",
+                "A",
+                "R",
+                "I",
+                "C",
+                "E",
+                "D",
+                "E",
+                "D",
+                "E",
+                "N",
+                null,
+                "D",
+                "S"
+            ],
+            "layout": [
+                1,
+                1,
+                0,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                0,
+                1,
+                1
+            ]
+        }
+    }
+]

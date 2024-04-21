@@ -1,0 +1,142 @@
+[
+    {
+        "puzzle_id": 9590,
+        "promo_id": null,
+        "version": 3,
+        "puzzle_meta": {
+            "formatType": "Normal",
+            "publishType": "Daily",
+            "title": "The Mini Crossword",
+            "printDate": "2014-11-25",
+            "printDotw": 0,
+            "editor": "",
+            "height": 5,
+            "width": 5,
+            "author": "Joel Fagliano"
+        },
+        "print_date": "2014-11-25",
+        "enhanced_tier_date": null,
+        "puzzle_data": {
+            "clues": {
+                "A": [
+                    {
+                        "clueStart": 1,
+                        "clueNum": 1,
+                        "clueEnd": 4,
+                        "value": "Member of an Iraqi minority"
+                    },
+                    {
+                        "clueStart": 5,
+                        "clueNum": 4,
+                        "clueEnd": 7,
+                        "value": "Stephen's partner on Comedy Central"
+                    },
+                    {
+                        "clueStart": 10,
+                        "clueNum": 5,
+                        "clueEnd": 14,
+                        "value": "Food that Mayor de Blasio controversially ate with a fork"
+                    },
+                    {
+                        "clueStart": 17,
+                        "clueNum": 7,
+                        "clueEnd": 19,
+                        "value": "Na+, e.g."
+                    },
+                    {
+                        "clueStart": 20,
+                        "clueNum": 8,
+                        "clueEnd": 23,
+                        "value": "Stare in wonder"
+                    }
+                ],
+                "D": [
+                    {
+                        "clueStart": 1,
+                        "clueNum": 1,
+                        "clueEnd": 11,
+                        "value": "Fancy pond swimmer"
+                    },
+                    {
+                        "clueStart": 2,
+                        "clueNum": 2,
+                        "clueEnd": 22,
+                        "value": "Open, as a jacket"
+                    },
+                    {
+                        "clueStart": 4,
+                        "clueNum": 3,
+                        "clueEnd": 19,
+                        "value": "Vernon Wormer in \"Animal House,\" e.g."
+                    },
+                    {
+                        "clueStart": 5,
+                        "clueNum": 4,
+                        "clueEnd": 20,
+                        "value": "Image file format"
+                    },
+                    {
+                        "clueStart": 13,
+                        "clueNum": 6,
+                        "clueEnd": 23,
+                        "value": "Actress Saldana of \"Guardians of the Galaxy\""
+                    }
+                ]
+            },
+            "answers": [
+                null,
+                "K",
+                "U",
+                "R",
+                "D",
+                "J",
+                "O",
+                "N",
+                null,
+                "E",
+                "P",
+                "I",
+                "Z",
+                "Z",
+                "A",
+                "E",
+                null,
+                "I",
+                "O",
+                "N",
+                "G",
+                "A",
+                "P",
+                "E",
+                null
+            ],
+            "layout": [
+                0,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                0,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                0,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                0
+            ]
+        }
+    }
+]

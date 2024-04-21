@@ -1,0 +1,214 @@
+[
+    {
+        "puzzle_id": 20513,
+        "promo_id": null,
+        "version": 3,
+        "puzzle_meta": {
+            "formatType": "Normal",
+            "publishType": "Daily",
+            "title": "The Mini Crossword",
+            "printDate": "2022-11-12",
+            "printDotw": 0,
+            "editor": "",
+            "height": 7,
+            "width": 7,
+            "author": "Joel Fagliano"
+        },
+        "print_date": "2022-11-12",
+        "enhanced_tier_date": null,
+        "puzzle_data": {
+            "clues": {
+                "A": [
+                    {
+                        "clueStart": 3,
+                        "clueNum": 1,
+                        "clueEnd": 6,
+                        "value": "SpongeBob's boss is one"
+                    },
+                    {
+                        "clueStart": 9,
+                        "clueNum": 5,
+                        "clueEnd": 13,
+                        "value": "___ couture"
+                    },
+                    {
+                        "clueStart": 15,
+                        "clueNum": 6,
+                        "clueEnd": 20,
+                        "value": "Material for Michelangelo's David"
+                    },
+                    {
+                        "clueStart": 21,
+                        "clueNum": 7,
+                        "clueEnd": 27,
+                        "value": "Place to sip merlots and chardonnays"
+                    },
+                    {
+                        "clueStart": 28,
+                        "clueNum": 8,
+                        "clueEnd": 33,
+                        "value": "Los Angeles baseball team"
+                    },
+                    {
+                        "clueStart": 35,
+                        "clueNum": 9,
+                        "clueEnd": 39,
+                        "value": "Frighten"
+                    },
+                    {
+                        "clueStart": 42,
+                        "clueNum": 10,
+                        "clueEnd": 45,
+                        "value": "That lady's"
+                    }
+                ],
+                "D": [
+                    {
+                        "clueStart": 3,
+                        "clueNum": 1,
+                        "clueEnd": 45,
+                        "value": "Medicine, law, crossword puzzle making(!), etc."
+                    },
+                    {
+                        "clueStart": 4,
+                        "clueNum": 2,
+                        "clueEnd": 39,
+                        "value": "Demolition debris"
+                    },
+                    {
+                        "clueStart": 5,
+                        "clueNum": 3,
+                        "clueEnd": 33,
+                        "value": "Book of world maps"
+                    },
+                    {
+                        "clueStart": 6,
+                        "clueNum": 4,
+                        "clueEnd": 27,
+                        "value": "\"Cold one\""
+                    },
+                    {
+                        "clueStart": 9,
+                        "clueNum": 5,
+                        "clueEnd": 44,
+                        "value": "Building that houses airplanes"
+                    },
+                    {
+                        "clueStart": 15,
+                        "clueNum": 6,
+                        "clueEnd": 43,
+                        "value": "Chop finely"
+                    },
+                    {
+                        "clueStart": 21,
+                        "clueNum": 7,
+                        "clueEnd": 42,
+                        "value": "Laundry load"
+                    }
+                ]
+            },
+            "answers": [
+                null,
+                null,
+                null,
+                "C",
+                "R",
+                "A",
+                "B",
+                null,
+                null,
+                "H",
+                "A",
+                "U",
+                "T",
+                "E",
+                null,
+                "M",
+                "A",
+                "R",
+                "B",
+                "L",
+                "E",
+                "W",
+                "I",
+                "N",
+                "E",
+                "B",
+                "A",
+                "R",
+                "A",
+                "N",
+                "G",
+                "E",
+                "L",
+                "S",
+                null,
+                "S",
+                "C",
+                "A",
+                "R",
+                "E",
+                null,
+                null,
+                "H",
+                "E",
+                "R",
+                "S",
+                null,
+                null,
+                null
+            ],
+            "layout": [
+                0,
+                0,
+                0,
+                1,
+                1,
+                1,
+                1,
+                0,
+                0,
+                1,
+                1,
+                1,
+                1,
+                1,
+                0,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                0,
+                1,
+                1,
+                1,
+                1,
+                1,
+                0,
+                0,
+                1,
+                1,
+                1,
+                1,
+                0,
+                0,
+                0
+            ]
+        }
+    }
+]

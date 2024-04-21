@@ -1,0 +1,142 @@
+[
+    {
+        "puzzle_id": 9663,
+        "promo_id": null,
+        "version": 3,
+        "puzzle_meta": {
+            "formatType": "Normal",
+            "publishType": "Daily",
+            "title": "The Mini Crossword",
+            "printDate": "2015-01-01",
+            "printDotw": 0,
+            "editor": "",
+            "height": 5,
+            "width": 5,
+            "author": "Joel Fagliano"
+        },
+        "print_date": "2015-01-01",
+        "enhanced_tier_date": null,
+        "puzzle_data": {
+            "clues": {
+                "A": [
+                    {
+                        "clueStart": 0,
+                        "clueNum": 1,
+                        "clueEnd": 3,
+                        "value": "2015, in Roman numerals"
+                    },
+                    {
+                        "clueStart": 7,
+                        "clueNum": 4,
+                        "clueEnd": 9,
+                        "value": "\"Spare\" thing at a barbecue"
+                    },
+                    {
+                        "clueStart": 10,
+                        "clueNum": 6,
+                        "clueEnd": 14,
+                        "value": "Heart beater in bridge bidding"
+                    },
+                    {
+                        "clueStart": 15,
+                        "clueNum": 8,
+                        "clueEnd": 17,
+                        "value": "Delivery from Santa"
+                    },
+                    {
+                        "clueStart": 21,
+                        "clueNum": 9,
+                        "clueEnd": 24,
+                        "value": "Channel for armchair athletes"
+                    }
+                ],
+                "D": [
+                    {
+                        "clueStart": 0,
+                        "clueNum": 1,
+                        "clueEnd": 15,
+                        "value": "Event not to be missed"
+                    },
+                    {
+                        "clueStart": 2,
+                        "clueNum": 2,
+                        "clueEnd": 22,
+                        "value": "Pictures at a hospital"
+                    },
+                    {
+                        "clueStart": 3,
+                        "clueNum": 3,
+                        "clueEnd": 13,
+                        "value": "Posting on Vine, informally"
+                    },
+                    {
+                        "clueStart": 9,
+                        "clueNum": 5,
+                        "clueEnd": 24,
+                        "value": "Peg with a baseball"
+                    },
+                    {
+                        "clueStart": 11,
+                        "clueNum": 7,
+                        "clueEnd": 21,
+                        "value": "\"The Premature Burial\" author"
+                    }
+                ]
+            },
+            "answers": [
+                "M",
+                "M",
+                "X",
+                "V",
+                null,
+                "U",
+                null,
+                "R",
+                "I",
+                "B",
+                "S",
+                "P",
+                "A",
+                "D",
+                "E",
+                "T",
+                "O",
+                "Y",
+                null,
+                "A",
+                null,
+                "E",
+                "S",
+                "P",
+                "N"
+            ],
+            "layout": [
+                1,
+                1,
+                1,
+                1,
+                0,
+                1,
+                0,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                0,
+                1,
+                0,
+                1,
+                1,
+                1,
+                1
+            ]
+        }
+    }
+]

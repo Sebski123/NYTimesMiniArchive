@@ -1,0 +1,226 @@
+[
+    {
+        "puzzle_id": 21001,
+        "promo_id": null,
+        "version": 3,
+        "puzzle_meta": {
+            "formatType": "Normal",
+            "publishType": "Daily",
+            "title": "The Mini Crossword",
+            "printDate": "2023-03-11",
+            "printDotw": 0,
+            "editor": "",
+            "height": 7,
+            "width": 7,
+            "author": "Joel Fagliano"
+        },
+        "print_date": "2023-03-11",
+        "enhanced_tier_date": null,
+        "puzzle_data": {
+            "clues": {
+                "A": [
+                    {
+                        "clueStart": 3,
+                        "clueNum": 1,
+                        "clueEnd": 6,
+                        "value": "A plant, or a president"
+                    },
+                    {
+                        "clueStart": 9,
+                        "clueNum": 5,
+                        "clueEnd": 13,
+                        "value": "Trendy craze"
+                    },
+                    {
+                        "clueStart": 15,
+                        "clueNum": 6,
+                        "clueEnd": 20,
+                        "value": "Chris who starred on \u201990s \"S.N.L.\""
+                    },
+                    {
+                        "clueStart": 21,
+                        "clueNum": 7,
+                        "clueEnd": 23,
+                        "value": "\"Ben-___\" (Best Picture-winning film)"
+                    },
+                    {
+                        "clueStart": 25,
+                        "clueNum": 8,
+                        "clueEnd": 27,
+                        "value": "Pennsylvania, in D.C.: Abbr."
+                    },
+                    {
+                        "clueStart": 28,
+                        "clueNum": 9,
+                        "clueEnd": 34,
+                        "value": "Lures in"
+                    },
+                    {
+                        "clueStart": 35,
+                        "clueNum": 11,
+                        "clueEnd": 39,
+                        "value": "Quick on one's feet"
+                    },
+                    {
+                        "clueStart": 42,
+                        "clueNum": 12,
+                        "clueEnd": 45,
+                        "value": "Chris who played Captain Kirk in the \"Star Trek\" reboot"
+                    }
+                ],
+                "D": [
+                    {
+                        "clueStart": 3,
+                        "clueNum": 1,
+                        "clueEnd": 17,
+                        "value": "Stop on a drinker's \"crawl\""
+                    },
+                    {
+                        "clueStart": 4,
+                        "clueNum": 2,
+                        "clueEnd": 39,
+                        "value": "Loosen, as shoes"
+                    },
+                    {
+                        "clueStart": 5,
+                        "clueNum": 3,
+                        "clueEnd": 33,
+                        "value": "Kitchen strainer"
+                    },
+                    {
+                        "clueStart": 6,
+                        "clueNum": 4,
+                        "clueEnd": 34,
+                        "value": "Chris who hosts an MSNBC show"
+                    },
+                    {
+                        "clueStart": 9,
+                        "clueNum": 5,
+                        "clueEnd": 44,
+                        "value": "Chris who leads the band Coldplay"
+                    },
+                    {
+                        "clueStart": 15,
+                        "clueNum": 6,
+                        "clueEnd": 43,
+                        "value": "Organisms that help trees \"talk\" to each other underground"
+                    },
+                    {
+                        "clueStart": 21,
+                        "clueNum": 7,
+                        "clueEnd": 42,
+                        "value": "Big pile"
+                    },
+                    {
+                        "clueStart": 31,
+                        "clueNum": 10,
+                        "clueEnd": 45,
+                        "value": "French for \"island\""
+                    }
+                ]
+            },
+            "answers": [
+                null,
+                null,
+                null,
+                "B",
+                "U",
+                "S",
+                "H",
+                null,
+                null,
+                "M",
+                "A",
+                "N",
+                "I",
+                "A",
+                null,
+                "F",
+                "A",
+                "R",
+                "L",
+                "E",
+                "Y",
+                "H",
+                "U",
+                "R",
+                null,
+                "A",
+                "V",
+                "E",
+                "E",
+                "N",
+                "T",
+                "I",
+                "C",
+                "E",
+                "S",
+                "A",
+                "G",
+                "I",
+                "L",
+                "E",
+                null,
+                null,
+                "P",
+                "I",
+                "N",
+                "E",
+                null,
+                null,
+                null
+            ],
+            "layout": [
+                0,
+                0,
+                0,
+                1,
+                1,
+                1,
+                1,
+                0,
+                0,
+                1,
+                1,
+                1,
+                1,
+                1,
+                0,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                0,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                0,
+                0,
+                1,
+                1,
+                1,
+                1,
+                0,
+                0,
+                0
+            ]
+        }
+    }
+]
