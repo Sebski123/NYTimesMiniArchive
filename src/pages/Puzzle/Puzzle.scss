@@ -1,0 +1,45 @@
+.app {
+  font-family: helvetica, arial, sans-serif;
+}
+
+.puzzleContainer {
+  height: 100%;
+  width: 140vh;
+}
+
+.gameContainer {
+  position: relative;
+}
+
+.playArea {
+  padding: 10px;
+  display: flex;
+  justify-content: space-between;
+  position: relative;
+}
+
+.currentClue {
+  padding-bottom: 10px;
+
+}
+
+.gridContainer {
+  position: sticky;
+  top: 56;
+}
+
+.gridContainer,
+.cluesContainer {
+  width: 49%;
+  height: 100%;
+}
+
+.cluesContainer {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.headerContainer {
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
