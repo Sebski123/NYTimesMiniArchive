@@ -1,0 +1,214 @@
+[
+    {
+        "puzzle_id": 20005,
+        "promo_id": null,
+        "version": 3,
+        "puzzle_meta": {
+            "formatType": "Normal",
+            "publishType": "Daily",
+            "title": "The Mini Crossword",
+            "printDate": "2022-03-26",
+            "printDotw": 0,
+            "editor": "",
+            "height": 7,
+            "width": 7,
+            "author": "Joel Fagliano"
+        },
+        "print_date": "2022-03-26",
+        "enhanced_tier_date": null,
+        "puzzle_data": {
+            "clues": {
+                "A": [
+                    {
+                        "clueStart": 2,
+                        "clueNum": 1,
+                        "clueEnd": 4,
+                        "value": "Insult"
+                    },
+                    {
+                        "clueStart": 8,
+                        "clueNum": 4,
+                        "clueEnd": 12,
+                        "value": "Short baseball hits"
+                    },
+                    {
+                        "clueStart": 14,
+                        "clueNum": 6,
+                        "clueEnd": 20,
+                        "value": "\"Please, be my guest\""
+                    },
+                    {
+                        "clueStart": 21,
+                        "clueNum": 8,
+                        "clueEnd": 27,
+                        "value": "Light-colored beer"
+                    },
+                    {
+                        "clueStart": 28,
+                        "clueNum": 9,
+                        "clueEnd": 34,
+                        "value": "Wooden stick at a coffee shop"
+                    },
+                    {
+                        "clueStart": 36,
+                        "clueNum": 10,
+                        "clueEnd": 40,
+                        "value": "\"Wheel of Fortune\" turns"
+                    },
+                    {
+                        "clueStart": 44,
+                        "clueNum": 11,
+                        "clueEnd": 46,
+                        "value": "@ @ @"
+                    }
+                ],
+                "D": [
+                    {
+                        "clueStart": 2,
+                        "clueNum": 1,
+                        "clueEnd": 44,
+                        "value": "Singer who teamed up with Elton John on the 2021 hit \"Cold Heart\""
+                    },
+                    {
+                        "clueStart": 3,
+                        "clueNum": 2,
+                        "clueEnd": 45,
+                        "value": "Receive from a will"
+                    },
+                    {
+                        "clueStart": 4,
+                        "clueNum": 3,
+                        "clueEnd": 46,
+                        "value": "Bear ___, investment bank that failed in the 2008 financial crisis"
+                    },
+                    {
+                        "clueStart": 8,
+                        "clueNum": 4,
+                        "clueEnd": 36,
+                        "value": "Marina sights"
+                    },
+                    {
+                        "clueStart": 12,
+                        "clueNum": 5,
+                        "clueEnd": 40,
+                        "value": "Black Friday events"
+                    },
+                    {
+                        "clueStart": 14,
+                        "clueNum": 6,
+                        "clueEnd": 28,
+                        "value": "Car navigation aid, for short"
+                    },
+                    {
+                        "clueStart": 20,
+                        "clueNum": 7,
+                        "clueEnd": 34,
+                        "value": "German \"the\""
+                    }
+                ]
+            },
+            "answers": [
+                null,
+                null,
+                "D",
+                "I",
+                "S",
+                null,
+                null,
+                null,
+                "B",
+                "U",
+                "N",
+                "T",
+                "S",
+                null,
+                "G",
+                "O",
+                "A",
+                "H",
+                "E",
+                "A",
+                "D",
+                "P",
+                "A",
+                "L",
+                "E",
+                "A",
+                "L",
+                "E",
+                "S",
+                "T",
+                "I",
+                "R",
+                "R",
+                "E",
+                "R",
+                null,
+                "S",
+                "P",
+                "I",
+                "N",
+                "S",
+                null,
+                null,
+                null,
+                "A",
+                "T",
+                "S",
+                null,
+                null
+            ],
+            "layout": [
+                0,
+                0,
+                1,
+                1,
+                1,
+                0,
+                0,
+                0,
+                1,
+                1,
+                1,
+                1,
+                1,
+                0,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                0,
+                1,
+                1,
+                1,
+                1,
+                1,
+                0,
+                0,
+                0,
+                1,
+                1,
+                1,
+                0,
+                0
+            ]
+        }
+    }
+]

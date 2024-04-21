@@ -1,0 +1,142 @@
+[
+    {
+        "puzzle_id": 21095,
+        "promo_id": null,
+        "version": 3,
+        "puzzle_meta": {
+            "formatType": "Normal",
+            "publishType": "Daily",
+            "title": "The Mini Crossword",
+            "printDate": "2023-04-21",
+            "printDotw": 0,
+            "editor": "",
+            "height": 5,
+            "width": 5,
+            "author": "Joel Fagliano"
+        },
+        "print_date": "2023-04-21",
+        "enhanced_tier_date": null,
+        "puzzle_data": {
+            "clues": {
+                "A": [
+                    {
+                        "clueStart": 2,
+                        "clueNum": 1,
+                        "clueEnd": 4,
+                        "value": "Sports bars are lined with them"
+                    },
+                    {
+                        "clueStart": 5,
+                        "clueNum": 4,
+                        "clueEnd": 9,
+                        "value": "Preppy clothing brand"
+                    },
+                    {
+                        "clueStart": 10,
+                        "clueNum": 6,
+                        "clueEnd": 14,
+                        "value": "Animal playfully referred to as a \"chubby unicorn\""
+                    },
+                    {
+                        "clueStart": 15,
+                        "clueNum": 7,
+                        "clueEnd": 19,
+                        "value": "Capital of South Korea"
+                    },
+                    {
+                        "clueStart": 22,
+                        "clueNum": 8,
+                        "clueEnd": 24,
+                        "value": "Notice"
+                    }
+                ],
+                "D": [
+                    {
+                        "clueStart": 2,
+                        "clueNum": 1,
+                        "clueEnd": 22,
+                        "value": "What Third Eye Blind and 3 Doors Down are not, despite their names"
+                    },
+                    {
+                        "clueStart": 3,
+                        "clueNum": 2,
+                        "clueEnd": 23,
+                        "value": "Setting"
+                    },
+                    {
+                        "clueStart": 4,
+                        "clueNum": 3,
+                        "clueEnd": 24,
+                        "value": "Synonym of \"ripped\" and \"jacked\""
+                    },
+                    {
+                        "clueStart": 5,
+                        "clueNum": 4,
+                        "clueEnd": 15,
+                        "value": "Third-year students: Abbr."
+                    },
+                    {
+                        "clueStart": 6,
+                        "clueNum": 5,
+                        "clueEnd": 16,
+                        "value": "Michael of \"Saturday Night Live\""
+                    }
+                ]
+            },
+            "answers": [
+                null,
+                null,
+                "T",
+                "V",
+                "S",
+                "J",
+                "C",
+                "R",
+                "E",
+                "W",
+                "R",
+                "H",
+                "I",
+                "N",
+                "O",
+                "S",
+                "E",
+                "O",
+                "U",
+                "L",
+                null,
+                null,
+                "S",
+                "E",
+                "E"
+            ],
+            "layout": [
+                0,
+                0,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                0,
+                0,
+                1,
+                1,
+                1
+            ]
+        }
+    }
+]

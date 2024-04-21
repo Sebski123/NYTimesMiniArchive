@@ -1,0 +1,176 @@
+[
+    {
+        "puzzle_id": 20592,
+        "promo_id": null,
+        "version": 3,
+        "puzzle_meta": {
+            "formatType": "Normal",
+            "publishType": "Daily",
+            "title": "The Mini Crossword",
+            "printDate": "2022-09-11",
+            "printDotw": 0,
+            "editor": "",
+            "height": 6,
+            "width": 6,
+            "author": "Joel Fagliano"
+        },
+        "print_date": "2022-09-11",
+        "enhanced_tier_date": null,
+        "puzzle_data": {
+            "clues": {
+                "A": [
+                    {
+                        "clueStart": 3,
+                        "clueNum": 1,
+                        "clueEnd": 5,
+                        "value": "It's mightier than the sword, they say"
+                    },
+                    {
+                        "clueStart": 9,
+                        "clueNum": 4,
+                        "clueEnd": 11,
+                        "value": "Classic British record label"
+                    },
+                    {
+                        "clueStart": 12,
+                        "clueNum": 5,
+                        "clueEnd": 17,
+                        "value": "\"F\" player in the N.F.L."
+                    },
+                    {
+                        "clueStart": 18,
+                        "clueNum": 8,
+                        "clueEnd": 23,
+                        "value": "Fly a plane"
+                    },
+                    {
+                        "clueStart": 24,
+                        "clueNum": 9,
+                        "clueEnd": 29,
+                        "value": "Nickname for an Oklahoman"
+                    },
+                    {
+                        "clueStart": 30,
+                        "clueNum": 10,
+                        "clueEnd": 32,
+                        "value": "Have in one's possession"
+                    }
+                ],
+                "D": [
+                    {
+                        "clueStart": 3,
+                        "clueNum": 1,
+                        "clueEnd": 27,
+                        "value": "Butter ___ (ice cream flavor)"
+                    },
+                    {
+                        "clueStart": 4,
+                        "clueNum": 2,
+                        "clueEnd": 28,
+                        "value": "Show one's feelings"
+                    },
+                    {
+                        "clueStart": 5,
+                        "clueNum": 3,
+                        "clueEnd": 29,
+                        "value": "\"N\" player in the N.F.L."
+                    },
+                    {
+                        "clueStart": 12,
+                        "clueNum": 5,
+                        "clueEnd": 30,
+                        "value": "Burkina ___ (African country)"
+                    },
+                    {
+                        "clueStart": 13,
+                        "clueNum": 6,
+                        "clueEnd": 31,
+                        "value": "Openly declare"
+                    },
+                    {
+                        "clueStart": 14,
+                        "clueNum": 7,
+                        "clueEnd": 32,
+                        "value": "\"L\" player in the N.F.L."
+                    }
+                ]
+            },
+            "answers": [
+                null,
+                null,
+                null,
+                "P",
+                "E",
+                "N",
+                null,
+                null,
+                null,
+                "E",
+                "M",
+                "I",
+                "F",
+                "A",
+                "L",
+                "C",
+                "O",
+                "N",
+                "A",
+                "V",
+                "I",
+                "A",
+                "T",
+                "E",
+                "S",
+                "O",
+                "O",
+                "N",
+                "E",
+                "R",
+                "O",
+                "W",
+                "N",
+                null,
+                null,
+                null
+            ],
+            "layout": [
+                0,
+                0,
+                0,
+                1,
+                1,
+                1,
+                0,
+                0,
+                0,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                0,
+                0,
+                0
+            ]
+        }
+    }
+]

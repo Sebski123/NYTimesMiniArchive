@@ -1,0 +1,226 @@
+[
+    {
+        "puzzle_id": 16005,
+        "promo_id": null,
+        "version": 3,
+        "puzzle_meta": {
+            "formatType": "Normal",
+            "publishType": "Daily",
+            "title": "The Mini Crossword",
+            "printDate": "2018-11-24",
+            "printDotw": 0,
+            "editor": "",
+            "height": 7,
+            "width": 7,
+            "author": "Joel Fagliano"
+        },
+        "print_date": "2018-11-24",
+        "enhanced_tier_date": null,
+        "puzzle_data": {
+            "clues": {
+                "A": [
+                    {
+                        "clueStart": 0,
+                        "clueNum": 1,
+                        "clueEnd": 5,
+                        "value": "Little doggie"
+                    },
+                    {
+                        "clueStart": 7,
+                        "clueNum": 7,
+                        "clueEnd": 12,
+                        "value": "Wear away by friction"
+                    },
+                    {
+                        "clueStart": 14,
+                        "clueNum": 8,
+                        "clueEnd": 19,
+                        "value": "Bring under control"
+                    },
+                    {
+                        "clueStart": 21,
+                        "clueNum": 9,
+                        "clueEnd": 23,
+                        "value": "Suffix with north and south"
+                    },
+                    {
+                        "clueStart": 25,
+                        "clueNum": 10,
+                        "clueEnd": 27,
+                        "value": "\"That was Zen, this is ___\" (philosophy pun)"
+                    },
+                    {
+                        "clueStart": 28,
+                        "clueNum": 12,
+                        "clueEnd": 34,
+                        "value": "Engine booster, in racing video games"
+                    },
+                    {
+                        "clueStart": 36,
+                        "clueNum": 14,
+                        "clueEnd": 41,
+                        "value": "Interstellar dust cloud"
+                    },
+                    {
+                        "clueStart": 43,
+                        "clueNum": 15,
+                        "clueEnd": 48,
+                        "value": "Philadelphia Flyers mascot who became an internet meme"
+                    }
+                ],
+                "D": [
+                    {
+                        "clueStart": 0,
+                        "clueNum": 1,
+                        "clueEnd": 28,
+                        "value": "( or ), for short"
+                    },
+                    {
+                        "clueStart": 1,
+                        "clueNum": 2,
+                        "clueEnd": 43,
+                        "value": "Taking a ride share, in modern lingo"
+                    },
+                    {
+                        "clueStart": 2,
+                        "clueNum": 3,
+                        "clueEnd": 44,
+                        "value": "Office machine stocked with paper"
+                    },
+                    {
+                        "clueStart": 3,
+                        "clueNum": 4,
+                        "clueEnd": 17,
+                        "value": "Omelet cooker"
+                    },
+                    {
+                        "clueStart": 4,
+                        "clueNum": 5,
+                        "clueEnd": 46,
+                        "value": "Delete from a video"
+                    },
+                    {
+                        "clueStart": 5,
+                        "clueNum": 6,
+                        "clueEnd": 47,
+                        "value": "French automaker"
+                    },
+                    {
+                        "clueStart": 27,
+                        "clueNum": 11,
+                        "clueEnd": 48,
+                        "value": "Starting words of \"The Star-Spangled Banner\""
+                    },
+                    {
+                        "clueStart": 31,
+                        "clueNum": 13,
+                        "clueEnd": 45,
+                        "value": "Baseball slugger's stat"
+                    }
+                ]
+            },
+            "answers": [
+                "P",
+                "U",
+                "P",
+                "P",
+                "E",
+                "R",
+                null,
+                "A",
+                "B",
+                "R",
+                "A",
+                "D",
+                "E",
+                null,
+                "R",
+                "E",
+                "I",
+                "N",
+                "I",
+                "N",
+                null,
+                "E",
+                "R",
+                "N",
+                null,
+                "T",
+                "A",
+                "O",
+                "N",
+                "I",
+                "T",
+                "R",
+                "O",
+                "U",
+                "S",
+                null,
+                "N",
+                "E",
+                "B",
+                "U",
+                "L",
+                "A",
+                null,
+                "G",
+                "R",
+                "I",
+                "T",
+                "T",
+                "Y"
+            ],
+            "layout": [
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                0,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                0,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                0,
+                1,
+                1,
+                1,
+                0,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                0,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                0,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1
+            ]
+        }
+    }
+]

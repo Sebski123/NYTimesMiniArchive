@@ -1,0 +1,158 @@
+[
+    {
+        "puzzle_id": 20562,
+        "promo_id": null,
+        "version": 3,
+        "puzzle_meta": {
+            "formatType": "Normal",
+            "publishType": "Daily",
+            "title": "The Mini Crossword",
+            "printDate": "2022-11-04",
+            "printDotw": 0,
+            "editor": "",
+            "height": 5,
+            "width": 6,
+            "author": "Joel Fagliano"
+        },
+        "print_date": "2022-11-04",
+        "enhanced_tier_date": null,
+        "puzzle_data": {
+            "clues": {
+                "A": [
+                    {
+                        "clueStart": 1,
+                        "clueNum": 1,
+                        "clueEnd": 4,
+                        "value": "Word after King or Hong"
+                    },
+                    {
+                        "clueStart": 6,
+                        "clueNum": 5,
+                        "clueEnd": 11,
+                        "value": "Second-highest rank in Spelling Bee"
+                    },
+                    {
+                        "clueStart": 12,
+                        "clueNum": 7,
+                        "clueEnd": 17,
+                        "value": "Mysterious puzzle"
+                    },
+                    {
+                        "clueStart": 18,
+                        "clueNum": 8,
+                        "clueEnd": 23,
+                        "value": "\"Goodness gracious!\""
+                    },
+                    {
+                        "clueStart": 24,
+                        "clueNum": 9,
+                        "clueEnd": 29,
+                        "value": "Matthew ___, \"West Wing\" president after Josiah Bartlet"
+                    }
+                ],
+                "D": [
+                    {
+                        "clueStart": 1,
+                        "clueNum": 1,
+                        "clueEnd": 25,
+                        "value": "Its capital is Nairobi"
+                    },
+                    {
+                        "clueStart": 2,
+                        "clueNum": 2,
+                        "clueEnd": 26,
+                        "value": "Cause of crying in the kitchen"
+                    },
+                    {
+                        "clueStart": 3,
+                        "clueNum": 3,
+                        "clueEnd": 27,
+                        "value": "Perpetual state at the North Pole in winter"
+                    },
+                    {
+                        "clueStart": 4,
+                        "clueNum": 4,
+                        "clueEnd": 28,
+                        "value": "Only Marx brother not in any Marx Brothers films"
+                    },
+                    {
+                        "clueStart": 6,
+                        "clueNum": 5,
+                        "clueEnd": 24,
+                        "value": "Jewels"
+                    },
+                    {
+                        "clueStart": 11,
+                        "clueNum": 6,
+                        "clueEnd": 29,
+                        "value": "Simon ___ (playground game)"
+                    }
+                ]
+            },
+            "answers": [
+                null,
+                "K",
+                "O",
+                "N",
+                "G",
+                null,
+                "G",
+                "E",
+                "N",
+                "I",
+                "U",
+                "S",
+                "E",
+                "N",
+                "I",
+                "G",
+                "M",
+                "A",
+                "M",
+                "Y",
+                "O",
+                "H",
+                "M",
+                "Y",
+                "S",
+                "A",
+                "N",
+                "T",
+                "O",
+                "S"
+            ],
+            "layout": [
+                0,
+                1,
+                1,
+                1,
+                1,
+                0,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1
+            ]
+        }
+    }
+]

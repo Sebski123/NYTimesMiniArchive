@@ -1,0 +1,194 @@
+[
+    {
+        "puzzle_id": 11928,
+        "promo_id": null,
+        "version": 3,
+        "puzzle_meta": {
+            "formatType": "Normal",
+            "publishType": "Daily",
+            "title": "The Mini Crossword",
+            "printDate": "2016-07-30",
+            "printDotw": 0,
+            "editor": "",
+            "height": 7,
+            "width": 6,
+            "author": "Joel Fagliano"
+        },
+        "print_date": "2016-07-30",
+        "enhanced_tier_date": null,
+        "puzzle_data": {
+            "clues": {
+                "A": [
+                    {
+                        "clueStart": 0,
+                        "clueNum": 1,
+                        "clueEnd": 5,
+                        "value": "Old fogey"
+                    },
+                    {
+                        "clueStart": 6,
+                        "clueNum": 7,
+                        "clueEnd": 11,
+                        "value": "Baltimore baseball player"
+                    },
+                    {
+                        "clueStart": 12,
+                        "clueNum": 8,
+                        "clueEnd": 17,
+                        "value": "Largest food company in the world, revenuewise"
+                    },
+                    {
+                        "clueStart": 18,
+                        "clueNum": 9,
+                        "clueEnd": 23,
+                        "value": "Worked the soil"
+                    },
+                    {
+                        "clueStart": 24,
+                        "clueNum": 10,
+                        "clueEnd": 28,
+                        "value": "\"March comes in like ___ ...\""
+                    },
+                    {
+                        "clueStart": 30,
+                        "clueNum": 11,
+                        "clueEnd": 33,
+                        "value": "Varieties"
+                    },
+                    {
+                        "clueStart": 36,
+                        "clueNum": 12,
+                        "clueEnd": 39,
+                        "value": "\"No,\" to Vladimir Putin"
+                    }
+                ],
+                "D": [
+                    {
+                        "clueStart": 0,
+                        "clueNum": 1,
+                        "clueEnd": 36,
+                        "value": "\"May ___ nuts\" (label warning)"
+                    },
+                    {
+                        "clueStart": 1,
+                        "clueNum": 2,
+                        "clueEnd": 37,
+                        "value": "Fox News host with a \"no-spin zone\""
+                    },
+                    {
+                        "clueStart": 2,
+                        "clueNum": 3,
+                        "clueEnd": 38,
+                        "value": "[Thumbs down emoji]"
+                    },
+                    {
+                        "clueStart": 3,
+                        "clueNum": 4,
+                        "clueEnd": 39,
+                        "value": "Needed to use G.P.S., maybe"
+                    },
+                    {
+                        "clueStart": 4,
+                        "clueNum": 5,
+                        "clueEnd": 28,
+                        "value": "Talk show host who voices Pixar's Dory"
+                    },
+                    {
+                        "clueStart": 5,
+                        "clueNum": 6,
+                        "clueEnd": 23,
+                        "value": "Marsh plant"
+                    }
+                ]
+            },
+            "answers": [
+                "C",
+                "O",
+                "D",
+                "G",
+                "E",
+                "R",
+                "O",
+                "R",
+                "I",
+                "O",
+                "L",
+                "E",
+                "N",
+                "E",
+                "S",
+                "T",
+                "L",
+                "E",
+                "T",
+                "I",
+                "L",
+                "L",
+                "E",
+                "D",
+                "A",
+                "L",
+                "I",
+                "O",
+                "N",
+                null,
+                "I",
+                "L",
+                "K",
+                "S",
+                null,
+                null,
+                "N",
+                "Y",
+                "E",
+                "T",
+                null,
+                null
+            ],
+            "layout": [
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                0,
+                1,
+                1,
+                1,
+                1,
+                0,
+                0,
+                1,
+                1,
+                1,
+                1,
+                0,
+                0
+            ]
+        }
+    }
+]

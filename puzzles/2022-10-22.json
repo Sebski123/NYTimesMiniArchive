@@ -1,0 +1,226 @@
+[
+    {
+        "puzzle_id": 20586,
+        "promo_id": null,
+        "version": 3,
+        "puzzle_meta": {
+            "formatType": "Normal",
+            "publishType": "Daily",
+            "title": "The Mini Crossword",
+            "printDate": "2022-10-22",
+            "printDotw": 0,
+            "editor": "",
+            "height": 7,
+            "width": 7,
+            "author": "Joel Fagliano"
+        },
+        "print_date": "2022-10-22",
+        "enhanced_tier_date": null,
+        "puzzle_data": {
+            "clues": {
+                "A": [
+                    {
+                        "clueStart": 3,
+                        "clueNum": 1,
+                        "clueEnd": 6,
+                        "value": "Unfitting answer to the first clue"
+                    },
+                    {
+                        "clueStart": 8,
+                        "clueNum": 5,
+                        "clueEnd": 13,
+                        "value": "Minimum age for a U.S. senator"
+                    },
+                    {
+                        "clueStart": 14,
+                        "clueNum": 7,
+                        "clueEnd": 20,
+                        "value": "Shirt that exposes the waist"
+                    },
+                    {
+                        "clueStart": 21,
+                        "clueNum": 8,
+                        "clueEnd": 23,
+                        "value": "Prosciutto, e.g."
+                    },
+                    {
+                        "clueStart": 25,
+                        "clueNum": 9,
+                        "clueEnd": 27,
+                        "value": "Keyboard number typed with the left pinky"
+                    },
+                    {
+                        "clueStart": 28,
+                        "clueNum": 10,
+                        "clueEnd": 34,
+                        "value": "Opposites of allies"
+                    },
+                    {
+                        "clueStart": 35,
+                        "clueNum": 12,
+                        "clueEnd": 40,
+                        "value": "Heading for half of crossword clues"
+                    },
+                    {
+                        "clueStart": 42,
+                        "clueNum": 13,
+                        "clueEnd": 45,
+                        "value": "Nuisance"
+                    }
+                ],
+                "D": [
+                    {
+                        "clueStart": 3,
+                        "clueNum": 1,
+                        "clueEnd": 17,
+                        "value": "Cup's edge"
+                    },
+                    {
+                        "clueStart": 4,
+                        "clueNum": 2,
+                        "clueEnd": 39,
+                        "value": "Stella ___ (beer)"
+                    },
+                    {
+                        "clueStart": 5,
+                        "clueNum": 3,
+                        "clueEnd": 40,
+                        "value": "\"Sympathy for the Devil\" band, with \"The\""
+                    },
+                    {
+                        "clueStart": 6,
+                        "clueNum": 4,
+                        "clueEnd": 34,
+                        "value": "Uses a keyboard"
+                    },
+                    {
+                        "clueStart": 8,
+                        "clueNum": 5,
+                        "clueEnd": 43,
+                        "value": "Hypnotized state"
+                    },
+                    {
+                        "clueStart": 9,
+                        "clueNum": 6,
+                        "clueEnd": 44,
+                        "value": "Baseball highlights"
+                    },
+                    {
+                        "clueStart": 14,
+                        "clueNum": 7,
+                        "clueEnd": 42,
+                        "value": "Not expensive"
+                    },
+                    {
+                        "clueStart": 31,
+                        "clueNum": 11,
+                        "clueEnd": 45,
+                        "value": "Le ___ (French version of Wordle)"
+                    }
+                ]
+            },
+            "answers": [
+                null,
+                null,
+                null,
+                "L",
+                "A",
+                "S",
+                "T",
+                null,
+                "T",
+                "H",
+                "I",
+                "R",
+                "T",
+                "Y",
+                "C",
+                "R",
+                "O",
+                "P",
+                "T",
+                "O",
+                "P",
+                "H",
+                "A",
+                "M",
+                null,
+                "O",
+                "N",
+                "E",
+                "E",
+                "N",
+                "E",
+                "M",
+                "I",
+                "E",
+                "S",
+                "A",
+                "C",
+                "R",
+                "O",
+                "S",
+                "S",
+                null,
+                "P",
+                "E",
+                "S",
+                "T",
+                null,
+                null,
+                null
+            ],
+            "layout": [
+                0,
+                0,
+                0,
+                1,
+                1,
+                1,
+                1,
+                0,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                0,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                0,
+                1,
+                1,
+                1,
+                1,
+                0,
+                0,
+                0
+            ]
+        }
+    }
+]

@@ -1,0 +1,142 @@
+[
+    {
+        "puzzle_id": 9558,
+        "promo_id": null,
+        "version": 3,
+        "puzzle_meta": {
+            "formatType": "Normal",
+            "publishType": "Daily",
+            "title": "The Mini Crossword",
+            "printDate": "2014-11-14",
+            "printDotw": 0,
+            "editor": "",
+            "height": 5,
+            "width": 5,
+            "author": "Joel Fagliano"
+        },
+        "print_date": "2014-11-14",
+        "enhanced_tier_date": null,
+        "puzzle_data": {
+            "clues": {
+                "A": [
+                    {
+                        "clueStart": 0,
+                        "clueNum": 1,
+                        "clueEnd": 4,
+                        "value": "Playground fixture"
+                    },
+                    {
+                        "clueStart": 5,
+                        "clueNum": 5,
+                        "clueEnd": 7,
+                        "value": "Persona ___ grata"
+                    },
+                    {
+                        "clueStart": 10,
+                        "clueNum": 6,
+                        "clueEnd": 14,
+                        "value": "Health insurance giant"
+                    },
+                    {
+                        "clueStart": 17,
+                        "clueNum": 8,
+                        "clueEnd": 19,
+                        "value": "Owns"
+                    },
+                    {
+                        "clueStart": 20,
+                        "clueNum": 9,
+                        "clueEnd": 24,
+                        "value": "Makes level"
+                    }
+                ],
+                "D": [
+                    {
+                        "clueStart": 0,
+                        "clueNum": 1,
+                        "clueEnd": 20,
+                        "value": "With 3- and 4-Down, treacherous person"
+                    },
+                    {
+                        "clueStart": 1,
+                        "clueNum": 2,
+                        "clueEnd": 11,
+                        "value": "Distressed state"
+                    },
+                    {
+                        "clueStart": 2,
+                        "clueNum": 3,
+                        "clueEnd": 22,
+                        "value": "See 1-Down"
+                    },
+                    {
+                        "clueStart": 4,
+                        "clueNum": 4,
+                        "clueEnd": 24,
+                        "value": "See 1-Down"
+                    },
+                    {
+                        "clueStart": 13,
+                        "clueNum": 7,
+                        "clueEnd": 23,
+                        "value": "Palindromic girl's name"
+                    }
+                ]
+            },
+            "answers": [
+                "S",
+                "W",
+                "I",
+                "N",
+                "G",
+                "N",
+                "O",
+                "N",
+                null,
+                "R",
+                "A",
+                "E",
+                "T",
+                "N",
+                "A",
+                "K",
+                null,
+                "H",
+                "A",
+                "S",
+                "E",
+                "V",
+                "E",
+                "N",
+                "S"
+            ],
+            "layout": [
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                0,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                0,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1
+            ]
+        }
+    }
+]
