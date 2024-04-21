@@ -1,0 +1,140 @@
+[
+    {
+        "puzzle_id": 21351,
+        "promo_id": null,
+        "version": 3,
+        "puzzle_meta": {
+            "formatType": "Normal",
+            "publishType": "Daily",
+            "title": "The Mini Crossword",
+            "printDate": "2023-08-30",
+            "printDotw": 0,
+            "editor": "",
+            "height": 4,
+            "width": 6,
+            "author": "Joel Fagliano"
+        },
+        "print_date": "2023-08-30",
+        "enhanced_tier_date": null,
+        "puzzle_data": {
+            "clues": {
+                "A": [
+                    {
+                        "clueStart": 2,
+                        "clueNum": 1,
+                        "clueEnd": 5,
+                        "value": "With 8-Across, rare lunar phenomenon occuring on August 30th"
+                    },
+                    {
+                        "clueStart": 6,
+                        "clueNum": 5,
+                        "clueEnd": 11,
+                        "value": "Put into words"
+                    },
+                    {
+                        "clueStart": 12,
+                        "clueNum": 7,
+                        "clueEnd": 17,
+                        "value": "\"Star Wars\" Jedi who mentored Luke"
+                    },
+                    {
+                        "clueStart": 18,
+                        "clueNum": 8,
+                        "clueEnd": 21,
+                        "value": "See 1-Across"
+                    }
+                ],
+                "D": [
+                    {
+                        "clueStart": 2,
+                        "clueNum": 1,
+                        "clueEnd": 20,
+                        "value": "Vivaciousness"
+                    },
+                    {
+                        "clueStart": 3,
+                        "clueNum": 2,
+                        "clueEnd": 21,
+                        "value": "Manicured stretch of grass"
+                    },
+                    {
+                        "clueStart": 4,
+                        "clueNum": 3,
+                        "clueEnd": 16,
+                        "value": "Team knocked out by Sweden at the 2023 Women's World Cup"
+                    },
+                    {
+                        "clueStart": 5,
+                        "clueNum": 4,
+                        "clueEnd": 17,
+                        "value": "Dark time of day, in poetry"
+                    },
+                    {
+                        "clueStart": 6,
+                        "clueNum": 5,
+                        "clueEnd": 18,
+                        "value": "When doubled, woolen ball on a hat"
+                    },
+                    {
+                        "clueStart": 7,
+                        "clueNum": 6,
+                        "clueEnd": 19,
+                        "value": "Network whose shows stream on Max"
+                    }
+                ]
+            },
+            "answers": [
+                null,
+                null,
+                "B",
+                "L",
+                "U",
+                "E",
+                "P",
+                "H",
+                "R",
+                "A",
+                "S",
+                "E",
+                "O",
+                "B",
+                "I",
+                "W",
+                "A",
+                "N",
+                "M",
+                "O",
+                "O",
+                "N",
+                null,
+                null
+            ],
+            "layout": [
+                0,
+                0,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                0,
+                0
+            ]
+        }
+    }
+]

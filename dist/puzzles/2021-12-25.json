@@ -1,0 +1,158 @@
+[
+    {
+        "puzzle_id": 19793,
+        "promo_id": null,
+        "version": 3,
+        "puzzle_meta": {
+            "formatType": "Normal",
+            "publishType": "Daily",
+            "title": "The Mini Crossword",
+            "printDate": "2021-12-25",
+            "printDotw": 0,
+            "editor": "",
+            "height": 5,
+            "width": 6,
+            "author": "Joel Fagliano"
+        },
+        "print_date": "2021-12-25",
+        "enhanced_tier_date": null,
+        "puzzle_data": {
+            "clues": {
+                "A": [
+                    {
+                        "clueStart": 0,
+                        "clueNum": 1,
+                        "clueEnd": 5,
+                        "value": "Seuss villain with a dog named Max"
+                    },
+                    {
+                        "clueStart": 6,
+                        "clueNum": 7,
+                        "clueEnd": 11,
+                        "value": "Laugh from St. Nick"
+                    },
+                    {
+                        "clueStart": 12,
+                        "clueNum": 8,
+                        "clueEnd": 17,
+                        "value": "Graphic persona"
+                    },
+                    {
+                        "clueStart": 18,
+                        "clueNum": 9,
+                        "clueEnd": 23,
+                        "value": "Driest state in the United States"
+                    },
+                    {
+                        "clueStart": 24,
+                        "clueNum": 10,
+                        "clueEnd": 26,
+                        "value": "What \"r\" is sometimes short for"
+                    }
+                ],
+                "D": [
+                    {
+                        "clueStart": 0,
+                        "clueNum": 1,
+                        "clueEnd": 24,
+                        "value": "Neighbor of Togo and Ivory Coast"
+                    },
+                    {
+                        "clueStart": 1,
+                        "clueNum": 2,
+                        "clueEnd": 25,
+                        "value": "Mars explorer"
+                    },
+                    {
+                        "clueStart": 2,
+                        "clueNum": 3,
+                        "clueEnd": 26,
+                        "value": "Response to \"Anyone been there before?\""
+                    },
+                    {
+                        "clueStart": 3,
+                        "clueNum": 4,
+                        "clueEnd": 21,
+                        "value": "\"___ moment too soon\""
+                    },
+                    {
+                        "clueStart": 4,
+                        "clueNum": 5,
+                        "clueEnd": 22,
+                        "value": "Neighbor of Niger and Sudan"
+                    },
+                    {
+                        "clueStart": 5,
+                        "clueNum": 6,
+                        "clueEnd": 23,
+                        "value": "Jewish wedding dance"
+                    }
+                ]
+            },
+            "answers": [
+                "G",
+                "R",
+                "I",
+                "N",
+                "C",
+                "H",
+                "H",
+                "O",
+                "H",
+                "O",
+                "H",
+                "O",
+                "A",
+                "V",
+                "A",
+                "T",
+                "A",
+                "R",
+                "N",
+                "E",
+                "V",
+                "A",
+                "D",
+                "A",
+                "A",
+                "R",
+                "E",
+                null,
+                null,
+                null
+            ],
+            "layout": [
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                0,
+                0,
+                0
+            ]
+        }
+    }
+]

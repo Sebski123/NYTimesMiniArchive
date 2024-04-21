@@ -1,0 +1,136 @@
+[
+    {
+        "puzzle_id": 9991,
+        "promo_id": null,
+        "version": 3,
+        "puzzle_meta": {
+            "formatType": "Normal",
+            "publishType": "Daily",
+            "title": "The Mini Crossword",
+            "printDate": "2015-05-14",
+            "printDotw": 0,
+            "editor": "",
+            "height": 5,
+            "width": 5,
+            "author": "Joel Fagliano"
+        },
+        "print_date": "2015-05-14",
+        "enhanced_tier_date": null,
+        "puzzle_data": {
+            "clues": {
+                "A": [
+                    {
+                        "clueStart": 0,
+                        "clueNum": 1,
+                        "clueEnd": 4,
+                        "value": "Canadian ___ (food)"
+                    },
+                    {
+                        "clueStart": 10,
+                        "clueNum": 4,
+                        "clueEnd": 14,
+                        "value": "Dutch ___ (meal)"
+                    },
+                    {
+                        "clueStart": 15,
+                        "clueNum": 7,
+                        "clueEnd": 19,
+                        "value": "French ___ (food)"
+                    },
+                    {
+                        "clueStart": 20,
+                        "clueNum": 8,
+                        "clueEnd": 24,
+                        "value": "Veer off the beaten path"
+                    }
+                ],
+                "D": [
+                    {
+                        "clueStart": 0,
+                        "clueNum": 1,
+                        "clueEnd": 20,
+                        "value": "Ashtray accumulation"
+                    },
+                    {
+                        "clueStart": 2,
+                        "clueNum": 2,
+                        "clueEnd": 22,
+                        "value": "E.M.T.'s cry before using a defibrillator"
+                    },
+                    {
+                        "clueStart": 4,
+                        "clueNum": 3,
+                        "clueEnd": 24,
+                        "value": "Kooky"
+                    },
+                    {
+                        "clueStart": 11,
+                        "clueNum": 5,
+                        "clueEnd": 21,
+                        "value": "Problem in old wood"
+                    },
+                    {
+                        "clueStart": 13,
+                        "clueNum": 6,
+                        "clueEnd": 23,
+                        "value": "Happy ___ clam"
+                    }
+                ]
+            },
+            "answers": [
+                "B",
+                "A",
+                "C",
+                "O",
+                "N",
+                "U",
+                null,
+                "L",
+                null,
+                "U",
+                "T",
+                "R",
+                "E",
+                "A",
+                "T",
+                "T",
+                "O",
+                "A",
+                "S",
+                "T",
+                "S",
+                "T",
+                "R",
+                "A",
+                "Y"
+            ],
+            "layout": [
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                0,
+                1,
+                0,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1
+            ]
+        }
+    }
+]

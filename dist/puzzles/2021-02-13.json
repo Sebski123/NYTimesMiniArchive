@@ -1,0 +1,226 @@
+[
+    {
+        "puzzle_id": 19001,
+        "promo_id": null,
+        "version": 3,
+        "puzzle_meta": {
+            "formatType": "Normal",
+            "publishType": "Daily",
+            "title": "The Mini Crossword",
+            "printDate": "2021-02-13",
+            "printDotw": 0,
+            "editor": "",
+            "height": 7,
+            "width": 7,
+            "author": "Joel Fagliano"
+        },
+        "print_date": "2021-02-13",
+        "enhanced_tier_date": null,
+        "puzzle_data": {
+            "clues": {
+                "A": [
+                    {
+                        "clueStart": 1,
+                        "clueNum": 1,
+                        "clueEnd": 6,
+                        "value": "Two-ingredient sandwich, for short"
+                    },
+                    {
+                        "clueStart": 8,
+                        "clueNum": 7,
+                        "clueEnd": 13,
+                        "value": "America's 50th state"
+                    },
+                    {
+                        "clueStart": 14,
+                        "clueNum": 8,
+                        "clueEnd": 20,
+                        "value": "Sweetheart"
+                    },
+                    {
+                        "clueStart": 21,
+                        "clueNum": 9,
+                        "clueEnd": 23,
+                        "value": "\"All Things Considered\" host Shapiro"
+                    },
+                    {
+                        "clueStart": 25,
+                        "clueNum": 10,
+                        "clueEnd": 27,
+                        "value": "Chillax, with \"out\""
+                    },
+                    {
+                        "clueStart": 28,
+                        "clueNum": 11,
+                        "clueEnd": 34,
+                        "value": "Comprehensive grasp of a skill"
+                    },
+                    {
+                        "clueStart": 35,
+                        "clueNum": 13,
+                        "clueEnd": 40,
+                        "value": "Samosa filling"
+                    },
+                    {
+                        "clueStart": 42,
+                        "clueNum": 14,
+                        "clueEnd": 46,
+                        "value": "Circle or square"
+                    }
+                ],
+                "D": [
+                    {
+                        "clueStart": 1,
+                        "clueNum": 1,
+                        "clueEnd": 43,
+                        "value": "King Tut, e.g."
+                    },
+                    {
+                        "clueStart": 2,
+                        "clueNum": 2,
+                        "clueEnd": 44,
+                        "value": "Employee who might aptly be named Joe"
+                    },
+                    {
+                        "clueStart": 3,
+                        "clueNum": 3,
+                        "clueEnd": 17,
+                        "value": "Hole-punching tool"
+                    },
+                    {
+                        "clueStart": 4,
+                        "clueNum": 4,
+                        "clueEnd": 46,
+                        "value": "Gullible quality"
+                    },
+                    {
+                        "clueStart": 5,
+                        "clueNum": 5,
+                        "clueEnd": 40,
+                        "value": "Spanish for \"money\""
+                    },
+                    {
+                        "clueStart": 6,
+                        "clueNum": 6,
+                        "clueEnd": 34,
+                        "value": "Will Smith's \"Gettin' ___ Wit It\""
+                    },
+                    {
+                        "clueStart": 14,
+                        "clueNum": 8,
+                        "clueEnd": 42,
+                        "value": "Makes slightly wet"
+                    },
+                    {
+                        "clueStart": 31,
+                        "clueNum": 12,
+                        "clueEnd": 45,
+                        "value": "Dance style with special shoes"
+                    }
+                ]
+            },
+            "answers": [
+                null,
+                "P",
+                "B",
+                "A",
+                "N",
+                "D",
+                "J",
+                null,
+                "H",
+                "A",
+                "W",
+                "A",
+                "I",
+                "I",
+                "D",
+                "A",
+                "R",
+                "L",
+                "I",
+                "N",
+                "G",
+                "A",
+                "R",
+                "I",
+                null,
+                "V",
+                "E",
+                "G",
+                "M",
+                "A",
+                "S",
+                "T",
+                "E",
+                "R",
+                "Y",
+                "P",
+                "O",
+                "T",
+                "A",
+                "T",
+                "O",
+                null,
+                "S",
+                "H",
+                "A",
+                "P",
+                "E",
+                null,
+                null
+            ],
+            "layout": [
+                0,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                0,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                0,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                0,
+                1,
+                1,
+                1,
+                1,
+                1,
+                0,
+                0
+            ]
+        }
+    }
+]

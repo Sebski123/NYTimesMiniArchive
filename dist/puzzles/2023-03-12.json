@@ -1,0 +1,158 @@
+[
+    {
+        "puzzle_id": 21008,
+        "promo_id": null,
+        "version": 3,
+        "puzzle_meta": {
+            "formatType": "Normal",
+            "publishType": "Daily",
+            "title": "The Mini Crossword",
+            "printDate": "2023-03-12",
+            "printDotw": 0,
+            "editor": "",
+            "height": 5,
+            "width": 6,
+            "author": "Joel Fagliano"
+        },
+        "print_date": "2023-03-12",
+        "enhanced_tier_date": null,
+        "puzzle_data": {
+            "clues": {
+                "A": [
+                    {
+                        "clueStart": 1,
+                        "clueNum": 1,
+                        "clueEnd": 4,
+                        "value": "Music genre for Bob Dylan"
+                    },
+                    {
+                        "clueStart": 6,
+                        "clueNum": 5,
+                        "clueEnd": 10,
+                        "value": "Cake maker"
+                    },
+                    {
+                        "clueStart": 12,
+                        "clueNum": 6,
+                        "clueEnd": 17,
+                        "value": "2009 film whose sequel is a 2023 Best Picture nominee"
+                    },
+                    {
+                        "clueStart": 18,
+                        "clueNum": 8,
+                        "clueEnd": 23,
+                        "value": "1986 film whose sequel is a 2023 Best Picture nominee"
+                    },
+                    {
+                        "clueStart": 25,
+                        "clueNum": 9,
+                        "clueEnd": 29,
+                        "value": "Public uprisings"
+                    }
+                ],
+                "D": [
+                    {
+                        "clueStart": 1,
+                        "clueNum": 1,
+                        "clueEnd": 25,
+                        "value": "Small act of kindness"
+                    },
+                    {
+                        "clueStart": 2,
+                        "clueNum": 2,
+                        "clueEnd": 26,
+                        "value": "African mammal that looks like a giraffe/zebra hybrid"
+                    },
+                    {
+                        "clueStart": 3,
+                        "clueNum": 3,
+                        "clueEnd": 27,
+                        "value": "Release one's grip"
+                    },
+                    {
+                        "clueStart": 4,
+                        "clueNum": 4,
+                        "clueEnd": 28,
+                        "value": "\"Sauer\" hot dog topping"
+                    },
+                    {
+                        "clueStart": 6,
+                        "clueNum": 5,
+                        "clueEnd": 18,
+                        "value": "Dracula's other form"
+                    },
+                    {
+                        "clueStart": 17,
+                        "clueNum": 7,
+                        "clueEnd": 29,
+                        "value": "E.R. workers, for short"
+                    }
+                ]
+            },
+            "answers": [
+                null,
+                "F",
+                "O",
+                "L",
+                "K",
+                null,
+                "B",
+                "A",
+                "K",
+                "E",
+                "R",
+                null,
+                "A",
+                "V",
+                "A",
+                "T",
+                "A",
+                "R",
+                "T",
+                "O",
+                "P",
+                "G",
+                "U",
+                "N",
+                null,
+                "R",
+                "I",
+                "O",
+                "T",
+                "S"
+            ],
+            "layout": [
+                0,
+                1,
+                1,
+                1,
+                1,
+                0,
+                1,
+                1,
+                1,
+                1,
+                1,
+                0,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                0,
+                1,
+                1,
+                1,
+                1,
+                1
+            ]
+        }
+    }
+]

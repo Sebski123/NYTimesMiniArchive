@@ -1,0 +1,226 @@
+[
+    {
+        "puzzle_id": 20452,
+        "promo_id": null,
+        "version": 3,
+        "puzzle_meta": {
+            "formatType": "Normal",
+            "publishType": "Daily",
+            "title": "The Mini Crossword",
+            "printDate": "2022-11-05",
+            "printDotw": 0,
+            "editor": "Joel Fagliano",
+            "height": 7,
+            "width": 7,
+            "author": "Tracy Bennett"
+        },
+        "print_date": "2022-11-05",
+        "enhanced_tier_date": null,
+        "puzzle_data": {
+            "clues": {
+                "A": [
+                    {
+                        "clueStart": 2,
+                        "clueNum": 1,
+                        "clueEnd": 4,
+                        "value": "Like almost every prime number"
+                    },
+                    {
+                        "clueStart": 8,
+                        "clueNum": 4,
+                        "clueEnd": 12,
+                        "value": "Slug with a shell, essentially"
+                    },
+                    {
+                        "clueStart": 14,
+                        "clueNum": 6,
+                        "clueEnd": 20,
+                        "value": "Bird whose name can mean \"believe\""
+                    },
+                    {
+                        "clueStart": 21,
+                        "clueNum": 8,
+                        "clueEnd": 23,
+                        "value": "Feel poorly"
+                    },
+                    {
+                        "clueStart": 25,
+                        "clueNum": 9,
+                        "clueEnd": 27,
+                        "value": "Attorney's org."
+                    },
+                    {
+                        "clueStart": 28,
+                        "clueNum": 10,
+                        "clueEnd": 34,
+                        "value": "Star quality that's hard to define"
+                    },
+                    {
+                        "clueStart": 36,
+                        "clueNum": 12,
+                        "clueEnd": 40,
+                        "value": "Nesting sites"
+                    },
+                    {
+                        "clueStart": 44,
+                        "clueNum": 13,
+                        "clueEnd": 46,
+                        "value": "Boxing triumphs, for short"
+                    }
+                ],
+                "D": [
+                    {
+                        "clueStart": 2,
+                        "clueNum": 1,
+                        "clueEnd": 44,
+                        "value": "Just for giggles"
+                    },
+                    {
+                        "clueStart": 3,
+                        "clueNum": 2,
+                        "clueEnd": 17,
+                        "value": "Lentils, on an Indian menu"
+                    },
+                    {
+                        "clueStart": 4,
+                        "clueNum": 3,
+                        "clueEnd": 46,
+                        "value": "Widens, as pupils"
+                    },
+                    {
+                        "clueStart": 8,
+                        "clueNum": 4,
+                        "clueEnd": 36,
+                        "value": "Bird whose name can mean \"sudden\""
+                    },
+                    {
+                        "clueStart": 12,
+                        "clueNum": 5,
+                        "clueEnd": 40,
+                        "value": "Spanish for \"wolves\""
+                    },
+                    {
+                        "clueStart": 14,
+                        "clueNum": 6,
+                        "clueEnd": 28,
+                        "value": "Instrument played by Charlie \"Bird\" Parker"
+                    },
+                    {
+                        "clueStart": 20,
+                        "clueNum": 7,
+                        "clueEnd": 34,
+                        "value": "Dove : peace :: hawk : ___"
+                    },
+                    {
+                        "clueStart": 31,
+                        "clueNum": 11,
+                        "clueEnd": 45,
+                        "value": "Corp. head"
+                    }
+                ]
+            },
+            "answers": [
+                null,
+                null,
+                "O",
+                "D",
+                "D",
+                null,
+                null,
+                null,
+                "S",
+                "N",
+                "A",
+                "I",
+                "L",
+                null,
+                "S",
+                "W",
+                "A",
+                "L",
+                "L",
+                "O",
+                "W",
+                "A",
+                "I",
+                "L",
+                null,
+                "A",
+                "B",
+                "A",
+                "X",
+                "F",
+                "A",
+                "C",
+                "T",
+                "O",
+                "R",
+                null,
+                "T",
+                "R",
+                "E",
+                "E",
+                "S",
+                null,
+                null,
+                null,
+                "K",
+                "O",
+                "S",
+                null,
+                null
+            ],
+            "layout": [
+                0,
+                0,
+                1,
+                1,
+                1,
+                0,
+                0,
+                0,
+                1,
+                1,
+                1,
+                1,
+                1,
+                0,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                0,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                0,
+                1,
+                1,
+                1,
+                1,
+                1,
+                0,
+                0,
+                0,
+                1,
+                1,
+                1,
+                0,
+                0
+            ]
+        }
+    }
+]

@@ -1,0 +1,142 @@
+[
+    {
+        "puzzle_id": 9770,
+        "promo_id": null,
+        "version": 3,
+        "puzzle_meta": {
+            "formatType": "Normal",
+            "publishType": "Daily",
+            "title": "The Mini Crossword",
+            "printDate": "2015-02-14",
+            "printDotw": 0,
+            "editor": "",
+            "height": 5,
+            "width": 5,
+            "author": "Joel Fagliano"
+        },
+        "print_date": "2015-02-14",
+        "enhanced_tier_date": null,
+        "puzzle_data": {
+            "clues": {
+                "A": [
+                    {
+                        "clueStart": 0,
+                        "clueNum": 1,
+                        "clueEnd": 4,
+                        "value": "Valentine's Day symbol"
+                    },
+                    {
+                        "clueStart": 5,
+                        "clueNum": 5,
+                        "clueEnd": 7,
+                        "value": "Business for Shell or ExxonMobil"
+                    },
+                    {
+                        "clueStart": 10,
+                        "clueNum": 6,
+                        "clueEnd": 14,
+                        "value": "Valentine's Day symbol"
+                    },
+                    {
+                        "clueStart": 17,
+                        "clueNum": 8,
+                        "clueEnd": 19,
+                        "value": "Bill the Science Guy"
+                    },
+                    {
+                        "clueStart": 20,
+                        "clueNum": 9,
+                        "clueEnd": 24,
+                        "value": "Topless and bottomless"
+                    }
+                ],
+                "D": [
+                    {
+                        "clueStart": 0,
+                        "clueNum": 1,
+                        "clueEnd": 20,
+                        "value": "Leonard who wrote \"Hallelujah\""
+                    },
+                    {
+                        "clueStart": 1,
+                        "clueNum": 2,
+                        "clueEnd": 11,
+                        "value": "180-degree turn, slangily"
+                    },
+                    {
+                        "clueStart": 2,
+                        "clueNum": 3,
+                        "clueEnd": 22,
+                        "value": "Yoga pose that strengthens the abs"
+                    },
+                    {
+                        "clueStart": 4,
+                        "clueNum": 4,
+                        "clueEnd": 24,
+                        "value": "Was in a relationship with"
+                    },
+                    {
+                        "clueStart": 13,
+                        "clueNum": 7,
+                        "clueEnd": 23,
+                        "value": "Deli bread choice"
+                    }
+                ]
+            },
+            "answers": [
+                "C",
+                "U",
+                "P",
+                "I",
+                "D",
+                "O",
+                "I",
+                "L",
+                null,
+                "A",
+                "H",
+                "E",
+                "A",
+                "R",
+                "T",
+                "E",
+                null,
+                "N",
+                "Y",
+                "E",
+                "N",
+                "A",
+                "K",
+                "E",
+                "D"
+            ],
+            "layout": [
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                0,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                0,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1
+            ]
+        }
+    }
+]

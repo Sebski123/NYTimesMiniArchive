@@ -1,0 +1,214 @@
+[
+    {
+        "puzzle_id": 21020,
+        "promo_id": null,
+        "version": 3,
+        "puzzle_meta": {
+            "formatType": "Normal",
+            "publishType": "Daily",
+            "title": "The Mini Crossword",
+            "printDate": "2023-03-18",
+            "printDotw": 0,
+            "editor": "",
+            "height": 7,
+            "width": 7,
+            "author": "Joel Fagliano"
+        },
+        "print_date": "2023-03-18",
+        "enhanced_tier_date": null,
+        "puzzle_data": {
+            "clues": {
+                "A": [
+                    {
+                        "clueStart": 2,
+                        "clueNum": 1,
+                        "clueEnd": 4,
+                        "value": "High academic degree"
+                    },
+                    {
+                        "clueStart": 8,
+                        "clueNum": 4,
+                        "clueEnd": 12,
+                        "value": "Take a snooze"
+                    },
+                    {
+                        "clueStart": 14,
+                        "clueNum": 6,
+                        "clueEnd": 20,
+                        "value": "Casino card handlers"
+                    },
+                    {
+                        "clueStart": 21,
+                        "clueNum": 8,
+                        "clueEnd": 27,
+                        "value": "Capital of Washington"
+                    },
+                    {
+                        "clueStart": 28,
+                        "clueNum": 9,
+                        "clueEnd": 34,
+                        "value": "\"Pencils down!\""
+                    },
+                    {
+                        "clueStart": 36,
+                        "clueNum": 10,
+                        "clueEnd": 40,
+                        "value": "Divisions of airport terminals"
+                    },
+                    {
+                        "clueStart": 44,
+                        "clueNum": 11,
+                        "clueEnd": 46,
+                        "value": "Airport screening org."
+                    }
+                ],
+                "D": [
+                    {
+                        "clueStart": 2,
+                        "clueNum": 1,
+                        "clueEnd": 44,
+                        "value": "Place for a baby to practice tummy time"
+                    },
+                    {
+                        "clueStart": 3,
+                        "clueNum": 2,
+                        "clueEnd": 45,
+                        "value": "Hard hats"
+                    },
+                    {
+                        "clueStart": 4,
+                        "clueNum": 3,
+                        "clueEnd": 46,
+                        "value": "Largely unexplored region of Earth"
+                    },
+                    {
+                        "clueStart": 8,
+                        "clueNum": 4,
+                        "clueEnd": 36,
+                        "value": "Bud ___, baseball commissioner from 1992 to 2015"
+                    },
+                    {
+                        "clueStart": 12,
+                        "clueNum": 5,
+                        "clueEnd": 40,
+                        "value": "Green car"
+                    },
+                    {
+                        "clueStart": 14,
+                        "clueNum": 6,
+                        "clueEnd": 28,
+                        "value": "Feature of a lowercase i or j"
+                    },
+                    {
+                        "clueStart": 20,
+                        "clueNum": 7,
+                        "clueEnd": 34,
+                        "value": "Tree's \"blood\""
+                    }
+                ]
+            },
+            "answers": [
+                null,
+                null,
+                "P",
+                "H",
+                "D",
+                null,
+                null,
+                null,
+                "S",
+                "L",
+                "E",
+                "E",
+                "P",
+                null,
+                "D",
+                "E",
+                "A",
+                "L",
+                "E",
+                "R",
+                "S",
+                "O",
+                "L",
+                "Y",
+                "M",
+                "P",
+                "I",
+                "A",
+                "T",
+                "I",
+                "M",
+                "E",
+                "S",
+                "U",
+                "P",
+                null,
+                "G",
+                "A",
+                "T",
+                "E",
+                "S",
+                null,
+                null,
+                null,
+                "T",
+                "S",
+                "A",
+                null,
+                null
+            ],
+            "layout": [
+                0,
+                0,
+                1,
+                1,
+                1,
+                0,
+                0,
+                0,
+                1,
+                1,
+                1,
+                1,
+                1,
+                0,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                0,
+                1,
+                1,
+                1,
+                1,
+                1,
+                0,
+                0,
+                0,
+                1,
+                1,
+                1,
+                0,
+                0
+            ]
+        }
+    }
+]
