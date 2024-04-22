@@ -144,7 +144,7 @@ function fetchPuzzleReceive(puzzleName, response) {
 }
 
 function* fetchPuzzleRequest(action) {
-  const response = yield call(puzzleFetcher, `/puzzles/${action.puzzleName}.json`);
+  const response = yield call(puzzleFetcher, `./puzzles/${action.puzzleName}.json`);
   yield put(fetchPuzzleReceive(action.puzzleName, response));
 }
 
