@@ -234,9 +234,24 @@ const clearCells = (cell) => {
   };
 };
 
-export const isPuzzleSolved = (cells) => {
-  return cells.every(cell => !cell.open || cell.guess === cell.answer);
-}
+export const isPuzzleSolved = (cells, puzzleName) => {
+  let isSolved = cells.every(
+    (cell) => !cell.open || cell.guess === cell.answer
+  );
+  if (isSolved) {
+    console.log("Puzzle Solved!");
+    const finishedPuzzles =
+      JSON.parse(localStorage.getItem("finishedPuzzles")) || [];
+    if (!finishedPuzzles.includes(puzzleName)) {
+      finishedPuzzles.push(puzzleName);
+      localStorage.setItem(
+        "finishedPuzzles",
+        JSON.stringify(finishedPuzzles)
+      );
+    }
+  }
+  return isSolved;
+};
 
 export const getCellChange = (callback, cells, clues, width, activeCellNumber, activeDirection, option) => {
   if (option === SQUARE) {

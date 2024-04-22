@@ -219,6 +219,8 @@ export function reducer(state = {}, action) {
         newFilledCells = filledCells + 1;
       }
 
+      // console.log("newFilledCells", newFilledCells, availableCells);
+
       return {
         ...state,
         [action.puzzleName]: {
@@ -226,7 +228,7 @@ export function reducer(state = {}, action) {
           cells: newCells,
           activeCellNumber: nextCellNumber,
           filledCells: newFilledCells,
-          solved: newFilledCells === availableCells && isPuzzleSolved(newCells),
+          solved: newFilledCells === availableCells && isPuzzleSolved(newCells, action.puzzleName),
         }
       }
     }
@@ -340,7 +342,7 @@ export function reducer(state = {}, action) {
           ...state[action.puzzleName],
           cells: newCells,
           filledCells: newFilledCells,
-          solved: newFilledCells === availableCells && isPuzzleSolved(cells),
+          solved: newFilledCells === availableCells && isPuzzleSolved(cells, action.puzzleName),
         }
       }
     }
