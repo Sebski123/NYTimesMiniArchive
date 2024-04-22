@@ -11,7 +11,7 @@ export class App extends React.Component {
       <HashRouter>
         <div>
           <Route path="/home" component={Home} />
-          <Route path="/puzzle/:puzzleName" component={Puzzle} />
+          <Route path="/puzzle" component={Puzzle} />
         </div>
       </HashRouter>
     );
