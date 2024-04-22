@@ -40,23 +40,25 @@ export class Home extends React.Component {
       <Page>
         <h1>Homepage</h1>
         <ul>
-          {this.state.puzzles.map((puzzle) => (
-            <li key={puzzle} className={css.bulletLessList}>
-              <p
-                className={classNames(
-                  css.puzzleLink,
-                  this.state.finishedPuzzles.includes(puzzle)
-                    ? css.finished
-                    : this.state.startedPuzzles.includes(puzzle)
-                    ? css.played
-                    : ""
-                )}
-                onClick={() => this.handlePuzzleClick(puzzle)}
-              >
-                {puzzle}
-              </p>
-            </li>
-          ))}
+          {this.state.puzzles
+            .filter((puzzle) => puzzle != "puzzles")
+            .map((puzzle) => (
+              <li key={puzzle} className={css.bulletLessList}>
+                <p
+                  className={classNames(
+                    css.puzzleLink,
+                    this.state.finishedPuzzles.includes(puzzle)
+                      ? css.finished
+                      : this.state.startedPuzzles.includes(puzzle)
+                      ? css.played
+                      : ""
+                  )}
+                  onClick={() => this.handlePuzzleClick(puzzle)}
+                >
+                  {puzzle}
+                </p>
+              </li>
+            ))}
         </ul>
       </Page>
     );
