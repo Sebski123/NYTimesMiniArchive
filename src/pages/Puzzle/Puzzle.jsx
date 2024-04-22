@@ -13,6 +13,7 @@ import {
   CODE_ARROW_DOWN,
   CODE_ARROW_LEFT,
   CODE_BACKSPACE,
+  CODE_DELETE,
   CODE_ENTER,
   CODE_LETTER_A,
   CODE_LETTER_Z,
@@ -107,7 +108,7 @@ class Puzzle extends React.Component {
       }
     } else if (keyCode >= CODE_LETTER_A && keyCode <= CODE_LETTER_Z) {
       this.props.guessCell(evt.key);
-    } else if (keyCode === CODE_BACKSPACE) {
+    } else if (keyCode === CODE_BACKSPACE || keyCode === CODE_DELETE) {
       evt.preventDefault();
       this.props.removeGuess();
     }

@@ -10,3 +10,4 @@ export const CODE_LETTER_A = 65;
 export const CODE_LETTER_Z = 90;
 
 export const CODE_BACKSPACE = 8;
+export const CODE_DELETE = 46;
