@@ -1,5 +1,5 @@
 const path = require('path');
-
+const PuzzleListPlugin = require('./PuzzleListPlugin');
 
 module.exports = {
   context: path.resolve(__dirname, 'src'),
@@ -45,6 +45,10 @@ module.exports = {
       },
     ],
   },
+
+  plugins: [
+    new PuzzleListPlugin(),
+  ],
 
   resolve: {
     extensions: ['.js', '.jsx'],
