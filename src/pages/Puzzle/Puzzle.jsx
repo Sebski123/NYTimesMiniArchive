@@ -182,8 +182,6 @@ class Puzzle extends React.Component {
 const mapStateToProps = (state, ownProps) => {
   let params = new URLSearchParams(window.location.search);
   let puzzleName = params.get("puzzleName");
-  console.log("puzzleName", puzzleName);
-  console.log("state", state);
   const puzzle = state.puzzle[puzzleName];
   const puzzleIsLoading = !puzzle;
   const puzzleIs404 = puzzle === STATUS_404;
