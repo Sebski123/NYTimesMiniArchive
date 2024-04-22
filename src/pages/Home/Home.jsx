@@ -21,7 +21,6 @@ export class Home extends React.Component {
   }
 
   handlePuzzleClick(puzzle) {
-    console.log("puzzle", puzzle);
     this.setState((prevState) => {
       const startedPuzzles = [...prevState.startedPuzzles];
       if (!prevState.startedPuzzles.includes(puzzle)) {

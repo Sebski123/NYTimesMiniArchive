@@ -235,7 +235,6 @@ const clearCells = (cell) => {
 };
 
 export const isPuzzleSolved = (cells) => {
-  console.log(cells);
   return cells.every(cell => !cell.open || cell.guess === cell.answer);
 }
 

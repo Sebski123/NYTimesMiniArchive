@@ -64,7 +64,6 @@ const mapStateToProps = (state, ownProps) => {
   if (!activeCell.cellClues[direction]) {
     direction = activeCell.cellClues.across ? 'across' : 'down';
   }
-  console.log(activeCell, direction, clues);
   return {
     activeClueNumber: clues[direction][activeCell.cellClues[direction]].clueNumber,
     clues: clues[direction],
