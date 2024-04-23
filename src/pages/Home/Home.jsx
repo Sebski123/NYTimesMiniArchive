@@ -32,7 +32,7 @@ export class Home extends React.Component {
       }
       return { startedPuzzles };
     });
-    window.location.href = "/?puzzleName=" + puzzle + "#/puzzle";
+    window.location.href = window.location.pathname + "?puzzleName=" + puzzle + "#/puzzle";
   }
 
   render() {
