@@ -35,7 +35,7 @@ def fetch_puzzle(date: datetime.datetime):
     response = requests.request("GET", url, headers=headers)
 
     # Save the data to a file
-    filename = f"../crossword_data/Original/{year}-{month:02d}-{day:02d}.json"
+    filename = f"crossword_data/Original/{year}-{month:02d}-{day:02d}.json"
     with open(filename, "w", encoding="utf8") as f:
         f.write(response.text)
 
