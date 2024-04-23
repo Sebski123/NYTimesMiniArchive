@@ -1,0 +1,46 @@
+name: Deploy GitHub Pages
+
+on:
+  push:
+    branches:
+      - main  # Set this to the branch you want to deploy from
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v3
+
+    - name: Set up Node
+      uses: actions/setup-node@v3
+      with:
+        node-version: '18'  # Specify the Node.js version
+
+    - name: Copy puzzles to dist
+      run: rm -y ./dist/puzzles/* && cp ./crossword_data/Converted/* ./dist/puzzles/
+
+    - name: Install dependencies
+      run: npm install
+
+    - name: Build
+      run: npm run build  # Your build command
+      
+    # - name: Print working dir
+    #   run: pwd 
+
+    # - name: Print files
+    #   run: ls -l  # Debugging step to list all files and directories
+
+    # - name: Print files in dist
+    #   run: ls -l dist  # Debugging step to list all files and directories
+
+    # - name: Print files in ./dist
+    #   run: ls -l ./dist  # Debugging step to list all files and directories
+
+    - name: Deploy to GitHub Pages
+      uses: peaceiris/actions-gh-pages@v4
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        publish_dir: ./dist  # Specify your build directory
