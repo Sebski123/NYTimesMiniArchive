@@ -18,23 +18,26 @@ jobs:
       with:
         node-version: '18'  # Specify the Node.js version
 
+    - name: Copy puzzles to dist
+      run: rm -y ./dist/puzzles/* && cp ./crossword_data/Converted/* ./dist/puzzles/
+
     - name: Install dependencies
       run: npm install
 
     - name: Build
       run: npm run build  # Your build command
       
-    - name: Print working dir
-      run: pwd 
+    # - name: Print working dir
+    #   run: pwd 
 
-    - name: Print files
-      run: ls -l  # Debugging step to list all files and directories
+    # - name: Print files
+    #   run: ls -l  # Debugging step to list all files and directories
 
-    - name: Print files in dist
-      run: ls -l dist  # Debugging step to list all files and directories
+    # - name: Print files in dist
+    #   run: ls -l dist  # Debugging step to list all files and directories
 
-    - name: Print files in ./dist
-      run: ls -l ./dist  # Debugging step to list all files and directories
+    # - name: Print files in ./dist
+    #   run: ls -l ./dist  # Debugging step to list all files and directories
 
     - name: Deploy to GitHub Pages
       uses: peaceiris/actions-gh-pages@v4
