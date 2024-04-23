@@ -19,7 +19,7 @@ jobs:
         node-version: '18'  # Specify the Node.js version
 
     - name: Copy puzzles to dist
-      run: rm -f ./dist/puzzles/* && cp ./crossword_data/Converted/* ./dist/puzzles/
+      run: rm -fr ./dist/puzzles/ && mkdir ./dist/puzzles/ && cp ./crossword_data/Converted/* ./dist/puzzles/
 
     - name: Install dependencies
       run: npm install
