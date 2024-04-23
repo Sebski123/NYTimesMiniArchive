@@ -4,3 +4,5 @@ dist/bundle.js
 npm-debug.log
 .DS_Store
 .netlify
+puzzles.json
+*.pyc
