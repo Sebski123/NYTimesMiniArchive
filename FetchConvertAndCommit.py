@@ -20,7 +20,7 @@ def fetch_convert_and_commit(date: datetime):
     os.system(f"git add {original_filename}")
     os.system(f"git add {converted_filename}")
     os.system(f'git commit -m "Added puzzle for {date}"')
-    # os.system("git push")
+    os.system("git push")
 
 
 if __name__ == "__main__":
