@@ -1,0 +1,152 @@
+[
+    {
+        "puzzle_id": 21415,
+        "promo_id": null,
+        "version": 3,
+        "puzzle_meta": {
+            "formatType": "Normal",
+            "publishType": "Daily",
+            "title": "The Mini Crossword",
+            "printDate": "2023-09-12",
+            "printDotw": 0,
+            "editor": "",
+            "height": 5,
+            "width": 6,
+            "author": "Joel Fagliano"
+        },
+        "print_date": "2023-09-12",
+        "enhanced_tier_date": null,
+        "puzzle_data": {
+            "clues": {
+                "A": [
+                    {
+                        "clueStart": 3,
+                        "clueNum": 1,
+                        "clueEnd": 5,
+                        "value": "Caspian or Caribbean"
+                    },
+                    {
+                        "clueStart": 7,
+                        "clueNum": 4,
+                        "clueEnd": 11,
+                        "value": "Cried like a crow"
+                    },
+                    {
+                        "clueStart": 13,
+                        "clueNum": 6,
+                        "clueEnd": 17,
+                        "value": "Cup for a competition champion, e.g."
+                    },
+                    {
+                        "clueStart": 19,
+                        "clueNum": 7,
+                        "clueEnd": 23,
+                        "value": "Casual cloth"
+                    },
+                    {
+                        "clueStart": 27,
+                        "clueNum": 8,
+                        "clueEnd": 29,
+                        "value": "Catch, as a cue"
+                    }
+                ],
+                "D": [
+                    {
+                        "clueStart": 3,
+                        "clueNum": 1,
+                        "clueEnd": 27,
+                        "value": "Cobs and cygnets"
+                    },
+                    {
+                        "clueStart": 4,
+                        "clueNum": 2,
+                        "clueEnd": 28,
+                        "value": "Creepy"
+                    },
+                    {
+                        "clueStart": 5,
+                        "clueNum": 3,
+                        "clueEnd": 29,
+                        "value": "Connection request on social media"
+                    },
+                    {
+                        "clueStart": 7,
+                        "clueNum": 4,
+                        "clueEnd": 19,
+                        "value": "Crude dude"
+                    },
+                    {
+                        "clueStart": 8,
+                        "clueNum": 5,
+                        "clueEnd": 20,
+                        "value": "Completely impress"
+                    }
+                ]
+            },
+            "answers": [
+                null,
+                null,
+                null,
+                "S",
+                "E",
+                "A",
+                null,
+                "C",
+                "A",
+                "W",
+                "E",
+                "D",
+                null,
+                "A",
+                "W",
+                "A",
+                "R",
+                "D",
+                null,
+                "D",
+                "E",
+                "N",
+                "I",
+                "M",
+                null,
+                null,
+                null,
+                "S",
+                "E",
+                "E"
+            ],
+            "layout": [
+                0,
+                0,
+                0,
+                1,
+                1,
+                1,
+                0,
+                1,
+                1,
+                1,
+                1,
+                1,
+                0,
+                1,
+                1,
+                1,
+                1,
+                1,
+                0,
+                1,
+                1,
+                1,
+                1,
+                1,
+                0,
+                0,
+                0,
+                1,
+                1,
+                1
+            ]
+        }
+    }
+]

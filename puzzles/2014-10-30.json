@@ -1,0 +1,142 @@
+[
+    {
+        "puzzle_id": 9517,
+        "promo_id": null,
+        "version": 3,
+        "puzzle_meta": {
+            "formatType": "Normal",
+            "publishType": "Daily",
+            "title": "The Mini Crossword",
+            "printDate": "2014-10-30",
+            "printDotw": 0,
+            "editor": "",
+            "height": 5,
+            "width": 5,
+            "author": "Joel Fagliano"
+        },
+        "print_date": "2014-10-30",
+        "enhanced_tier_date": null,
+        "puzzle_data": {
+            "clues": {
+                "A": [
+                    {
+                        "clueStart": 0,
+                        "clueNum": 1,
+                        "clueEnd": 3,
+                        "value": "Cheerleader's boyfriend, say"
+                    },
+                    {
+                        "clueStart": 7,
+                        "clueNum": 4,
+                        "clueEnd": 9,
+                        "value": "Drink with Flashin' Fruit Punch and Boppin' Strawberry flavors"
+                    },
+                    {
+                        "clueStart": 10,
+                        "clueNum": 6,
+                        "clueEnd": 14,
+                        "value": "Intense media campaign"
+                    },
+                    {
+                        "clueStart": 15,
+                        "clueNum": 8,
+                        "clueEnd": 17,
+                        "value": "Chris, to Peter, on \"Family Guy\""
+                    },
+                    {
+                        "clueStart": 21,
+                        "clueNum": 9,
+                        "clueEnd": 24,
+                        "value": "Place to hibernate"
+                    }
+                ],
+                "D": [
+                    {
+                        "clueStart": 0,
+                        "clueNum": 1,
+                        "clueEnd": 15,
+                        "value": "Perennial presidential campaign issue"
+                    },
+                    {
+                        "clueStart": 2,
+                        "clueNum": 2,
+                        "clueEnd": 22,
+                        "value": "Country where dragon boat racing is popular"
+                    },
+                    {
+                        "clueStart": 3,
+                        "clueNum": 3,
+                        "clueEnd": 13,
+                        "value": "Word after tool or shaving"
+                    },
+                    {
+                        "clueStart": 9,
+                        "clueNum": 5,
+                        "clueEnd": 24,
+                        "value": "Ebola ___, 2014-15 White House position"
+                    },
+                    {
+                        "clueStart": 11,
+                        "clueNum": 7,
+                        "clueEnd": 21,
+                        "value": "Gchat giggle"
+                    }
+                ]
+            },
+            "answers": [
+                "J",
+                "O",
+                "C",
+                "K",
+                null,
+                "O",
+                null,
+                "H",
+                "I",
+                "C",
+                "B",
+                "L",
+                "I",
+                "T",
+                "Z",
+                "S",
+                "O",
+                "N",
+                null,
+                "A",
+                null,
+                "L",
+                "A",
+                "I",
+                "R"
+            ],
+            "layout": [
+                1,
+                1,
+                1,
+                1,
+                0,
+                1,
+                0,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                0,
+                1,
+                0,
+                1,
+                1,
+                1,
+                1
+            ]
+        }
+    }
+]

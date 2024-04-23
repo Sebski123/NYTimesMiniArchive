@@ -1,0 +1,142 @@
+[
+    {
+        "puzzle_id": 9680,
+        "promo_id": null,
+        "version": 3,
+        "puzzle_meta": {
+            "formatType": "Normal",
+            "publishType": "Daily",
+            "title": "The Mini Crossword",
+            "printDate": "2015-01-08",
+            "printDotw": 0,
+            "editor": "",
+            "height": 5,
+            "width": 5,
+            "author": "Joel Fagliano"
+        },
+        "print_date": "2015-01-08",
+        "enhanced_tier_date": null,
+        "puzzle_data": {
+            "clues": {
+                "A": [
+                    {
+                        "clueStart": 1,
+                        "clueNum": 1,
+                        "clueEnd": 4,
+                        "value": "Soft French cheese"
+                    },
+                    {
+                        "clueStart": 5,
+                        "clueNum": 4,
+                        "clueEnd": 7,
+                        "value": "\"___ you for real?\""
+                    },
+                    {
+                        "clueStart": 10,
+                        "clueNum": 5,
+                        "clueEnd": 14,
+                        "value": "Mild Dutch cheese"
+                    },
+                    {
+                        "clueStart": 17,
+                        "clueNum": 7,
+                        "clueEnd": 19,
+                        "value": "Dim ___ (Chinese food option)"
+                    },
+                    {
+                        "clueStart": 20,
+                        "clueNum": 8,
+                        "clueEnd": 23,
+                        "value": "Like much wine and cheese"
+                    }
+                ],
+                "D": [
+                    {
+                        "clueStart": 1,
+                        "clueNum": 1,
+                        "clueEnd": 11,
+                        "value": "One wearing a lacrosse tank top, say"
+                    },
+                    {
+                        "clueStart": 2,
+                        "clueNum": 2,
+                        "clueEnd": 22,
+                        "value": "Part of an environmental mantra"
+                    },
+                    {
+                        "clueStart": 4,
+                        "clueNum": 3,
+                        "clueEnd": 19,
+                        "value": "Cheese in a red wheel"
+                    },
+                    {
+                        "clueStart": 5,
+                        "clueNum": 4,
+                        "clueEnd": 20,
+                        "value": "Water, to Juan"
+                    },
+                    {
+                        "clueStart": 13,
+                        "clueNum": 6,
+                        "clueEnd": 23,
+                        "value": "Firecracker that fizzles"
+                    }
+                ]
+            },
+            "answers": [
+                null,
+                "B",
+                "R",
+                "I",
+                "E",
+                "A",
+                "R",
+                "E",
+                null,
+                "D",
+                "G",
+                "O",
+                "U",
+                "D",
+                "A",
+                "U",
+                null,
+                "S",
+                "U",
+                "M",
+                "A",
+                "G",
+                "E",
+                "D",
+                null
+            ],
+            "layout": [
+                0,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                0,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                0,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                0
+            ]
+        }
+    }
+]

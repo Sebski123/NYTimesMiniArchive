@@ -1,0 +1,142 @@
+[
+    {
+        "puzzle_id": 9498,
+        "promo_id": null,
+        "version": 3,
+        "puzzle_meta": {
+            "formatType": "Normal",
+            "publishType": "Daily",
+            "title": "The Mini Crossword",
+            "printDate": "2014-10-22",
+            "printDotw": 0,
+            "editor": "",
+            "height": 5,
+            "width": 5,
+            "author": "Joel Fagliano"
+        },
+        "print_date": "2014-10-22",
+        "enhanced_tier_date": null,
+        "puzzle_data": {
+            "clues": {
+                "A": [
+                    {
+                        "clueStart": 0,
+                        "clueNum": 1,
+                        "clueEnd": 4,
+                        "value": "\"Oops! I messed that up\""
+                    },
+                    {
+                        "clueStart": 7,
+                        "clueNum": 5,
+                        "clueEnd": 9,
+                        "value": "Part of an airplane seat assignment"
+                    },
+                    {
+                        "clueStart": 10,
+                        "clueNum": 6,
+                        "clueEnd": 14,
+                        "value": "Virus screened for at airports in 2014"
+                    },
+                    {
+                        "clueStart": 15,
+                        "clueNum": 8,
+                        "clueEnd": 17,
+                        "value": "Stranded motorist's need"
+                    },
+                    {
+                        "clueStart": 20,
+                        "clueNum": 9,
+                        "clueEnd": 24,
+                        "value": "Arabic : ibn :: English : ___"
+                    }
+                ],
+                "D": [
+                    {
+                        "clueStart": 0,
+                        "clueNum": 1,
+                        "clueEnd": 20,
+                        "value": "Swimming competitions"
+                    },
+                    {
+                        "clueStart": 2,
+                        "clueNum": 2,
+                        "clueEnd": 22,
+                        "value": "Ivy League school"
+                    },
+                    {
+                        "clueStart": 3,
+                        "clueNum": 3,
+                        "clueEnd": 13,
+                        "value": "Gmail alternative"
+                    },
+                    {
+                        "clueStart": 4,
+                        "clueNum": 4,
+                        "clueEnd": 24,
+                        "value": "One of a Disney septet"
+                    },
+                    {
+                        "clueStart": 11,
+                        "clueNum": 7,
+                        "clueEnd": 21,
+                        "value": "Halloween sound"
+                    }
+                ]
+            },
+            "answers": [
+                "M",
+                "Y",
+                "B",
+                "A",
+                "D",
+                "E",
+                null,
+                "R",
+                "O",
+                "W",
+                "E",
+                "B",
+                "O",
+                "L",
+                "A",
+                "T",
+                "O",
+                "W",
+                null,
+                "R",
+                "S",
+                "O",
+                "N",
+                "O",
+                "F"
+            ],
+            "layout": [
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                0,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                0,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1
+            ]
+        }
+    }
+]

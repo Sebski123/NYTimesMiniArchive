@@ -1,0 +1,212 @@
+[
+    {
+        "puzzle_id": 20379,
+        "promo_id": null,
+        "version": 3,
+        "puzzle_meta": {
+            "formatType": "Normal",
+            "publishType": "Daily",
+            "title": "The Mini Crossword",
+            "printDate": "2022-08-06",
+            "printDotw": 0,
+            "editor": "",
+            "height": 6,
+            "width": 8,
+            "author": "Joel Fagliano"
+        },
+        "print_date": "2022-08-06",
+        "enhanced_tier_date": null,
+        "puzzle_data": {
+            "clues": {
+                "A": [
+                    {
+                        "clueStart": 0,
+                        "clueNum": 1,
+                        "clueEnd": 4,
+                        "value": "Prefix with brewery or biology"
+                    },
+                    {
+                        "clueStart": 8,
+                        "clueNum": 6,
+                        "clueEnd": 13,
+                        "value": "Off-script remarks"
+                    },
+                    {
+                        "clueStart": 16,
+                        "clueNum": 8,
+                        "clueEnd": 23,
+                        "value": "Colorful find at the beach"
+                    },
+                    {
+                        "clueStart": 24,
+                        "clueNum": 11,
+                        "clueEnd": 31,
+                        "value": "Animal on Australia's coat of arms"
+                    },
+                    {
+                        "clueStart": 34,
+                        "clueNum": 12,
+                        "clueEnd": 39,
+                        "value": "Many four-door cars"
+                    },
+                    {
+                        "clueStart": 43,
+                        "clueNum": 13,
+                        "clueEnd": 47,
+                        "value": "Dog in an anagram of DOG IN?"
+                    }
+                ],
+                "D": [
+                    {
+                        "clueStart": 0,
+                        "clueNum": 1,
+                        "clueEnd": 24,
+                        "value": "Accessory brought to an indoor event"
+                    },
+                    {
+                        "clueStart": 1,
+                        "clueNum": 2,
+                        "clueEnd": 25,
+                        "value": "Notion"
+                    },
+                    {
+                        "clueStart": 2,
+                        "clueNum": 3,
+                        "clueEnd": 34,
+                        "value": "Family groups"
+                    },
+                    {
+                        "clueStart": 3,
+                        "clueNum": 4,
+                        "clueEnd": 43,
+                        "value": "Illegally decided ahead of time"
+                    },
+                    {
+                        "clueStart": 4,
+                        "clueNum": 5,
+                        "clueEnd": 44,
+                        "value": "Start of a Beatles title from the \"White Album\""
+                    },
+                    {
+                        "clueStart": 13,
+                        "clueNum": 7,
+                        "clueEnd": 45,
+                        "value": "Brand of plastic wrap"
+                    },
+                    {
+                        "clueStart": 22,
+                        "clueNum": 9,
+                        "clueEnd": 46,
+                        "value": "Part of an album"
+                    },
+                    {
+                        "clueStart": 23,
+                        "clueNum": 10,
+                        "clueEnd": 47,
+                        "value": "Just kinda \"meh\""
+                    }
+                ]
+            },
+            "answers": [
+                "M",
+                "I",
+                "C",
+                "R",
+                "O",
+                null,
+                null,
+                null,
+                "A",
+                "D",
+                "L",
+                "I",
+                "B",
+                "S",
+                null,
+                null,
+                "S",
+                "E",
+                "A",
+                "G",
+                "L",
+                "A",
+                "S",
+                "S",
+                "K",
+                "A",
+                "N",
+                "G",
+                "A",
+                "R",
+                "O",
+                "O",
+                null,
+                null,
+                "S",
+                "E",
+                "D",
+                "A",
+                "N",
+                "S",
+                null,
+                null,
+                null,
+                "D",
+                "I",
+                "N",
+                "G",
+                "O"
+            ],
+            "layout": [
+                1,
+                1,
+                1,
+                1,
+                1,
+                0,
+                0,
+                0,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                0,
+                0,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                0,
+                0,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                0,
+                0,
+                0,
+                1,
+                1,
+                1,
+                1,
+                1
+            ]
+        }
+    }
+]

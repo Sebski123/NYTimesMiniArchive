@@ -1,0 +1,226 @@
+[
+    {
+        "puzzle_id": 21070,
+        "promo_id": null,
+        "version": 3,
+        "puzzle_meta": {
+            "formatType": "Normal",
+            "publishType": "Daily",
+            "title": "The Mini Crossword",
+            "printDate": "2023-04-15",
+            "printDotw": 0,
+            "editor": "",
+            "height": 7,
+            "width": 7,
+            "author": "Joel Fagliano"
+        },
+        "print_date": "2023-04-15",
+        "enhanced_tier_date": null,
+        "puzzle_data": {
+            "clues": {
+                "A": [
+                    {
+                        "clueStart": 0,
+                        "clueNum": 1,
+                        "clueEnd": 4,
+                        "value": "Professor Dumbledore of the Harry Potter books"
+                    },
+                    {
+                        "clueStart": 7,
+                        "clueNum": 6,
+                        "clueEnd": 12,
+                        "value": "Opposite of later"
+                    },
+                    {
+                        "clueStart": 14,
+                        "clueNum": 8,
+                        "clueEnd": 20,
+                        "value": "Loaded ice cream desserts"
+                    },
+                    {
+                        "clueStart": 23,
+                        "clueNum": 10,
+                        "clueEnd": 27,
+                        "value": "Cross swords"
+                    },
+                    {
+                        "clueStart": 28,
+                        "clueNum": 11,
+                        "clueEnd": 34,
+                        "value": "Barbershop service"
+                    },
+                    {
+                        "clueStart": 35,
+                        "clueNum": 13,
+                        "clueEnd": 40,
+                        "value": "One who might look up and say \"Duck!\""
+                    },
+                    {
+                        "clueStart": 42,
+                        "clueNum": 14,
+                        "clueEnd": 46,
+                        "value": "Black-and-white snacks"
+                    }
+                ],
+                "D": [
+                    {
+                        "clueStart": 0,
+                        "clueNum": 1,
+                        "clueEnd": 14,
+                        "value": "Donkey, by another name"
+                    },
+                    {
+                        "clueStart": 1,
+                        "clueNum": 2,
+                        "clueEnd": 15,
+                        "value": "\"Skip to My ___\" (old folk song)"
+                    },
+                    {
+                        "clueStart": 2,
+                        "clueNum": 3,
+                        "clueEnd": 44,
+                        "value": "Big blaze"
+                    },
+                    {
+                        "clueStart": 3,
+                        "clueNum": 4,
+                        "clueEnd": 45,
+                        "value": "Not cook for long enough"
+                    },
+                    {
+                        "clueStart": 4,
+                        "clueNum": 5,
+                        "clueEnd": 46,
+                        "value": "Spirited meetings?"
+                    },
+                    {
+                        "clueStart": 12,
+                        "clueNum": 7,
+                        "clueEnd": 40,
+                        "value": "Happen again"
+                    },
+                    {
+                        "clueStart": 20,
+                        "clueNum": 9,
+                        "clueEnd": 34,
+                        "value": "\"Ready, ___, go!\""
+                    },
+                    {
+                        "clueStart": 28,
+                        "clueNum": 11,
+                        "clueEnd": 42,
+                        "value": "\"Succession\" network"
+                    },
+                    {
+                        "clueStart": 29,
+                        "clueNum": 12,
+                        "clueEnd": 43,
+                        "value": "Put on TV"
+                    }
+                ]
+            },
+            "answers": [
+                "A",
+                "L",
+                "B",
+                "U",
+                "S",
+                null,
+                null,
+                "S",
+                "O",
+                "O",
+                "N",
+                "E",
+                "R",
+                null,
+                "S",
+                "U",
+                "N",
+                "D",
+                "A",
+                "E",
+                "S",
+                null,
+                null,
+                "F",
+                "E",
+                "N",
+                "C",
+                "E",
+                "H",
+                "A",
+                "I",
+                "R",
+                "C",
+                "U",
+                "T",
+                "B",
+                "I",
+                "R",
+                "D",
+                "E",
+                "R",
+                null,
+                "O",
+                "R",
+                "E",
+                "O",
+                "S",
+                null,
+                null
+            ],
+            "layout": [
+                1,
+                1,
+                1,
+                1,
+                1,
+                0,
+                0,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                0,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                0,
+                0,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                0,
+                1,
+                1,
+                1,
+                1,
+                1,
+                0,
+                0
+            ]
+        }
+    }
+]

@@ -1,0 +1,142 @@
+[
+    {
+        "puzzle_id": 20887,
+        "promo_id": null,
+        "version": 3,
+        "puzzle_meta": {
+            "formatType": "Normal",
+            "publishType": "Daily",
+            "title": "The Mini Crossword",
+            "printDate": "2023-01-25",
+            "printDotw": 0,
+            "editor": "",
+            "height": 5,
+            "width": 5,
+            "author": "Joel Fagliano"
+        },
+        "print_date": "2023-01-25",
+        "enhanced_tier_date": null,
+        "puzzle_data": {
+            "clues": {
+                "A": [
+                    {
+                        "clueStart": 1,
+                        "clueNum": 1,
+                        "clueEnd": 3,
+                        "value": "Inept principal on \"Abbott Elementary\""
+                    },
+                    {
+                        "clueStart": 6,
+                        "clueNum": 4,
+                        "clueEnd": 8,
+                        "value": "Part of FYI or FWIW"
+                    },
+                    {
+                        "clueStart": 10,
+                        "clueNum": 5,
+                        "clueEnd": 14,
+                        "value": "Fuzzy fruits"
+                    },
+                    {
+                        "clueStart": 15,
+                        "clueNum": 7,
+                        "clueEnd": 19,
+                        "value": "Alphabet that gave us the word \"alphabet\""
+                    },
+                    {
+                        "clueStart": 20,
+                        "clueNum": 8,
+                        "clueEnd": 24,
+                        "value": "Where many dogs like to be rubbed"
+                    }
+                ],
+                "D": [
+                    {
+                        "clueStart": 1,
+                        "clueNum": 1,
+                        "clueEnd": 21,
+                        "value": "In flames, poetically"
+                    },
+                    {
+                        "clueStart": 2,
+                        "clueNum": 2,
+                        "clueEnd": 22,
+                        "value": "I, for one"
+                    },
+                    {
+                        "clueStart": 3,
+                        "clueNum": 3,
+                        "clueEnd": 23,
+                        "value": "Disney princess with red hair"
+                    },
+                    {
+                        "clueStart": 10,
+                        "clueNum": 5,
+                        "clueEnd": 20,
+                        "value": "Soviet spy agcy."
+                    },
+                    {
+                        "clueStart": 14,
+                        "clueNum": 6,
+                        "clueEnd": 24,
+                        "value": "It's way over your head"
+                    }
+                ]
+            },
+            "answers": [
+                null,
+                "A",
+                "V",
+                "A",
+                null,
+                null,
+                "F",
+                "O",
+                "R",
+                null,
+                "K",
+                "I",
+                "W",
+                "I",
+                "S",
+                "G",
+                "R",
+                "E",
+                "E",
+                "K",
+                "B",
+                "E",
+                "L",
+                "L",
+                "Y"
+            ],
+            "layout": [
+                0,
+                1,
+                1,
+                1,
+                0,
+                0,
+                1,
+                1,
+                1,
+                0,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1
+            ]
+        }
+    }
+]

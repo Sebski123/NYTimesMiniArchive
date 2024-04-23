@@ -1,0 +1,142 @@
+[
+    {
+        "puzzle_id": 21360,
+        "promo_id": null,
+        "version": 3,
+        "puzzle_meta": {
+            "formatType": "Normal",
+            "publishType": "Daily",
+            "title": "The Mini Crossword",
+            "printDate": "2023-08-17",
+            "printDotw": 0,
+            "editor": "",
+            "height": 5,
+            "width": 5,
+            "author": "Joel Fagliano"
+        },
+        "print_date": "2023-08-17",
+        "enhanced_tier_date": null,
+        "puzzle_data": {
+            "clues": {
+                "A": [
+                    {
+                        "clueStart": 1,
+                        "clueNum": 1,
+                        "clueEnd": 3,
+                        "value": "Channel with on-air pledge drives"
+                    },
+                    {
+                        "clueStart": 6,
+                        "clueNum": 4,
+                        "clueEnd": 8,
+                        "value": "\"Say what!?\""
+                    },
+                    {
+                        "clueStart": 10,
+                        "clueNum": 5,
+                        "clueEnd": 14,
+                        "value": "With 7-Across, street sign with a red circle and white bar"
+                    },
+                    {
+                        "clueStart": 15,
+                        "clueNum": 7,
+                        "clueEnd": 19,
+                        "value": "See 5-Across"
+                    },
+                    {
+                        "clueStart": 20,
+                        "clueNum": 8,
+                        "clueEnd": 24,
+                        "value": "Like eating a melting ice cream cone"
+                    }
+                ],
+                "D": [
+                    {
+                        "clueStart": 1,
+                        "clueNum": 1,
+                        "clueEnd": 21,
+                        "value": "Object that has moved from the wall to your pocket"
+                    },
+                    {
+                        "clueStart": 2,
+                        "clueNum": 2,
+                        "clueEnd": 22,
+                        "value": "Short hits, in baseball"
+                    },
+                    {
+                        "clueStart": 3,
+                        "clueNum": 3,
+                        "clueEnd": 23,
+                        "value": "Vans, e.g."
+                    },
+                    {
+                        "clueStart": 10,
+                        "clueNum": 5,
+                        "clueEnd": 20,
+                        "value": "Blue on an electoral map: Abbr."
+                    },
+                    {
+                        "clueStart": 14,
+                        "clueNum": 6,
+                        "clueEnd": 24,
+                        "value": "Make an effort"
+                    }
+                ]
+            },
+            "answers": [
+                null,
+                "P",
+                "B",
+                "S",
+                null,
+                null,
+                "H",
+                "U",
+                "H",
+                null,
+                "D",
+                "O",
+                "N",
+                "O",
+                "T",
+                "E",
+                "N",
+                "T",
+                "E",
+                "R",
+                "M",
+                "E",
+                "S",
+                "S",
+                "Y"
+            ],
+            "layout": [
+                0,
+                1,
+                1,
+                1,
+                0,
+                0,
+                1,
+                1,
+                1,
+                0,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1
+            ]
+        }
+    }
+]

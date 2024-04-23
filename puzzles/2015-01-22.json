@@ -1,0 +1,142 @@
+[
+    {
+        "puzzle_id": 9711,
+        "promo_id": null,
+        "version": 3,
+        "puzzle_meta": {
+            "formatType": "Normal",
+            "publishType": "Daily",
+            "title": "The Mini Crossword",
+            "printDate": "2015-01-22",
+            "printDotw": 0,
+            "editor": "",
+            "height": 5,
+            "width": 5,
+            "author": "Joel Fagliano"
+        },
+        "print_date": "2015-01-22",
+        "enhanced_tier_date": null,
+        "puzzle_data": {
+            "clues": {
+                "A": [
+                    {
+                        "clueStart": 0,
+                        "clueNum": 1,
+                        "clueEnd": 3,
+                        "value": "Saffron or sage"
+                    },
+                    {
+                        "clueStart": 7,
+                        "clueNum": 4,
+                        "clueEnd": 9,
+                        "value": "Chat program whose logo is a yellow stick figure"
+                    },
+                    {
+                        "clueStart": 10,
+                        "clueNum": 6,
+                        "clueEnd": 14,
+                        "value": "State of nervous excitement"
+                    },
+                    {
+                        "clueStart": 15,
+                        "clueNum": 8,
+                        "clueEnd": 17,
+                        "value": "Opposite of con"
+                    },
+                    {
+                        "clueStart": 21,
+                        "clueNum": 9,
+                        "clueEnd": 24,
+                        "value": "Prominent St. Louis landmark"
+                    }
+                ],
+                "D": [
+                    {
+                        "clueStart": 0,
+                        "clueNum": 1,
+                        "clueEnd": 15,
+                        "value": "Start of a Web address"
+                    },
+                    {
+                        "clueStart": 2,
+                        "clueNum": 2,
+                        "clueEnd": 22,
+                        "value": "Stubble remover"
+                    },
+                    {
+                        "clueStart": 3,
+                        "clueNum": 3,
+                        "clueEnd": 13,
+                        "value": "Show ___ (Hollywood industry)"
+                    },
+                    {
+                        "clueStart": 9,
+                        "clueNum": 5,
+                        "clueEnd": 24,
+                        "value": "The Great Wall of China being visible from space, e.g."
+                    },
+                    {
+                        "clueStart": 11,
+                        "clueNum": 7,
+                        "clueEnd": 21,
+                        "value": "401(k) alternative"
+                    }
+                ]
+            },
+            "answers": [
+                "H",
+                "E",
+                "R",
+                "B",
+                null,
+                "T",
+                null,
+                "A",
+                "I",
+                "M",
+                "T",
+                "I",
+                "Z",
+                "Z",
+                "Y",
+                "P",
+                "R",
+                "O",
+                null,
+                "T",
+                null,
+                "A",
+                "R",
+                "C",
+                "H"
+            ],
+            "layout": [
+                1,
+                1,
+                1,
+                1,
+                0,
+                1,
+                0,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                0,
+                1,
+                0,
+                1,
+                1,
+                1,
+                1
+            ]
+        }
+    }
+]

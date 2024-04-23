@@ -1,0 +1,142 @@
+[
+    {
+        "puzzle_id": 9363,
+        "promo_id": null,
+        "version": 3,
+        "puzzle_meta": {
+            "formatType": "Normal",
+            "publishType": "Daily",
+            "title": "The Mini Crossword",
+            "printDate": "2014-09-03",
+            "printDotw": 0,
+            "editor": "",
+            "height": 5,
+            "width": 5,
+            "author": "Joel Fagliano"
+        },
+        "print_date": "2014-09-03",
+        "enhanced_tier_date": null,
+        "puzzle_data": {
+            "clues": {
+                "A": [
+                    {
+                        "clueStart": 0,
+                        "clueNum": 1,
+                        "clueEnd": 2,
+                        "value": "Recede, as the tide"
+                    },
+                    {
+                        "clueStart": 6,
+                        "clueNum": 5,
+                        "clueEnd": 9,
+                        "value": "2013 Rock and Roll Hall-of-Fame inductees"
+                    },
+                    {
+                        "clueStart": 10,
+                        "clueNum": 7,
+                        "clueEnd": 14,
+                        "value": "Grammy-winning alt-rock band"
+                    },
+                    {
+                        "clueStart": 15,
+                        "clueNum": 8,
+                        "clueEnd": 18,
+                        "value": "\"Dancing Queen\" group"
+                    },
+                    {
+                        "clueStart": 20,
+                        "clueNum": 9,
+                        "clueEnd": 24,
+                        "value": "Pauses on sheet music"
+                    }
+                ],
+                "D": [
+                    {
+                        "clueStart": 1,
+                        "clueNum": 2,
+                        "clueEnd": 21,
+                        "value": "Under-the-table payment"
+                    },
+                    {
+                        "clueStart": 2,
+                        "clueNum": 3,
+                        "clueEnd": 22,
+                        "value": "They're sold at hardware stores and garden shops"
+                    },
+                    {
+                        "clueStart": 4,
+                        "clueNum": 4,
+                        "clueEnd": 14,
+                        "value": "\"Tommy\" group, with \"The\""
+                    },
+                    {
+                        "clueStart": 8,
+                        "clueNum": 6,
+                        "clueEnd": 23,
+                        "value": "Sing like Ella Fitzgerald"
+                    },
+                    {
+                        "clueStart": 10,
+                        "clueNum": 7,
+                        "clueEnd": 20,
+                        "value": "\"Low Rider\" band"
+                    }
+                ]
+            },
+            "answers": [
+                "E",
+                "B",
+                "B",
+                null,
+                "W",
+                null,
+                "R",
+                "U",
+                "S",
+                "H",
+                "W",
+                "I",
+                "L",
+                "C",
+                "O",
+                "A",
+                "B",
+                "B",
+                "A",
+                null,
+                "R",
+                "E",
+                "S",
+                "T",
+                "S"
+            ],
+            "layout": [
+                1,
+                1,
+                1,
+                0,
+                1,
+                0,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                0,
+                1,
+                1,
+                1,
+                1,
+                1
+            ]
+        }
+    }
+]

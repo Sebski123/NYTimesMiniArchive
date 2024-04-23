@@ -1,0 +1,142 @@
+[
+    {
+        "puzzle_id": 9622,
+        "promo_id": null,
+        "version": 3,
+        "puzzle_meta": {
+            "formatType": "Normal",
+            "publishType": "Daily",
+            "title": "The Mini Crossword",
+            "printDate": "2014-12-14",
+            "printDotw": 0,
+            "editor": "",
+            "height": 5,
+            "width": 5,
+            "author": "Joel Fagliano"
+        },
+        "print_date": "2014-12-14",
+        "enhanced_tier_date": null,
+        "puzzle_data": {
+            "clues": {
+                "A": [
+                    {
+                        "clueStart": 0,
+                        "clueNum": 1,
+                        "clueEnd": 4,
+                        "value": "\"___ birthday!\""
+                    },
+                    {
+                        "clueStart": 6,
+                        "clueNum": 6,
+                        "clueEnd": 9,
+                        "value": "\"Whatever you say\""
+                    },
+                    {
+                        "clueStart": 10,
+                        "clueNum": 7,
+                        "clueEnd": 14,
+                        "value": "Rock of \"Top Five\""
+                    },
+                    {
+                        "clueStart": 15,
+                        "clueNum": 8,
+                        "clueEnd": 18,
+                        "value": "Bunch of buffalo"
+                    },
+                    {
+                        "clueStart": 20,
+                        "clueNum": 9,
+                        "clueEnd": 24,
+                        "value": "English county or a Vermont town"
+                    }
+                ],
+                "D": [
+                    {
+                        "clueStart": 1,
+                        "clueNum": 2,
+                        "clueEnd": 21,
+                        "value": "Campfire remains"
+                    },
+                    {
+                        "clueStart": 2,
+                        "clueNum": 3,
+                        "clueEnd": 22,
+                        "value": "Contented cat sounds"
+                    },
+                    {
+                        "clueStart": 3,
+                        "clueNum": 4,
+                        "clueEnd": 23,
+                        "value": "One of the seven deadly sins"
+                    },
+                    {
+                        "clueStart": 4,
+                        "clueNum": 5,
+                        "clueEnd": 14,
+                        "value": "\"Of course!\""
+                    },
+                    {
+                        "clueStart": 10,
+                        "clueNum": 7,
+                        "clueEnd": 20,
+                        "value": "Cohort of Fidel Castro"
+                    }
+                ]
+            },
+            "answers": [
+                "H",
+                "A",
+                "P",
+                "P",
+                "Y",
+                null,
+                "S",
+                "U",
+                "R",
+                "E",
+                "C",
+                "H",
+                "R",
+                "I",
+                "S",
+                "H",
+                "E",
+                "R",
+                "D",
+                null,
+                "E",
+                "S",
+                "S",
+                "E",
+                "X"
+            ],
+            "layout": [
+                1,
+                1,
+                1,
+                1,
+                1,
+                0,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                0,
+                1,
+                1,
+                1,
+                1,
+                1
+            ]
+        }
+    }
+]

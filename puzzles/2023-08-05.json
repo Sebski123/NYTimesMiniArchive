@@ -1,0 +1,214 @@
+[
+    {
+        "puzzle_id": 21323,
+        "promo_id": null,
+        "version": 3,
+        "puzzle_meta": {
+            "formatType": "Normal",
+            "publishType": "Daily",
+            "title": "The Mini Crossword",
+            "printDate": "2023-08-05",
+            "printDotw": 0,
+            "editor": "",
+            "height": 7,
+            "width": 7,
+            "author": "Joel Fagliano"
+        },
+        "print_date": "2023-08-05",
+        "enhanced_tier_date": null,
+        "puzzle_data": {
+            "clues": {
+                "A": [
+                    {
+                        "clueStart": 3,
+                        "clueNum": 1,
+                        "clueEnd": 6,
+                        "value": "Reasons to vote yes"
+                    },
+                    {
+                        "clueStart": 9,
+                        "clueNum": 5,
+                        "clueEnd": 13,
+                        "value": "California ___ (state bird of, where else, California)"
+                    },
+                    {
+                        "clueStart": 15,
+                        "clueNum": 6,
+                        "clueEnd": 20,
+                        "value": "Drink quickly"
+                    },
+                    {
+                        "clueStart": 21,
+                        "clueNum": 7,
+                        "clueEnd": 27,
+                        "value": "Asked trivia questions to"
+                    },
+                    {
+                        "clueStart": 28,
+                        "clueNum": 8,
+                        "clueEnd": 33,
+                        "value": "Given a name"
+                    },
+                    {
+                        "clueStart": 35,
+                        "clueNum": 9,
+                        "clueEnd": 39,
+                        "value": "\"Oh wait, that wasn't true\""
+                    },
+                    {
+                        "clueStart": 42,
+                        "clueNum": 10,
+                        "clueEnd": 45,
+                        "value": "Beloved family members"
+                    }
+                ],
+                "D": [
+                    {
+                        "clueStart": 3,
+                        "clueNum": 1,
+                        "clueEnd": 45,
+                        "value": "Crosswords, sudokus, jigsaws, etc."
+                    },
+                    {
+                        "clueStart": 4,
+                        "clueNum": 2,
+                        "clueEnd": 39,
+                        "value": "Made fun of"
+                    },
+                    {
+                        "clueStart": 5,
+                        "clueNum": 3,
+                        "clueEnd": 33,
+                        "value": "Well-___ machine"
+                    },
+                    {
+                        "clueStart": 6,
+                        "clueNum": 4,
+                        "clueEnd": 27,
+                        "value": "Toboggan, e.g."
+                    },
+                    {
+                        "clueStart": 9,
+                        "clueNum": 5,
+                        "clueEnd": 44,
+                        "value": "\"Stop doing that!\""
+                    },
+                    {
+                        "clueStart": 15,
+                        "clueNum": 6,
+                        "clueEnd": 43,
+                        "value": "Cunning deception"
+                    },
+                    {
+                        "clueStart": 21,
+                        "clueNum": 7,
+                        "clueEnd": 42,
+                        "value": "Cotton swab brand"
+                    }
+                ]
+            },
+            "answers": [
+                null,
+                null,
+                null,
+                "P",
+                "R",
+                "O",
+                "S",
+                null,
+                null,
+                "Q",
+                "U",
+                "A",
+                "I",
+                "L",
+                null,
+                "G",
+                "U",
+                "Z",
+                "Z",
+                "L",
+                "E",
+                "Q",
+                "U",
+                "I",
+                "Z",
+                "Z",
+                "E",
+                "D",
+                "T",
+                "I",
+                "T",
+                "L",
+                "E",
+                "D",
+                null,
+                "I",
+                "L",
+                "I",
+                "E",
+                "D",
+                null,
+                null,
+                "P",
+                "E",
+                "T",
+                "S",
+                null,
+                null,
+                null
+            ],
+            "layout": [
+                0,
+                0,
+                0,
+                1,
+                1,
+                1,
+                1,
+                0,
+                0,
+                1,
+                1,
+                1,
+                1,
+                1,
+                0,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                0,
+                1,
+                1,
+                1,
+                1,
+                1,
+                0,
+                0,
+                1,
+                1,
+                1,
+                1,
+                0,
+                0,
+                0
+            ]
+        }
+    }
+]

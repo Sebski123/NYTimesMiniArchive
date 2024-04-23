@@ -1,0 +1,142 @@
+[
+    {
+        "puzzle_id": 9354,
+        "promo_id": null,
+        "version": 3,
+        "puzzle_meta": {
+            "formatType": "Normal",
+            "publishType": "Daily",
+            "title": "The Mini Crossword",
+            "printDate": "2014-08-26",
+            "printDotw": 0,
+            "editor": "",
+            "height": 5,
+            "width": 5,
+            "author": "Joel Fagliano"
+        },
+        "print_date": "2014-08-26",
+        "enhanced_tier_date": null,
+        "puzzle_data": {
+            "clues": {
+                "A": [
+                    {
+                        "clueStart": 0,
+                        "clueNum": 1,
+                        "clueEnd": 2,
+                        "value": "Internet, with \"the\""
+                    },
+                    {
+                        "clueStart": 6,
+                        "clueNum": 5,
+                        "clueEnd": 9,
+                        "value": "Green shade"
+                    },
+                    {
+                        "clueStart": 10,
+                        "clueNum": 7,
+                        "clueEnd": 14,
+                        "value": "Brown shade"
+                    },
+                    {
+                        "clueStart": 15,
+                        "clueNum": 8,
+                        "clueEnd": 18,
+                        "value": "Yellow shade"
+                    },
+                    {
+                        "clueStart": 22,
+                        "clueNum": 9,
+                        "clueEnd": 24,
+                        "value": "Mind reader's ability, briefly"
+                    }
+                ],
+                "D": [
+                    {
+                        "clueStart": 1,
+                        "clueNum": 2,
+                        "clueEnd": 16,
+                        "value": "Mr. Noodle's friend on \"Sesame Street\""
+                    },
+                    {
+                        "clueStart": 2,
+                        "clueNum": 3,
+                        "clueEnd": 22,
+                        "value": "Book in many a hotel room"
+                    },
+                    {
+                        "clueStart": 4,
+                        "clueNum": 4,
+                        "clueEnd": 14,
+                        "value": "2013 Spike Jonze movie"
+                    },
+                    {
+                        "clueStart": 8,
+                        "clueNum": 6,
+                        "clueEnd": 23,
+                        "value": "Docs prescribe them"
+                    },
+                    {
+                        "clueStart": 10,
+                        "clueNum": 7,
+                        "clueEnd": 20,
+                        "value": "Popular boot brand"
+                    }
+                ]
+            },
+            "answers": [
+                "W",
+                "E",
+                "B",
+                null,
+                "H",
+                null,
+                "L",
+                "I",
+                "M",
+                "E",
+                "U",
+                "M",
+                "B",
+                "E",
+                "R",
+                "G",
+                "O",
+                "L",
+                "D",
+                null,
+                "G",
+                null,
+                "E",
+                "S",
+                "P"
+            ],
+            "layout": [
+                1,
+                1,
+                1,
+                0,
+                1,
+                0,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                0,
+                1,
+                0,
+                1,
+                1,
+                1
+            ]
+        }
+    }
+]

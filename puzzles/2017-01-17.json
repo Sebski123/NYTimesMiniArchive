@@ -1,0 +1,176 @@
+[
+    {
+        "puzzle_id": 12806,
+        "promo_id": null,
+        "version": 3,
+        "puzzle_meta": {
+            "formatType": "Normal",
+            "publishType": "Daily",
+            "title": "The Mini Crossword",
+            "printDate": "2017-01-17",
+            "printDotw": 0,
+            "editor": "",
+            "height": 6,
+            "width": 6,
+            "author": "Joel Fagliano"
+        },
+        "print_date": "2017-01-17",
+        "enhanced_tier_date": null,
+        "puzzle_data": {
+            "clues": {
+                "A": [
+                    {
+                        "clueStart": 2,
+                        "clueNum": 1,
+                        "clueEnd": 5,
+                        "value": "\"A rabbi, a priest and a duck walk into ____ ...\""
+                    },
+                    {
+                        "clueStart": 6,
+                        "clueNum": 5,
+                        "clueEnd": 11,
+                        "value": "National park in Alaska with a GMC truck namesake"
+                    },
+                    {
+                        "clueStart": 12,
+                        "clueNum": 7,
+                        "clueEnd": 17,
+                        "value": "National park in Utah named for a geological formation"
+                    },
+                    {
+                        "clueStart": 18,
+                        "clueNum": 8,
+                        "clueEnd": 23,
+                        "value": "Native American people with a California desert named for them"
+                    },
+                    {
+                        "clueStart": 25,
+                        "clueNum": 9,
+                        "clueEnd": 29,
+                        "value": "Stadium toppers"
+                    },
+                    {
+                        "clueStart": 31,
+                        "clueNum": 10,
+                        "clueEnd": 33,
+                        "value": "Period in history"
+                    }
+                ],
+                "D": [
+                    {
+                        "clueStart": 2,
+                        "clueNum": 1,
+                        "clueEnd": 32,
+                        "value": "Anderson Cooper or Jake Tapper"
+                    },
+                    {
+                        "clueStart": 3,
+                        "clueNum": 2,
+                        "clueEnd": 33,
+                        "value": "___ mama (rhyming rum drink)"
+                    },
+                    {
+                        "clueStart": 4,
+                        "clueNum": 3,
+                        "clueEnd": 28,
+                        "value": "Pain reliever brand"
+                    },
+                    {
+                        "clueStart": 5,
+                        "clueNum": 4,
+                        "clueEnd": 29,
+                        "value": "Goes up"
+                    },
+                    {
+                        "clueStart": 6,
+                        "clueNum": 5,
+                        "clueEnd": 18,
+                        "value": "River blocker"
+                    },
+                    {
+                        "clueStart": 7,
+                        "clueNum": 6,
+                        "clueEnd": 31,
+                        "value": "Wash away, as soil"
+                    }
+                ]
+            },
+            "answers": [
+                null,
+                null,
+                "A",
+                "B",
+                "A",
+                "R",
+                "D",
+                "E",
+                "N",
+                "A",
+                "L",
+                "I",
+                "A",
+                "R",
+                "C",
+                "H",
+                "E",
+                "S",
+                "M",
+                "O",
+                "H",
+                "A",
+                "V",
+                "E",
+                null,
+                "D",
+                "O",
+                "M",
+                "E",
+                "S",
+                null,
+                "E",
+                "R",
+                "A",
+                null,
+                null
+            ],
+            "layout": [
+                0,
+                0,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                0,
+                1,
+                1,
+                1,
+                1,
+                1,
+                0,
+                1,
+                1,
+                1,
+                0,
+                0
+            ]
+        }
+    }
+]

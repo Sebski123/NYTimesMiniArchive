@@ -1,0 +1,176 @@
+[
+    {
+        "puzzle_id": 11806,
+        "promo_id": null,
+        "version": 3,
+        "puzzle_meta": {
+            "formatType": "Normal",
+            "publishType": "Daily",
+            "title": "The Mini Crossword",
+            "printDate": "2016-07-09",
+            "printDotw": 0,
+            "editor": "",
+            "height": 6,
+            "width": 6,
+            "author": "Joel Fagliano"
+        },
+        "print_date": "2016-07-09",
+        "enhanced_tier_date": null,
+        "puzzle_data": {
+            "clues": {
+                "A": [
+                    {
+                        "clueStart": 1,
+                        "clueNum": 1,
+                        "clueEnd": 4,
+                        "value": "Pulled from the deck"
+                    },
+                    {
+                        "clueStart": 6,
+                        "clueNum": 5,
+                        "clueEnd": 11,
+                        "value": "Monumental referendum of 2016"
+                    },
+                    {
+                        "clueStart": 12,
+                        "clueNum": 7,
+                        "clueEnd": 17,
+                        "value": "What an instrumental track lacks"
+                    },
+                    {
+                        "clueStart": 18,
+                        "clueNum": 8,
+                        "clueEnd": 23,
+                        "value": "Largest U.S. state by area"
+                    },
+                    {
+                        "clueStart": 24,
+                        "clueNum": 9,
+                        "clueEnd": 29,
+                        "value": "One facing off against a pitcher"
+                    },
+                    {
+                        "clueStart": 31,
+                        "clueNum": 10,
+                        "clueEnd": 34,
+                        "value": "Toward the setting sun"
+                    }
+                ],
+                "D": [
+                    {
+                        "clueStart": 1,
+                        "clueNum": 1,
+                        "clueEnd": 31,
+                        "value": "Prohibition of alcohol sales"
+                    },
+                    {
+                        "clueStart": 2,
+                        "clueNum": 2,
+                        "clueEnd": 32,
+                        "value": "Award another star to, perhaps"
+                    },
+                    {
+                        "clueStart": 3,
+                        "clueNum": 3,
+                        "clueEnd": 33,
+                        "value": "Is"
+                    },
+                    {
+                        "clueStart": 4,
+                        "clueNum": 4,
+                        "clueEnd": 34,
+                        "value": "Small gate in croquet"
+                    },
+                    {
+                        "clueStart": 6,
+                        "clueNum": 5,
+                        "clueEnd": 24,
+                        "value": "Spill the beans"
+                    },
+                    {
+                        "clueStart": 11,
+                        "clueNum": 6,
+                        "clueEnd": 29,
+                        "value": "Old Russian ruler"
+                    }
+                ]
+            },
+            "answers": [
+                null,
+                "D",
+                "R",
+                "E",
+                "W",
+                null,
+                "B",
+                "R",
+                "E",
+                "X",
+                "I",
+                "T",
+                "L",
+                "Y",
+                "R",
+                "I",
+                "C",
+                "S",
+                "A",
+                "L",
+                "A",
+                "S",
+                "K",
+                "A",
+                "B",
+                "A",
+                "T",
+                "T",
+                "E",
+                "R",
+                null,
+                "W",
+                "E",
+                "S",
+                "T",
+                null
+            ],
+            "layout": [
+                0,
+                1,
+                1,
+                1,
+                1,
+                0,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                0,
+                1,
+                1,
+                1,
+                1,
+                0
+            ]
+        }
+    }
+]

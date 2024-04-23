@@ -1,0 +1,140 @@
+[
+    {
+        "puzzle_id": 21709,
+        "promo_id": null,
+        "version": 3,
+        "puzzle_meta": {
+            "formatType": "Normal",
+            "publishType": "Daily",
+            "title": "The Mini Crossword",
+            "printDate": "2024-01-28",
+            "printDotw": 0,
+            "editor": "",
+            "height": 6,
+            "width": 4,
+            "author": "Joel Fagliano"
+        },
+        "print_date": "2024-01-28",
+        "enhanced_tier_date": null,
+        "puzzle_data": {
+            "clues": {
+                "A": [
+                    {
+                        "clueStart": 1,
+                        "clueNum": 1,
+                        "clueEnd": 3,
+                        "value": "Stunt bike sport, for short"
+                    },
+                    {
+                        "clueStart": 4,
+                        "clueNum": 4,
+                        "clueEnd": 7,
+                        "value": "Title with an apostrophe directly in the middle"
+                    },
+                    {
+                        "clueStart": 8,
+                        "clueNum": 5,
+                        "clueEnd": 11,
+                        "value": "\"___ Karenina\" (Tolstoy novel)"
+                    },
+                    {
+                        "clueStart": 12,
+                        "clueNum": 6,
+                        "clueEnd": 15,
+                        "value": "Fluffy Indian bread"
+                    },
+                    {
+                        "clueStart": 16,
+                        "clueNum": 7,
+                        "clueEnd": 18,
+                        "value": "Stay right there!"
+                    },
+                    {
+                        "clueStart": 20,
+                        "clueNum": 8,
+                        "clueEnd": 22,
+                        "value": "Battery for a TV remote"
+                    }
+                ],
+                "D": [
+                    {
+                        "clueStart": 1,
+                        "clueNum": 1,
+                        "clueEnd": 21,
+                        "value": "Fruit depicted by the circled letters"
+                    },
+                    {
+                        "clueStart": 2,
+                        "clueNum": 2,
+                        "clueEnd": 22,
+                        "value": "Spanish for \"tomorrow\""
+                    },
+                    {
+                        "clueStart": 3,
+                        "clueNum": 3,
+                        "clueEnd": 15,
+                        "value": "Marvel Comics mutant"
+                    },
+                    {
+                        "clueStart": 4,
+                        "clueNum": 4,
+                        "clueEnd": 20,
+                        "value": "Craze"
+                    }
+                ]
+            },
+            "answers": [
+                null,
+                "B",
+                "M",
+                "X",
+                "M",
+                "A",
+                "A",
+                "M",
+                "A",
+                "N",
+                "N",
+                "A",
+                "N",
+                "A",
+                "A",
+                "N",
+                "I",
+                "N",
+                "N",
+                null,
+                "A",
+                "A",
+                "A",
+                null
+            ],
+            "layout": [
+                0,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                0,
+                1,
+                1,
+                1,
+                0
+            ]
+        }
+    }
+]

@@ -1,0 +1,112 @@
+[
+    {
+        "puzzle_id": 20892,
+        "promo_id": null,
+        "version": 3,
+        "puzzle_meta": {
+            "formatType": "Normal",
+            "publishType": "Daily",
+            "title": "The Mini Crossword",
+            "printDate": "2023-01-26",
+            "printDotw": 0,
+            "editor": "",
+            "height": 4,
+            "width": 4,
+            "author": "Joel Fagliano"
+        },
+        "print_date": "2023-01-26",
+        "enhanced_tier_date": null,
+        "puzzle_data": {
+            "clues": {
+                "A": [
+                    {
+                        "clueStart": 0,
+                        "clueNum": 1,
+                        "clueEnd": 3,
+                        "value": "Capital of Norway"
+                    },
+                    {
+                        "clueStart": 4,
+                        "clueNum": 5,
+                        "clueEnd": 7,
+                        "value": "Cheer (on)"
+                    },
+                    {
+                        "clueStart": 8,
+                        "clueNum": 6,
+                        "clueEnd": 11,
+                        "value": "Chimney grime"
+                    },
+                    {
+                        "clueStart": 12,
+                        "clueNum": 7,
+                        "clueEnd": 15,
+                        "value": "\"Hold ___ your hat!\""
+                    }
+                ],
+                "D": [
+                    {
+                        "clueStart": 0,
+                        "clueNum": 1,
+                        "clueEnd": 12,
+                        "value": "Approximately"
+                    },
+                    {
+                        "clueStart": 1,
+                        "clueNum": 2,
+                        "clueEnd": 13,
+                        "value": "In a moment"
+                    },
+                    {
+                        "clueStart": 2,
+                        "clueNum": 3,
+                        "clueEnd": 14,
+                        "value": "Pirate's plunder"
+                    },
+                    {
+                        "clueStart": 3,
+                        "clueNum": 4,
+                        "clueEnd": 15,
+                        "value": "\"A Man Called ___\" (Tom Hanks movie)"
+                    }
+                ]
+            },
+            "answers": [
+                "O",
+                "S",
+                "L",
+                "O",
+                "R",
+                "O",
+                "O",
+                "T",
+                "S",
+                "O",
+                "O",
+                "T",
+                "O",
+                "N",
+                "T",
+                "O"
+            ],
+            "layout": [
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1
+            ]
+        }
+    }
+]

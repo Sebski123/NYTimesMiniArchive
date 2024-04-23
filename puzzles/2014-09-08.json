@@ -1,0 +1,142 @@
+[
+    {
+        "puzzle_id": 9397,
+        "promo_id": null,
+        "version": 3,
+        "puzzle_meta": {
+            "formatType": "Normal",
+            "publishType": "Daily",
+            "title": "The Mini Crossword",
+            "printDate": "2014-09-08",
+            "printDotw": 0,
+            "editor": "",
+            "height": 5,
+            "width": 5,
+            "author": "Joel Fagliano"
+        },
+        "print_date": "2014-09-08",
+        "enhanced_tier_date": null,
+        "puzzle_data": {
+            "clues": {
+                "A": [
+                    {
+                        "clueStart": 0,
+                        "clueNum": 1,
+                        "clueEnd": 3,
+                        "value": "Slightly open, as a door"
+                    },
+                    {
+                        "clueStart": 5,
+                        "clueNum": 4,
+                        "clueEnd": 7,
+                        "value": "Go fish alternative"
+                    },
+                    {
+                        "clueStart": 10,
+                        "clueNum": 6,
+                        "clueEnd": 14,
+                        "value": "\"This is the worst!\""
+                    },
+                    {
+                        "clueStart": 17,
+                        "clueNum": 8,
+                        "clueEnd": 19,
+                        "value": "Harry Potter's pet Hedwig, e.g."
+                    },
+                    {
+                        "clueStart": 21,
+                        "clueNum": 9,
+                        "clueEnd": 24,
+                        "value": "Mice, to cats"
+                    }
+                ],
+                "D": [
+                    {
+                        "clueStart": 0,
+                        "clueNum": 1,
+                        "clueEnd": 15,
+                        "value": "Like about half of a team's games"
+                    },
+                    {
+                        "clueStart": 1,
+                        "clueNum": 2,
+                        "clueEnd": 11,
+                        "value": "Prominent crocodile feature"
+                    },
+                    {
+                        "clueStart": 2,
+                        "clueNum": 3,
+                        "clueEnd": 22,
+                        "value": "Knight's protection"
+                    },
+                    {
+                        "clueStart": 9,
+                        "clueNum": 5,
+                        "clueEnd": 24,
+                        "value": "Right turn ___"
+                    },
+                    {
+                        "clueStart": 13,
+                        "clueNum": 7,
+                        "clueEnd": 23,
+                        "value": "Wonderment"
+                    }
+                ]
+            },
+            "answers": [
+                "A",
+                "J",
+                "A",
+                "R",
+                null,
+                "W",
+                "A",
+                "R",
+                null,
+                "O",
+                "A",
+                "W",
+                "M",
+                "A",
+                "N",
+                "Y",
+                null,
+                "O",
+                "W",
+                "L",
+                null,
+                "P",
+                "R",
+                "E",
+                "Y"
+            ],
+            "layout": [
+                1,
+                1,
+                1,
+                1,
+                0,
+                1,
+                1,
+                1,
+                0,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                0,
+                1,
+                1,
+                1,
+                0,
+                1,
+                1,
+                1,
+                1
+            ]
+        }
+    }
+]

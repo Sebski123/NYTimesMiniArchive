@@ -1,0 +1,142 @@
+[
+    {
+        "puzzle_id": 9485,
+        "promo_id": null,
+        "version": 3,
+        "puzzle_meta": {
+            "formatType": "Normal",
+            "publishType": "Daily",
+            "title": "The Mini Crossword",
+            "printDate": "2014-10-17",
+            "printDotw": 0,
+            "editor": "",
+            "height": 5,
+            "width": 5,
+            "author": "Joel Fagliano"
+        },
+        "print_date": "2014-10-17",
+        "enhanced_tier_date": null,
+        "puzzle_data": {
+            "clues": {
+                "A": [
+                    {
+                        "clueStart": 0,
+                        "clueNum": 1,
+                        "clueEnd": 4,
+                        "value": "Extra energy"
+                    },
+                    {
+                        "clueStart": 6,
+                        "clueNum": 6,
+                        "clueEnd": 9,
+                        "value": "Greek goddess of marriage"
+                    },
+                    {
+                        "clueStart": 10,
+                        "clueNum": 7,
+                        "clueEnd": 14,
+                        "value": "Greek god of the dead"
+                    },
+                    {
+                        "clueStart": 15,
+                        "clueNum": 8,
+                        "clueEnd": 18,
+                        "value": "Greek god of war"
+                    },
+                    {
+                        "clueStart": 20,
+                        "clueNum": 9,
+                        "clueEnd": 24,
+                        "value": "Make fun of"
+                    }
+                ],
+                "D": [
+                    {
+                        "clueStart": 1,
+                        "clueNum": 2,
+                        "clueEnd": 21,
+                        "value": "ORD, on an airline ticket"
+                    },
+                    {
+                        "clueStart": 2,
+                        "clueNum": 3,
+                        "clueEnd": 22,
+                        "value": "Jason's wife in Greek myth"
+                    },
+                    {
+                        "clueStart": 3,
+                        "clueNum": 4,
+                        "clueEnd": 23,
+                        "value": "___ secretary (White House role)"
+                    },
+                    {
+                        "clueStart": 4,
+                        "clueNum": 5,
+                        "clueEnd": 14,
+                        "value": "\"I Can ___ Cheezburger?\" (internet meme)"
+                    },
+                    {
+                        "clueStart": 10,
+                        "clueNum": 7,
+                        "clueEnd": 20,
+                        "value": "Monopoly token choice"
+                    }
+                ]
+            },
+            "answers": [
+                "O",
+                "O",
+                "M",
+                "P",
+                "H",
+                null,
+                "H",
+                "E",
+                "R",
+                "A",
+                "H",
+                "A",
+                "D",
+                "E",
+                "S",
+                "A",
+                "R",
+                "E",
+                "S",
+                null,
+                "T",
+                "E",
+                "A",
+                "S",
+                "E"
+            ],
+            "layout": [
+                1,
+                1,
+                1,
+                1,
+                1,
+                0,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                0,
+                1,
+                1,
+                1,
+                1,
+                1
+            ]
+        }
+    }
+]

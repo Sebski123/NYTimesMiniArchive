@@ -1,0 +1,142 @@
+[
+    {
+        "puzzle_id": 9545,
+        "promo_id": null,
+        "version": 3,
+        "puzzle_meta": {
+            "formatType": "Normal",
+            "publishType": "Daily",
+            "title": "The Mini Crossword",
+            "printDate": "2014-11-06",
+            "printDotw": 0,
+            "editor": "",
+            "height": 5,
+            "width": 5,
+            "author": "Joel Fagliano"
+        },
+        "print_date": "2014-11-06",
+        "enhanced_tier_date": null,
+        "puzzle_data": {
+            "clues": {
+                "A": [
+                    {
+                        "clueStart": 2,
+                        "clueNum": 2,
+                        "clueEnd": 4,
+                        "value": "\"Yo te ___\" (Spanish \"I love you\")"
+                    },
+                    {
+                        "clueStart": 5,
+                        "clueNum": 5,
+                        "clueEnd": 9,
+                        "value": "North America's only black billionaire"
+                    },
+                    {
+                        "clueStart": 10,
+                        "clueNum": 7,
+                        "clueEnd": 14,
+                        "value": "Smoothie ingredient"
+                    },
+                    {
+                        "clueStart": 15,
+                        "clueNum": 8,
+                        "clueEnd": 19,
+                        "value": "Penniless"
+                    },
+                    {
+                        "clueStart": 20,
+                        "clueNum": 9,
+                        "clueEnd": 22,
+                        "value": "Wand-making material in \"Harry Potter\""
+                    }
+                ],
+                "D": [
+                    {
+                        "clueStart": 0,
+                        "clueNum": 1,
+                        "clueEnd": 20,
+                        "value": "Destination of many a down elevator"
+                    },
+                    {
+                        "clueStart": 2,
+                        "clueNum": 2,
+                        "clueEnd": 22,
+                        "value": "Certain computer key"
+                    },
+                    {
+                        "clueStart": 3,
+                        "clueNum": 3,
+                        "clueEnd": 18,
+                        "value": "Grade, as papers"
+                    },
+                    {
+                        "clueStart": 4,
+                        "clueNum": 4,
+                        "clueEnd": 24,
+                        "value": "\"But of course!\""
+                    },
+                    {
+                        "clueStart": 6,
+                        "clueNum": 6,
+                        "clueEnd": 21,
+                        "value": "Euro pop?"
+                    }
+                ]
+            },
+            "answers": [
+                "L",
+                null,
+                "A",
+                "M",
+                "O",
+                "O",
+                "P",
+                "R",
+                "A",
+                "H",
+                "B",
+                "E",
+                "R",
+                "R",
+                "Y",
+                "B",
+                "R",
+                "O",
+                "K",
+                "E",
+                "Y",
+                "E",
+                "W",
+                null,
+                "S"
+            ],
+            "layout": [
+                1,
+                0,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                0,
+                1
+            ]
+        }
+    }
+]
