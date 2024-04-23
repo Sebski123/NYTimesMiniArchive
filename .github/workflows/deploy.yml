@@ -25,11 +25,20 @@ jobs:
     - name: Build
       run: npm run build  # Your build command
       
-    - name: List output directory
-      run: ls -lR  # Debugging step to list all files and directories
+    - name: Print working dir
+      run: pwd 
+
+    - name: Print files
+      run: ls -l  # Debugging step to list all files and directories
+
+    - name: Print files in dist
+      run: ls -l dist  # Debugging step to list all files and directories
+
+    - name: Print files in ./dist
+      run: ls -l ./dist  # Debugging step to list all files and directories
 
     - name: Deploy to GitHub Pages
       uses: peaceiris/actions-gh-pages@v4
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
-        publish_dir: ../dist  # Specify your build directory
+        publish_dir: ./dist  # Specify your build directory
