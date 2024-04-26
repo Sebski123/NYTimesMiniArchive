@@ -1,21 +1,30 @@
 import json
 import os
+import logging
 from datetime import datetime
 
 from tools.ConvertPuzzles import convert_puzzle
 from tools.GetData import fetch_puzzle
 
 
-def fetch_convert_and_commit(date: datetime):
-    original_filename = fetch_puzzle(date)
-    puzzle_name = original_filename.split("/")[-1]
+logger = logging.getLogger(__name__)
+logging.basicConfig(filename='FetchAndCommit.log', level=logging.DEBUG, format='%(asctime)s %(message)s', datefmt='%m/%d/%Y %I:%M:%S %p')
 
+
+def fetch_convert_and_commit(date: datetime):
+    logger.info("Fetching puzzle")
+    original_filename = fetch_puzzle(date)
+    logger.info("Extracting name")
+    puzzle_name = original_filename.split("/")[-1]
+    logger.info("Converting puzzle")
     # Convert the puzzle
     converted_puzzle = convert_puzzle(original_filename)
+    logger.info("Constructing filepath")
     converted_filename = f"crossword_data/Converted/{puzzle_name}"
+    logger.info("Saving converted puzzle")
     with open(converted_filename, 'w') as f:
         json.dump(converted_puzzle, f, indent=4)
-
+    logger.info("Commit and push changes")
     # Commit and push the changes
     os.system(f"git add {original_filename}")
     os.system(f"git add {converted_filename}")
@@ -28,4 +37,6 @@ if __name__ == "__main__":
 
     # Fetch the puzzle
     date_today = datetime.now()
+    logger.info("Starting script")
     fetch_convert_and_commit(date_today)
+    logger.info("Finished script")
