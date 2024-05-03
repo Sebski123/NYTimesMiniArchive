@@ -1,0 +1,130 @@
+[
+    {
+        "puzzle_id": 21938,
+        "promo_id": null,
+        "version": 3,
+        "puzzle_meta": {
+            "formatType": "Normal",
+            "publishType": "Daily",
+            "title": "The Mini Crossword",
+            "printDate": "2024-05-03",
+            "printDotw": 0,
+            "editor": "Sam Ezersky",
+            "height": 5,
+            "width": 5,
+            "author": "Joel Fagliano"
+        },
+        "print_date": "2024-05-03",
+        "enhanced_tier_date": null,
+        "puzzle_data": {
+            "clues": {
+                "A": [
+                    {
+                        "clueStart": 1,
+                        "clueNum": 1,
+                        "clueEnd": 3,
+                        "value": "Baseball level just below the majors"
+                    },
+                    {
+                        "clueStart": 6,
+                        "clueNum": 4,
+                        "clueEnd": 8,
+                        "value": "Letters written on a bottle of poison, in the cartoons"
+                    },
+                    {
+                        "clueStart": 11,
+                        "clueNum": 5,
+                        "clueEnd": 13,
+                        "value": "Three, on a grandfather clock"
+                    },
+                    {
+                        "clueStart": 16,
+                        "clueNum": 6,
+                        "clueEnd": 18,
+                        "value": "Tic-tac-toe winner"
+                    },
+                    {
+                        "clueStart": 21,
+                        "clueNum": 7,
+                        "clueEnd": 23,
+                        "value": "\"Delicious!\""
+                    }
+                ],
+                "D": [
+                    {
+                        "clueStart": 1,
+                        "clueNum": 1,
+                        "clueEnd": 21,
+                        "value": "\"What goes up must come down,\" e.g."
+                    },
+                    {
+                        "clueStart": 2,
+                        "clueNum": 2,
+                        "clueEnd": 22,
+                        "value": "x + y = y + x, e.g."
+                    },
+                    {
+                        "clueStart": 3,
+                        "clueNum": 3,
+                        "clueEnd": 23,
+                        "value": "This is a given"
+                    }
+                ]
+            },
+            "answers": [
+                null,
+                "A",
+                "A",
+                "A",
+                null,
+                null,
+                "X",
+                "X",
+                "X",
+                null,
+                null,
+                "I",
+                "I",
+                "I",
+                null,
+                null,
+                "O",
+                "O",
+                "O",
+                null,
+                null,
+                "M",
+                "M",
+                "M",
+                null
+            ],
+            "layout": [
+                0,
+                1,
+                1,
+                1,
+                0,
+                0,
+                1,
+                1,
+                1,
+                0,
+                0,
+                1,
+                1,
+                1,
+                0,
+                0,
+                1,
+                1,
+                1,
+                0,
+                0,
+                1,
+                1,
+                1,
+                0
+            ]
+        }
+    }
+]
