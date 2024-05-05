@@ -1,0 +1,142 @@
+[
+    {
+        "puzzle_id": 21935,
+        "promo_id": null,
+        "version": 3,
+        "puzzle_meta": {
+            "formatType": "Normal",
+            "publishType": "Daily",
+            "title": "The Mini Crossword",
+            "printDate": "2024-05-05",
+            "printDotw": 0,
+            "editor": "Sam Ezersky",
+            "height": 5,
+            "width": 5,
+            "author": "Joel Fagliano"
+        },
+        "print_date": "2024-05-05",
+        "enhanced_tier_date": null,
+        "puzzle_data": {
+            "clues": {
+                "A": [
+                    {
+                        "clueStart": 2,
+                        "clueNum": 1,
+                        "clueEnd": 4,
+                        "value": "Command to a dog"
+                    },
+                    {
+                        "clueStart": 6,
+                        "clueNum": 4,
+                        "clueEnd": 9,
+                        "value": "Joke that sparks other jokes"
+                    },
+                    {
+                        "clueStart": 10,
+                        "clueNum": 5,
+                        "clueEnd": 14,
+                        "value": "___ Square, title for this puzzle given the only five letters it uses"
+                    },
+                    {
+                        "clueStart": 15,
+                        "clueNum": 6,
+                        "clueEnd": 18,
+                        "value": "Starting words from the tagger in a game of tag"
+                    },
+                    {
+                        "clueStart": 20,
+                        "clueNum": 7,
+                        "clueEnd": 22,
+                        "value": "Prefix with behave or begotten"
+                    }
+                ],
+                "D": [
+                    {
+                        "clueStart": 2,
+                        "clueNum": 1,
+                        "clueEnd": 22,
+                        "value": "Penultimate tourney round"
+                    },
+                    {
+                        "clueStart": 3,
+                        "clueNum": 2,
+                        "clueEnd": 18,
+                        "value": "\"How ___ Your Mother\""
+                    },
+                    {
+                        "clueStart": 4,
+                        "clueNum": 3,
+                        "clueEnd": 14,
+                        "value": "Football players like Travis Kelce and Rob Gronkowski: Abbr."
+                    },
+                    {
+                        "clueStart": 6,
+                        "clueNum": 4,
+                        "clueEnd": 21,
+                        "value": "\"The Emancipation of ___\" (Mariah Carey album)"
+                    },
+                    {
+                        "clueStart": 10,
+                        "clueNum": 5,
+                        "clueEnd": 20,
+                        "value": "Cook who heads Apple"
+                    }
+                ]
+            },
+            "answers": [
+                null,
+                null,
+                "S",
+                "I",
+                "T",
+                null,
+                "M",
+                "E",
+                "M",
+                "E",
+                "T",
+                "I",
+                "M",
+                "E",
+                "S",
+                "I",
+                "M",
+                "I",
+                "T",
+                null,
+                "M",
+                "I",
+                "S",
+                null,
+                null
+            ],
+            "layout": [
+                0,
+                0,
+                1,
+                1,
+                1,
+                0,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                0,
+                1,
+                1,
+                1,
+                0,
+                0
+            ]
+        }
+    }
+]
