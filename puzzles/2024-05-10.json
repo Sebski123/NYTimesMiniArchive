@@ -1,0 +1,142 @@
+[
+    {
+        "puzzle_id": 21942,
+        "promo_id": null,
+        "version": 3,
+        "puzzle_meta": {
+            "formatType": "Normal",
+            "publishType": "Daily",
+            "title": "The Mini Crossword",
+            "printDate": "2024-05-10",
+            "printDotw": 0,
+            "editor": "Sam Ezersky",
+            "height": 5,
+            "width": 5,
+            "author": "Christina Iverson"
+        },
+        "print_date": "2024-05-10",
+        "enhanced_tier_date": null,
+        "puzzle_data": {
+            "clues": {
+                "A": [
+                    {
+                        "clueStart": 2,
+                        "clueNum": 1,
+                        "clueEnd": 4,
+                        "value": "What \"10\" is, for the airplane seat 10A"
+                    },
+                    {
+                        "clueStart": 6,
+                        "clueNum": 4,
+                        "clueEnd": 9,
+                        "value": "Another helping"
+                    },
+                    {
+                        "clueStart": 10,
+                        "clueNum": 5,
+                        "clueEnd": 14,
+                        "value": "Name that means \"lioness\""
+                    },
+                    {
+                        "clueStart": 15,
+                        "clueNum": 6,
+                        "clueEnd": 19,
+                        "value": "Knight's \"suit\""
+                    },
+                    {
+                        "clueStart": 20,
+                        "clueNum": 7,
+                        "clueEnd": 24,
+                        "value": "Impatient and ill-tempered"
+                    }
+                ],
+                "D": [
+                    {
+                        "clueStart": 2,
+                        "clueNum": 1,
+                        "clueEnd": 22,
+                        "value": "Study, lounge, library, hall, kitchen, conservatory, etc."
+                    },
+                    {
+                        "clueStart": 3,
+                        "clueNum": 2,
+                        "clueEnd": 23,
+                        "value": "\"Ready ___, here I come!\""
+                    },
+                    {
+                        "clueStart": 4,
+                        "clueNum": 3,
+                        "clueEnd": 24,
+                        "value": "Very tired"
+                    },
+                    {
+                        "clueStart": 6,
+                        "clueNum": 4,
+                        "clueEnd": 21,
+                        "value": "___ mortals"
+                    },
+                    {
+                        "clueStart": 10,
+                        "clueNum": 5,
+                        "clueEnd": 20,
+                        "value": "Back muscle, for short"
+                    }
+                ]
+            },
+            "answers": [
+                null,
+                null,
+                "R",
+                "O",
+                "W",
+                null,
+                "M",
+                "O",
+                "R",
+                "E",
+                "L",
+                "E",
+                "O",
+                "N",
+                "A",
+                "A",
+                "R",
+                "M",
+                "O",
+                "R",
+                "T",
+                "E",
+                "S",
+                "T",
+                "Y"
+            ],
+            "layout": [
+                0,
+                0,
+                1,
+                1,
+                1,
+                0,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1
+            ]
+        }
+    }
+]
