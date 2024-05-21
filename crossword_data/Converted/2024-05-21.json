@@ -1,0 +1,142 @@
+[
+    {
+        "puzzle_id": 21994,
+        "promo_id": null,
+        "version": 3,
+        "puzzle_meta": {
+            "formatType": "Normal",
+            "publishType": "Daily",
+            "title": "The Mini Crossword",
+            "printDate": "2024-05-21",
+            "printDotw": 0,
+            "editor": "Sam Ezersky",
+            "height": 5,
+            "width": 5,
+            "author": "Tracy Bennett"
+        },
+        "print_date": "2024-05-21",
+        "enhanced_tier_date": null,
+        "puzzle_data": {
+            "clues": {
+                "A": [
+                    {
+                        "clueStart": 2,
+                        "clueNum": 1,
+                        "clueEnd": 4,
+                        "value": "Dessert that might have a lattice"
+                    },
+                    {
+                        "clueStart": 6,
+                        "clueNum": 4,
+                        "clueEnd": 9,
+                        "value": "Detective's assignment"
+                    },
+                    {
+                        "clueStart": 10,
+                        "clueNum": 5,
+                        "clueEnd": 14,
+                        "value": "With [the circled letters], Maya Angelou poem that begins \"You may write me down in history / With your bitter, twisted lies\""
+                    },
+                    {
+                        "clueStart": 15,
+                        "clueNum": 6,
+                        "clueEnd": 18,
+                        "value": "Strong inclination"
+                    },
+                    {
+                        "clueStart": 20,
+                        "clueNum": 7,
+                        "clueEnd": 22,
+                        "value": "Suffix with percent or project"
+                    }
+                ],
+                "D": [
+                    {
+                        "clueStart": 2,
+                        "clueNum": 1,
+                        "clueEnd": 22,
+                        "value": "Good name for an avid reader?"
+                    },
+                    {
+                        "clueStart": 3,
+                        "clueNum": 2,
+                        "clueEnd": 18,
+                        "value": "Tropical getaway locale"
+                    },
+                    {
+                        "clueStart": 4,
+                        "clueNum": 3,
+                        "clueEnd": 14,
+                        "value": "Snakelike fish"
+                    },
+                    {
+                        "clueStart": 6,
+                        "clueNum": 4,
+                        "clueEnd": 21,
+                        "value": "PC shortcut key"
+                    },
+                    {
+                        "clueStart": 10,
+                        "clueNum": 5,
+                        "clueEnd": 20,
+                        "value": "___ generis (unique)"
+                    }
+                ]
+            },
+            "answers": [
+                null,
+                null,
+                "P",
+                "I",
+                "E",
+                null,
+                "C",
+                "A",
+                "S",
+                "E",
+                "S",
+                "T",
+                "I",
+                "L",
+                "L",
+                "U",
+                "R",
+                "G",
+                "E",
+                null,
+                "I",
+                "L",
+                "E",
+                null,
+                null
+            ],
+            "layout": [
+                0,
+                0,
+                1,
+                1,
+                1,
+                0,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                0,
+                1,
+                1,
+                1,
+                0,
+                0
+            ]
+        }
+    }
+]
