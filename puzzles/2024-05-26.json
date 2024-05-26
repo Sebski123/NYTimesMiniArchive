@@ -1,0 +1,142 @@
+[
+    {
+        "puzzle_id": 21987,
+        "promo_id": null,
+        "version": 3,
+        "puzzle_meta": {
+            "formatType": "Normal",
+            "publishType": "Daily",
+            "title": "The Mini Crossword",
+            "printDate": "2024-05-26",
+            "printDotw": 0,
+            "editor": "Sam Ezersky",
+            "height": 5,
+            "width": 5,
+            "author": "Tracy Bennett"
+        },
+        "print_date": "2024-05-26",
+        "enhanced_tier_date": null,
+        "puzzle_data": {
+            "clues": {
+                "A": [
+                    {
+                        "clueStart": 0,
+                        "clueNum": 1,
+                        "clueEnd": 3,
+                        "value": "\"Parsley, ___, rosemary and thyme\""
+                    },
+                    {
+                        "clueStart": 5,
+                        "clueNum": 5,
+                        "clueEnd": 9,
+                        "value": "Garden growth"
+                    },
+                    {
+                        "clueStart": 10,
+                        "clueNum": 7,
+                        "clueEnd": 14,
+                        "value": "Synonym of \"evade\" and \"avoid\""
+                    },
+                    {
+                        "clueStart": 15,
+                        "clueNum": 8,
+                        "clueEnd": 19,
+                        "value": "Shrivel up with age"
+                    },
+                    {
+                        "clueStart": 20,
+                        "clueNum": 9,
+                        "clueEnd": 24,
+                        "value": "Germs spread by a gardener?"
+                    }
+                ],
+                "D": [
+                    {
+                        "clueStart": 0,
+                        "clueNum": 1,
+                        "clueEnd": 20,
+                        "value": "Shoots out, as lava"
+                    },
+                    {
+                        "clueStart": 1,
+                        "clueNum": 2,
+                        "clueEnd": 21,
+                        "value": "Nickname for Alexandra"
+                    },
+                    {
+                        "clueStart": 2,
+                        "clueNum": 3,
+                        "clueEnd": 22,
+                        "value": "Bandage material"
+                    },
+                    {
+                        "clueStart": 3,
+                        "clueNum": 4,
+                        "clueEnd": 23,
+                        "value": "Brought to a close"
+                    },
+                    {
+                        "clueStart": 9,
+                        "clueNum": 6,
+                        "clueEnd": 24,
+                        "value": "Big bills for a vending machine"
+                    }
+                ]
+            },
+            "answers": [
+                "S",
+                "A",
+                "G",
+                "E",
+                null,
+                "P",
+                "L",
+                "A",
+                "N",
+                "T",
+                "E",
+                "L",
+                "U",
+                "D",
+                "E",
+                "W",
+                "I",
+                "Z",
+                "E",
+                "N",
+                "S",
+                "E",
+                "E",
+                "D",
+                "S"
+            ],
+            "layout": [
+                1,
+                1,
+                1,
+                1,
+                0,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1
+            ]
+        }
+    }
+]
