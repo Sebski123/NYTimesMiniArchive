@@ -1,0 +1,142 @@
+[
+    {
+        "puzzle_id": 21989,
+        "promo_id": null,
+        "version": 3,
+        "puzzle_meta": {
+            "formatType": "Normal",
+            "publishType": "Daily",
+            "title": "The Mini Crossword",
+            "printDate": "2024-05-27",
+            "printDotw": 0,
+            "editor": "Sam Ezersky",
+            "height": 5,
+            "width": 5,
+            "author": "Joel Fagliano"
+        },
+        "print_date": "2024-05-27",
+        "enhanced_tier_date": null,
+        "puzzle_data": {
+            "clues": {
+                "A": [
+                    {
+                        "clueStart": 0,
+                        "clueNum": 1,
+                        "clueEnd": 3,
+                        "value": "Talk a big game"
+                    },
+                    {
+                        "clueStart": 5,
+                        "clueNum": 5,
+                        "clueEnd": 9,
+                        "value": "What glasses do as a result of condensation "
+                    },
+                    {
+                        "clueStart": 10,
+                        "clueNum": 7,
+                        "clueEnd": 14,
+                        "value": "Museum photography no-no"
+                    },
+                    {
+                        "clueStart": 16,
+                        "clueNum": 8,
+                        "clueEnd": 19,
+                        "value": "Miller ___ (beer)"
+                    },
+                    {
+                        "clueStart": 21,
+                        "clueNum": 9,
+                        "clueEnd": 24,
+                        "value": "Mount Rainier once received a record 93+ feet of it in a single year"
+                    }
+                ],
+                "D": [
+                    {
+                        "clueStart": 0,
+                        "clueNum": 1,
+                        "clueEnd": 10,
+                        "value": "Inseparable pal, for short"
+                    },
+                    {
+                        "clueStart": 1,
+                        "clueNum": 2,
+                        "clueEnd": 21,
+                        "value": "Starts of Catan turns"
+                    },
+                    {
+                        "clueStart": 2,
+                        "clueNum": 3,
+                        "clueEnd": 22,
+                        "value": "Not for the first time"
+                    },
+                    {
+                        "clueStart": 3,
+                        "clueNum": 4,
+                        "clueEnd": 23,
+                        "value": "Oomph"
+                    },
+                    {
+                        "clueStart": 9,
+                        "clueNum": 6,
+                        "clueEnd": 24,
+                        "value": "\"Thank god that didn't happen!\""
+                    }
+                ]
+            },
+            "answers": [
+                "B",
+                "R",
+                "A",
+                "G",
+                null,
+                "F",
+                "O",
+                "G",
+                "U",
+                "P",
+                "F",
+                "L",
+                "A",
+                "S",
+                "H",
+                null,
+                "L",
+                "I",
+                "T",
+                "E",
+                null,
+                "S",
+                "N",
+                "O",
+                "W"
+            ],
+            "layout": [
+                1,
+                1,
+                1,
+                1,
+                0,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                0,
+                1,
+                1,
+                1,
+                1,
+                0,
+                1,
+                1,
+                1,
+                1
+            ]
+        }
+    }
+]
