@@ -1,0 +1,142 @@
+[
+    {
+        "puzzle_id": 22010,
+        "promo_id": null,
+        "version": 3,
+        "puzzle_meta": {
+            "formatType": "Normal",
+            "publishType": "Daily",
+            "title": "The Mini Crossword",
+            "printDate": "2024-06-02",
+            "printDotw": 0,
+            "editor": "Sam Ezersky",
+            "height": 5,
+            "width": 5,
+            "author": "Joel Fagliano"
+        },
+        "print_date": "2024-06-02",
+        "enhanced_tier_date": null,
+        "puzzle_data": {
+            "clues": {
+                "A": [
+                    {
+                        "clueStart": 1,
+                        "clueNum": 1,
+                        "clueEnd": 4,
+                        "value": "Fixture in a skate park"
+                    },
+                    {
+                        "clueStart": 5,
+                        "clueNum": 5,
+                        "clueEnd": 9,
+                        "value": "Evergreen tree with aromatic wood"
+                    },
+                    {
+                        "clueStart": 10,
+                        "clueNum": 6,
+                        "clueEnd": 14,
+                        "value": "Inadvisable way to tackle an entire large pizza"
+                    },
+                    {
+                        "clueStart": 15,
+                        "clueNum": 7,
+                        "clueEnd": 19,
+                        "value": "Host of the 2024 Summer Olympics"
+                    },
+                    {
+                        "clueStart": 20,
+                        "clueNum": 8,
+                        "clueEnd": 23,
+                        "value": "Corporate boss, for short"
+                    }
+                ],
+                "D": [
+                    {
+                        "clueStart": 1,
+                        "clueNum": 1,
+                        "clueEnd": 21,
+                        "value": "\"Chill!\""
+                    },
+                    {
+                        "clueStart": 2,
+                        "clueNum": 2,
+                        "clueEnd": 22,
+                        "value": "Absolutely love"
+                    },
+                    {
+                        "clueStart": 3,
+                        "clueNum": 3,
+                        "clueEnd": 23,
+                        "value": "___ pixie dream girl (movie trope)"
+                    },
+                    {
+                        "clueStart": 4,
+                        "clueNum": 4,
+                        "clueEnd": 19,
+                        "value": "White House title: Abbr."
+                    },
+                    {
+                        "clueStart": 5,
+                        "clueNum": 5,
+                        "clueEnd": 20,
+                        "value": "Superhero garment"
+                    }
+                ]
+            },
+            "answers": [
+                null,
+                "R",
+                "A",
+                "M",
+                "P",
+                "C",
+                "E",
+                "D",
+                "A",
+                "R",
+                "A",
+                "L",
+                "O",
+                "N",
+                "E",
+                "P",
+                "A",
+                "R",
+                "I",
+                "S",
+                "E",
+                "X",
+                "E",
+                "C",
+                null
+            ],
+            "layout": [
+                0,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                0
+            ]
+        }
+    }
+]
