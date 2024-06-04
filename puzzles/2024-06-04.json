@@ -1,0 +1,142 @@
+[
+    {
+        "puzzle_id": 22024,
+        "promo_id": null,
+        "version": 3,
+        "puzzle_meta": {
+            "formatType": "Normal",
+            "publishType": "Daily",
+            "title": "The Mini Crossword",
+            "printDate": "2024-06-04",
+            "printDotw": 0,
+            "editor": "Sam Ezersky",
+            "height": 5,
+            "width": 5,
+            "author": "Christina Iverson"
+        },
+        "print_date": "2024-06-04",
+        "enhanced_tier_date": null,
+        "puzzle_data": {
+            "clues": {
+                "A": [
+                    {
+                        "clueStart": 1,
+                        "clueNum": 1,
+                        "clueEnd": 4,
+                        "value": "\"You said it!\""
+                    },
+                    {
+                        "clueStart": 6,
+                        "clueNum": 5,
+                        "clueEnd": 9,
+                        "value": "Nathan who said \"The reason I was in most of the movies I've done is that they paid for me to be in the theater\""
+                    },
+                    {
+                        "clueStart": 10,
+                        "clueNum": 6,
+                        "clueEnd": 14,
+                        "value": "Wards (off)"
+                    },
+                    {
+                        "clueStart": 15,
+                        "clueNum": 7,
+                        "clueEnd": 19,
+                        "value": "Be in the world"
+                    },
+                    {
+                        "clueStart": 20,
+                        "clueNum": 8,
+                        "clueEnd": 22,
+                        "value": "Ewe said it!"
+                    }
+                ],
+                "D": [
+                    {
+                        "clueStart": 1,
+                        "clueNum": 1,
+                        "clueEnd": 21,
+                        "value": "Amazon's version of Siri"
+                    },
+                    {
+                        "clueStart": 2,
+                        "clueNum": 2,
+                        "clueEnd": 22,
+                        "value": "Suffix with Beatle or Wrestle"
+                    },
+                    {
+                        "clueStart": 3,
+                        "clueNum": 3,
+                        "clueEnd": 18,
+                        "value": "Make ___ meet"
+                    },
+                    {
+                        "clueStart": 4,
+                        "clueNum": 4,
+                        "clueEnd": 19,
+                        "value": "Robin's residence"
+                    },
+                    {
+                        "clueStart": 10,
+                        "clueNum": 6,
+                        "clueEnd": 20,
+                        "value": "Black History Month: Abbr."
+                    }
+                ]
+            },
+            "answers": [
+                null,
+                "A",
+                "M",
+                "E",
+                "N",
+                null,
+                "L",
+                "A",
+                "N",
+                "E",
+                "F",
+                "E",
+                "N",
+                "D",
+                "S",
+                "E",
+                "X",
+                "I",
+                "S",
+                "T",
+                "B",
+                "A",
+                "A",
+                null,
+                null
+            ],
+            "layout": [
+                0,
+                1,
+                1,
+                1,
+                1,
+                0,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                0,
+                0
+            ]
+        }
+    }
+]
