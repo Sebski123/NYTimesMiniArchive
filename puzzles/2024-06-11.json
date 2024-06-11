@@ -1,0 +1,142 @@
+[
+    {
+        "puzzle_id": 22040,
+        "promo_id": null,
+        "version": 3,
+        "puzzle_meta": {
+            "formatType": "Normal",
+            "publishType": "Daily",
+            "title": "The Mini Crossword",
+            "printDate": "2024-06-11",
+            "printDotw": 0,
+            "editor": "Sam Ezersky",
+            "height": 5,
+            "width": 5,
+            "author": "Wyna Liu"
+        },
+        "print_date": "2024-06-11",
+        "enhanced_tier_date": null,
+        "puzzle_data": {
+            "clues": {
+                "A": [
+                    {
+                        "clueStart": 1,
+                        "clueNum": 1,
+                        "clueEnd": 3,
+                        "value": "In need of some cheering up"
+                    },
+                    {
+                        "clueStart": 5,
+                        "clueNum": 4,
+                        "clueEnd": 9,
+                        "value": "City that holds an annual \"Grand Prix de la baguette\" contest"
+                    },
+                    {
+                        "clueStart": 10,
+                        "clueNum": 6,
+                        "clueEnd": 14,
+                        "value": "Battery life, colloquially"
+                    },
+                    {
+                        "clueStart": 15,
+                        "clueNum": 7,
+                        "clueEnd": 19,
+                        "value": "Take the wheel"
+                    },
+                    {
+                        "clueStart": 21,
+                        "clueNum": 8,
+                        "clueEnd": 23,
+                        "value": "Twice-curved letter"
+                    }
+                ],
+                "D": [
+                    {
+                        "clueStart": 1,
+                        "clueNum": 1,
+                        "clueEnd": 21,
+                        "value": "Pan-fry"
+                    },
+                    {
+                        "clueStart": 2,
+                        "clueNum": 2,
+                        "clueEnd": 22,
+                        "value": "Ram in the zodiac"
+                    },
+                    {
+                        "clueStart": 3,
+                        "clueNum": 3,
+                        "clueEnd": 23,
+                        "value": "Cuts into small cubes"
+                    },
+                    {
+                        "clueStart": 5,
+                        "clueNum": 4,
+                        "clueEnd": 15,
+                        "value": "Attire you might wear while working from home, for short"
+                    },
+                    {
+                        "clueStart": 9,
+                        "clueNum": 5,
+                        "clueEnd": 19,
+                        "value": "Spanish verb meaning \"to be\""
+                    }
+                ]
+            },
+            "answers": [
+                null,
+                "S",
+                "A",
+                "D",
+                null,
+                "P",
+                "A",
+                "R",
+                "I",
+                "S",
+                "J",
+                "U",
+                "I",
+                "C",
+                "E",
+                "S",
+                "T",
+                "E",
+                "E",
+                "R",
+                null,
+                "E",
+                "S",
+                "S",
+                null
+            ],
+            "layout": [
+                0,
+                1,
+                1,
+                1,
+                0,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                0,
+                1,
+                1,
+                1,
+                0
+            ]
+        }
+    }
+]
