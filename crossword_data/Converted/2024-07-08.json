@@ -1,0 +1,142 @@
+[
+    {
+        "puzzle_id": 22099,
+        "promo_id": null,
+        "version": 3,
+        "puzzle_meta": {
+            "formatType": "Normal",
+            "publishType": "Daily",
+            "title": "The Mini Crossword",
+            "printDate": "2024-07-08",
+            "printDotw": 0,
+            "editor": "Sam Ezersky",
+            "height": 5,
+            "width": 5,
+            "author": "Wyna Liu"
+        },
+        "print_date": "2024-07-08",
+        "enhanced_tier_date": null,
+        "puzzle_data": {
+            "clues": {
+                "A": [
+                    {
+                        "clueStart": 1,
+                        "clueNum": 1,
+                        "clueEnd": 4,
+                        "value": "To whom Freddie Mercury sings \"Didn't mean to make you cry \u2026,\" in \"Bohemian Rhapsody\""
+                    },
+                    {
+                        "clueStart": 5,
+                        "clueNum": 5,
+                        "clueEnd": 9,
+                        "value": "Place for a blowout"
+                    },
+                    {
+                        "clueStart": 10,
+                        "clueNum": 6,
+                        "clueEnd": 14,
+                        "value": "Formal decree"
+                    },
+                    {
+                        "clueStart": 15,
+                        "clueNum": 7,
+                        "clueEnd": 19,
+                        "value": "Chip topped with queso and jalape\u00f1os"
+                    },
+                    {
+                        "clueStart": 21,
+                        "clueNum": 8,
+                        "clueEnd": 24,
+                        "value": "Nasty"
+                    }
+                ],
+                "D": [
+                    {
+                        "clueStart": 1,
+                        "clueNum": 1,
+                        "clueEnd": 21,
+                        "value": "\"Dear sir or ___ \u2026\""
+                    },
+                    {
+                        "clueStart": 2,
+                        "clueNum": 2,
+                        "clueEnd": 22,
+                        "value": "Pulitzer-winning novelist Walker"
+                    },
+                    {
+                        "clueStart": 3,
+                        "clueNum": 3,
+                        "clueEnd": 23,
+                        "value": "Chocolaty coffee drink"
+                    },
+                    {
+                        "clueStart": 4,
+                        "clueNum": 4,
+                        "clueEnd": 24,
+                        "value": "Playwright Chekhov"
+                    },
+                    {
+                        "clueStart": 5,
+                        "clueNum": 5,
+                        "clueEnd": 15,
+                        "value": "One of 100 in Congress: Abbr."
+                    }
+                ]
+            },
+            "answers": [
+                null,
+                "M",
+                "A",
+                "M",
+                "A",
+                "S",
+                "A",
+                "L",
+                "O",
+                "N",
+                "E",
+                "D",
+                "I",
+                "C",
+                "T",
+                "N",
+                "A",
+                "C",
+                "H",
+                "O",
+                null,
+                "M",
+                "E",
+                "A",
+                "N"
+            ],
+            "layout": [
+                0,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                0,
+                1,
+                1,
+                1,
+                1
+            ]
+        }
+    }
+]
