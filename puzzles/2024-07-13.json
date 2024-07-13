@@ -1,0 +1,226 @@
+[
+    {
+        "puzzle_id": 22100,
+        "promo_id": null,
+        "version": 3,
+        "puzzle_meta": {
+            "formatType": "Normal",
+            "publishType": "Daily",
+            "title": "The Mini Crossword",
+            "printDate": "2024-07-13",
+            "printDotw": 0,
+            "editor": "Sam Ezersky",
+            "height": 7,
+            "width": 7,
+            "author": "Wyna Liu"
+        },
+        "print_date": "2024-07-13",
+        "enhanced_tier_date": null,
+        "puzzle_data": {
+            "clues": {
+                "A": [
+                    {
+                        "clueStart": 2,
+                        "clueNum": 1,
+                        "clueEnd": 4,
+                        "value": "\"Goodfellas\" group"
+                    },
+                    {
+                        "clueStart": 8,
+                        "clueNum": 4,
+                        "clueEnd": 12,
+                        "value": "Actress Julia ___-Dreyfus"
+                    },
+                    {
+                        "clueStart": 14,
+                        "clueNum": 6,
+                        "clueEnd": 20,
+                        "value": "Club soda lookalike"
+                    },
+                    {
+                        "clueStart": 21,
+                        "clueNum": 8,
+                        "clueEnd": 23,
+                        "value": "Apple consumer"
+                    },
+                    {
+                        "clueStart": 25,
+                        "clueNum": 9,
+                        "clueEnd": 27,
+                        "value": "Versatile blackjack card"
+                    },
+                    {
+                        "clueStart": 28,
+                        "clueNum": 10,
+                        "clueEnd": 34,
+                        "value": "File-sharing option from an Apple device"
+                    },
+                    {
+                        "clueStart": 35,
+                        "clueNum": 12,
+                        "clueEnd": 41,
+                        "value": "Hot beverage dispensers at a breakfast buffet"
+                    },
+                    {
+                        "clueStart": 43,
+                        "clueNum": 13,
+                        "clueEnd": 47,
+                        "value": "Endured"
+                    }
+                ],
+                "D": [
+                    {
+                        "clueStart": 2,
+                        "clueNum": 1,
+                        "clueEnd": 44,
+                        "value": "\"Naked\" rodent"
+                    },
+                    {
+                        "clueStart": 3,
+                        "clueNum": 2,
+                        "clueEnd": 17,
+                        "value": "The first \"O\" in a worker's \"O.O.O.\" message"
+                    },
+                    {
+                        "clueStart": 4,
+                        "clueNum": 3,
+                        "clueEnd": 46,
+                        "value": "___ world (upside-down reality)"
+                    },
+                    {
+                        "clueStart": 8,
+                        "clueNum": 4,
+                        "clueEnd": 43,
+                        "value": "Tariffs"
+                    },
+                    {
+                        "clueStart": 12,
+                        "clueNum": 5,
+                        "clueEnd": 47,
+                        "value": "Runner-up's place"
+                    },
+                    {
+                        "clueStart": 14,
+                        "clueNum": 6,
+                        "clueEnd": 35,
+                        "value": "Window, middle or aisle"
+                    },
+                    {
+                        "clueStart": 20,
+                        "clueNum": 7,
+                        "clueEnd": 41,
+                        "value": "Workout units in a set"
+                    },
+                    {
+                        "clueStart": 31,
+                        "clueNum": 11,
+                        "clueEnd": 45,
+                        "value": "Twosome"
+                    }
+                ]
+            },
+            "answers": [
+                null,
+                null,
+                "M",
+                "O",
+                "B",
+                null,
+                null,
+                null,
+                "L",
+                "O",
+                "U",
+                "I",
+                "S",
+                null,
+                "S",
+                "E",
+                "L",
+                "T",
+                "Z",
+                "E",
+                "R",
+                "E",
+                "V",
+                "E",
+                null,
+                "A",
+                "C",
+                "E",
+                "A",
+                "I",
+                "R",
+                "D",
+                "R",
+                "O",
+                "P",
+                "T",
+                "E",
+                "A",
+                "U",
+                "R",
+                "N",
+                "S",
+                null,
+                "S",
+                "T",
+                "O",
+                "O",
+                "D",
+                null
+            ],
+            "layout": [
+                0,
+                0,
+                1,
+                1,
+                1,
+                0,
+                0,
+                0,
+                1,
+                1,
+                1,
+                1,
+                1,
+                0,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                0,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                0,
+                1,
+                1,
+                1,
+                1,
+                1,
+                0
+            ]
+        }
+    }
+]
