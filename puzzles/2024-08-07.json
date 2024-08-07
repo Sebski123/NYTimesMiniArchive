@@ -1,0 +1,142 @@
+[
+    {
+        "puzzle_id": 22166,
+        "promo_id": null,
+        "version": 3,
+        "puzzle_meta": {
+            "formatType": "Normal",
+            "publishType": "Daily",
+            "title": "The Mini Crossword",
+            "printDate": "2024-08-07",
+            "printDotw": 0,
+            "editor": "Sam Ezersky",
+            "height": 5,
+            "width": 5,
+            "author": "Wyna Liu"
+        },
+        "print_date": "2024-08-07",
+        "enhanced_tier_date": null,
+        "puzzle_data": {
+            "clues": {
+                "A": [
+                    {
+                        "clueStart": 0,
+                        "clueNum": 1,
+                        "clueEnd": 4,
+                        "value": "The tip of a sippy cup, essentially"
+                    },
+                    {
+                        "clueStart": 5,
+                        "clueNum": 6,
+                        "clueEnd": 9,
+                        "value": "It's considered to be both a percussion and stringed instrument"
+                    },
+                    {
+                        "clueStart": 10,
+                        "clueNum": 7,
+                        "clueEnd": 14,
+                        "value": "Knight's attire"
+                    },
+                    {
+                        "clueStart": 15,
+                        "clueNum": 8,
+                        "clueEnd": 19,
+                        "value": "More than just wants"
+                    },
+                    {
+                        "clueStart": 22,
+                        "clueNum": 9,
+                        "clueEnd": 24,
+                        "value": "Circus safety feature"
+                    }
+                ],
+                "D": [
+                    {
+                        "clueStart": 0,
+                        "clueNum": 1,
+                        "clueEnd": 15,
+                        "value": "Length of a bridge"
+                    },
+                    {
+                        "clueStart": 1,
+                        "clueNum": 2,
+                        "clueEnd": 16,
+                        "value": "\"Flat\" or \"spare\" item"
+                    },
+                    {
+                        "clueStart": 2,
+                        "clueNum": 3,
+                        "clueEnd": 22,
+                        "value": "Noodles eaten with chashu pork"
+                    },
+                    {
+                        "clueStart": 3,
+                        "clueNum": 4,
+                        "clueEnd": 23,
+                        "value": "One end of a battery"
+                    },
+                    {
+                        "clueStart": 4,
+                        "clueNum": 5,
+                        "clueEnd": 24,
+                        "value": "Superlative seen on a Razzie Award"
+                    }
+                ]
+            },
+            "answers": [
+                "S",
+                "T",
+                "R",
+                "A",
+                "W",
+                "P",
+                "I",
+                "A",
+                "N",
+                "O",
+                "A",
+                "R",
+                "M",
+                "O",
+                "R",
+                "N",
+                "E",
+                "E",
+                "D",
+                "S",
+                null,
+                null,
+                "N",
+                "E",
+                "T"
+            ],
+            "layout": [
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                0,
+                0,
+                1,
+                1,
+                1
+            ]
+        }
+    }
+]
