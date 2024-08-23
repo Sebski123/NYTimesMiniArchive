@@ -35,32 +35,51 @@ export class Home extends React.Component {
     window.location.href = window.location.pathname + "?puzzleName=" + puzzle + "#/puzzle";
   }
 
+  groupPuzzlesByMonth(puzzles) {
+    const grouped = puzzles.reduce((acc, puzzle) => {
+      const month = puzzle.slice(0, 7); // Extract "YYYY-MM"
+      if (!acc[month]) {
+        acc[month] = [];
+      }
+      acc[month].push(puzzle);
+      return acc;
+    }, {});
+
+    // Convert the grouped object to an array of [month, puzzles] pairs and sort by month in descending order
+    return Object.entries(grouped).sort(([a], [b]) => b.localeCompare(a));
+  }
+
   render() {
+    const groupedPuzzles = this.groupPuzzlesByMonth(this.state.puzzles.filter((puzzle) => puzzle !== "puzzles"));
+
     return (
       <Page>
         <h1>Homepage</h1>
-        <ul>
-          {this.state.puzzles
-            .filter((puzzle) => puzzle != "puzzles")
-            .reverse()
-            .map((puzzle) => (
-              <li key={puzzle} className={css.bulletLessList}>
-                <p
-                  className={classNames(
-                    css.puzzleLink,
-                    this.state.finishedPuzzles.includes(puzzle)
-                      ? css.finished
-                      : this.state.startedPuzzles.includes(puzzle)
-                      ? css.played
-                      : ""
-                  )}
-                  onClick={() => this.handlePuzzleClick(puzzle)}
-                >
-                  {puzzle}
-                </p>
-              </li>
-            ))}
-        </ul>
+        {groupedPuzzles.map(([month, puzzles]) => (
+          <div key={month} className={css.monthSection}>
+            <h2>{month}</h2>
+            <div className={css.grid}>
+              {puzzles
+                .map((puzzle) => (
+                  <div key={puzzle} className={css.gridItem}>
+                    <p
+                      className={classNames(
+                        css.puzzleLink,
+                        this.state.finishedPuzzles.includes(puzzle)
+                          ? css.finished
+                          : this.state.startedPuzzles.includes(puzzle)
+                          ? css.played
+                          : ""
+                      )}
+                      onClick={() => this.handlePuzzleClick(puzzle)}
+                    >
+                      {puzzle}
+                    </p>
+                  </div>
+                ))}
+            </div>
+          </div>
+        ))}
       </Page>
     );
   }

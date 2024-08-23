@@ -28,3 +28,19 @@
   list-style-type: none;
   padding-left: 0;
 }
+
+.monthSection {
+  margin-bottom: 20px;
+}
+
+.grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.gridItem {
+  flex-basis: calc((100% / 7) - 10px); /* Fixed width for 7 columns */
+  box-sizing: border-box;
+  max-width: calc((100% / 7) - 10px); /* Ensure the items don't grow beyond the calculated width */
+}
