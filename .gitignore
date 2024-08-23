@@ -1,6 +1,7 @@
 .idea
 node_modules
 dist/bundle.js
+dist/puzzles
 npm-debug.log
 .DS_Store
 .netlify
