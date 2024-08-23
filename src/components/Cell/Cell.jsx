@@ -9,6 +9,21 @@ import css from './Cell.scss';
 
 
 class Cell extends React.Component {
+  constructor(props) {
+    super(props);
+    this.inputRef = null;
+    this.setInputRef = element => {
+      this.inputRef = element;
+    };
+  }
+
+  handleCellClick = () => {
+    this.props.cellClick();
+    if (this.inputRef) {
+      this.inputRef.focus();
+    }
+  };
+  
   render() {
     const {open, cheated, solved, revealed, active, selected, related} = this.props;
     const closed = !open;
@@ -40,6 +55,11 @@ class Cell extends React.Component {
 
     return (
       <div className={squareClasses} onClick={this.props.cellClick}>
+        <input
+          type="text"
+          ref={this.setInputRef}
+          style={{ position: 'absolute', opacity: 0, pointerEvents: 'none' }}
+        />
         <div className={cheatClasses}>
           <div className={tatterClasses} />
         </div>
