@@ -42,6 +42,7 @@ export class Home extends React.Component {
         <ul>
           {this.state.puzzles
             .filter((puzzle) => puzzle != "puzzles")
+            .reverse()
             .map((puzzle) => (
               <li key={puzzle} className={css.bulletLessList}>
                 <p
