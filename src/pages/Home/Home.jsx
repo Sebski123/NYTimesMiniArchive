@@ -72,6 +72,20 @@ export class Home extends React.Component {
     this.setState({ collapsedMonths: {} });
   };
 
+  getMonthStatus = (puzzles) => {
+    const { finishedPuzzles } = this.state;
+    const totalPuzzles = puzzles.length;
+    const solvedPuzzles = puzzles.filter((puzzle) => finishedPuzzles.includes(puzzle)).length;
+
+    if (solvedPuzzles === totalPuzzles) {
+      return "🟩"; // All solved
+    } else if (solvedPuzzles > 0) {
+      return "🟨"; // Some solved
+    } else {
+      return "🟥"; // None solved
+    }
+  };
+
   render() {
     const groupedPuzzles = this.groupPuzzlesByMonth(this.state.puzzles.filter((puzzle) => puzzle !== "puzzles"));
 
@@ -85,7 +99,7 @@ export class Home extends React.Component {
         {groupedPuzzles.map(([month, puzzles]) => (
           <div key={month} className={css.monthSection}>
             <h2 onClick={() => this.toggleMonthCollapse(month)} className={css.monthHeader}>
-              {month} {this.state.collapsedMonths[month] ? "▼" : "▲"}
+              {month} {this.state.collapsedMonths[month] ? "▼" : "▲"} - {this.getMonthStatus(puzzles)}
             </h2>
             {!this.state.collapsedMonths[month] && (
               <div className={css.grid}>
