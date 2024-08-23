@@ -12,6 +12,7 @@ export class Home extends React.Component {
       JSON.parse(localStorage.getItem("startedPuzzles")) || [],
     finishedPuzzles:
       JSON.parse(localStorage.getItem("finishedPuzzles")) || [],
+    collapsedMonths: {}, // Add state to track collapsed status
   };
 
   componentDidMount() {
@@ -49,18 +50,46 @@ export class Home extends React.Component {
     return Object.entries(grouped).sort(([a], [b]) => b.localeCompare(a));
   }
 
+  toggleMonthCollapse = (month) => {
+    this.setState((prevState) => ({
+      collapsedMonths: {
+        ...prevState.collapsedMonths,
+        [month]: !prevState.collapsedMonths[month],
+      },
+    }));
+  };
+
+  collapseAll = () => {
+    const collapsedMonths = this.groupPuzzlesByMonth(this.state.puzzles)
+      .reduce((acc, [month]) => {
+        acc[month] = true;
+        return acc;
+      }, {});
+    this.setState({ collapsedMonths });
+  };
+
+  expandAll = () => {
+    this.setState({ collapsedMonths: {} });
+  };
+
   render() {
     const groupedPuzzles = this.groupPuzzlesByMonth(this.state.puzzles.filter((puzzle) => puzzle !== "puzzles"));
 
     return (
       <Page>
         <h1>Homepage</h1>
+        <div className={css.controls}>
+          <button onClick={this.collapseAll}>Collapse all</button>
+          <button onClick={this.expandAll}>Expand all</button>
+        </div>
         {groupedPuzzles.map(([month, puzzles]) => (
           <div key={month} className={css.monthSection}>
-            <h2>{month}</h2>
-            <div className={css.grid}>
-              {puzzles
-                .map((puzzle) => (
+            <h2 onClick={() => this.toggleMonthCollapse(month)} className={css.monthHeader}>
+              {month} {this.state.collapsedMonths[month] ? "▼" : "▲"}
+            </h2>
+            {!this.state.collapsedMonths[month] && (
+              <div className={css.grid}>
+                {puzzles.map((puzzle) => (
                   <div key={puzzle} className={css.gridItem}>
                     <p
                       className={classNames(
@@ -77,7 +106,8 @@ export class Home extends React.Component {
                     </p>
                   </div>
                 ))}
-            </div>
+              </div>
+            )}
           </div>
         ))}
       </Page>

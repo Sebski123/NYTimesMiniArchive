@@ -44,3 +44,11 @@
   box-sizing: border-box;
   max-width: calc((100% / 7) - 10px); /* Ensure the items don't grow beyond the calculated width */
 }
+
+.controls {
+  margin-bottom: 20px;
+}
+
+.monthHeader {
+  cursor: pointer;
+}
