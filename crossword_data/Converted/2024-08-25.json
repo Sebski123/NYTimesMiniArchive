@@ -1,0 +1,142 @@
+[
+    {
+        "puzzle_id": 22215,
+        "promo_id": null,
+        "version": 3,
+        "puzzle_meta": {
+            "formatType": "Normal",
+            "publishType": "Daily",
+            "title": "The Mini Crossword",
+            "printDate": "2024-08-25",
+            "printDotw": 0,
+            "editor": "Sam Ezersky",
+            "height": 5,
+            "width": 5,
+            "author": "Joel Fagliano"
+        },
+        "print_date": "2024-08-25",
+        "enhanced_tier_date": null,
+        "puzzle_data": {
+            "clues": {
+                "A": [
+                    {
+                        "clueStart": 2,
+                        "clueNum": 1,
+                        "clueEnd": 4,
+                        "value": "Public transit option"
+                    },
+                    {
+                        "clueStart": 6,
+                        "clueNum": 4,
+                        "clueEnd": 9,
+                        "value": "___ Boss (fashion brand)"
+                    },
+                    {
+                        "clueStart": 10,
+                        "clueNum": 5,
+                        "clueEnd": 14,
+                        "value": "Oppressively humid"
+                    },
+                    {
+                        "clueStart": 15,
+                        "clueNum": 6,
+                        "clueEnd": 18,
+                        "value": "Scrambled, they might look like this: SGEG"
+                    },
+                    {
+                        "clueStart": 20,
+                        "clueNum": 7,
+                        "clueEnd": 22,
+                        "value": "Casual greeting"
+                    }
+                ],
+                "D": [
+                    {
+                        "clueStart": 2,
+                        "clueNum": 1,
+                        "clueEnd": 22,
+                        "value": "Like some software and swamps"
+                    },
+                    {
+                        "clueStart": 3,
+                        "clueNum": 2,
+                        "clueEnd": 18,
+                        "value": "Fleece-lined boots"
+                    },
+                    {
+                        "clueStart": 4,
+                        "clueNum": 3,
+                        "clueEnd": 14,
+                        "value": "Basis of tofu and tempeh"
+                    },
+                    {
+                        "clueStart": 6,
+                        "clueNum": 4,
+                        "clueEnd": 21,
+                        "value": "Massive"
+                    },
+                    {
+                        "clueStart": 10,
+                        "clueNum": 5,
+                        "clueEnd": 20,
+                        "value": "\"I'm not impressed\""
+                    }
+                ]
+            },
+            "answers": [
+                null,
+                null,
+                "B",
+                "U",
+                "S",
+                null,
+                "H",
+                "U",
+                "G",
+                "O",
+                "M",
+                "U",
+                "G",
+                "G",
+                "Y",
+                "E",
+                "G",
+                "G",
+                "S",
+                null,
+                "H",
+                "E",
+                "Y",
+                null,
+                null
+            ],
+            "layout": [
+                0,
+                0,
+                1,
+                1,
+                1,
+                0,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                0,
+                1,
+                1,
+                1,
+                0,
+                0
+            ]
+        }
+    }
+]
