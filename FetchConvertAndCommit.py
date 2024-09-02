@@ -34,7 +34,7 @@ def fetch_convert_and_commit(date: datetime):
     should_pull = check_for_changes()
     if should_pull:
          logger.info("Pulling remote changes")
-         os.system(f"git pull")
+         os.system(f"git pull --no-edit --abort")
         
     logger.info("Fetching puzzle")
     original_filename = fetch_puzzle(date)
