@@ -12,6 +12,7 @@ export class Home extends React.Component {
       JSON.parse(localStorage.getItem("startedPuzzles")) || [],
     finishedPuzzles:
       JSON.parse(localStorage.getItem("finishedPuzzles")) || [],
+    collapsedMonths: {}, // Add state to track collapsed status
   };
 
   componentDidMount() {
@@ -35,32 +36,94 @@ export class Home extends React.Component {
     window.location.href = window.location.pathname + "?puzzleName=" + puzzle + "#/puzzle";
   }
 
+  groupPuzzlesByMonth(puzzles) {
+    const grouped = puzzles.reduce((acc, puzzle) => {
+      const month = puzzle.slice(0, 7); // Extract "YYYY-MM"
+      if (!acc[month]) {
+        acc[month] = [];
+      }
+      acc[month].push(puzzle);
+      return acc;
+    }, {});
+
+    // Convert the grouped object to an array of [month, puzzles] pairs and sort by month in descending order
+    return Object.entries(grouped).sort(([a], [b]) => b.localeCompare(a));
+  }
+
+  toggleMonthCollapse = (month) => {
+    this.setState((prevState) => ({
+      collapsedMonths: {
+        ...prevState.collapsedMonths,
+        [month]: !prevState.collapsedMonths[month],
+      },
+    }));
+  };
+
+  collapseAll = () => {
+    const collapsedMonths = this.groupPuzzlesByMonth(this.state.puzzles)
+      .reduce((acc, [month]) => {
+        acc[month] = true;
+        return acc;
+      }, {});
+    this.setState({ collapsedMonths });
+  };
+
+  expandAll = () => {
+    this.setState({ collapsedMonths: {} });
+  };
+
+  getMonthStatus = (puzzles) => {
+    const { finishedPuzzles } = this.state;
+    const totalPuzzles = puzzles.length;
+    const solvedPuzzles = puzzles.filter((puzzle) => finishedPuzzles.includes(puzzle)).length;
+
+    if (solvedPuzzles === totalPuzzles) {
+      return "🟩"; // All solved
+    } else if (solvedPuzzles > 0) {
+      return "🟨"; // Some solved
+    } else {
+      return "🟥"; // None solved
+    }
+  };
+
   render() {
+    const groupedPuzzles = this.groupPuzzlesByMonth(this.state.puzzles.filter((puzzle) => puzzle !== "puzzles"));
+
     return (
       <Page>
         <h1>Homepage</h1>
-        <ul>
-          {this.state.puzzles
-            .filter((puzzle) => puzzle != "puzzles")
-            .reverse()
-            .map((puzzle) => (
-              <li key={puzzle} className={css.bulletLessList}>
-                <p
-                  className={classNames(
-                    css.puzzleLink,
-                    this.state.finishedPuzzles.includes(puzzle)
-                      ? css.finished
-                      : this.state.startedPuzzles.includes(puzzle)
-                      ? css.played
-                      : ""
-                  )}
-                  onClick={() => this.handlePuzzleClick(puzzle)}
-                >
-                  {puzzle}
-                </p>
-              </li>
-            ))}
-        </ul>
+        <div className={css.controls}>
+          <button onClick={this.collapseAll}>Collapse all</button>
+          <button onClick={this.expandAll}>Expand all</button>
+        </div>
+        {groupedPuzzles.map(([month, puzzles]) => (
+          <div key={month} className={css.monthSection}>
+            <h2 onClick={() => this.toggleMonthCollapse(month)} className={css.monthHeader}>
+              {month} {this.state.collapsedMonths[month] ? "▼" : "▲"} - {this.getMonthStatus(puzzles)}
+            </h2>
+            {!this.state.collapsedMonths[month] && (
+              <div className={css.grid}>
+                {puzzles.map((puzzle) => (
+                  <div key={puzzle} className={css.gridItem}>
+                    <p
+                      className={classNames(
+                        css.puzzleLink,
+                        this.state.finishedPuzzles.includes(puzzle)
+                          ? css.finished
+                          : this.state.startedPuzzles.includes(puzzle)
+                          ? css.played
+                          : ""
+                      )}
+                      onClick={() => this.handlePuzzleClick(puzzle)}
+                    >
+                      {puzzle}
+                    </p>
+                  </div>
+                ))}
+              </div>
+            )}
+          </div>
+        ))}
       </Page>
     );
   }

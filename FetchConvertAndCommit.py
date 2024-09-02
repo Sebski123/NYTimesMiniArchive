@@ -12,8 +12,30 @@ from tools.GetData import fetch_puzzle
 logger = logging.getLogger(__name__)
 logging.basicConfig(filename='FetchAndCommit.log', level=logging.DEBUG, format='%(asctime)s %(message)s', datefmt='%m/%d/%Y %I:%M:%S %p')
 
+def check_for_changes(remote='origin', branch='master'):
+    # Fetch the latest changes from the remote repository
+    os.system('git fetch')
+    
+    # Compare the local branch with the remote branch
+    local_branch = f'{branch}'
+    remote_branch = f'{remote}/{branch}'
+    
+    # Check for differences
+    status = os.system(f'git diff {local_branch} {remote_branch} --exit-code')
+    
+    if status == 0:
+        print("No changes in the remote repository.")
+    else:
+        print("There are changes in the remote repository.")
+
+    return (status != 0)
 
 def fetch_convert_and_commit(date: datetime):
+    should_pull = check_for_changes()
+    if should_pull:
+         logger.info("Pulling remote changes")
+         os.system(f"git pull")
+        
     logger.info("Fetching puzzle")
     original_filename = fetch_puzzle(date)
     logger.info("Extracting name")
