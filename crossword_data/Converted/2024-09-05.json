@@ -1,0 +1,142 @@
+[
+    {
+        "puzzle_id": 22232,
+        "promo_id": null,
+        "version": 3,
+        "puzzle_meta": {
+            "formatType": "Normal",
+            "publishType": "Daily",
+            "title": "The Mini Crossword",
+            "printDate": "2024-09-05",
+            "printDotw": 0,
+            "editor": "Sam Ezersky",
+            "height": 5,
+            "width": 5,
+            "author": "Wyna Liu"
+        },
+        "print_date": "2024-09-05",
+        "enhanced_tier_date": null,
+        "puzzle_data": {
+            "clues": {
+                "A": [
+                    {
+                        "clueStart": 2,
+                        "clueNum": 1,
+                        "clueEnd": 4,
+                        "value": "File type for downloadable forms"
+                    },
+                    {
+                        "clueStart": 5,
+                        "clueNum": 4,
+                        "clueEnd": 9,
+                        "value": "Catherine of \"Beetlejuice\""
+                    },
+                    {
+                        "clueStart": 10,
+                        "clueNum": 6,
+                        "clueEnd": 14,
+                        "value": "Pastry with a 5-Down"
+                    },
+                    {
+                        "clueStart": 15,
+                        "clueNum": 7,
+                        "clueEnd": 19,
+                        "value": "Nostalgic song"
+                    },
+                    {
+                        "clueStart": 20,
+                        "clueNum": 8,
+                        "clueEnd": 23,
+                        "value": "Left on ___ (still awaiting a text message response)"
+                    }
+                ],
+                "D": [
+                    {
+                        "clueStart": 2,
+                        "clueNum": 1,
+                        "clueEnd": 22,
+                        "value": "Animal known as a \"giant cat bear\" in Chinese due to its pupil shapes (vertical slits!)"
+                    },
+                    {
+                        "clueStart": 3,
+                        "clueNum": 2,
+                        "clueEnd": 23,
+                        "value": "Ancient Celtic priest"
+                    },
+                    {
+                        "clueStart": 4,
+                        "clueNum": 3,
+                        "clueEnd": 19,
+                        "value": "It's written in the stars"
+                    },
+                    {
+                        "clueStart": 5,
+                        "clueNum": 4,
+                        "clueEnd": 20,
+                        "value": "Funk from a dirty sock"
+                    },
+                    {
+                        "clueStart": 6,
+                        "clueNum": 5,
+                        "clueEnd": 21,
+                        "value": "Feature in the middle of a 6-Across"
+                    }
+                ]
+            },
+            "answers": [
+                null,
+                null,
+                "P",
+                "D",
+                "F",
+                "O",
+                "H",
+                "A",
+                "R",
+                "A",
+                "D",
+                "O",
+                "N",
+                "U",
+                "T",
+                "O",
+                "L",
+                "D",
+                "I",
+                "E",
+                "R",
+                "E",
+                "A",
+                "D",
+                null
+            ],
+            "layout": [
+                0,
+                0,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                0
+            ]
+        }
+    }
+]
