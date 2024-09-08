@@ -1,0 +1,142 @@
+[
+    {
+        "puzzle_id": 22231,
+        "promo_id": null,
+        "version": 3,
+        "puzzle_meta": {
+            "formatType": "Normal",
+            "publishType": "Daily",
+            "title": "The Mini Crossword",
+            "printDate": "2024-09-08",
+            "printDotw": 0,
+            "editor": "Sam Ezersky",
+            "height": 5,
+            "width": 5,
+            "author": "Wyna Liu"
+        },
+        "print_date": "2024-09-08",
+        "enhanced_tier_date": null,
+        "puzzle_data": {
+            "clues": {
+                "A": [
+                    {
+                        "clueStart": 0,
+                        "clueNum": 1,
+                        "clueEnd": 4,
+                        "value": "Accessory for Babar, king of the elephants"
+                    },
+                    {
+                        "clueStart": 5,
+                        "clueNum": 6,
+                        "clueEnd": 9,
+                        "value": "NATO alphabet letter that's eight past Juliet"
+                    },
+                    {
+                        "clueStart": 10,
+                        "clueNum": 7,
+                        "clueEnd": 14,
+                        "value": "Shopping cart tally"
+                    },
+                    {
+                        "clueStart": 15,
+                        "clueNum": 8,
+                        "clueEnd": 19,
+                        "value": "One over par"
+                    },
+                    {
+                        "clueStart": 21,
+                        "clueNum": 9,
+                        "clueEnd": 23,
+                        "value": "Smallest animal in the Chinese zodiac"
+                    }
+                ],
+                "D": [
+                    {
+                        "clueStart": 0,
+                        "clueNum": 1,
+                        "clueEnd": 15,
+                        "value": "A mobile might hang above one"
+                    },
+                    {
+                        "clueStart": 1,
+                        "clueNum": 2,
+                        "clueEnd": 21,
+                        "value": "Palindromic helicopter part"
+                    },
+                    {
+                        "clueStart": 2,
+                        "clueNum": 3,
+                        "clueEnd": 22,
+                        "value": "___-3 fatty acids"
+                    },
+                    {
+                        "clueStart": 3,
+                        "clueNum": 4,
+                        "clueEnd": 23,
+                        "value": "\"No need to introduce us\""
+                    },
+                    {
+                        "clueStart": 4,
+                        "clueNum": 5,
+                        "clueEnd": 19,
+                        "value": "Like someone who's angling for all the juicy details"
+                    }
+                ]
+            },
+            "answers": [
+                "C",
+                "R",
+                "O",
+                "W",
+                "N",
+                "R",
+                "O",
+                "M",
+                "E",
+                "O",
+                "I",
+                "T",
+                "E",
+                "M",
+                "S",
+                "B",
+                "O",
+                "G",
+                "E",
+                "Y",
+                null,
+                "R",
+                "A",
+                "T",
+                null
+            ],
+            "layout": [
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                0,
+                1,
+                1,
+                1,
+                0
+            ]
+        }
+    }
+]
