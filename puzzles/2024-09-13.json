@@ -1,0 +1,142 @@
+[
+    {
+        "puzzle_id": 22177,
+        "promo_id": null,
+        "version": 3,
+        "puzzle_meta": {
+            "formatType": "Normal",
+            "publishType": "Daily",
+            "title": "The Mini Crossword",
+            "printDate": "2024-09-13",
+            "printDotw": 0,
+            "editor": "Sam Ezersky",
+            "height": 5,
+            "width": 5,
+            "author": "Christina Iverson"
+        },
+        "print_date": "2024-09-13",
+        "enhanced_tier_date": null,
+        "puzzle_data": {
+            "clues": {
+                "A": [
+                    {
+                        "clueStart": 1,
+                        "clueNum": 1,
+                        "clueEnd": 4,
+                        "value": "Clothed (in)"
+                    },
+                    {
+                        "clueStart": 6,
+                        "clueNum": 5,
+                        "clueEnd": 9,
+                        "value": "Ring of light"
+                    },
+                    {
+                        "clueStart": 10,
+                        "clueNum": 6,
+                        "clueEnd": 14,
+                        "value": "Black ___ (dangerous spider)"
+                    },
+                    {
+                        "clueStart": 15,
+                        "clueNum": 7,
+                        "clueEnd": 19,
+                        "value": "Longtime talk show host known for pulling pranks on her guests"
+                    },
+                    {
+                        "clueStart": 20,
+                        "clueNum": 8,
+                        "clueEnd": 22,
+                        "value": "Worker with a comb, perhaps?"
+                    }
+                ],
+                "D": [
+                    {
+                        "clueStart": 1,
+                        "clueNum": 1,
+                        "clueEnd": 21,
+                        "value": "South American country with a 4,000-mile coastline"
+                    },
+                    {
+                        "clueStart": 2,
+                        "clueNum": 2,
+                        "clueEnd": 22,
+                        "value": "Tool for a soup kitchen volunteer"
+                    },
+                    {
+                        "clueStart": 3,
+                        "clueNum": 3,
+                        "clueEnd": 18,
+                        "value": "Succulent in some health drinks"
+                    },
+                    {
+                        "clueStart": 4,
+                        "clueNum": 4,
+                        "clueEnd": 19,
+                        "value": "\"I'm reading a book about antigravity. I can't put it ___!\" (groaner)"
+                    },
+                    {
+                        "clueStart": 10,
+                        "clueNum": 6,
+                        "clueEnd": 20,
+                        "value": "One \"w\" in www"
+                    }
+                ]
+            },
+            "answers": [
+                null,
+                "C",
+                "L",
+                "A",
+                "D",
+                null,
+                "H",
+                "A",
+                "L",
+                "O",
+                "W",
+                "I",
+                "D",
+                "O",
+                "W",
+                "E",
+                "L",
+                "L",
+                "E",
+                "N",
+                "B",
+                "E",
+                "E",
+                null,
+                null
+            ],
+            "layout": [
+                0,
+                1,
+                1,
+                1,
+                1,
+                0,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                0,
+                0
+            ]
+        }
+    }
+]
