@@ -1,0 +1,140 @@
+[
+    {
+        "puzzle_id": 22346,
+        "promo_id": null,
+        "version": 3,
+        "puzzle_meta": {
+            "formatType": "Normal",
+            "publishType": "Daily",
+            "title": "The Mini Crossword",
+            "printDate": "2024-10-15",
+            "printDotw": 0,
+            "editor": "Sam Ezersky",
+            "height": 4,
+            "width": 6,
+            "author": "Joel Fagliano"
+        },
+        "print_date": "2024-10-15",
+        "enhanced_tier_date": null,
+        "puzzle_data": {
+            "clues": {
+                "A": [
+                    {
+                        "clueStart": 0,
+                        "clueNum": 1,
+                        "clueEnd": 5,
+                        "value": "Shrimp ___ (garlicky entree)"
+                    },
+                    {
+                        "clueStart": 6,
+                        "clueNum": 7,
+                        "clueEnd": 11,
+                        "value": "\"Wow, so fancy!\""
+                    },
+                    {
+                        "clueStart": 12,
+                        "clueNum": 8,
+                        "clueEnd": 17,
+                        "value": "Disney's take on the Hans Christian Andersen fairy tale \"The Snow Queen\""
+                    },
+                    {
+                        "clueStart": 18,
+                        "clueNum": 9,
+                        "clueEnd": 22,
+                        "value": "Paid for a poker hand"
+                    }
+                ],
+                "D": [
+                    {
+                        "clueStart": 0,
+                        "clueNum": 1,
+                        "clueEnd": 18,
+                        "value": "Common place to find a lost TV remote"
+                    },
+                    {
+                        "clueStart": 1,
+                        "clueNum": 2,
+                        "clueEnd": 19,
+                        "value": "With 4-Down, farm attraction in autumn months"
+                    },
+                    {
+                        "clueStart": 2,
+                        "clueNum": 3,
+                        "clueEnd": 20,
+                        "value": "Tons and tons"
+                    },
+                    {
+                        "clueStart": 3,
+                        "clueNum": 4,
+                        "clueEnd": 21,
+                        "value": "See 2-Down"
+                    },
+                    {
+                        "clueStart": 4,
+                        "clueNum": 5,
+                        "clueEnd": 22,
+                        "value": "Begged"
+                    },
+                    {
+                        "clueStart": 5,
+                        "clueNum": 6,
+                        "clueEnd": 17,
+                        "value": "McKellen who played Gandalf"
+                    }
+                ]
+            },
+            "answers": [
+                "S",
+                "C",
+                "A",
+                "M",
+                "P",
+                "I",
+                "O",
+                "O",
+                "L",
+                "A",
+                "L",
+                "A",
+                "F",
+                "R",
+                "O",
+                "Z",
+                "E",
+                "N",
+                "A",
+                "N",
+                "T",
+                "E",
+                "D",
+                null
+            ],
+            "layout": [
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                0
+            ]
+        }
+    }
+]
