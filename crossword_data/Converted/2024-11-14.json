@@ -1,0 +1,142 @@
+[
+    {
+        "puzzle_id": 22451,
+        "promo_id": null,
+        "version": 3,
+        "puzzle_meta": {
+            "formatType": "Normal",
+            "publishType": "Daily",
+            "title": "The Mini Crossword",
+            "printDate": "2024-11-14",
+            "printDotw": 0,
+            "editor": "Sam Ezersky",
+            "height": 5,
+            "width": 5,
+            "author": "Ian Livengood"
+        },
+        "print_date": "2024-11-14",
+        "enhanced_tier_date": null,
+        "puzzle_data": {
+            "clues": {
+                "A": [
+                    {
+                        "clueStart": 1,
+                        "clueNum": 1,
+                        "clueEnd": 4,
+                        "value": "One of 1,077 in the first single-volume edition of \"The Lord of the Rings\""
+                    },
+                    {
+                        "clueStart": 6,
+                        "clueNum": 5,
+                        "clueEnd": 9,
+                        "value": "Clickable symbol"
+                    },
+                    {
+                        "clueStart": 10,
+                        "clueNum": 6,
+                        "clueEnd": 14,
+                        "value": "With 3-Down, slangy aspirations for a group of friends"
+                    },
+                    {
+                        "clueStart": 15,
+                        "clueNum": 7,
+                        "clueEnd": 19,
+                        "value": "Throws hard"
+                    },
+                    {
+                        "clueStart": 20,
+                        "clueNum": 8,
+                        "clueEnd": 23,
+                        "value": "Voting counterparts of nays"
+                    }
+                ],
+                "D": [
+                    {
+                        "clueStart": 1,
+                        "clueNum": 1,
+                        "clueEnd": 21,
+                        "value": "Arouse, as interest"
+                    },
+                    {
+                        "clueStart": 2,
+                        "clueNum": 2,
+                        "clueEnd": 22,
+                        "value": "Maker of car models like the MDX and TLX"
+                    },
+                    {
+                        "clueStart": 3,
+                        "clueNum": 3,
+                        "clueEnd": 23,
+                        "value": "See 6-Across"
+                    },
+                    {
+                        "clueStart": 4,
+                        "clueNum": 4,
+                        "clueEnd": 19,
+                        "value": "\"All's well that ___ well\""
+                    },
+                    {
+                        "clueStart": 10,
+                        "clueNum": 6,
+                        "clueEnd": 20,
+                        "value": "Like a kindergartner on the first day of school, maybe"
+                    }
+                ]
+            },
+            "answers": [
+                null,
+                "P",
+                "A",
+                "G",
+                "E",
+                null,
+                "I",
+                "C",
+                "O",
+                "N",
+                "S",
+                "Q",
+                "U",
+                "A",
+                "D",
+                "H",
+                "U",
+                "R",
+                "L",
+                "S",
+                "Y",
+                "E",
+                "A",
+                "S",
+                null
+            ],
+            "layout": [
+                0,
+                1,
+                1,
+                1,
+                1,
+                0,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                0
+            ]
+        }
+    }
+]
