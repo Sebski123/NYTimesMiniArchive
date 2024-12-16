@@ -1,0 +1,142 @@
+[
+    {
+        "puzzle_id": 22506,
+        "promo_id": null,
+        "version": 3,
+        "puzzle_meta": {
+            "formatType": "Normal",
+            "publishType": "Daily",
+            "title": "The Mini Crossword",
+            "printDate": "2024-12-16",
+            "printDotw": 0,
+            "editor": "Sam Ezersky",
+            "height": 5,
+            "width": 5,
+            "author": "Christina Iverson"
+        },
+        "print_date": "2024-12-16",
+        "enhanced_tier_date": null,
+        "puzzle_data": {
+            "clues": {
+                "A": [
+                    {
+                        "clueStart": 1,
+                        "clueNum": 1,
+                        "clueEnd": 4,
+                        "value": "Petting zoo animal"
+                    },
+                    {
+                        "clueStart": 5,
+                        "clueNum": 5,
+                        "clueEnd": 9,
+                        "value": "Important feature of the sentence \"I like cooking, family and friends\""
+                    },
+                    {
+                        "clueStart": 10,
+                        "clueNum": 6,
+                        "clueEnd": 14,
+                        "value": "Labor alliance"
+                    },
+                    {
+                        "clueStart": 15,
+                        "clueNum": 7,
+                        "clueEnd": 18,
+                        "value": "\"All ___ are off!\""
+                    },
+                    {
+                        "clueStart": 20,
+                        "clueNum": 8,
+                        "clueEnd": 22,
+                        "value": "Triage centers, for short"
+                    }
+                ],
+                "D": [
+                    {
+                        "clueStart": 1,
+                        "clueNum": 1,
+                        "clueEnd": 21,
+                        "value": "One who's doomed to fail"
+                    },
+                    {
+                        "clueStart": 2,
+                        "clueNum": 2,
+                        "clueEnd": 22,
+                        "value": "Leaves out"
+                    },
+                    {
+                        "clueStart": 3,
+                        "clueNum": 3,
+                        "clueEnd": 18,
+                        "value": "\"Famous\" cookie maker"
+                    },
+                    {
+                        "clueStart": 4,
+                        "clueNum": 4,
+                        "clueEnd": 14,
+                        "value": "Original color of peanut M&Ms, introduced in 1954"
+                    },
+                    {
+                        "clueStart": 5,
+                        "clueNum": 5,
+                        "clueEnd": 20,
+                        "value": "Rubik's ___"
+                    }
+                ]
+            },
+            "answers": [
+                null,
+                "G",
+                "O",
+                "A",
+                "T",
+                "C",
+                "O",
+                "M",
+                "M",
+                "A",
+                "U",
+                "N",
+                "I",
+                "O",
+                "N",
+                "B",
+                "E",
+                "T",
+                "S",
+                null,
+                "E",
+                "R",
+                "S",
+                null,
+                null
+            ],
+            "layout": [
+                0,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                0,
+                1,
+                1,
+                1,
+                0,
+                0
+            ]
+        }
+    }
+]
