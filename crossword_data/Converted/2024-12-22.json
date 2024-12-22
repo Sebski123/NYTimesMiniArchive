@@ -1,0 +1,142 @@
+[
+    {
+        "puzzle_id": 22507,
+        "promo_id": null,
+        "version": 3,
+        "puzzle_meta": {
+            "formatType": "Normal",
+            "publishType": "Daily",
+            "title": "The Mini Crossword",
+            "printDate": "2024-12-22",
+            "printDotw": 0,
+            "editor": "Sam Ezersky",
+            "height": 5,
+            "width": 5,
+            "author": "Christina Iverson"
+        },
+        "print_date": "2024-12-22",
+        "enhanced_tier_date": null,
+        "puzzle_data": {
+            "clues": {
+                "A": [
+                    {
+                        "clueStart": 0,
+                        "clueNum": 1,
+                        "clueEnd": 4,
+                        "value": "Longtime first name in the House of Representatives"
+                    },
+                    {
+                        "clueStart": 5,
+                        "clueNum": 6,
+                        "clueEnd": 9,
+                        "value": "Word that aptly fills in these blanks: S_ _rano's p_ _form_nce"
+                    },
+                    {
+                        "clueStart": 10,
+                        "clueNum": 7,
+                        "clueEnd": 14,
+                        "value": "Bad thing to go up without a paddle"
+                    },
+                    {
+                        "clueStart": 15,
+                        "clueNum": 8,
+                        "clueEnd": 18,
+                        "value": "Assistant"
+                    },
+                    {
+                        "clueStart": 20,
+                        "clueNum": 9,
+                        "clueEnd": 22,
+                        "value": "Toilet paper layer"
+                    }
+                ],
+                "D": [
+                    {
+                        "clueStart": 0,
+                        "clueNum": 1,
+                        "clueEnd": 20,
+                        "value": "\"For real!,\" in popular slang"
+                    },
+                    {
+                        "clueStart": 1,
+                        "clueNum": 2,
+                        "clueEnd": 21,
+                        "value": "When Tax Day is"
+                    },
+                    {
+                        "clueStart": 2,
+                        "clueNum": 3,
+                        "clueEnd": 22,
+                        "value": "Requiring a lot of attention"
+                    },
+                    {
+                        "clueStart": 3,
+                        "clueNum": 4,
+                        "clueEnd": 18,
+                        "value": "Indigenous people of Canada"
+                    },
+                    {
+                        "clueStart": 4,
+                        "clueNum": 5,
+                        "clueEnd": 14,
+                        "value": "Beast also known as a \"grunting ox\""
+                    }
+                ]
+            },
+            "answers": [
+                "N",
+                "A",
+                "N",
+                "C",
+                "Y",
+                "O",
+                "P",
+                "E",
+                "R",
+                "A",
+                "C",
+                "R",
+                "E",
+                "E",
+                "K",
+                "A",
+                "I",
+                "D",
+                "E",
+                null,
+                "P",
+                "L",
+                "Y",
+                null,
+                null
+            ],
+            "layout": [
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                0,
+                1,
+                1,
+                1,
+                0,
+                0
+            ]
+        }
+    }
+]
