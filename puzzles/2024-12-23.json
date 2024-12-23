@@ -1,0 +1,142 @@
+[
+    {
+        "puzzle_id": 22512,
+        "promo_id": null,
+        "version": 3,
+        "puzzle_meta": {
+            "formatType": "Normal",
+            "publishType": "Daily",
+            "title": "The Mini Crossword",
+            "printDate": "2024-12-23",
+            "printDotw": 0,
+            "editor": "Sam Ezersky",
+            "height": 5,
+            "width": 5,
+            "author": "Ian Livengood"
+        },
+        "print_date": "2024-12-23",
+        "enhanced_tier_date": null,
+        "puzzle_data": {
+            "clues": {
+                "A": [
+                    {
+                        "clueStart": 0,
+                        "clueNum": 1,
+                        "clueEnd": 4,
+                        "value": "Character who's blue in the face?"
+                    },
+                    {
+                        "clueStart": 5,
+                        "clueNum": 6,
+                        "clueEnd": 9,
+                        "value": "Mideast country that juts out from Saudi Arabia"
+                    },
+                    {
+                        "clueStart": 10,
+                        "clueNum": 7,
+                        "clueEnd": 14,
+                        "value": "Loosen, as a knot"
+                    },
+                    {
+                        "clueStart": 15,
+                        "clueNum": 8,
+                        "clueEnd": 19,
+                        "value": "Author's negotiator"
+                    },
+                    {
+                        "clueStart": 20,
+                        "clueNum": 9,
+                        "clueEnd": 23,
+                        "value": "Labourite's rival, in British politics"
+                    }
+                ],
+                "D": [
+                    {
+                        "clueStart": 0,
+                        "clueNum": 1,
+                        "clueEnd": 20,
+                        "value": "What catchers do behind home plate \u00e2\u20ac\u00a6 or an adjective that might describe their physique"
+                    },
+                    {
+                        "clueStart": 1,
+                        "clueNum": 2,
+                        "clueEnd": 21,
+                        "value": "Tropical fruit in a sweet salsa"
+                    },
+                    {
+                        "clueStart": 2,
+                        "clueNum": 3,
+                        "clueEnd": 22,
+                        "value": "Say aloud"
+                    },
+                    {
+                        "clueStart": 3,
+                        "clueNum": 4,
+                        "clueEnd": 23,
+                        "value": "Like stereotypical weather in the Pacific Northwest"
+                    },
+                    {
+                        "clueStart": 4,
+                        "clueNum": 5,
+                        "clueEnd": 19,
+                        "value": "Bar on a guitar's neck"
+                    }
+                ]
+            },
+            "answers": [
+                "S",
+                "M",
+                "U",
+                "R",
+                "F",
+                "Q",
+                "A",
+                "T",
+                "A",
+                "R",
+                "U",
+                "N",
+                "T",
+                "I",
+                "E",
+                "A",
+                "G",
+                "E",
+                "N",
+                "T",
+                "T",
+                "O",
+                "R",
+                "Y",
+                null
+            ],
+            "layout": [
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                0
+            ]
+        }
+    }
+]
