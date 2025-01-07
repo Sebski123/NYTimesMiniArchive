@@ -1,0 +1,142 @@
+[
+    {
+        "puzzle_id": 22523,
+        "promo_id": null,
+        "version": 3,
+        "puzzle_meta": {
+            "formatType": "Normal",
+            "publishType": "Daily",
+            "title": "The Mini Crossword",
+            "printDate": "2025-01-07",
+            "printDotw": 0,
+            "editor": "Sam Ezersky",
+            "height": 5,
+            "width": 5,
+            "author": "Wyna Liu"
+        },
+        "print_date": "2025-01-07",
+        "enhanced_tier_date": null,
+        "puzzle_data": {
+            "clues": {
+                "A": [
+                    {
+                        "clueStart": 0,
+                        "clueNum": 1,
+                        "clueEnd": 4,
+                        "value": "Man in Business Suit Levitating, for one"
+                    },
+                    {
+                        "clueStart": 5,
+                        "clueNum": 6,
+                        "clueEnd": 9,
+                        "value": "Took a nap"
+                    },
+                    {
+                        "clueStart": 10,
+                        "clueNum": 7,
+                        "clueEnd": 14,
+                        "value": "Flying solo"
+                    },
+                    {
+                        "clueStart": 15,
+                        "clueNum": 8,
+                        "clueEnd": 19,
+                        "value": "Graphic novel style for \"One Piece,\" the best-selling of its kind"
+                    },
+                    {
+                        "clueStart": 21,
+                        "clueNum": 9,
+                        "clueEnd": 24,
+                        "value": "Genuine"
+                    }
+                ],
+                "D": [
+                    {
+                        "clueStart": 0,
+                        "clueNum": 1,
+                        "clueEnd": 15,
+                        "value": "Dutch cheese that's \"made backward,\" per a joke"
+                    },
+                    {
+                        "clueStart": 1,
+                        "clueNum": 2,
+                        "clueEnd": 21,
+                        "value": "Grinding tooth"
+                    },
+                    {
+                        "clueStart": 2,
+                        "clueNum": 3,
+                        "clueEnd": 22,
+                        "value": "Gas made of three oxygen atoms"
+                    },
+                    {
+                        "clueStart": 3,
+                        "clueNum": 4,
+                        "clueEnd": 23,
+                        "value": "Game that might end if you accidentally bump the table"
+                    },
+                    {
+                        "clueStart": 4,
+                        "clueNum": 5,
+                        "clueEnd": 24,
+                        "value": "Like the best-case scenario"
+                    }
+                ]
+            },
+            "answers": [
+                "E",
+                "M",
+                "O",
+                "J",
+                "I",
+                "D",
+                "O",
+                "Z",
+                "E",
+                "D",
+                "A",
+                "L",
+                "O",
+                "N",
+                "E",
+                "M",
+                "A",
+                "N",
+                "G",
+                "A",
+                null,
+                "R",
+                "E",
+                "A",
+                "L"
+            ],
+            "layout": [
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                0,
+                1,
+                1,
+                1,
+                1
+            ]
+        }
+    }
+]
