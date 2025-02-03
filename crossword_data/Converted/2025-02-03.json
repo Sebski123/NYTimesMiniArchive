@@ -1,0 +1,142 @@
+[
+    {
+        "puzzle_id": 22608,
+        "promo_id": null,
+        "version": 3,
+        "puzzle_meta": {
+            "formatType": "Normal",
+            "publishType": "Daily",
+            "title": "The Mini Crossword",
+            "printDate": "2025-02-03",
+            "printDotw": 0,
+            "editor": "",
+            "height": 5,
+            "width": 5,
+            "author": "Joel Fagliano"
+        },
+        "print_date": "2025-02-03",
+        "enhanced_tier_date": null,
+        "puzzle_data": {
+            "clues": {
+                "A": [
+                    {
+                        "clueStart": 0,
+                        "clueNum": 1,
+                        "clueEnd": 3,
+                        "value": "Unit of toilet paper"
+                    },
+                    {
+                        "clueStart": 5,
+                        "clueNum": 5,
+                        "clueEnd": 8,
+                        "value": "Cookie advertised with the slogan \"Twist, Lick, Dunk\""
+                    },
+                    {
+                        "clueStart": 10,
+                        "clueNum": 6,
+                        "clueEnd": 14,
+                        "value": "Word after bird or binge"
+                    },
+                    {
+                        "clueStart": 16,
+                        "clueNum": 8,
+                        "clueEnd": 19,
+                        "value": "Amused text shorthand"
+                    },
+                    {
+                        "clueStart": 21,
+                        "clueNum": 9,
+                        "clueEnd": 24,
+                        "value": "What always goes to waist?"
+                    }
+                ],
+                "D": [
+                    {
+                        "clueStart": 0,
+                        "clueNum": 1,
+                        "clueEnd": 10,
+                        "value": "One of five in a Mini crossword"
+                    },
+                    {
+                        "clueStart": 1,
+                        "clueNum": 2,
+                        "clueEnd": 21,
+                        "value": "Dental care brand"
+                    },
+                    {
+                        "clueStart": 2,
+                        "clueNum": 3,
+                        "clueEnd": 22,
+                        "value": "\"Please, it would be my pleasure\""
+                    },
+                    {
+                        "clueStart": 3,
+                        "clueNum": 4,
+                        "clueEnd": 23,
+                        "value": "___ news (11 p.m. broadcast)"
+                    },
+                    {
+                        "clueStart": 14,
+                        "clueNum": 7,
+                        "clueEnd": 24,
+                        "value": "Like jalape\u00c3\u00b1os and Death Valley"
+                    }
+                ]
+            },
+            "answers": [
+                "R",
+                "O",
+                "L",
+                "L",
+                null,
+                "O",
+                "R",
+                "E",
+                "O",
+                null,
+                "W",
+                "A",
+                "T",
+                "C",
+                "H",
+                null,
+                "L",
+                "M",
+                "A",
+                "O",
+                null,
+                "B",
+                "E",
+                "L",
+                "T"
+            ],
+            "layout": [
+                1,
+                1,
+                1,
+                1,
+                0,
+                1,
+                1,
+                1,
+                1,
+                0,
+                1,
+                1,
+                1,
+                1,
+                1,
+                0,
+                1,
+                1,
+                1,
+                1,
+                0,
+                1,
+                1,
+                1,
+                1
+            ]
+        }
+    }
+]
