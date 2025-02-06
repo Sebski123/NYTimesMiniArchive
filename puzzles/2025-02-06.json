@@ -1,0 +1,142 @@
+[
+    {
+        "puzzle_id": 22611,
+        "promo_id": null,
+        "version": 3,
+        "puzzle_meta": {
+            "formatType": "Normal",
+            "publishType": "Daily",
+            "title": "The Mini Crossword",
+            "printDate": "2025-02-06",
+            "printDotw": 0,
+            "editor": "",
+            "height": 5,
+            "width": 5,
+            "author": "Joel Fagliano"
+        },
+        "print_date": "2025-02-06",
+        "enhanced_tier_date": null,
+        "puzzle_data": {
+            "clues": {
+                "A": [
+                    {
+                        "clueStart": 1,
+                        "clueNum": 1,
+                        "clueEnd": 4,
+                        "value": "Chief Norse god"
+                    },
+                    {
+                        "clueStart": 5,
+                        "clueNum": 5,
+                        "clueEnd": 9,
+                        "value": "Required number"
+                    },
+                    {
+                        "clueStart": 10,
+                        "clueNum": 6,
+                        "clueEnd": 14,
+                        "value": "Open, as a sleeping bag"
+                    },
+                    {
+                        "clueStart": 15,
+                        "clueNum": 7,
+                        "clueEnd": 18,
+                        "value": "Puts a cold pack on"
+                    },
+                    {
+                        "clueStart": 20,
+                        "clueNum": 8,
+                        "clueEnd": 22,
+                        "value": "Scrabble value of the circled letters"
+                    }
+                ],
+                "D": [
+                    {
+                        "clueStart": 1,
+                        "clueNum": 1,
+                        "clueEnd": 21,
+                        "value": "Unit of weight whose symbol includes a \"z\""
+                    },
+                    {
+                        "clueStart": 2,
+                        "clueNum": 2,
+                        "clueEnd": 22,
+                        "value": "Baker's ___"
+                    },
+                    {
+                        "clueStart": 3,
+                        "clueNum": 3,
+                        "clueEnd": 18,
+                        "value": "\"That's correct\""
+                    },
+                    {
+                        "clueStart": 4,
+                        "clueNum": 4,
+                        "clueEnd": 14,
+                        "value": "Hit the hay during the day"
+                    },
+                    {
+                        "clueStart": 5,
+                        "clueNum": 5,
+                        "clueEnd": 20,
+                        "value": "Give up"
+                    }
+                ]
+            },
+            "answers": [
+                null,
+                "O",
+                "D",
+                "I",
+                "N",
+                "Q",
+                "U",
+                "O",
+                "T",
+                "A",
+                "U",
+                "N",
+                "Z",
+                "I",
+                "P",
+                "I",
+                "C",
+                "E",
+                "S",
+                null,
+                "T",
+                "E",
+                "N",
+                null,
+                null
+            ],
+            "layout": [
+                0,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                0,
+                1,
+                1,
+                1,
+                0,
+                0
+            ]
+        }
+    }
+]
