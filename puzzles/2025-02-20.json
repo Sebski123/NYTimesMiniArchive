@@ -1,0 +1,158 @@
+[
+    {
+        "puzzle_id": 22616,
+        "promo_id": null,
+        "version": 3,
+        "puzzle_meta": {
+            "formatType": "Normal",
+            "publishType": "Daily",
+            "title": "The Mini Crossword",
+            "printDate": "2025-02-20",
+            "printDotw": 0,
+            "editor": "Joel Fagliano",
+            "height": 5,
+            "width": 6,
+            "author": "Sam Ezersky"
+        },
+        "print_date": "2025-02-20",
+        "enhanced_tier_date": null,
+        "puzzle_data": {
+            "clues": {
+                "A": [
+                    {
+                        "clueStart": 3,
+                        "clueNum": 1,
+                        "clueEnd": 5,
+                        "value": "Sound of hard impact"
+                    },
+                    {
+                        "clueStart": 6,
+                        "clueNum": 4,
+                        "clueEnd": 11,
+                        "value": "\"Hoo-wee!\""
+                    },
+                    {
+                        "clueStart": 12,
+                        "clueNum": 7,
+                        "clueEnd": 17,
+                        "value": "With 8-Across, kind of bus associated with London"
+                    },
+                    {
+                        "clueStart": 18,
+                        "clueNum": 8,
+                        "clueEnd": 23,
+                        "value": "See 7-Across"
+                    },
+                    {
+                        "clueStart": 27,
+                        "clueNum": 9,
+                        "clueEnd": 29,
+                        "value": "Sponsored posts in one's newsfeed, e.g."
+                    }
+                ],
+                "D": [
+                    {
+                        "clueStart": 3,
+                        "clueNum": 1,
+                        "clueEnd": 27,
+                        "value": "Dessert described as \"half-bread, half-cake\""
+                    },
+                    {
+                        "clueStart": 4,
+                        "clueNum": 2,
+                        "clueEnd": 28,
+                        "value": "Having a full range of physical or mental abilities"
+                    },
+                    {
+                        "clueStart": 5,
+                        "clueNum": 3,
+                        "clueEnd": 29,
+                        "value": "Mike who played Austin Powers"
+                    },
+                    {
+                        "clueStart": 6,
+                        "clueNum": 4,
+                        "clueEnd": 18,
+                        "value": "Quirky"
+                    },
+                    {
+                        "clueStart": 7,
+                        "clueNum": 5,
+                        "clueEnd": 19,
+                        "value": "Garden tool used for weeding"
+                    },
+                    {
+                        "clueStart": 8,
+                        "clueNum": 6,
+                        "clueEnd": 20,
+                        "value": "Tampa Bay football player, for short"
+                    }
+                ]
+            },
+            "answers": [
+                null,
+                null,
+                null,
+                "B",
+                "A",
+                "M",
+                "O",
+                "H",
+                "B",
+                "A",
+                "B",
+                "Y",
+                "D",
+                "O",
+                "U",
+                "B",
+                "L",
+                "E",
+                "D",
+                "E",
+                "C",
+                "K",
+                "E",
+                "R",
+                null,
+                null,
+                null,
+                "A",
+                "D",
+                "S"
+            ],
+            "layout": [
+                0,
+                0,
+                0,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                0,
+                0,
+                0,
+                1,
+                1,
+                1
+            ]
+        }
+    }
+]
