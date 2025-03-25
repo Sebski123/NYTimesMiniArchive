@@ -1,0 +1,142 @@
+[
+    {
+        "puzzle_id": 22728,
+        "promo_id": null,
+        "version": 3,
+        "puzzle_meta": {
+            "formatType": "Normal",
+            "publishType": "Daily",
+            "title": "The Mini Crossword",
+            "printDate": "2025-03-25",
+            "printDotw": 0,
+            "editor": "Joel Fagliano",
+            "height": 5,
+            "width": 5,
+            "author": "Tracy Bennett"
+        },
+        "print_date": "2025-03-25",
+        "enhanced_tier_date": null,
+        "puzzle_data": {
+            "clues": {
+                "A": [
+                    {
+                        "clueStart": 0,
+                        "clueNum": 1,
+                        "clueEnd": 3,
+                        "value": "Grouchy homeowner in Pixar's \"Up\""
+                    },
+                    {
+                        "clueStart": 5,
+                        "clueNum": 5,
+                        "clueEnd": 9,
+                        "value": "Sneezy sound"
+                    },
+                    {
+                        "clueStart": 10,
+                        "clueNum": 7,
+                        "clueEnd": 14,
+                        "value": "Speedy sound"
+                    },
+                    {
+                        "clueStart": 15,
+                        "clueNum": 8,
+                        "clueEnd": 19,
+                        "value": "Pick up on"
+                    },
+                    {
+                        "clueStart": 21,
+                        "clueNum": 9,
+                        "clueEnd": 24,
+                        "value": "Facebook message status after \"Sent\" and \"Delivered\""
+                    }
+                ],
+                "D": [
+                    {
+                        "clueStart": 0,
+                        "clueNum": 1,
+                        "clueEnd": 15,
+                        "value": "#1 seed in the N.B.A.'s Eastern Conference, informally"
+                    },
+                    {
+                        "clueStart": 1,
+                        "clueNum": 2,
+                        "clueEnd": 21,
+                        "value": "Farmers' lots"
+                    },
+                    {
+                        "clueStart": 2,
+                        "clueNum": 3,
+                        "clueEnd": 22,
+                        "value": "French wine region"
+                    },
+                    {
+                        "clueStart": 3,
+                        "clueNum": 4,
+                        "clueEnd": 23,
+                        "value": "Like lips that sink ships"
+                    },
+                    {
+                        "clueStart": 9,
+                        "clueNum": 6,
+                        "clueEnd": 24,
+                        "value": "Anomaly taken as a sign, say"
+                    }
+                ]
+            },
+            "answers": [
+                "C",
+                "A",
+                "R",
+                "L",
+                null,
+                "A",
+                "C",
+                "H",
+                "O",
+                "O",
+                "V",
+                "R",
+                "O",
+                "O",
+                "M",
+                "S",
+                "E",
+                "N",
+                "S",
+                "E",
+                null,
+                "S",
+                "E",
+                "E",
+                "N"
+            ],
+            "layout": [
+                1,
+                1,
+                1,
+                1,
+                0,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                0,
+                1,
+                1,
+                1,
+                1
+            ]
+        }
+    }
+]
