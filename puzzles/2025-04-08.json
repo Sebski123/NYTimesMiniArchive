@@ -1,0 +1,142 @@
+[
+    {
+        "puzzle_id": 22765,
+        "promo_id": null,
+        "version": 3,
+        "puzzle_meta": {
+            "formatType": "Normal",
+            "publishType": "Daily",
+            "title": "The Mini Crossword",
+            "printDate": "2025-04-08",
+            "printDotw": 0,
+            "editor": "",
+            "height": 5,
+            "width": 5,
+            "author": "Joel Fagliano"
+        },
+        "print_date": "2025-04-08",
+        "enhanced_tier_date": null,
+        "puzzle_data": {
+            "clues": {
+                "A": [
+                    {
+                        "clueStart": 1,
+                        "clueNum": 1,
+                        "clueEnd": 4,
+                        "value": "Only rock that humans regularly eat"
+                    },
+                    {
+                        "clueStart": 6,
+                        "clueNum": 5,
+                        "clueEnd": 9,
+                        "value": "Ten-legged sea creature"
+                    },
+                    {
+                        "clueStart": 10,
+                        "clueNum": 6,
+                        "clueEnd": 14,
+                        "value": "Ones who might be \"cheesed off\" (annoyed) or \"chuffed to bits\" (happy)"
+                    },
+                    {
+                        "clueStart": 15,
+                        "clueNum": 7,
+                        "clueEnd": 18,
+                        "value": "Right-E?"
+                    },
+                    {
+                        "clueStart": 20,
+                        "clueNum": 8,
+                        "clueEnd": 23,
+                        "value": "Fencing sword"
+                    }
+                ],
+                "D": [
+                    {
+                        "clueStart": 1,
+                        "clueNum": 1,
+                        "clueEnd": 21,
+                        "value": "Throw in the trash"
+                    },
+                    {
+                        "clueStart": 2,
+                        "clueNum": 2,
+                        "clueEnd": 22,
+                        "value": "Come up"
+                    },
+                    {
+                        "clueStart": 3,
+                        "clueNum": 3,
+                        "clueEnd": 23,
+                        "value": "Caff\u00c3\u00a8 ___ (espresso drink)"
+                    },
+                    {
+                        "clueStart": 4,
+                        "clueNum": 4,
+                        "clueEnd": 14,
+                        "value": "Cable channel that airs March Madness games"
+                    },
+                    {
+                        "clueStart": 10,
+                        "clueNum": 6,
+                        "clueEnd": 20,
+                        "value": "Busy buzzer"
+                    }
+                ]
+            },
+            "answers": [
+                null,
+                "S",
+                "A",
+                "L",
+                "T",
+                null,
+                "C",
+                "R",
+                "A",
+                "B",
+                "B",
+                "R",
+                "I",
+                "T",
+                "S",
+                "E",
+                "A",
+                "S",
+                "T",
+                null,
+                "E",
+                "P",
+                "E",
+                "E",
+                null
+            ],
+            "layout": [
+                0,
+                1,
+                1,
+                1,
+                1,
+                0,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                0,
+                1,
+                1,
+                1,
+                1,
+                0
+            ]
+        }
+    }
+]
