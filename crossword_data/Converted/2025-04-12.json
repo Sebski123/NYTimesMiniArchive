@@ -1,0 +1,254 @@
+[
+    {
+        "puzzle_id": 22767,
+        "promo_id": null,
+        "version": 3,
+        "puzzle_meta": {
+            "formatType": "Normal",
+            "publishType": "Daily",
+            "title": "The Mini Crossword",
+            "printDate": "2025-04-12",
+            "printDotw": 0,
+            "editor": "",
+            "height": 6,
+            "width": 9,
+            "author": "Joel Fagliano"
+        },
+        "print_date": "2025-04-12",
+        "enhanced_tier_date": null,
+        "puzzle_data": {
+            "clues": {
+                "A": [
+                    {
+                        "clueStart": 0,
+                        "clueNum": 1,
+                        "clueEnd": 2,
+                        "value": "Do, re, mi, fa, ___, la ..."
+                    },
+                    {
+                        "clueStart": 6,
+                        "clueNum": 4,
+                        "clueEnd": 8,
+                        "value": "Still up in the air, for short"
+                    },
+                    {
+                        "clueStart": 9,
+                        "clueNum": 7,
+                        "clueEnd": 13,
+                        "value": "With 14-Across, \"?????\""
+                    },
+                    {
+                        "clueStart": 15,
+                        "clueNum": 9,
+                        "clueEnd": 17,
+                        "value": "___ Grande"
+                    },
+                    {
+                        "clueStart": 18,
+                        "clueNum": 10,
+                        "clueEnd": 21,
+                        "value": "Bone connecting the elbow and wrist"
+                    },
+                    {
+                        "clueStart": 24,
+                        "clueNum": 11,
+                        "clueEnd": 26,
+                        "value": "Things issued by the D.M.V."
+                    },
+                    {
+                        "clueStart": 27,
+                        "clueNum": 12,
+                        "clueEnd": 30,
+                        "value": "Elaborate hairstyle"
+                    },
+                    {
+                        "clueStart": 32,
+                        "clueNum": 13,
+                        "clueEnd": 35,
+                        "value": "Part of the eye that contains the iris"
+                    },
+                    {
+                        "clueStart": 36,
+                        "clueNum": 14,
+                        "clueEnd": 44,
+                        "value": "See 7-Across"
+                    },
+                    {
+                        "clueStart": 45,
+                        "clueNum": 15,
+                        "clueEnd": 48,
+                        "value": "\"Sure, whatever you say ...\""
+                    },
+                    {
+                        "clueStart": 50,
+                        "clueNum": 16,
+                        "clueEnd": 53,
+                        "value": "24 cans of beer"
+                    }
+                ],
+                "D": [
+                    {
+                        "clueStart": 0,
+                        "clueNum": 1,
+                        "clueEnd": 45,
+                        "value": "Plaster wall coating"
+                    },
+                    {
+                        "clueStart": 1,
+                        "clueNum": 2,
+                        "clueEnd": 46,
+                        "value": "\"Hey, check it out!\""
+                    },
+                    {
+                        "clueStart": 2,
+                        "clueNum": 3,
+                        "clueEnd": 47,
+                        "value": "Weather phenomenon that translates to \"the girl\""
+                    },
+                    {
+                        "clueStart": 6,
+                        "clueNum": 4,
+                        "clueEnd": 51,
+                        "value": "It's full of questions"
+                    },
+                    {
+                        "clueStart": 7,
+                        "clueNum": 5,
+                        "clueEnd": 52,
+                        "value": "White House family during the 2020s"
+                    },
+                    {
+                        "clueStart": 8,
+                        "clueNum": 6,
+                        "clueEnd": 53,
+                        "value": "Medicinal amount"
+                    },
+                    {
+                        "clueStart": 12,
+                        "clueNum": 8,
+                        "clueEnd": 48,
+                        "value": "Chewy candy"
+                    },
+                    {
+                        "clueStart": 32,
+                        "clueNum": 13,
+                        "clueEnd": 50,
+                        "value": "Sch. that plays home football games at the L.A. Coliseum"
+                    }
+                ]
+            },
+            "answers": [
+                "S",
+                "O",
+                "L",
+                null,
+                null,
+                null,
+                "T",
+                "B",
+                "D",
+                "T",
+                "H",
+                "A",
+                "T",
+                "S",
+                null,
+                "R",
+                "I",
+                "O",
+                "U",
+                "L",
+                "N",
+                "A",
+                null,
+                null,
+                "I",
+                "D",
+                "S",
+                "C",
+                "O",
+                "I",
+                "F",
+                null,
+                "U",
+                "V",
+                "E",
+                "A",
+                "C",
+                "O",
+                "N",
+                "F",
+                "U",
+                "S",
+                "I",
+                "N",
+                "G",
+                "O",
+                "K",
+                "A",
+                "Y",
+                null,
+                "C",
+                "A",
+                "S",
+                "E"
+            ],
+            "layout": [
+                1,
+                1,
+                1,
+                0,
+                0,
+                0,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                0,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                0,
+                0,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                0,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                0,
+                1,
+                1,
+                1,
+                1
+            ]
+        }
+    }
+]
