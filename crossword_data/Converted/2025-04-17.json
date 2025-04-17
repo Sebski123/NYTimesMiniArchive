@@ -1,0 +1,158 @@
+[
+    {
+        "puzzle_id": 22715,
+        "promo_id": null,
+        "version": 3,
+        "puzzle_meta": {
+            "formatType": "Normal",
+            "publishType": "Daily",
+            "title": "The Mini Crossword",
+            "printDate": "2025-04-17",
+            "printDotw": 0,
+            "editor": "Joel Fagliano",
+            "height": 5,
+            "width": 6,
+            "author": "Sam Ezersky"
+        },
+        "print_date": "2025-04-17",
+        "enhanced_tier_date": null,
+        "puzzle_data": {
+            "clues": {
+                "A": [
+                    {
+                        "clueStart": 1,
+                        "clueNum": 1,
+                        "clueEnd": 5,
+                        "value": "Person, ___ or thing"
+                    },
+                    {
+                        "clueStart": 6,
+                        "clueNum": 6,
+                        "clueEnd": 11,
+                        "value": "Like someone you shouldn't trust with fragile objects"
+                    },
+                    {
+                        "clueStart": 12,
+                        "clueNum": 7,
+                        "clueEnd": 17,
+                        "value": "A time to dye?"
+                    },
+                    {
+                        "clueStart": 18,
+                        "clueNum": 8,
+                        "clueEnd": 23,
+                        "value": "Dangle a carrot in front of"
+                    },
+                    {
+                        "clueStart": 24,
+                        "clueNum": 9,
+                        "clueEnd": 28,
+                        "value": "Class for a cognitive science major, for short"
+                    }
+                ],
+                "D": [
+                    {
+                        "clueStart": 1,
+                        "clueNum": 1,
+                        "clueEnd": 25,
+                        "value": "Activities on the docket"
+                    },
+                    {
+                        "clueStart": 2,
+                        "clueNum": 2,
+                        "clueEnd": 26,
+                        "value": "Full of sexual desire"
+                    },
+                    {
+                        "clueStart": 3,
+                        "clueNum": 3,
+                        "clueEnd": 27,
+                        "value": "Commonly cobwebby room"
+                    },
+                    {
+                        "clueStart": 4,
+                        "clueNum": 4,
+                        "clueEnd": 28,
+                        "value": "From Prague, say"
+                    },
+                    {
+                        "clueStart": 5,
+                        "clueNum": 5,
+                        "clueEnd": 23,
+                        "value": "Jane in classic literature"
+                    },
+                    {
+                        "clueStart": 6,
+                        "clueNum": 6,
+                        "clueEnd": 24,
+                        "value": "Not get rid of"
+                    }
+                ]
+            },
+            "answers": [
+                null,
+                "P",
+                "L",
+                "A",
+                "C",
+                "E",
+                "K",
+                "L",
+                "U",
+                "T",
+                "Z",
+                "Y",
+                "E",
+                "A",
+                "S",
+                "T",
+                "E",
+                "R",
+                "E",
+                "N",
+                "T",
+                "I",
+                "C",
+                "E",
+                "P",
+                "S",
+                "Y",
+                "C",
+                "H",
+                null
+            ],
+            "layout": [
+                0,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                0
+            ]
+        }
+    }
+]
