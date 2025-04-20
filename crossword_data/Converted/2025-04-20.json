@@ -1,0 +1,158 @@
+[
+    {
+        "puzzle_id": 22718,
+        "promo_id": null,
+        "version": 3,
+        "puzzle_meta": {
+            "formatType": "Normal",
+            "publishType": "Daily",
+            "title": "The Mini Crossword",
+            "printDate": "2025-04-20",
+            "printDotw": 0,
+            "editor": "Joel Fagliano",
+            "height": 5,
+            "width": 6,
+            "author": "Sam Ezersky"
+        },
+        "print_date": "2025-04-20",
+        "enhanced_tier_date": null,
+        "puzzle_data": {
+            "clues": {
+                "A": [
+                    {
+                        "clueStart": 2,
+                        "clueNum": 1,
+                        "clueEnd": 5,
+                        "value": "Speaking confidently but dishonestly"
+                    },
+                    {
+                        "clueStart": 8,
+                        "clueNum": 5,
+                        "clueEnd": 11,
+                        "value": "Traditional dance at a Jewish wedding"
+                    },
+                    {
+                        "clueStart": 12,
+                        "clueNum": 6,
+                        "clueEnd": 17,
+                        "value": "\"Scram!\""
+                    },
+                    {
+                        "clueStart": 18,
+                        "clueNum": 8,
+                        "clueEnd": 22,
+                        "value": "Hyundai electric car with a creatively spelled name"
+                    },
+                    {
+                        "clueStart": 24,
+                        "clueNum": 9,
+                        "clueEnd": 27,
+                        "value": "Hoops legend with size 22 shoes"
+                    }
+                ],
+                "D": [
+                    {
+                        "clueStart": 2,
+                        "clueNum": 1,
+                        "clueEnd": 26,
+                        "value": "Africa's largest exporter of gold"
+                    },
+                    {
+                        "clueStart": 3,
+                        "clueNum": 2,
+                        "clueEnd": 27,
+                        "value": "Score that's nowhere near Mensa-worthy"
+                    },
+                    {
+                        "clueStart": 4,
+                        "clueNum": 3,
+                        "clueEnd": 22,
+                        "value": "Baghdad's country"
+                    },
+                    {
+                        "clueStart": 5,
+                        "clueNum": 4,
+                        "clueEnd": 17,
+                        "value": "Loading area for trucks"
+                    },
+                    {
+                        "clueStart": 12,
+                        "clueNum": 6,
+                        "clueEnd": 24,
+                        "value": "Army soldiers, for short"
+                    },
+                    {
+                        "clueStart": 13,
+                        "clueNum": 7,
+                        "clueEnd": 25,
+                        "value": "___ and aah"
+                    }
+                ]
+            },
+            "answers": [
+                null,
+                null,
+                "G",
+                "L",
+                "I",
+                "B",
+                null,
+                null,
+                "H",
+                "O",
+                "R",
+                "A",
+                "G",
+                "O",
+                "A",
+                "W",
+                "A",
+                "Y",
+                "I",
+                "O",
+                "N",
+                "I",
+                "Q",
+                null,
+                "S",
+                "H",
+                "A",
+                "Q",
+                null,
+                null
+            ],
+            "layout": [
+                0,
+                0,
+                1,
+                1,
+                1,
+                1,
+                0,
+                0,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                0,
+                1,
+                1,
+                1,
+                1,
+                0,
+                0
+            ]
+        }
+    }
+]
