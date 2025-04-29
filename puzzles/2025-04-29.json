@@ -1,0 +1,158 @@
+[
+    {
+        "puzzle_id": 22803,
+        "promo_id": null,
+        "version": 3,
+        "puzzle_meta": {
+            "formatType": "Normal",
+            "publishType": "Daily",
+            "title": "The Mini Crossword",
+            "printDate": "2025-04-29",
+            "printDotw": 0,
+            "editor": "Joel Fagliano",
+            "height": 6,
+            "width": 5,
+            "author": "Christina Iverson"
+        },
+        "print_date": "2025-04-29",
+        "enhanced_tier_date": null,
+        "puzzle_data": {
+            "clues": {
+                "A": [
+                    {
+                        "clueStart": 1,
+                        "clueNum": 1,
+                        "clueEnd": 3,
+                        "value": "The \"A\" of MoMA"
+                    },
+                    {
+                        "clueStart": 6,
+                        "clueNum": 4,
+                        "clueEnd": 8,
+                        "value": "Like steak tartare and carpaccio"
+                    },
+                    {
+                        "clueStart": 10,
+                        "clueNum": 5,
+                        "clueEnd": 14,
+                        "value": "Attire for wizards and judges"
+                    },
+                    {
+                        "clueStart": 15,
+                        "clueNum": 7,
+                        "clueEnd": 19,
+                        "value": "Warm shade of yellowish-orange"
+                    },
+                    {
+                        "clueStart": 20,
+                        "clueNum": 8,
+                        "clueEnd": 24,
+                        "value": "Most populous country in the Caribbean"
+                    },
+                    {
+                        "clueStart": 26,
+                        "clueNum": 9,
+                        "clueEnd": 28,
+                        "value": "Messy room, so to speak"
+                    }
+                ],
+                "D": [
+                    {
+                        "clueStart": 1,
+                        "clueNum": 1,
+                        "clueEnd": 26,
+                        "value": "Noted features of bakeries and candle shops"
+                    },
+                    {
+                        "clueStart": 2,
+                        "clueNum": 2,
+                        "clueEnd": 27,
+                        "value": "What a magician might pull out of the [circled letters]"
+                    },
+                    {
+                        "clueStart": 3,
+                        "clueNum": 3,
+                        "clueEnd": 28,
+                        "value": "\"I tawt I taw a puddy tat!\" speaker"
+                    },
+                    {
+                        "clueStart": 10,
+                        "clueNum": 5,
+                        "clueEnd": 20,
+                        "value": "\"Go team!\""
+                    },
+                    {
+                        "clueStart": 14,
+                        "clueNum": 6,
+                        "clueEnd": 24,
+                        "value": "___ Lanka"
+                    }
+                ]
+            },
+            "answers": [
+                null,
+                "A",
+                "R",
+                "T",
+                null,
+                null,
+                "R",
+                "A",
+                "W",
+                null,
+                "R",
+                "O",
+                "B",
+                "E",
+                "S",
+                "A",
+                "M",
+                "B",
+                "E",
+                "R",
+                "H",
+                "A",
+                "I",
+                "T",
+                "I",
+                null,
+                "S",
+                "T",
+                "Y",
+                null
+            ],
+            "layout": [
+                0,
+                1,
+                1,
+                1,
+                0,
+                0,
+                1,
+                1,
+                1,
+                0,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                0,
+                1,
+                1,
+                1,
+                0
+            ]
+        }
+    }
+]
