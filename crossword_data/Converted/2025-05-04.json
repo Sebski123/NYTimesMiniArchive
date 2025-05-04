@@ -1,0 +1,158 @@
+[
+    {
+        "puzzle_id": 22790,
+        "promo_id": null,
+        "version": 3,
+        "puzzle_meta": {
+            "formatType": "Normal",
+            "publishType": "Daily",
+            "title": "The Mini Crossword",
+            "printDate": "2025-05-04",
+            "printDotw": 0,
+            "editor": "",
+            "height": 5,
+            "width": 6,
+            "author": "Joel Fagliano"
+        },
+        "print_date": "2025-05-04",
+        "enhanced_tier_date": null,
+        "puzzle_data": {
+            "clues": {
+                "A": [
+                    {
+                        "clueStart": 0,
+                        "clueNum": 1,
+                        "clueEnd": 3,
+                        "value": "Wines that Napa Valley is renowned for, informally"
+                    },
+                    {
+                        "clueStart": 6,
+                        "clueNum": 5,
+                        "clueEnd": 11,
+                        "value": "\"Right away!\""
+                    },
+                    {
+                        "clueStart": 12,
+                        "clueNum": 8,
+                        "clueEnd": 17,
+                        "value": "School students"
+                    },
+                    {
+                        "clueStart": 18,
+                        "clueNum": 9,
+                        "clueEnd": 23,
+                        "value": "Make a mistake ... or 8-Across backward"
+                    },
+                    {
+                        "clueStart": 26,
+                        "clueNum": 10,
+                        "clueEnd": 29,
+                        "value": "Many a new driver"
+                    }
+                ],
+                "D": [
+                    {
+                        "clueStart": 0,
+                        "clueNum": 1,
+                        "clueEnd": 18,
+                        "value": "Items of clothing that may be worn backward"
+                    },
+                    {
+                        "clueStart": 1,
+                        "clueNum": 2,
+                        "clueEnd": 19,
+                        "value": "___ Gawande, surgeon with the #1 New York Times best seller \"Being Mortal\""
+                    },
+                    {
+                        "clueStart": 2,
+                        "clueNum": 3,
+                        "clueEnd": 26,
+                        "value": "Hasbro toy with a pull handle and twistable crank"
+                    },
+                    {
+                        "clueStart": 3,
+                        "clueNum": 4,
+                        "clueEnd": 27,
+                        "value": "Criticize snarkily, with \"at\""
+                    },
+                    {
+                        "clueStart": 10,
+                        "clueNum": 6,
+                        "clueEnd": 28,
+                        "value": "You're reading it"
+                    },
+                    {
+                        "clueStart": 11,
+                        "clueNum": 7,
+                        "clueEnd": 29,
+                        "value": "Channel with \"2\" and \"U\" spinoffs"
+                    }
+                ]
+            },
+            "answers": [
+                "C",
+                "A",
+                "B",
+                "S",
+                null,
+                null,
+                "A",
+                "T",
+                "O",
+                "N",
+                "C",
+                "E",
+                "P",
+                "U",
+                "P",
+                "I",
+                "L",
+                "S",
+                "S",
+                "L",
+                "I",
+                "P",
+                "U",
+                "P",
+                null,
+                null,
+                "T",
+                "E",
+                "E",
+                "N"
+            ],
+            "layout": [
+                1,
+                1,
+                1,
+                1,
+                0,
+                0,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                0,
+                0,
+                1,
+                1,
+                1,
+                1
+            ]
+        }
+    }
+]
