@@ -1,0 +1,142 @@
+[
+    {
+        "puzzle_id": 22805,
+        "promo_id": null,
+        "version": 3,
+        "puzzle_meta": {
+            "formatType": "Normal",
+            "publishType": "Daily",
+            "title": "The Mini Crossword",
+            "printDate": "2025-05-20",
+            "printDotw": 0,
+            "editor": "Joel Fagliano",
+            "height": 5,
+            "width": 5,
+            "author": "Christina Iverson"
+        },
+        "print_date": "2025-05-20",
+        "enhanced_tier_date": null,
+        "puzzle_data": {
+            "clues": {
+                "A": [
+                    {
+                        "clueStart": 1,
+                        "clueNum": 1,
+                        "clueEnd": 4,
+                        "value": "\"Pink ___ Club\" (Chappell Roan hit)"
+                    },
+                    {
+                        "clueStart": 5,
+                        "clueNum": 5,
+                        "clueEnd": 9,
+                        "value": "Instrument that might be made with a comb and wax paper"
+                    },
+                    {
+                        "clueStart": 10,
+                        "clueNum": 6,
+                        "clueEnd": 14,
+                        "value": "How bedtime stories are often read"
+                    },
+                    {
+                        "clueStart": 15,
+                        "clueNum": 7,
+                        "clueEnd": 19,
+                        "value": "On edge"
+                    },
+                    {
+                        "clueStart": 21,
+                        "clueNum": 8,
+                        "clueEnd": 24,
+                        "value": "Short Instagram video"
+                    }
+                ],
+                "D": [
+                    {
+                        "clueStart": 1,
+                        "clueNum": 1,
+                        "clueEnd": 21,
+                        "value": "Less colorful"
+                    },
+                    {
+                        "clueStart": 2,
+                        "clueNum": 2,
+                        "clueEnd": 22,
+                        "value": "Layer of the upper atmosphere"
+                    },
+                    {
+                        "clueStart": 3,
+                        "clueNum": 3,
+                        "clueEnd": 23,
+                        "value": "Totally pointless"
+                    },
+                    {
+                        "clueStart": 4,
+                        "clueNum": 4,
+                        "clueEnd": 24,
+                        "value": "Hit a high note in a high place, perhaps"
+                    },
+                    {
+                        "clueStart": 5,
+                        "clueNum": 5,
+                        "clueEnd": 15,
+                        "value": "Kit ___ bar"
+                    }
+                ]
+            },
+            "answers": [
+                null,
+                "P",
+                "O",
+                "N",
+                "Y",
+                "K",
+                "A",
+                "Z",
+                "O",
+                "O",
+                "A",
+                "L",
+                "O",
+                "U",
+                "D",
+                "T",
+                "E",
+                "N",
+                "S",
+                "E",
+                null,
+                "R",
+                "E",
+                "E",
+                "L"
+            ],
+            "layout": [
+                0,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                0,
+                1,
+                1,
+                1,
+                1
+            ]
+        }
+    }
+]
