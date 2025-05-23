@@ -1,0 +1,158 @@
+[
+    {
+        "puzzle_id": 22827,
+        "promo_id": null,
+        "version": 3,
+        "puzzle_meta": {
+            "formatType": "Normal",
+            "publishType": "Daily",
+            "title": "The Mini Crossword",
+            "printDate": "2025-05-23",
+            "printDotw": 0,
+            "editor": "Joel Fagliano",
+            "height": 5,
+            "width": 6,
+            "author": "Sam Ezersky"
+        },
+        "print_date": "2025-05-23",
+        "enhanced_tier_date": null,
+        "puzzle_data": {
+            "clues": {
+                "A": [
+                    {
+                        "clueStart": 2,
+                        "clueNum": 1,
+                        "clueEnd": 5,
+                        "value": "Chooses to receive marketing emails, with \"in\""
+                    },
+                    {
+                        "clueStart": 7,
+                        "clueNum": 5,
+                        "clueEnd": 11,
+                        "value": "Buck ___, first Black coach in Major League Baseball (1962)"
+                    },
+                    {
+                        "clueStart": 12,
+                        "clueNum": 6,
+                        "clueEnd": 17,
+                        "value": "Like your epidermis?"
+                    },
+                    {
+                        "clueStart": 18,
+                        "clueNum": 7,
+                        "clueEnd": 22,
+                        "value": "Like the element Fe?"
+                    },
+                    {
+                        "clueStart": 24,
+                        "clueNum": 8,
+                        "clueEnd": 27,
+                        "value": "Quite a lot of"
+                    }
+                ],
+                "D": [
+                    {
+                        "clueStart": 2,
+                        "clueNum": 1,
+                        "clueEnd": 26,
+                        "value": "Bulb in the kitchen"
+                    },
+                    {
+                        "clueStart": 3,
+                        "clueNum": 2,
+                        "clueEnd": 27,
+                        "value": "Like an ink-filled writing tool?"
+                    },
+                    {
+                        "clueStart": 4,
+                        "clueNum": 3,
+                        "clueEnd": 22,
+                        "value": "Microscopic"
+                    },
+                    {
+                        "clueStart": 5,
+                        "clueNum": 4,
+                        "clueEnd": 17,
+                        "value": "Acting deviously"
+                    },
+                    {
+                        "clueStart": 7,
+                        "clueNum": 5,
+                        "clueEnd": 25,
+                        "value": "Green gumbo ingredient"
+                    },
+                    {
+                        "clueStart": 12,
+                        "clueNum": 6,
+                        "clueEnd": 24,
+                        "value": "___ card (smartphone chip)"
+                    }
+                ]
+            },
+            "answers": [
+                null,
+                null,
+                "O",
+                "P",
+                "T",
+                "S",
+                null,
+                "O",
+                "N",
+                "E",
+                "I",
+                "L",
+                "S",
+                "K",
+                "I",
+                "N",
+                "N",
+                "Y",
+                "I",
+                "R",
+                "O",
+                "N",
+                "Y",
+                null,
+                "M",
+                "A",
+                "N",
+                "Y",
+                null,
+                null
+            ],
+            "layout": [
+                0,
+                0,
+                1,
+                1,
+                1,
+                1,
+                0,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                0,
+                1,
+                1,
+                1,
+                1,
+                0,
+                0
+            ]
+        }
+    }
+]
