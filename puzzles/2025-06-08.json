@@ -1,0 +1,142 @@
+[
+    {
+        "puzzle_id": 22879,
+        "promo_id": null,
+        "version": 3,
+        "puzzle_meta": {
+            "formatType": "Normal",
+            "publishType": "Daily",
+            "title": "The Mini Crossword",
+            "printDate": "2025-06-08",
+            "printDotw": 0,
+            "editor": "",
+            "height": 5,
+            "width": 5,
+            "author": "Joel Fagliano"
+        },
+        "print_date": "2025-06-08",
+        "enhanced_tier_date": null,
+        "puzzle_data": {
+            "clues": {
+                "A": [
+                    {
+                        "clueStart": 1,
+                        "clueNum": 1,
+                        "clueEnd": 3,
+                        "value": "Org. with shooting stars"
+                    },
+                    {
+                        "clueStart": 5,
+                        "clueNum": 4,
+                        "clueEnd": 9,
+                        "value": "Buildings with weather vanes, stereotypically"
+                    },
+                    {
+                        "clueStart": 10,
+                        "clueNum": 6,
+                        "clueEnd": 14,
+                        "value": "Swiss watch brand"
+                    },
+                    {
+                        "clueStart": 15,
+                        "clueNum": 7,
+                        "clueEnd": 19,
+                        "value": "What Santa, Gandalf and Dumbledore each have"
+                    },
+                    {
+                        "clueStart": 21,
+                        "clueNum": 8,
+                        "clueEnd": 23,
+                        "value": "Pie in the ___"
+                    }
+                ],
+                "D": [
+                    {
+                        "clueStart": 1,
+                        "clueNum": 1,
+                        "clueEnd": 21,
+                        "value": "\"I'm bad with ___\" (party excuse)"
+                    },
+                    {
+                        "clueStart": 2,
+                        "clueNum": 2,
+                        "clueEnd": 22,
+                        "value": "Start of a billiards game"
+                    },
+                    {
+                        "clueStart": 3,
+                        "clueNum": 3,
+                        "clueEnd": 23,
+                        "value": "Seeing red "
+                    },
+                    {
+                        "clueStart": 5,
+                        "clueNum": 4,
+                        "clueEnd": 15,
+                        "value": "Timoth\u00e9e's role in \"A Complete Unknown\""
+                    },
+                    {
+                        "clueStart": 9,
+                        "clueNum": 5,
+                        "clueEnd": 19,
+                        "value": "Feeling blue"
+                    }
+                ]
+            },
+            "answers": [
+                null,
+                "N",
+                "B",
+                "A",
+                null,
+                "B",
+                "A",
+                "R",
+                "N",
+                "S",
+                "O",
+                "M",
+                "E",
+                "G",
+                "A",
+                "B",
+                "E",
+                "A",
+                "R",
+                "D",
+                null,
+                "S",
+                "K",
+                "Y",
+                null
+            ],
+            "layout": [
+                0,
+                1,
+                1,
+                1,
+                0,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                0,
+                1,
+                1,
+                1,
+                0
+            ]
+        }
+    }
+]
