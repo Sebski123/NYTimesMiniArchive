@@ -1,0 +1,142 @@
+[
+    {
+        "puzzle_id": 22943,
+        "promo_id": null,
+        "version": 3,
+        "puzzle_meta": {
+            "formatType": "Normal",
+            "publishType": "Daily",
+            "title": "The Mini Crossword",
+            "printDate": "2025-06-30",
+            "printDotw": 0,
+            "editor": "",
+            "height": 5,
+            "width": 5,
+            "author": "Joel Fagliano"
+        },
+        "print_date": "2025-06-30",
+        "enhanced_tier_date": null,
+        "puzzle_data": {
+            "clues": {
+                "A": [
+                    {
+                        "clueStart": 0,
+                        "clueNum": 1,
+                        "clueEnd": 3,
+                        "value": "Something made of gold or onion"
+                    },
+                    {
+                        "clueStart": 5,
+                        "clueNum": 5,
+                        "clueEnd": 8,
+                        "value": "Title for a Mideast ruler"
+                    },
+                    {
+                        "clueStart": 10,
+                        "clueNum": 6,
+                        "clueEnd": 14,
+                        "value": "\"Jeopardy!\" round with just one clue"
+                    },
+                    {
+                        "clueStart": 16,
+                        "clueNum": 8,
+                        "clueEnd": 19,
+                        "value": "___ baby"
+                    },
+                    {
+                        "clueStart": 21,
+                        "clueNum": 9,
+                        "clueEnd": 24,
+                        "value": "Competed in Pictionary"
+                    }
+                ],
+                "D": [
+                    {
+                        "clueStart": 0,
+                        "clueNum": 1,
+                        "clueEnd": 10,
+                        "value": "Soccer official"
+                    },
+                    {
+                        "clueStart": 1,
+                        "clueNum": 2,
+                        "clueEnd": 21,
+                        "value": "\"Yeah, that bothers me\""
+                    },
+                    {
+                        "clueStart": 2,
+                        "clueNum": 3,
+                        "clueEnd": 22,
+                        "value": "San Francisco football player, informally"
+                    },
+                    {
+                        "clueStart": 3,
+                        "clueNum": 4,
+                        "clueEnd": 23,
+                        "value": "Flavor of purple Skittles"
+                    },
+                    {
+                        "clueStart": 14,
+                        "clueNum": 7,
+                        "clueEnd": 24,
+                        "value": "Flo Rida hit with the lyric \"Apple Bottom jeans, boots with the fur\" "
+                    }
+                ]
+            },
+            "answers": [
+                "R",
+                "I",
+                "N",
+                "G",
+                null,
+                "E",
+                "M",
+                "I",
+                "R",
+                null,
+                "F",
+                "I",
+                "N",
+                "A",
+                "L",
+                null,
+                "N",
+                "E",
+                "P",
+                "O",
+                null,
+                "D",
+                "R",
+                "E",
+                "W"
+            ],
+            "layout": [
+                1,
+                1,
+                1,
+                1,
+                0,
+                1,
+                1,
+                1,
+                1,
+                0,
+                1,
+                1,
+                1,
+                1,
+                1,
+                0,
+                1,
+                1,
+                1,
+                1,
+                0,
+                1,
+                1,
+                1,
+                1
+            ]
+        }
+    }
+]
