@@ -1,0 +1,158 @@
+[
+    {
+        "puzzle_id": 22915,
+        "promo_id": null,
+        "version": 3,
+        "puzzle_meta": {
+            "formatType": "Normal",
+            "publishType": "Daily",
+            "title": "The Mini Crossword",
+            "printDate": "2025-07-01",
+            "printDotw": 0,
+            "editor": "",
+            "height": 5,
+            "width": 6,
+            "author": "Joel Fagliano"
+        },
+        "print_date": "2025-07-01",
+        "enhanced_tier_date": null,
+        "puzzle_data": {
+            "clues": {
+                "A": [
+                    {
+                        "clueStart": 3,
+                        "clueNum": 1,
+                        "clueEnd": 5,
+                        "value": "Something to walk"
+                    },
+                    {
+                        "clueStart": 6,
+                        "clueNum": 4,
+                        "clueEnd": 11,
+                        "value": "Something to jog"
+                    },
+                    {
+                        "clueStart": 12,
+                        "clueNum": 7,
+                        "clueEnd": 17,
+                        "value": "More wicked"
+                    },
+                    {
+                        "clueStart": 18,
+                        "clueNum": 8,
+                        "clueEnd": 23,
+                        "value": "Picture you always keep on you?"
+                    },
+                    {
+                        "clueStart": 24,
+                        "clueNum": 9,
+                        "clueEnd": 26,
+                        "value": "Insect studied by a myrmecologist"
+                    }
+                ],
+                "D": [
+                    {
+                        "clueStart": 3,
+                        "clueNum": 1,
+                        "clueEnd": 21,
+                        "value": "Nincompoop"
+                    },
+                    {
+                        "clueStart": 4,
+                        "clueNum": 2,
+                        "clueEnd": 22,
+                        "value": "Ingredient in cookies 'n cream ice cream"
+                    },
+                    {
+                        "clueStart": 5,
+                        "clueNum": 3,
+                        "clueEnd": 23,
+                        "value": "Greek sandwich"
+                    },
+                    {
+                        "clueStart": 6,
+                        "clueNum": 4,
+                        "clueEnd": 24,
+                        "value": "Zuckerberg's company"
+                    },
+                    {
+                        "clueStart": 7,
+                        "clueNum": 5,
+                        "clueEnd": 25,
+                        "value": "___ Williams (bourbon brand)"
+                    },
+                    {
+                        "clueStart": 8,
+                        "clueNum": 6,
+                        "clueEnd": 26,
+                        "value": "Piece of baseball equipment"
+                    }
+                ]
+            },
+            "answers": [
+                null,
+                null,
+                null,
+                "D",
+                "O",
+                "G",
+                "M",
+                "E",
+                "M",
+                "O",
+                "R",
+                "Y",
+                "E",
+                "V",
+                "I",
+                "L",
+                "E",
+                "R",
+                "T",
+                "A",
+                "T",
+                "T",
+                "O",
+                "O",
+                "A",
+                "N",
+                "T",
+                null,
+                null,
+                null
+            ],
+            "layout": [
+                0,
+                0,
+                0,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                0,
+                0,
+                0
+            ]
+        }
+    }
+]
