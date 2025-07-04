@@ -1,0 +1,142 @@
+[
+    {
+        "puzzle_id": 22941,
+        "promo_id": null,
+        "version": 3,
+        "puzzle_meta": {
+            "formatType": "Normal",
+            "publishType": "Daily",
+            "title": "The Mini Crossword",
+            "printDate": "2025-07-04",
+            "printDotw": 0,
+            "editor": "",
+            "height": 5,
+            "width": 5,
+            "author": "Joel Fagliano"
+        },
+        "print_date": "2025-07-04",
+        "enhanced_tier_date": null,
+        "puzzle_data": {
+            "clues": {
+                "A": [
+                    {
+                        "clueStart": 2,
+                        "clueNum": 1,
+                        "clueEnd": 4,
+                        "value": "Uncle ___"
+                    },
+                    {
+                        "clueStart": 5,
+                        "clueNum": 4,
+                        "clueEnd": 9,
+                        "value": "It's full of stars"
+                    },
+                    {
+                        "clueStart": 10,
+                        "clueNum": 6,
+                        "clueEnd": 14,
+                        "value": "It's full of stripes"
+                    },
+                    {
+                        "clueStart": 15,
+                        "clueNum": 7,
+                        "clueEnd": 19,
+                        "value": "Month when the American Revolutionary War began"
+                    },
+                    {
+                        "clueStart": 22,
+                        "clueNum": 8,
+                        "clueEnd": 24,
+                        "value": "4th of July sales promotions, e.g."
+                    }
+                ],
+                "D": [
+                    {
+                        "clueStart": 2,
+                        "clueNum": 1,
+                        "clueEnd": 22,
+                        "value": "Big brand of hummus"
+                    },
+                    {
+                        "clueStart": 3,
+                        "clueNum": 2,
+                        "clueEnd": 23,
+                        "value": "Foul-smelling"
+                    },
+                    {
+                        "clueStart": 4,
+                        "clueNum": 3,
+                        "clueEnd": 24,
+                        "value": "Breakfast, lunch and dinner"
+                    },
+                    {
+                        "clueStart": 5,
+                        "clueNum": 4,
+                        "clueEnd": 15,
+                        "value": "Singer who performed \"All the Stars\" at Kendrick Lamar's Super Bowl halftime show"
+                    },
+                    {
+                        "clueStart": 6,
+                        "clueNum": 5,
+                        "clueEnd": 16,
+                        "value": "Lively energy"
+                    }
+                ]
+            },
+            "answers": [
+                null,
+                null,
+                "S",
+                "A",
+                "M",
+                "S",
+                "P",
+                "A",
+                "C",
+                "E",
+                "Z",
+                "E",
+                "B",
+                "R",
+                "A",
+                "A",
+                "P",
+                "R",
+                "I",
+                "L",
+                null,
+                null,
+                "A",
+                "D",
+                "S"
+            ],
+            "layout": [
+                0,
+                0,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                0,
+                0,
+                1,
+                1,
+                1
+            ]
+        }
+    }
+]
