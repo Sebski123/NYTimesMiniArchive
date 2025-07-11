@@ -1,0 +1,142 @@
+[
+    {
+        "puzzle_id": 22961,
+        "promo_id": null,
+        "version": 3,
+        "puzzle_meta": {
+            "formatType": "Normal",
+            "publishType": "Daily",
+            "title": "The Mini Crossword",
+            "printDate": "2025-07-11",
+            "printDotw": 0,
+            "editor": "Joel Fagliano",
+            "height": 5,
+            "width": 5,
+            "author": "Sam Ezersky"
+        },
+        "print_date": "2025-07-11",
+        "enhanced_tier_date": null,
+        "puzzle_data": {
+            "clues": {
+                "A": [
+                    {
+                        "clueStart": 0,
+                        "clueNum": 1,
+                        "clueEnd": 3,
+                        "value": "Helpful things"
+                    },
+                    {
+                        "clueStart": 5,
+                        "clueNum": 5,
+                        "clueEnd": 9,
+                        "value": "Pale shade of yellowish-white"
+                    },
+                    {
+                        "clueStart": 10,
+                        "clueNum": 7,
+                        "clueEnd": 14,
+                        "value": "Spiritual leader whose name translates to \"my teacher\""
+                    },
+                    {
+                        "clueStart": 15,
+                        "clueNum": 8,
+                        "clueEnd": 19,
+                        "value": "With 9-Across, parallel bars?"
+                    },
+                    {
+                        "clueStart": 20,
+                        "clueNum": 9,
+                        "clueEnd": 23,
+                        "value": "See 8-Across"
+                    }
+                ],
+                "D": [
+                    {
+                        "clueStart": 0,
+                        "clueNum": 1,
+                        "clueEnd": 20,
+                        "value": "Units of farmland"
+                    },
+                    {
+                        "clueStart": 1,
+                        "clueNum": 2,
+                        "clueEnd": 21,
+                        "value": "Dweller in the country where the Tigris and Euphrates meet"
+                    },
+                    {
+                        "clueStart": 2,
+                        "clueNum": 3,
+                        "clueEnd": 22,
+                        "value": "Fix, as glitchy software"
+                    },
+                    {
+                        "clueStart": 3,
+                        "clueNum": 4,
+                        "clueEnd": 23,
+                        "value": "Longtime Alabama football coach Nick"
+                    },
+                    {
+                        "clueStart": 9,
+                        "clueNum": 6,
+                        "clueEnd": 19,
+                        "value": "$1,000,000, informally"
+                    }
+                ]
+            },
+            "answers": [
+                "A",
+                "I",
+                "D",
+                "S",
+                null,
+                "C",
+                "R",
+                "E",
+                "A",
+                "M",
+                "R",
+                "A",
+                "B",
+                "B",
+                "I",
+                "E",
+                "Q",
+                "U",
+                "A",
+                "L",
+                "S",
+                "I",
+                "G",
+                "N",
+                null
+            ],
+            "layout": [
+                1,
+                1,
+                1,
+                1,
+                0,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                0
+            ]
+        }
+    }
+]
