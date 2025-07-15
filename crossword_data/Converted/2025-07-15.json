@@ -1,0 +1,142 @@
+[
+    {
+        "puzzle_id": 22975,
+        "promo_id": null,
+        "version": 3,
+        "puzzle_meta": {
+            "formatType": "Normal",
+            "publishType": "Daily",
+            "title": "The Mini Crossword",
+            "printDate": "2025-07-15",
+            "printDotw": 0,
+            "editor": "",
+            "height": 5,
+            "width": 5,
+            "author": "Joel Fagliano"
+        },
+        "print_date": "2025-07-15",
+        "enhanced_tier_date": null,
+        "puzzle_data": {
+            "clues": {
+                "A": [
+                    {
+                        "clueStart": 1,
+                        "clueNum": 1,
+                        "clueEnd": 4,
+                        "value": "Doubtful"
+                    },
+                    {
+                        "clueStart": 6,
+                        "clueNum": 5,
+                        "clueEnd": 9,
+                        "value": "Neanderthals made the first one from birch bark tar approximately 200,000 years ago"
+                    },
+                    {
+                        "clueStart": 10,
+                        "clueNum": 6,
+                        "clueEnd": 14,
+                        "value": "Fire-starting rock"
+                    },
+                    {
+                        "clueStart": 15,
+                        "clueNum": 7,
+                        "clueEnd": 18,
+                        "value": "Word that can fill the blanks of \"So ___!\" and \"Go ___!\""
+                    },
+                    {
+                        "clueStart": 20,
+                        "clueNum": 8,
+                        "clueEnd": 23,
+                        "value": "Meditation practitioner"
+                    }
+                ],
+                "D": [
+                    {
+                        "clueStart": 1,
+                        "clueNum": 1,
+                        "clueEnd": 21,
+                        "value": "Brand of cooler"
+                    },
+                    {
+                        "clueStart": 2,
+                        "clueNum": 2,
+                        "clueEnd": 22,
+                        "value": "Short-lived relationship"
+                    },
+                    {
+                        "clueStart": 3,
+                        "clueNum": 3,
+                        "clueEnd": 23,
+                        "value": "Mushrooms and such"
+                    },
+                    {
+                        "clueStart": 4,
+                        "clueNum": 4,
+                        "clueEnd": 14,
+                        "value": "\"Even so ...\""
+                    },
+                    {
+                        "clueStart": 10,
+                        "clueNum": 6,
+                        "clueEnd": 20,
+                        "value": "Outer layer of a tent"
+                    }
+                ]
+            },
+            "answers": [
+                null,
+                "I",
+                "F",
+                "F",
+                "Y",
+                null,
+                "G",
+                "L",
+                "U",
+                "E",
+                "F",
+                "L",
+                "I",
+                "N",
+                "T",
+                "L",
+                "O",
+                "N",
+                "G",
+                null,
+                "Y",
+                "O",
+                "G",
+                "I",
+                null
+            ],
+            "layout": [
+                0,
+                1,
+                1,
+                1,
+                1,
+                0,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                0,
+                1,
+                1,
+                1,
+                1,
+                0
+            ]
+        }
+    }
+]
