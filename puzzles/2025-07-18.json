@@ -1,0 +1,154 @@
+[
+    {
+        "puzzle_id": 22976,
+        "promo_id": null,
+        "version": 3,
+        "puzzle_meta": {
+            "formatType": "Normal",
+            "publishType": "Daily",
+            "title": "The Mini Crossword",
+            "printDate": "2025-07-18",
+            "printDotw": 0,
+            "editor": "",
+            "height": 5,
+            "width": 5,
+            "author": "Joel Fagliano"
+        },
+        "print_date": "2025-07-18",
+        "enhanced_tier_date": null,
+        "puzzle_data": {
+            "clues": {
+                "A": [
+                    {
+                        "clueStart": 0,
+                        "clueNum": 1,
+                        "clueEnd": 3,
+                        "value": "Appropriate word that can precede 7-/8-Across and 3-/10-Down "
+                    },
+                    {
+                        "clueStart": 5,
+                        "clueNum": 5,
+                        "clueEnd": 9,
+                        "value": "Remy's brother in \"Ratatouille\""
+                    },
+                    {
+                        "clueStart": 10,
+                        "clueNum": 7,
+                        "clueEnd": 11,
+                        "value": "Missouri's postal abbreviation"
+                    },
+                    {
+                        "clueStart": 13,
+                        "clueNum": 8,
+                        "clueEnd": 14,
+                        "value": "Light switch position"
+                    },
+                    {
+                        "clueStart": 15,
+                        "clueNum": 9,
+                        "clueEnd": 19,
+                        "value": "Done for laughs"
+                    },
+                    {
+                        "clueStart": 21,
+                        "clueNum": 11,
+                        "clueEnd": 24,
+                        "value": "Richard of \"Pretty Woman\""
+                    }
+                ],
+                "D": [
+                    {
+                        "clueStart": 0,
+                        "clueNum": 1,
+                        "clueEnd": 15,
+                        "value": "Prefix that means 1-Across"
+                    },
+                    {
+                        "clueStart": 1,
+                        "clueNum": 2,
+                        "clueEnd": 21,
+                        "value": "In the midst of"
+                    },
+                    {
+                        "clueStart": 2,
+                        "clueNum": 3,
+                        "clueEnd": 7,
+                        "value": "Super Bowl that featured a 28-3 comeback win by the Patriots"
+                    },
+                    {
+                        "clueStart": 3,
+                        "clueNum": 4,
+                        "clueEnd": 23,
+                        "value": "Baker's powder"
+                    },
+                    {
+                        "clueStart": 9,
+                        "clueNum": 6,
+                        "clueEnd": 24,
+                        "value": "Dated feminine suffix"
+                    },
+                    {
+                        "clueStart": 17,
+                        "clueNum": 10,
+                        "clueEnd": 22,
+                        "value": "Iron, on the periodic table"
+                    }
+                ]
+            },
+            "answers": [
+                "H",
+                "A",
+                "L",
+                "F",
+                null,
+                "E",
+                "M",
+                "I",
+                "L",
+                "E",
+                "M",
+                "O",
+                null,
+                "O",
+                "N",
+                "I",
+                "N",
+                "F",
+                "U",
+                "N",
+                null,
+                "G",
+                "E",
+                "R",
+                "E"
+            ],
+            "layout": [
+                1,
+                1,
+                1,
+                1,
+                0,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                0,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                0,
+                1,
+                1,
+                1,
+                1
+            ]
+        }
+    }
+]
