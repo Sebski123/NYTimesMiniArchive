@@ -1,0 +1,158 @@
+[
+    {
+        "puzzle_id": 22998,
+        "promo_id": null,
+        "version": 3,
+        "puzzle_meta": {
+            "formatType": "Normal",
+            "publishType": "Daily",
+            "title": "The Mini Crossword",
+            "printDate": "2025-07-28",
+            "printDotw": 0,
+            "editor": "Joel Fagliano",
+            "height": 5,
+            "width": 6,
+            "author": "Sam Ezersky"
+        },
+        "print_date": "2025-07-28",
+        "enhanced_tier_date": null,
+        "puzzle_data": {
+            "clues": {
+                "A": [
+                    {
+                        "clueStart": 0,
+                        "clueNum": 1,
+                        "clueEnd": 2,
+                        "value": "Courtroom prosecutors, for short"
+                    },
+                    {
+                        "clueStart": 6,
+                        "clueNum": 4,
+                        "clueEnd": 10,
+                        "value": "Fails to mention"
+                    },
+                    {
+                        "clueStart": 12,
+                        "clueNum": 7,
+                        "clueEnd": 17,
+                        "value": "Finished the season on a hot streak"
+                    },
+                    {
+                        "clueStart": 18,
+                        "clueNum": 9,
+                        "clueEnd": 23,
+                        "value": "Subtle distinction"
+                    },
+                    {
+                        "clueStart": 25,
+                        "clueNum": 10,
+                        "clueEnd": 29,
+                        "value": "See 1-Down"
+                    }
+                ],
+                "D": [
+                    {
+                        "clueStart": 0,
+                        "clueNum": 1,
+                        "clueEnd": 18,
+                        "value": "With 10-Across, completely and utterly"
+                    },
+                    {
+                        "clueStart": 1,
+                        "clueNum": 2,
+                        "clueEnd": 25,
+                        "value": "Love, in French"
+                    },
+                    {
+                        "clueStart": 2,
+                        "clueNum": 3,
+                        "clueEnd": 26,
+                        "value": "Mount where Moses received the Ten Commandments"
+                    },
+                    {
+                        "clueStart": 9,
+                        "clueNum": 5,
+                        "clueEnd": 27,
+                        "value": "Grab from the grill with a gripper"
+                    },
+                    {
+                        "clueStart": 10,
+                        "clueNum": 6,
+                        "clueEnd": 28,
+                        "value": "\"There's no ___ thing!\""
+                    },
+                    {
+                        "clueStart": 17,
+                        "clueNum": 8,
+                        "clueEnd": 29,
+                        "value": "Vietnamese New Year"
+                    }
+                ]
+            },
+            "answers": [
+                "D",
+                "A",
+                "S",
+                null,
+                null,
+                null,
+                "O",
+                "M",
+                "I",
+                "T",
+                "S",
+                null,
+                "W",
+                "O",
+                "N",
+                "O",
+                "U",
+                "T",
+                "N",
+                "U",
+                "A",
+                "N",
+                "C",
+                "E",
+                null,
+                "R",
+                "I",
+                "G",
+                "H",
+                "T"
+            ],
+            "layout": [
+                1,
+                1,
+                1,
+                0,
+                0,
+                0,
+                1,
+                1,
+                1,
+                1,
+                1,
+                0,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                0,
+                1,
+                1,
+                1,
+                1,
+                1
+            ]
+        }
+    }
+]
