@@ -1,0 +1,142 @@
+[
+    {
+        "puzzle_id": 23016,
+        "promo_id": null,
+        "version": 3,
+        "puzzle_meta": {
+            "formatType": "Normal",
+            "publishType": "Daily",
+            "title": "The Mini Crossword",
+            "printDate": "2025-08-06",
+            "printDotw": 0,
+            "editor": "",
+            "height": 5,
+            "width": 5,
+            "author": "Joel Fagliano"
+        },
+        "print_date": "2025-08-06",
+        "enhanced_tier_date": null,
+        "puzzle_data": {
+            "clues": {
+                "A": [
+                    {
+                        "clueStart": 2,
+                        "clueNum": 1,
+                        "clueEnd": 4,
+                        "value": "Stylish"
+                    },
+                    {
+                        "clueStart": 5,
+                        "clueNum": 4,
+                        "clueEnd": 9,
+                        "value": "Something a beach umbrella provides"
+                    },
+                    {
+                        "clueStart": 10,
+                        "clueNum": 6,
+                        "clueEnd": 14,
+                        "value": "___ Banks, North Carolina"
+                    },
+                    {
+                        "clueStart": 15,
+                        "clueNum": 7,
+                        "clueEnd": 19,
+                        "value": "Unlikely to keep you up at night, in a way"
+                    },
+                    {
+                        "clueStart": 20,
+                        "clueNum": 8,
+                        "clueEnd": 22,
+                        "value": "The eruption of Mount St. Helens released 520 million tons of it"
+                    }
+                ],
+                "D": [
+                    {
+                        "clueStart": 2,
+                        "clueNum": 1,
+                        "clueEnd": 22,
+                        "value": "Come out of one's shell"
+                    },
+                    {
+                        "clueStart": 3,
+                        "clueNum": 2,
+                        "clueEnd": 18,
+                        "value": "Bright ___"
+                    },
+                    {
+                        "clueStart": 4,
+                        "clueNum": 3,
+                        "clueEnd": 19,
+                        "value": "\"Fab!\""
+                    },
+                    {
+                        "clueStart": 5,
+                        "clueNum": 4,
+                        "clueEnd": 20,
+                        "value": "Starry or Squirt"
+                    },
+                    {
+                        "clueStart": 6,
+                        "clueNum": 5,
+                        "clueEnd": 21,
+                        "value": "Color tones"
+                    }
+                ]
+            },
+            "answers": [
+                null,
+                null,
+                "H",
+                "I",
+                "P",
+                "S",
+                "H",
+                "A",
+                "D",
+                "E",
+                "O",
+                "U",
+                "T",
+                "E",
+                "R",
+                "D",
+                "E",
+                "C",
+                "A",
+                "F",
+                "A",
+                "S",
+                "H",
+                null,
+                null
+            ],
+            "layout": [
+                0,
+                0,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                0,
+                0
+            ]
+        }
+    }
+]
