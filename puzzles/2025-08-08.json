@@ -1,0 +1,158 @@
+[
+    {
+        "puzzle_id": 23045,
+        "promo_id": null,
+        "version": 3,
+        "puzzle_meta": {
+            "formatType": "Normal",
+            "publishType": "Daily",
+            "title": "The Mini Crossword",
+            "printDate": "2025-08-08",
+            "printDotw": 0,
+            "editor": "",
+            "height": 5,
+            "width": 6,
+            "author": "Joel Fagliano"
+        },
+        "print_date": "2025-08-08",
+        "enhanced_tier_date": null,
+        "puzzle_data": {
+            "clues": {
+                "A": [
+                    {
+                        "clueStart": 3,
+                        "clueNum": 1,
+                        "clueEnd": 5,
+                        "value": "Piece of bread atop 4-Across"
+                    },
+                    {
+                        "clueStart": 6,
+                        "clueNum": 4,
+                        "clueEnd": 11,
+                        "value": "Yellow square atop 7-Across"
+                    },
+                    {
+                        "clueStart": 12,
+                        "clueNum": 7,
+                        "clueEnd": 17,
+                        "value": "Offering at a summer cookout"
+                    },
+                    {
+                        "clueStart": 18,
+                        "clueNum": 8,
+                        "clueEnd": 23,
+                        "value": "Envelop and obscure"
+                    },
+                    {
+                        "clueStart": 27,
+                        "clueNum": 9,
+                        "clueEnd": 29,
+                        "value": "Covers a tree in bathroom rolls, in a classic prank"
+                    }
+                ],
+                "D": [
+                    {
+                        "clueStart": 3,
+                        "clueNum": 1,
+                        "clueEnd": 27,
+                        "value": "Brought about"
+                    },
+                    {
+                        "clueStart": 4,
+                        "clueNum": 2,
+                        "clueEnd": 28,
+                        "value": "Fully deplete"
+                    },
+                    {
+                        "clueStart": 5,
+                        "clueNum": 3,
+                        "clueEnd": 29,
+                        "value": "Jocks' counterparts, stereotypically"
+                    },
+                    {
+                        "clueStart": 6,
+                        "clueNum": 4,
+                        "clueEnd": 18,
+                        "value": "\"Survivor\" network"
+                    },
+                    {
+                        "clueStart": 7,
+                        "clueNum": 5,
+                        "clueEnd": 19,
+                        "value": "\"What'd you say?\""
+                    },
+                    {
+                        "clueStart": 8,
+                        "clueNum": 6,
+                        "clueEnd": 20,
+                        "value": "Make a mistake"
+                    }
+                ]
+            },
+            "answers": [
+                null,
+                null,
+                null,
+                "B",
+                "U",
+                "N",
+                "C",
+                "H",
+                "E",
+                "E",
+                "S",
+                "E",
+                "B",
+                "U",
+                "R",
+                "G",
+                "E",
+                "R",
+                "S",
+                "H",
+                "R",
+                "O",
+                "U",
+                "D",
+                null,
+                null,
+                null,
+                "T",
+                "P",
+                "S"
+            ],
+            "layout": [
+                0,
+                0,
+                0,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                0,
+                0,
+                0,
+                1,
+                1,
+                1
+            ]
+        }
+    }
+]
