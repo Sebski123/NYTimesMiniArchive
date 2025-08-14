@@ -1,0 +1,142 @@
+[
+    {
+        "puzzle_id": 23070,
+        "promo_id": null,
+        "version": 3,
+        "puzzle_meta": {
+            "formatType": "Normal",
+            "publishType": "Daily",
+            "title": "The Mini Crossword",
+            "printDate": "2025-08-14",
+            "printDotw": 0,
+            "editor": "",
+            "height": 5,
+            "width": 5,
+            "author": "Joel Fagliano"
+        },
+        "print_date": "2025-08-14",
+        "enhanced_tier_date": null,
+        "puzzle_data": {
+            "clues": {
+                "A": [
+                    {
+                        "clueStart": 1,
+                        "clueNum": 1,
+                        "clueEnd": 4,
+                        "value": "Animals holding \"Eat Mor Chikin\" signs, in a classic ad campaign"
+                    },
+                    {
+                        "clueStart": 5,
+                        "clueNum": 5,
+                        "clueEnd": 9,
+                        "value": "Suffix with Beatle or Wrestle"
+                    },
+                    {
+                        "clueStart": 10,
+                        "clueNum": 6,
+                        "clueEnd": 14,
+                        "value": "\"Au revoir!\""
+                    },
+                    {
+                        "clueStart": 15,
+                        "clueNum": 7,
+                        "clueEnd": 19,
+                        "value": "Ugly poster?"
+                    },
+                    {
+                        "clueStart": 20,
+                        "clueNum": 8,
+                        "clueEnd": 23,
+                        "value": "Be likely (to)"
+                    }
+                ],
+                "D": [
+                    {
+                        "clueStart": 1,
+                        "clueNum": 1,
+                        "clueEnd": 21,
+                        "value": "Core group"
+                    },
+                    {
+                        "clueStart": 2,
+                        "clueNum": 2,
+                        "clueEnd": 22,
+                        "value": "Vegetable combined with celery and carrot to form \"mirepoix\""
+                    },
+                    {
+                        "clueStart": 3,
+                        "clueNum": 3,
+                        "clueEnd": 23,
+                        "value": "Handle, as a sword"
+                    },
+                    {
+                        "clueStart": 4,
+                        "clueNum": 4,
+                        "clueEnd": 19,
+                        "value": "\"Better Call ___\" (\"Breaking Bad\" spinoff)"
+                    },
+                    {
+                        "clueStart": 5,
+                        "clueNum": 5,
+                        "clueEnd": 20,
+                        "value": "Damon of \"Oppenheimer\""
+                    }
+                ]
+            },
+            "answers": [
+                null,
+                "C",
+                "O",
+                "W",
+                "S",
+                "M",
+                "A",
+                "N",
+                "I",
+                "A",
+                "A",
+                "D",
+                "I",
+                "E",
+                "U",
+                "T",
+                "R",
+                "O",
+                "L",
+                "L",
+                "T",
+                "E",
+                "N",
+                "D",
+                null
+            ],
+            "layout": [
+                0,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                0
+            ]
+        }
+    }
+]
