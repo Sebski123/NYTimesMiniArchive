@@ -1,0 +1,158 @@
+[
+    {
+        "puzzle_id": 23020,
+        "promo_id": null,
+        "version": 3,
+        "puzzle_meta": {
+            "formatType": "Normal",
+            "publishType": "Daily",
+            "title": "The Mini Crossword",
+            "printDate": "2025-08-17",
+            "printDotw": 0,
+            "editor": "Joel Fagliano",
+            "height": 5,
+            "width": 6,
+            "author": "Sam Ezersky"
+        },
+        "print_date": "2025-08-17",
+        "enhanced_tier_date": null,
+        "puzzle_data": {
+            "clues": {
+                "A": [
+                    {
+                        "clueStart": 2,
+                        "clueNum": 1,
+                        "clueEnd": 5,
+                        "value": "Salsa, hummus, queso, etc."
+                    },
+                    {
+                        "clueStart": 6,
+                        "clueNum": 5,
+                        "clueEnd": 11,
+                        "value": "U.S. state capital that rhymes with 9-Across (not 7-Across!)"
+                    },
+                    {
+                        "clueStart": 12,
+                        "clueNum": 7,
+                        "clueEnd": 17,
+                        "value": "What broadcasters are on"
+                    },
+                    {
+                        "clueStart": 18,
+                        "clueNum": 8,
+                        "clueEnd": 23,
+                        "value": "\"Yes and no ...\""
+                    },
+                    {
+                        "clueStart": 25,
+                        "clueNum": 9,
+                        "clueEnd": 28,
+                        "value": "Societal equal"
+                    }
+                ],
+                "D": [
+                    {
+                        "clueStart": 2,
+                        "clueNum": 1,
+                        "clueEnd": 26,
+                        "value": "John ___ (tractor company)"
+                    },
+                    {
+                        "clueStart": 3,
+                        "clueNum": 2,
+                        "clueEnd": 27,
+                        "value": "Boiling mad"
+                    },
+                    {
+                        "clueStart": 4,
+                        "clueNum": 3,
+                        "clueEnd": 28,
+                        "value": "\"Sorry, I have a ___ commitment\""
+                    },
+                    {
+                        "clueStart": 5,
+                        "clueNum": 4,
+                        "clueEnd": 23,
+                        "value": "Laborer in medieval times"
+                    },
+                    {
+                        "clueStart": 6,
+                        "clueNum": 5,
+                        "clueEnd": 18,
+                        "value": "A touchdown is worth six: Abbr."
+                    },
+                    {
+                        "clueStart": 7,
+                        "clueNum": 6,
+                        "clueEnd": 25,
+                        "value": "Breakfast chain typically open 24 hours a day"
+                    }
+                ]
+            },
+            "answers": [
+                null,
+                null,
+                "D",
+                "I",
+                "P",
+                "S",
+                "P",
+                "I",
+                "E",
+                "R",
+                "R",
+                "E",
+                "T",
+                "H",
+                "E",
+                "A",
+                "I",
+                "R",
+                "S",
+                "O",
+                "R",
+                "T",
+                "O",
+                "F",
+                null,
+                "P",
+                "E",
+                "E",
+                "R",
+                null
+            ],
+            "layout": [
+                0,
+                0,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                0,
+                1,
+                1,
+                1,
+                1,
+                0
+            ]
+        }
+    }
+]
