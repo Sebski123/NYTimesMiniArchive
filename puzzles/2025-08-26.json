@@ -1,0 +1,142 @@
+[
+    {
+        "puzzle_id": 23104,
+        "promo_id": null,
+        "version": 3,
+        "puzzle_meta": {
+            "formatType": "Normal",
+            "publishType": "Daily",
+            "title": "The Mini Crossword",
+            "printDate": "2025-08-26",
+            "printDotw": 0,
+            "editor": "",
+            "height": 5,
+            "width": 5,
+            "author": "Joel Fagliano"
+        },
+        "print_date": "2025-08-26",
+        "enhanced_tier_date": null,
+        "puzzle_data": {
+            "clues": {
+                "A": [
+                    {
+                        "clueStart": 1,
+                        "clueNum": 1,
+                        "clueEnd": 3,
+                        "value": "Place to pour a pint"
+                    },
+                    {
+                        "clueStart": 6,
+                        "clueNum": 4,
+                        "clueEnd": 8,
+                        "value": "Host of the 2028 Olympics, for short"
+                    },
+                    {
+                        "clueStart": 10,
+                        "clueNum": 5,
+                        "clueEnd": 14,
+                        "value": "Black suit"
+                    },
+                    {
+                        "clueStart": 15,
+                        "clueNum": 7,
+                        "clueEnd": 19,
+                        "value": "Political commentator Jen"
+                    },
+                    {
+                        "clueStart": 20,
+                        "clueNum": 8,
+                        "clueEnd": 24,
+                        "value": "Kick one's feet up"
+                    }
+                ],
+                "D": [
+                    {
+                        "clueStart": 1,
+                        "clueNum": 1,
+                        "clueEnd": 21,
+                        "value": "Sign of life"
+                    },
+                    {
+                        "clueStart": 2,
+                        "clueNum": 2,
+                        "clueEnd": 22,
+                        "value": "Regular patron's order, with \"the\""
+                    },
+                    {
+                        "clueStart": 3,
+                        "clueNum": 3,
+                        "clueEnd": 23,
+                        "value": "Loaf with a chocolate swirl"
+                    },
+                    {
+                        "clueStart": 10,
+                        "clueNum": 5,
+                        "clueEnd": 20,
+                        "value": "Skill practiced on dummies, for short"
+                    },
+                    {
+                        "clueStart": 14,
+                        "clueNum": 6,
+                        "clueEnd": 24,
+                        "value": "Age at which Tiger Woods made his first hole-in-one"
+                    }
+                ]
+            },
+            "answers": [
+                null,
+                "P",
+                "U",
+                "B",
+                null,
+                null,
+                "U",
+                "S",
+                "A",
+                null,
+                "C",
+                "L",
+                "U",
+                "B",
+                "S",
+                "P",
+                "S",
+                "A",
+                "K",
+                "I",
+                "R",
+                "E",
+                "L",
+                "A",
+                "X"
+            ],
+            "layout": [
+                0,
+                1,
+                1,
+                1,
+                0,
+                0,
+                1,
+                1,
+                1,
+                0,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1
+            ]
+        }
+    }
+]
