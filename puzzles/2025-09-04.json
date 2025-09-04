@@ -1,0 +1,142 @@
+[
+    {
+        "puzzle_id": 23126,
+        "promo_id": null,
+        "version": 3,
+        "puzzle_meta": {
+            "formatType": "Normal",
+            "publishType": "Daily",
+            "title": "The Mini Crossword",
+            "printDate": "2025-09-04",
+            "printDotw": 0,
+            "editor": "",
+            "height": 5,
+            "width": 5,
+            "author": "Joel Fagliano"
+        },
+        "print_date": "2025-09-04",
+        "enhanced_tier_date": null,
+        "puzzle_data": {
+            "clues": {
+                "A": [
+                    {
+                        "clueStart": 0,
+                        "clueNum": 1,
+                        "clueEnd": 4,
+                        "value": "National park in the Canadian Rockies"
+                    },
+                    {
+                        "clueStart": 5,
+                        "clueNum": 6,
+                        "clueEnd": 9,
+                        "value": "Elevator choice"
+                    },
+                    {
+                        "clueStart": 10,
+                        "clueNum": 7,
+                        "clueEnd": 14,
+                        "value": "Means of transport in Seattle, San Francisco and New York"
+                    },
+                    {
+                        "clueStart": 16,
+                        "clueNum": 8,
+                        "clueEnd": 18,
+                        "value": "Unlikely chef in a 2007 Pixar film"
+                    },
+                    {
+                        "clueStart": 21,
+                        "clueNum": 9,
+                        "clueEnd": 23,
+                        "value": "\"Honor ___ father ...\""
+                    }
+                ],
+                "D": [
+                    {
+                        "clueStart": 0,
+                        "clueNum": 1,
+                        "clueEnd": 10,
+                        "value": "Closest pal, informally"
+                    },
+                    {
+                        "clueStart": 1,
+                        "clueNum": 2,
+                        "clueEnd": 21,
+                        "value": "Text notification, e.g."
+                    },
+                    {
+                        "clueStart": 2,
+                        "clueNum": 3,
+                        "clueEnd": 22,
+                        "value": "Jones who sang \"Come Away With Me\""
+                    },
+                    {
+                        "clueStart": 3,
+                        "clueNum": 4,
+                        "clueEnd": 23,
+                        "value": "Number of thieves faced by Ali Baba"
+                    },
+                    {
+                        "clueStart": 4,
+                        "clueNum": 5,
+                        "clueEnd": 14,
+                        "value": "Loose item at the bottom of a fast-food bag, perhaps"
+                    }
+                ]
+            },
+            "answers": [
+                "B",
+                "A",
+                "N",
+                "F",
+                "F",
+                "F",
+                "L",
+                "O",
+                "O",
+                "R",
+                "F",
+                "E",
+                "R",
+                "R",
+                "Y",
+                null,
+                "R",
+                "A",
+                "T",
+                null,
+                null,
+                "T",
+                "H",
+                "Y",
+                null
+            ],
+            "layout": [
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                0,
+                1,
+                1,
+                1,
+                0,
+                0,
+                1,
+                1,
+                1,
+                0
+            ]
+        }
+    }
+]
