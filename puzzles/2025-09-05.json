@@ -1,0 +1,158 @@
+[
+    {
+        "puzzle_id": 23081,
+        "promo_id": null,
+        "version": 3,
+        "puzzle_meta": {
+            "formatType": "Normal",
+            "publishType": "Daily",
+            "title": "The Mini Crossword",
+            "printDate": "2025-09-05",
+            "printDotw": 0,
+            "editor": "Joel Fagliano",
+            "height": 6,
+            "width": 5,
+            "author": "Christina Iverson"
+        },
+        "print_date": "2025-09-05",
+        "enhanced_tier_date": null,
+        "puzzle_data": {
+            "clues": {
+                "A": [
+                    {
+                        "clueStart": 2,
+                        "clueNum": 1,
+                        "clueEnd": 4,
+                        "value": "Slumber party attire, casually"
+                    },
+                    {
+                        "clueStart": 6,
+                        "clueNum": 4,
+                        "clueEnd": 9,
+                        "value": "Surplus"
+                    },
+                    {
+                        "clueStart": 10,
+                        "clueNum": 5,
+                        "clueEnd": 14,
+                        "value": "Bobby ___, co-founder of the Black Panthers"
+                    },
+                    {
+                        "clueStart": 15,
+                        "clueNum": 6,
+                        "clueEnd": 19,
+                        "value": "Soccer announcer's cry after a goal"
+                    },
+                    {
+                        "clueStart": 20,
+                        "clueNum": 7,
+                        "clueEnd": 24,
+                        "value": "Famous star-crossed lover"
+                    },
+                    {
+                        "clueStart": 26,
+                        "clueNum": 8,
+                        "clueEnd": 28,
+                        "value": "D.C. baseball player"
+                    }
+                ],
+                "D": [
+                    {
+                        "clueStart": 2,
+                        "clueNum": 1,
+                        "clueEnd": 27,
+                        "value": "Substance inside early flat-screen TVs"
+                    },
+                    {
+                        "clueStart": 3,
+                        "clueNum": 2,
+                        "clueEnd": 28,
+                        "value": "Famous star-crossed lover"
+                    },
+                    {
+                        "clueStart": 4,
+                        "clueNum": 3,
+                        "clueEnd": 24,
+                        "value": "Recorder in a courtroom"
+                    },
+                    {
+                        "clueStart": 6,
+                        "clueNum": 4,
+                        "clueEnd": 26,
+                        "value": "\"Hop aboard!\""
+                    },
+                    {
+                        "clueStart": 10,
+                        "clueNum": 5,
+                        "clueEnd": 20,
+                        "value": "\"___, yes, ___!\" "
+                    }
+                ]
+            },
+            "answers": [
+                null,
+                null,
+                "P",
+                "J",
+                "S",
+                null,
+                "G",
+                "L",
+                "U",
+                "T",
+                "S",
+                "E",
+                "A",
+                "L",
+                "E",
+                "I",
+                "T",
+                "S",
+                "I",
+                "N",
+                "R",
+                "O",
+                "M",
+                "E",
+                "O",
+                null,
+                "N",
+                "A",
+                "T",
+                null
+            ],
+            "layout": [
+                0,
+                0,
+                1,
+                1,
+                1,
+                0,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                0,
+                1,
+                1,
+                1,
+                0
+            ]
+        }
+    }
+]
