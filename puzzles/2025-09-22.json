@@ -1,0 +1,142 @@
+[
+    {
+        "puzzle_id": 23151,
+        "promo_id": null,
+        "version": 3,
+        "puzzle_meta": {
+            "formatType": "Normal",
+            "publishType": "Daily",
+            "title": "The Mini Crossword",
+            "printDate": "2025-09-22",
+            "printDotw": 0,
+            "editor": "Joel Fagliano",
+            "height": 5,
+            "width": 5,
+            "author": "Christina Iverson"
+        },
+        "print_date": "2025-09-22",
+        "enhanced_tier_date": null,
+        "puzzle_data": {
+            "clues": {
+                "A": [
+                    {
+                        "clueStart": 0,
+                        "clueNum": 1,
+                        "clueEnd": 2,
+                        "value": "Barker who hosted \"The Price Is Right\""
+                    },
+                    {
+                        "clueStart": 5,
+                        "clueNum": 4,
+                        "clueEnd": 8,
+                        "value": "(Base x height) / 2, for a triangle"
+                    },
+                    {
+                        "clueStart": 10,
+                        "clueNum": 6,
+                        "clueEnd": 14,
+                        "value": "Bouncy toys in a playroom"
+                    },
+                    {
+                        "clueStart": 15,
+                        "clueNum": 8,
+                        "clueEnd": 19,
+                        "value": "Budget for"
+                    },
+                    {
+                        "clueStart": 21,
+                        "clueNum": 9,
+                        "clueEnd": 24,
+                        "value": "Busy buzzers ... and letters found at the start of every clue in this puzzle"
+                    }
+                ],
+                "D": [
+                    {
+                        "clueStart": 0,
+                        "clueNum": 1,
+                        "clueEnd": 15,
+                        "value": "Baked dessert soaked in rum"
+                    },
+                    {
+                        "clueStart": 1,
+                        "clueNum": 2,
+                        "clueEnd": 21,
+                        "value": "Big name in dental products"
+                    },
+                    {
+                        "clueStart": 2,
+                        "clueNum": 3,
+                        "clueEnd": 22,
+                        "value": "\"Beauty and the Beast\" protagonist"
+                    },
+                    {
+                        "clueStart": 8,
+                        "clueNum": 5,
+                        "clueEnd": 23,
+                        "value": "Balm ingredient with soothing properties"
+                    },
+                    {
+                        "clueStart": 14,
+                        "clueNum": 7,
+                        "clueEnd": 24,
+                        "value": "Bourbon and Beale: Abbr."
+                    }
+                ]
+            },
+            "answers": [
+                "B",
+                "O",
+                "B",
+                null,
+                null,
+                "A",
+                "R",
+                "E",
+                "A",
+                null,
+                "B",
+                "A",
+                "L",
+                "L",
+                "S",
+                "A",
+                "L",
+                "L",
+                "O",
+                "T",
+                null,
+                "B",
+                "E",
+                "E",
+                "S"
+            ],
+            "layout": [
+                1,
+                1,
+                1,
+                0,
+                0,
+                1,
+                1,
+                1,
+                1,
+                0,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                0,
+                1,
+                1,
+                1,
+                1
+            ]
+        }
+    }
+]
