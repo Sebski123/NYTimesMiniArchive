@@ -1,0 +1,158 @@
+[
+    {
+        "puzzle_id": 23156,
+        "promo_id": null,
+        "version": 3,
+        "puzzle_meta": {
+            "formatType": "Normal",
+            "publishType": "Daily",
+            "title": "The Mini Crossword",
+            "printDate": "2025-09-24",
+            "printDotw": 0,
+            "editor": "Joel Fagliano",
+            "height": 5,
+            "width": 6,
+            "author": "Sam Ezersky"
+        },
+        "print_date": "2025-09-24",
+        "enhanced_tier_date": null,
+        "puzzle_data": {
+            "clues": {
+                "A": [
+                    {
+                        "clueStart": 0,
+                        "clueNum": 1,
+                        "clueEnd": 3,
+                        "value": "Pond gunk"
+                    },
+                    {
+                        "clueStart": 6,
+                        "clueNum": 5,
+                        "clueEnd": 11,
+                        "value": "With 8-Across, like an unlimited buffet"
+                    },
+                    {
+                        "clueStart": 12,
+                        "clueNum": 8,
+                        "clueEnd": 17,
+                        "value": "See 5-Across"
+                    },
+                    {
+                        "clueStart": 18,
+                        "clueNum": 9,
+                        "clueEnd": 23,
+                        "value": "Opponent of Athens in the Peloponnesian War"
+                    },
+                    {
+                        "clueStart": 27,
+                        "clueNum": 10,
+                        "clueEnd": 29,
+                        "value": "\"Keep it down!\""
+                    }
+                ],
+                "D": [
+                    {
+                        "clueStart": 0,
+                        "clueNum": 1,
+                        "clueEnd": 18,
+                        "value": "Outs that advance the runner, in baseball lingo"
+                    },
+                    {
+                        "clueStart": 1,
+                        "clueNum": 2,
+                        "clueEnd": 19,
+                        "value": "Put your hands together"
+                    },
+                    {
+                        "clueStart": 2,
+                        "clueNum": 3,
+                        "clueEnd": 20,
+                        "value": "Bone on the same side of the arm as the pinky"
+                    },
+                    {
+                        "clueStart": 3,
+                        "clueNum": 4,
+                        "clueEnd": 27,
+                        "value": "Mike who voiced Shrek"
+                    },
+                    {
+                        "clueStart": 10,
+                        "clueNum": 6,
+                        "clueEnd": 28,
+                        "value": "Hippocratic ___ (doctor's pledge)"
+                    },
+                    {
+                        "clueStart": 11,
+                        "clueNum": 7,
+                        "clueEnd": 29,
+                        "value": "State with license plates that read \"Greatest Snow on Earth\""
+                    }
+                ]
+            },
+            "answers": [
+                "S",
+                "C",
+                "U",
+                "M",
+                null,
+                null,
+                "A",
+                "L",
+                "L",
+                "Y",
+                "O",
+                "U",
+                "C",
+                "A",
+                "N",
+                "E",
+                "A",
+                "T",
+                "S",
+                "P",
+                "A",
+                "R",
+                "T",
+                "A",
+                null,
+                null,
+                null,
+                "S",
+                "H",
+                "H"
+            ],
+            "layout": [
+                1,
+                1,
+                1,
+                1,
+                0,
+                0,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                0,
+                0,
+                0,
+                1,
+                1,
+                1
+            ]
+        }
+    }
+]
