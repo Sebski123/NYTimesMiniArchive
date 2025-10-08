@@ -1,0 +1,158 @@
+[
+    {
+        "puzzle_id": 23171,
+        "promo_id": null,
+        "version": 3,
+        "puzzle_meta": {
+            "formatType": "Normal",
+            "publishType": "Daily",
+            "title": "The Mini Crossword",
+            "printDate": "2025-10-08",
+            "printDotw": 0,
+            "editor": "Joel Fagliano",
+            "height": 5,
+            "width": 6,
+            "author": "Ian Livengood"
+        },
+        "print_date": "2025-10-08",
+        "enhanced_tier_date": null,
+        "puzzle_data": {
+            "clues": {
+                "A": [
+                    {
+                        "clueStart": 1,
+                        "clueNum": 1,
+                        "clueEnd": 4,
+                        "value": "___ of personality"
+                    },
+                    {
+                        "clueStart": 6,
+                        "clueNum": 5,
+                        "clueEnd": 11,
+                        "value": "Spelling Bee rank achieved by getting 70% of total points"
+                    },
+                    {
+                        "clueStart": 12,
+                        "clueNum": 7,
+                        "clueEnd": 17,
+                        "value": "THC-infused gummy, e.g."
+                    },
+                    {
+                        "clueStart": 18,
+                        "clueNum": 8,
+                        "clueEnd": 23,
+                        "value": "Grid with numbers"
+                    },
+                    {
+                        "clueStart": 25,
+                        "clueNum": 9,
+                        "clueEnd": 28,
+                        "value": "Harvest"
+                    }
+                ],
+                "D": [
+                    {
+                        "clueStart": 1,
+                        "clueNum": 1,
+                        "clueEnd": 25,
+                        "value": "Moth-repellent wood"
+                    },
+                    {
+                        "clueStart": 2,
+                        "clueNum": 2,
+                        "clueEnd": 26,
+                        "value": "Join together"
+                    },
+                    {
+                        "clueStart": 3,
+                        "clueNum": 3,
+                        "clueEnd": 27,
+                        "value": "Zodiac sign before Scorpio"
+                    },
+                    {
+                        "clueStart": 4,
+                        "clueNum": 4,
+                        "clueEnd": 28,
+                        "value": "Flower that caused the world's first economic bubble in the 1630s"
+                    },
+                    {
+                        "clueStart": 6,
+                        "clueNum": 5,
+                        "clueEnd": 18,
+                        "value": "Rock on a band"
+                    },
+                    {
+                        "clueStart": 11,
+                        "clueNum": 6,
+                        "clueEnd": 23,
+                        "value": "It sells, in an old maxim"
+                    }
+                ]
+            },
+            "answers": [
+                null,
+                "C",
+                "U",
+                "L",
+                "T",
+                null,
+                "G",
+                "E",
+                "N",
+                "I",
+                "U",
+                "S",
+                "E",
+                "D",
+                "I",
+                "B",
+                "L",
+                "E",
+                "M",
+                "A",
+                "T",
+                "R",
+                "I",
+                "X",
+                null,
+                "R",
+                "E",
+                "A",
+                "P",
+                null
+            ],
+            "layout": [
+                0,
+                1,
+                1,
+                1,
+                1,
+                0,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                0,
+                1,
+                1,
+                1,
+                1,
+                0
+            ]
+        }
+    }
+]
