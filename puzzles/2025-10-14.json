@@ -1,0 +1,140 @@
+[
+    {
+        "puzzle_id": 23231,
+        "promo_id": null,
+        "version": 3,
+        "puzzle_meta": {
+            "formatType": "Normal",
+            "publishType": "Daily",
+            "title": "The Mini Crossword",
+            "printDate": "2025-10-14",
+            "printDotw": 0,
+            "editor": "",
+            "height": 6,
+            "width": 4,
+            "author": "Joel Fagliano"
+        },
+        "print_date": "2025-10-14",
+        "enhanced_tier_date": null,
+        "puzzle_data": {
+            "clues": {
+                "A": [
+                    {
+                        "clueStart": 0,
+                        "clueNum": 1,
+                        "clueEnd": 3,
+                        "value": "Smokes, informally"
+                    },
+                    {
+                        "clueStart": 4,
+                        "clueNum": 5,
+                        "clueEnd": 7,
+                        "value": "\"Don't have ___, man!\" (Bart Simpson catchphrase)"
+                    },
+                    {
+                        "clueStart": 8,
+                        "clueNum": 6,
+                        "clueEnd": 11,
+                        "value": "What the vehicle in \"lane one\" of this crossword is winning?"
+                    },
+                    {
+                        "clueStart": 12,
+                        "clueNum": 7,
+                        "clueEnd": 15,
+                        "value": "Pitt of Hollywood"
+                    },
+                    {
+                        "clueStart": 16,
+                        "clueNum": 8,
+                        "clueEnd": 19,
+                        "value": "\"Yeah, whatever\""
+                    },
+                    {
+                        "clueStart": 21,
+                        "clueNum": 9,
+                        "clueEnd": 23,
+                        "value": "Rd. crossers"
+                    }
+                ],
+                "D": [
+                    {
+                        "clueStart": 0,
+                        "clueNum": 1,
+                        "clueEnd": 16,
+                        "value": "Things to \"load\" before a marathon"
+                    },
+                    {
+                        "clueStart": 1,
+                        "clueNum": 2,
+                        "clueEnd": 21,
+                        "value": "Mythical figure who inspired the idiom \"fly too close to the sun\""
+                    },
+                    {
+                        "clueStart": 2,
+                        "clueNum": 3,
+                        "clueEnd": 22,
+                        "value": "Zoomer around a small track"
+                    },
+                    {
+                        "clueStart": 3,
+                        "clueNum": 4,
+                        "clueEnd": 23,
+                        "value": "Neighbors of Norwegians"
+                    }
+                ]
+            },
+            "answers": [
+                "C",
+                "I",
+                "G",
+                "S",
+                "A",
+                "C",
+                "O",
+                "W",
+                "R",
+                "A",
+                "C",
+                "E",
+                "B",
+                "R",
+                "A",
+                "D",
+                "S",
+                "U",
+                "R",
+                "E",
+                null,
+                "S",
+                "T",
+                "S"
+            ],
+            "layout": [
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                0,
+                1,
+                1,
+                1
+            ]
+        }
+    }
+]
