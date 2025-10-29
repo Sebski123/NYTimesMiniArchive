@@ -1,0 +1,142 @@
+[
+    {
+        "puzzle_id": 23258,
+        "promo_id": null,
+        "version": 3,
+        "puzzle_meta": {
+            "formatType": "Normal",
+            "publishType": "Daily",
+            "title": "The Mini Crossword",
+            "printDate": "2025-10-29",
+            "printDotw": 0,
+            "editor": "Joel Fagliano",
+            "height": 5,
+            "width": 5,
+            "author": "Christina Iverson"
+        },
+        "print_date": "2025-10-29",
+        "enhanced_tier_date": null,
+        "puzzle_data": {
+            "clues": {
+                "A": [
+                    {
+                        "clueStart": 0,
+                        "clueNum": 1,
+                        "clueEnd": 2,
+                        "value": "Skill taught at lifeguard training, for short"
+                    },
+                    {
+                        "clueStart": 5,
+                        "clueNum": 4,
+                        "clueEnd": 8,
+                        "value": "Bop it!"
+                    },
+                    {
+                        "clueStart": 10,
+                        "clueNum": 6,
+                        "clueEnd": 14,
+                        "value": "Not given anything to eat"
+                    },
+                    {
+                        "clueStart": 15,
+                        "clueNum": 8,
+                        "clueEnd": 19,
+                        "value": "Twist it! Pull it!"
+                    },
+                    {
+                        "clueStart": 20,
+                        "clueNum": 9,
+                        "clueEnd": 24,
+                        "value": "Best of the best"
+                    }
+                ],
+                "D": [
+                    {
+                        "clueStart": 0,
+                        "clueNum": 1,
+                        "clueEnd": 20,
+                        "value": "Means of getting trash to a basement dumpster"
+                    },
+                    {
+                        "clueStart": 1,
+                        "clueNum": 2,
+                        "clueEnd": 21,
+                        "value": "Word that can precede \"code\" or \"colony\""
+                    },
+                    {
+                        "clueStart": 2,
+                        "clueNum": 3,
+                        "clueEnd": 22,
+                        "value": "\"Baby Beluga\" musician"
+                    },
+                    {
+                        "clueStart": 8,
+                        "clueNum": 5,
+                        "clueEnd": 23,
+                        "value": "Neatly skillful"
+                    },
+                    {
+                        "clueStart": 14,
+                        "clueNum": 7,
+                        "clueEnd": 24,
+                        "value": "Change the color of, as hair"
+                    }
+                ]
+            },
+            "answers": [
+                "C",
+                "P",
+                "R",
+                null,
+                null,
+                "H",
+                "E",
+                "A",
+                "D",
+                null,
+                "U",
+                "N",
+                "F",
+                "E",
+                "D",
+                "T",
+                "A",
+                "F",
+                "F",
+                "Y",
+                "E",
+                "L",
+                "I",
+                "T",
+                "E"
+            ],
+            "layout": [
+                1,
+                1,
+                1,
+                0,
+                0,
+                1,
+                1,
+                1,
+                1,
+                0,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1
+            ]
+        }
+    }
+]
