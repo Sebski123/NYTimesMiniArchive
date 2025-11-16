@@ -1,0 +1,158 @@
+[
+    {
+        "puzzle_id": 23326,
+        "promo_id": null,
+        "version": 3,
+        "puzzle_meta": {
+            "formatType": "Normal",
+            "publishType": "Daily",
+            "title": "The Mini Crossword",
+            "printDate": "2025-11-16",
+            "printDotw": 0,
+            "editor": "",
+            "height": 5,
+            "width": 6,
+            "author": "Joel Fagliano"
+        },
+        "print_date": "2025-11-16",
+        "enhanced_tier_date": null,
+        "puzzle_data": {
+            "clues": {
+                "A": [
+                    {
+                        "clueStart": 0,
+                        "clueNum": 1,
+                        "clueEnd": 5,
+                        "value": "Cars that stop at Supercharger stations"
+                    },
+                    {
+                        "clueStart": 6,
+                        "clueNum": 7,
+                        "clueEnd": 11,
+                        "value": "What \"e-\" can mean"
+                    },
+                    {
+                        "clueStart": 12,
+                        "clueNum": 8,
+                        "clueEnd": 17,
+                        "value": "Words that might begin the name of a quaint English inn"
+                    },
+                    {
+                        "clueStart": 18,
+                        "clueNum": 9,
+                        "clueEnd": 22,
+                        "value": "What \"E\" can mean"
+                    },
+                    {
+                        "clueStart": 24,
+                        "clueNum": 10,
+                        "clueEnd": 27,
+                        "value": "Easter egg colorings"
+                    }
+                ],
+                "D": [
+                    {
+                        "clueStart": 0,
+                        "clueNum": 1,
+                        "clueEnd": 24,
+                        "value": "Messed (with)"
+                    },
+                    {
+                        "clueStart": 1,
+                        "clueNum": 2,
+                        "clueEnd": 25,
+                        "value": "Ally's opposite"
+                    },
+                    {
+                        "clueStart": 2,
+                        "clueNum": 3,
+                        "clueEnd": 26,
+                        "value": "What \"m\" stands for in the equation \"y = mx + b\""
+                    },
+                    {
+                        "clueStart": 3,
+                        "clueNum": 4,
+                        "clueEnd": 27,
+                        "value": "Musical cadences of speech"
+                    },
+                    {
+                        "clueStart": 4,
+                        "clueNum": 5,
+                        "clueEnd": 22,
+                        "value": "Samberg of \"Brooklyn Nine-Nine\""
+                    },
+                    {
+                        "clueStart": 5,
+                        "clueNum": 6,
+                        "clueEnd": 17,
+                        "value": "\"___ what I did there?\""
+                    }
+                ]
+            },
+            "answers": [
+                "T",
+                "E",
+                "S",
+                "L",
+                "A",
+                "S",
+                "O",
+                "N",
+                "L",
+                "I",
+                "N",
+                "E",
+                "Y",
+                "E",
+                "O",
+                "L",
+                "D",
+                "E",
+                "E",
+                "M",
+                "P",
+                "T",
+                "Y",
+                null,
+                "D",
+                "Y",
+                "E",
+                "S",
+                null,
+                null
+            ],
+            "layout": [
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                0,
+                1,
+                1,
+                1,
+                1,
+                0,
+                0
+            ]
+        }
+    }
+]
