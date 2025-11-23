@@ -1,0 +1,142 @@
+[
+    {
+        "puzzle_id": 23381,
+        "promo_id": null,
+        "version": 3,
+        "puzzle_meta": {
+            "formatType": "Normal",
+            "publishType": "Daily",
+            "title": "The Mini Crossword",
+            "printDate": "2025-11-23",
+            "printDotw": 0,
+            "editor": "",
+            "height": 5,
+            "width": 5,
+            "author": "Joel Fagliano"
+        },
+        "print_date": "2025-11-23",
+        "enhanced_tier_date": null,
+        "puzzle_data": {
+            "clues": {
+                "A": [
+                    {
+                        "clueStart": 1,
+                        "clueNum": 1,
+                        "clueEnd": 3,
+                        "value": "LinkedIn listing"
+                    },
+                    {
+                        "clueStart": 5,
+                        "clueNum": 4,
+                        "clueEnd": 9,
+                        "value": "Planet with an average surface temperature of around 860\u00c2\u00b0F"
+                    },
+                    {
+                        "clueStart": 10,
+                        "clueNum": 6,
+                        "clueEnd": 14,
+                        "value": "Written with a pen"
+                    },
+                    {
+                        "clueStart": 15,
+                        "clueNum": 7,
+                        "clueEnd": 19,
+                        "value": "Sheer torment"
+                    },
+                    {
+                        "clueStart": 21,
+                        "clueNum": 8,
+                        "clueEnd": 23,
+                        "value": "\"___ thoughts?\""
+                    }
+                ],
+                "D": [
+                    {
+                        "clueStart": 1,
+                        "clueNum": 1,
+                        "clueEnd": 21,
+                        "value": "Block tower"
+                    },
+                    {
+                        "clueStart": 2,
+                        "clueNum": 2,
+                        "clueEnd": 22,
+                        "value": "\"Red\" vegetable that's really purple, if you ask me"
+                    },
+                    {
+                        "clueStart": 3,
+                        "clueNum": 3,
+                        "clueEnd": 23,
+                        "value": "Word with Bad or Bugs"
+                    },
+                    {
+                        "clueStart": 5,
+                        "clueNum": 4,
+                        "clueEnd": 15,
+                        "value": "By way of"
+                    },
+                    {
+                        "clueStart": 9,
+                        "clueNum": 5,
+                        "clueEnd": 19,
+                        "value": "\"Excuse me while I kiss the ___\" (Hendrix lyric that's famously misheard)"
+                    }
+                ]
+            },
+            "answers": [
+                null,
+                "J",
+                "O",
+                "B",
+                null,
+                "V",
+                "E",
+                "N",
+                "U",
+                "S",
+                "I",
+                "N",
+                "I",
+                "N",
+                "K",
+                "A",
+                "G",
+                "O",
+                "N",
+                "Y",
+                null,
+                "A",
+                "N",
+                "Y",
+                null
+            ],
+            "layout": [
+                0,
+                1,
+                1,
+                1,
+                0,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                0,
+                1,
+                1,
+                1,
+                0
+            ]
+        }
+    }
+]
