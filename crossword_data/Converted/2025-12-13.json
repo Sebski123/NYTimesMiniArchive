@@ -1,0 +1,270 @@
+[
+    {
+        "puzzle_id": 23295,
+        "promo_id": null,
+        "version": 3,
+        "puzzle_meta": {
+            "formatType": "Normal",
+            "publishType": "Daily",
+            "title": "The Mini Crossword",
+            "printDate": "2025-12-13",
+            "printDotw": 0,
+            "editor": "Joel Fagliano",
+            "height": 7,
+            "width": 8,
+            "author": "Sam Ezersky"
+        },
+        "print_date": "2025-12-13",
+        "enhanced_tier_date": null,
+        "puzzle_data": {
+            "clues": {
+                "A": [
+                    {
+                        "clueStart": 0,
+                        "clueNum": 1,
+                        "clueEnd": 2,
+                        "value": "Field trip vehicle"
+                    },
+                    {
+                        "clueStart": 4,
+                        "clueNum": 4,
+                        "clueEnd": 7,
+                        "value": "Peter's antagonist, in a musical tale"
+                    },
+                    {
+                        "clueStart": 8,
+                        "clueNum": 8,
+                        "clueEnd": 10,
+                        "value": "\"Keep me posted,\" in texts"
+                    },
+                    {
+                        "clueStart": 12,
+                        "clueNum": 9,
+                        "clueEnd": 15,
+                        "value": "Opera solo"
+                    },
+                    {
+                        "clueStart": 16,
+                        "clueNum": 10,
+                        "clueEnd": 18,
+                        "value": "___Pen (emergency device)"
+                    },
+                    {
+                        "clueStart": 20,
+                        "clueNum": 11,
+                        "clueEnd": 23,
+                        "value": "With 12-Across, gets in order"
+                    },
+                    {
+                        "clueStart": 24,
+                        "clueNum": 12,
+                        "clueEnd": 31,
+                        "value": "With 14-Across, what a tennis champ might win a match in"
+                    },
+                    {
+                        "clueStart": 32,
+                        "clueNum": 14,
+                        "clueEnd": 35,
+                        "value": "See 12-Across"
+                    },
+                    {
+                        "clueStart": 37,
+                        "clueNum": 15,
+                        "clueEnd": 39,
+                        "value": "\"A long time ___ in a galaxy far, far away ...\""
+                    },
+                    {
+                        "clueStart": 40,
+                        "clueNum": 16,
+                        "clueEnd": 43,
+                        "value": "Shy and gentle"
+                    },
+                    {
+                        "clueStart": 45,
+                        "clueNum": 17,
+                        "clueEnd": 47,
+                        "value": "Prefix with apology or answer"
+                    },
+                    {
+                        "clueStart": 48,
+                        "clueNum": 18,
+                        "clueEnd": 51,
+                        "value": "Comes to a close"
+                    },
+                    {
+                        "clueStart": 53,
+                        "clueNum": 19,
+                        "clueEnd": 55,
+                        "value": "Have to pay"
+                    }
+                ],
+                "D": [
+                    {
+                        "clueStart": 0,
+                        "clueNum": 1,
+                        "clueEnd": 48,
+                        "value": "\"Goodness gracious!\""
+                    },
+                    {
+                        "clueStart": 1,
+                        "clueNum": 2,
+                        "clueEnd": 49,
+                        "value": "Indefinitely many, informally"
+                    },
+                    {
+                        "clueStart": 2,
+                        "clueNum": 3,
+                        "clueEnd": 50,
+                        "value": "Avoided, as an issue"
+                    },
+                    {
+                        "clueStart": 4,
+                        "clueNum": 4,
+                        "clueEnd": 28,
+                        "value": "\"Now, where ___?\""
+                    },
+                    {
+                        "clueStart": 5,
+                        "clueNum": 5,
+                        "clueEnd": 53,
+                        "value": "Green topping at a pizza parlor"
+                    },
+                    {
+                        "clueStart": 6,
+                        "clueNum": 6,
+                        "clueEnd": 54,
+                        "value": "John who played Churchill on \"The Crown\""
+                    },
+                    {
+                        "clueStart": 7,
+                        "clueNum": 7,
+                        "clueEnd": 55,
+                        "value": "Sneaky trick to \"pull\""
+                    },
+                    {
+                        "clueStart": 27,
+                        "clueNum": 13,
+                        "clueEnd": 51,
+                        "value": "Doesn't just assume one has permission"
+                    }
+                ]
+            },
+            "answers": [
+                "B",
+                "U",
+                "S",
+                null,
+                "W",
+                "O",
+                "L",
+                "F",
+                "L",
+                "M",
+                "K",
+                null,
+                "A",
+                "R",
+                "I",
+                "A",
+                "E",
+                "P",
+                "I",
+                null,
+                "S",
+                "E",
+                "T",
+                "S",
+                "S",
+                "T",
+                "R",
+                "A",
+                "I",
+                "G",
+                "H",
+                "T",
+                "S",
+                "E",
+                "T",
+                "S",
+                null,
+                "A",
+                "G",
+                "O",
+                "M",
+                "E",
+                "E",
+                "K",
+                null,
+                "N",
+                "O",
+                "N",
+                "E",
+                "N",
+                "D",
+                "S",
+                null,
+                "O",
+                "W",
+                "E"
+            ],
+            "layout": [
+                1,
+                1,
+                1,
+                0,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                0,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                0,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                0,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                0,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                0,
+                1,
+                1,
+                1
+            ]
+        }
+    }
+]
