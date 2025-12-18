@@ -1,0 +1,158 @@
+[
+    {
+        "puzzle_id": 23480,
+        "promo_id": null,
+        "version": 3,
+        "puzzle_meta": {
+            "formatType": "Normal",
+            "publishType": "Daily",
+            "title": "The Mini Crossword",
+            "printDate": "2025-12-18",
+            "printDotw": 0,
+            "editor": "",
+            "height": 5,
+            "width": 6,
+            "author": "Joel Fagliano"
+        },
+        "print_date": "2025-12-18",
+        "enhanced_tier_date": null,
+        "puzzle_data": {
+            "clues": {
+                "A": [
+                    {
+                        "clueStart": 2,
+                        "clueNum": 1,
+                        "clueEnd": 4,
+                        "value": "Faux ___ (misstep)"
+                    },
+                    {
+                        "clueStart": 6,
+                        "clueNum": 4,
+                        "clueEnd": 11,
+                        "value": "Folder for unfinished emails"
+                    },
+                    {
+                        "clueStart": 12,
+                        "clueNum": 7,
+                        "clueEnd": 17,
+                        "value": "Low-quality, machine-generated content, informally"
+                    },
+                    {
+                        "clueStart": 18,
+                        "clueNum": 8,
+                        "clueEnd": 23,
+                        "value": "Field of plants"
+                    },
+                    {
+                        "clueStart": 26,
+                        "clueNum": 9,
+                        "clueEnd": 28,
+                        "value": "Had a bite"
+                    }
+                ],
+                "D": [
+                    {
+                        "clueStart": 2,
+                        "clueNum": 1,
+                        "clueEnd": 26,
+                        "value": "Small yellow bowties, say"
+                    },
+                    {
+                        "clueStart": 3,
+                        "clueNum": 2,
+                        "clueEnd": 27,
+                        "value": "Black piano key next to G"
+                    },
+                    {
+                        "clueStart": 4,
+                        "clueNum": 3,
+                        "clueEnd": 28,
+                        "value": "Piece of equipment in curling"
+                    },
+                    {
+                        "clueStart": 6,
+                        "clueNum": 4,
+                        "clueEnd": 18,
+                        "value": "Faddish dance move of the mid-2010s"
+                    },
+                    {
+                        "clueStart": 7,
+                        "clueNum": 5,
+                        "clueEnd": 19,
+                        "value": "___ de Janeiro"
+                    },
+                    {
+                        "clueStart": 11,
+                        "clueNum": 6,
+                        "clueEnd": 23,
+                        "value": "Costume that might include a black trench coat and sunglasses"
+                    }
+                ]
+            },
+            "answers": [
+                null,
+                null,
+                "P",
+                "A",
+                "S",
+                null,
+                "D",
+                "R",
+                "A",
+                "F",
+                "T",
+                "S",
+                "A",
+                "I",
+                "S",
+                "L",
+                "O",
+                "P",
+                "B",
+                "O",
+                "T",
+                "A",
+                "N",
+                "Y",
+                null,
+                null,
+                "A",
+                "T",
+                "E",
+                null
+            ],
+            "layout": [
+                0,
+                0,
+                1,
+                1,
+                1,
+                0,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                0,
+                0,
+                1,
+                1,
+                1,
+                0
+            ]
+        }
+    }
+]
