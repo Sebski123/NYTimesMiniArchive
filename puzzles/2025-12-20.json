@@ -1,0 +1,194 @@
+[
+    {
+        "puzzle_id": 23517,
+        "promo_id": null,
+        "version": 3,
+        "puzzle_meta": {
+            "formatType": "Normal",
+            "publishType": "Daily",
+            "title": "The Mini Crossword",
+            "printDate": "2025-12-20",
+            "printDotw": 0,
+            "editor": "",
+            "height": 6,
+            "width": 7,
+            "author": "Joel Fagliano"
+        },
+        "print_date": "2025-12-20",
+        "enhanced_tier_date": null,
+        "puzzle_data": {
+            "clues": {
+                "A": [
+                    {
+                        "clueStart": 2,
+                        "clueNum": 1,
+                        "clueEnd": 6,
+                        "value": "Boston-area university with an elephant mascot"
+                    },
+                    {
+                        "clueStart": 8,
+                        "clueNum": 6,
+                        "clueEnd": 13,
+                        "value": "Be nearly out of stock"
+                    },
+                    {
+                        "clueStart": 14,
+                        "clueNum": 7,
+                        "clueEnd": 20,
+                        "value": "Adams's successor as New York City mayor"
+                    },
+                    {
+                        "clueStart": 21,
+                        "clueNum": 8,
+                        "clueEnd": 27,
+                        "value": "\"Wicked,\" for \"good\""
+                    },
+                    {
+                        "clueStart": 28,
+                        "clueNum": 9,
+                        "clueEnd": 33,
+                        "value": "\"If you say so ...\""
+                    },
+                    {
+                        "clueStart": 35,
+                        "clueNum": 10,
+                        "clueEnd": 38,
+                        "value": "Counterparts of Repubs"
+                    }
+                ],
+                "D": [
+                    {
+                        "clueStart": 2,
+                        "clueNum": 1,
+                        "clueEnd": 37,
+                        "value": "Belly, informally"
+                    },
+                    {
+                        "clueStart": 3,
+                        "clueNum": 2,
+                        "clueEnd": 38,
+                        "value": "Fixes with Ctrl+Z"
+                    },
+                    {
+                        "clueStart": 4,
+                        "clueNum": 3,
+                        "clueEnd": 32,
+                        "value": "Custardy desserts"
+                    },
+                    {
+                        "clueStart": 5,
+                        "clueNum": 4,
+                        "clueEnd": 33,
+                        "value": "Awards for Broadway stars"
+                    },
+                    {
+                        "clueStart": 6,
+                        "clueNum": 5,
+                        "clueEnd": 27,
+                        "value": "Complete the first leg of a triathlon"
+                    },
+                    {
+                        "clueStart": 8,
+                        "clueNum": 6,
+                        "clueEnd": 36,
+                        "value": "Place to hone one's golf swing"
+                    },
+                    {
+                        "clueStart": 14,
+                        "clueNum": 7,
+                        "clueEnd": 35,
+                        "value": "Honey ___ (brand of graham crackers)"
+                    }
+                ]
+            },
+            "answers": [
+                null,
+                null,
+                "T",
+                "U",
+                "F",
+                "T",
+                "S",
+                null,
+                "R",
+                "U",
+                "N",
+                "L",
+                "O",
+                "W",
+                "M",
+                "A",
+                "M",
+                "D",
+                "A",
+                "N",
+                "I",
+                "A",
+                "N",
+                "T",
+                "O",
+                "N",
+                "Y",
+                "M",
+                "I",
+                "G",
+                "U",
+                "E",
+                "S",
+                "S",
+                null,
+                "D",
+                "E",
+                "M",
+                "S",
+                null,
+                null,
+                null
+            ],
+            "layout": [
+                0,
+                0,
+                1,
+                1,
+                1,
+                1,
+                1,
+                0,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                0,
+                1,
+                1,
+                1,
+                1,
+                0,
+                0,
+                0
+            ]
+        }
+    }
+]
