@@ -1,0 +1,264 @@
+[
+    {
+        "puzzle_id": 23482,
+        "promo_id": null,
+        "version": 3,
+        "puzzle_meta": {
+            "formatType": "Normal",
+            "publishType": "Daily",
+            "title": "The Mini Crossword",
+            "printDate": "2026-01-31",
+            "printDotw": 0,
+            "editor": "Joel Fagliano",
+            "height": 7,
+            "width": 8,
+            "author": "Sam Ezersky"
+        },
+        "print_date": "2026-01-31",
+        "enhanced_tier_date": null,
+        "puzzle_data": {
+            "clues": {
+                "A": [
+                    {
+                        "clueStart": 1,
+                        "clueNum": 1,
+                        "clueEnd": 3,
+                        "value": "Lifeguard's skill, for short"
+                    },
+                    {
+                        "clueStart": 5,
+                        "clueNum": 4,
+                        "clueEnd": 7,
+                        "value": "Health measure calculated using height and weight: Abbr."
+                    },
+                    {
+                        "clueStart": 9,
+                        "clueNum": 7,
+                        "clueEnd": 11,
+                        "value": "\"I've cracked the code!\""
+                    },
+                    {
+                        "clueStart": 13,
+                        "clueNum": 8,
+                        "clueEnd": 15,
+                        "value": "Long, long time"
+                    },
+                    {
+                        "clueStart": 16,
+                        "clueNum": 9,
+                        "clueEnd": 19,
+                        "value": "Like a desert's climate"
+                    },
+                    {
+                        "clueStart": 21,
+                        "clueNum": 10,
+                        "clueEnd": 23,
+                        "value": "\"We're still figuring it out\" inits."
+                    },
+                    {
+                        "clueStart": 24,
+                        "clueNum": 11,
+                        "clueEnd": 31,
+                        "value": "Holder of meats and cheeses at a supermarket"
+                    },
+                    {
+                        "clueStart": 32,
+                        "clueNum": 13,
+                        "clueEnd": 39,
+                        "value": "Needing careful handling"
+                    },
+                    {
+                        "clueStart": 40,
+                        "clueNum": 14,
+                        "clueEnd": 42,
+                        "value": "X-ray alternative"
+                    },
+                    {
+                        "clueStart": 44,
+                        "clueNum": 15,
+                        "clueEnd": 47,
+                        "value": "Zipped along"
+                    },
+                    {
+                        "clueStart": 48,
+                        "clueNum": 16,
+                        "clueEnd": 50,
+                        "value": "Suffix with legal"
+                    },
+                    {
+                        "clueStart": 53,
+                        "clueNum": 17,
+                        "clueEnd": 55,
+                        "value": "Ask nosy questions"
+                    }
+                ],
+                "D": [
+                    {
+                        "clueStart": 1,
+                        "clueNum": 1,
+                        "clueEnd": 49,
+                        "value": "Header on a company's website, perhaps"
+                    },
+                    {
+                        "clueStart": 2,
+                        "clueNum": 2,
+                        "clueEnd": 50,
+                        "value": "Opponent of a Met or Marlin, in the N.L. East"
+                    },
+                    {
+                        "clueStart": 3,
+                        "clueNum": 3,
+                        "clueEnd": 35,
+                        "value": "Halves of diameters"
+                    },
+                    {
+                        "clueStart": 5,
+                        "clueNum": 4,
+                        "clueEnd": 53,
+                        "value": "Tech release that's not the finished product"
+                    },
+                    {
+                        "clueStart": 6,
+                        "clueNum": 5,
+                        "clueEnd": 54,
+                        "value": "Mafia member"
+                    },
+                    {
+                        "clueStart": 7,
+                        "clueNum": 6,
+                        "clueEnd": 55,
+                        "value": "\"Yes ___!\" (informal \"For sure!\")"
+                    },
+                    {
+                        "clueStart": 16,
+                        "clueNum": 9,
+                        "clueEnd": 48,
+                        "value": "Words from someone hoping to be friends on Facebook"
+                    },
+                    {
+                        "clueStart": 28,
+                        "clueNum": 12,
+                        "clueEnd": 44,
+                        "value": "Includes on an email chain"
+                    }
+                ]
+            },
+            "answers": [
+                null,
+                "C",
+                "P",
+                "R",
+                null,
+                "B",
+                "M",
+                "I",
+                null,
+                "A",
+                "H",
+                "A",
+                null,
+                "E",
+                "O",
+                "N",
+                "A",
+                "R",
+                "I",
+                "D",
+                null,
+                "T",
+                "B",
+                "D",
+                "D",
+                "E",
+                "L",
+                "I",
+                "C",
+                "A",
+                "S",
+                "E",
+                "D",
+                "E",
+                "L",
+                "I",
+                "C",
+                "A",
+                "T",
+                "E",
+                "M",
+                "R",
+                "I",
+                null,
+                "S",
+                "P",
+                "E",
+                "D",
+                "E",
+                "S",
+                "E",
+                null,
+                null,
+                "P",
+                "R",
+                "Y"
+            ],
+            "layout": [
+                0,
+                1,
+                1,
+                1,
+                0,
+                1,
+                1,
+                1,
+                0,
+                1,
+                1,
+                1,
+                0,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                0,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                0,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                0,
+                0,
+                1,
+                1,
+                1
+            ]
+        }
+    }
+]
