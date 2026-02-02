@@ -1,0 +1,158 @@
+[
+    {
+        "puzzle_id": 23681,
+        "promo_id": null,
+        "version": 3,
+        "puzzle_meta": {
+            "formatType": "Normal",
+            "publishType": "Daily",
+            "title": "The Mini Crossword",
+            "printDate": "2026-02-02",
+            "printDotw": 0,
+            "editor": "Joel Fagliano",
+            "height": 5,
+            "width": 6,
+            "author": "Sam Ezersky"
+        },
+        "print_date": "2026-02-02",
+        "enhanced_tier_date": null,
+        "puzzle_data": {
+            "clues": {
+                "A": [
+                    {
+                        "clueStart": 1,
+                        "clueNum": 1,
+                        "clueEnd": 4,
+                        "value": "Rock band with albums like \"High Voltage\" and \"Flick of the Switch\""
+                    },
+                    {
+                        "clueStart": 6,
+                        "clueNum": 5,
+                        "clueEnd": 11,
+                        "value": "Stuck doing the same old, same old"
+                    },
+                    {
+                        "clueStart": 12,
+                        "clueNum": 7,
+                        "clueEnd": 17,
+                        "value": "Burning up"
+                    },
+                    {
+                        "clueStart": 18,
+                        "clueNum": 8,
+                        "clueEnd": 23,
+                        "value": "-tion, for one"
+                    },
+                    {
+                        "clueStart": 25,
+                        "clueNum": 9,
+                        "clueEnd": 28,
+                        "value": "Jared of 2025's \"Tron: Ares\""
+                    }
+                ],
+                "D": [
+                    {
+                        "clueStart": 1,
+                        "clueNum": 1,
+                        "clueEnd": 25,
+                        "value": "Declare void, as a marriage"
+                    },
+                    {
+                        "clueStart": 2,
+                        "clueNum": 2,
+                        "clueEnd": 26,
+                        "value": "___ macchiato (espresso drink)"
+                    },
+                    {
+                        "clueStart": 3,
+                        "clueNum": 3,
+                        "clueEnd": 27,
+                        "value": "Begin to veer off the road, say"
+                    },
+                    {
+                        "clueStart": 4,
+                        "clueNum": 4,
+                        "clueEnd": 28,
+                        "value": "Odd little trinket"
+                    },
+                    {
+                        "clueStart": 6,
+                        "clueNum": 5,
+                        "clueEnd": 18,
+                        "value": "What Apple smartphones run on"
+                    },
+                    {
+                        "clueStart": 11,
+                        "clueNum": 6,
+                        "clueEnd": 23,
+                        "value": "___-Mex cuisine"
+                    }
+                ]
+            },
+            "answers": [
+                null,
+                "A",
+                "C",
+                "D",
+                "C",
+                null,
+                "I",
+                "N",
+                "A",
+                "R",
+                "U",
+                "T",
+                "O",
+                "N",
+                "F",
+                "I",
+                "R",
+                "E",
+                "S",
+                "U",
+                "F",
+                "F",
+                "I",
+                "X",
+                null,
+                "L",
+                "E",
+                "T",
+                "O",
+                null
+            ],
+            "layout": [
+                0,
+                1,
+                1,
+                1,
+                1,
+                0,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                0,
+                1,
+                1,
+                1,
+                1,
+                0
+            ]
+        }
+    }
+]
