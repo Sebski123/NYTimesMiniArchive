@@ -1,0 +1,282 @@
+[
+    {
+        "puzzle_id": 23683,
+        "promo_id": null,
+        "version": 3,
+        "puzzle_meta": {
+            "formatType": "Normal",
+            "publishType": "Daily",
+            "title": "The Mini Crossword",
+            "printDate": "2026-02-28",
+            "printDotw": 0,
+            "editor": "Joel Fagliano",
+            "height": 8,
+            "width": 7,
+            "author": "Sam Ezersky"
+        },
+        "print_date": "2026-02-28",
+        "enhanced_tier_date": null,
+        "puzzle_data": {
+            "clues": {
+                "A": [
+                    {
+                        "clueStart": 0,
+                        "clueNum": 1,
+                        "clueEnd": 2,
+                        "value": "Rock's ___ Leppard"
+                    },
+                    {
+                        "clueStart": 4,
+                        "clueNum": 4,
+                        "clueEnd": 6,
+                        "value": "Cry a river"
+                    },
+                    {
+                        "clueStart": 7,
+                        "clueNum": 7,
+                        "clueEnd": 9,
+                        "value": "Clean Air Act org."
+                    },
+                    {
+                        "clueStart": 11,
+                        "clueNum": 8,
+                        "clueEnd": 13,
+                        "value": "Org. that pays the Bills?"
+                    },
+                    {
+                        "clueStart": 14,
+                        "clueNum": 9,
+                        "clueEnd": 16,
+                        "value": "Nintendo console with motion sensors"
+                    },
+                    {
+                        "clueStart": 18,
+                        "clueNum": 10,
+                        "clueEnd": 20,
+                        "value": "___-quoted (frequently said)"
+                    },
+                    {
+                        "clueStart": 22,
+                        "clueNum": 11,
+                        "clueEnd": 26,
+                        "value": "With 13-Across, narrow gap between the underside of a house and the ground"
+                    },
+                    {
+                        "clueStart": 29,
+                        "clueNum": 13,
+                        "clueEnd": 33,
+                        "value": "See 11-Across"
+                    },
+                    {
+                        "clueStart": 35,
+                        "clueNum": 14,
+                        "clueEnd": 37,
+                        "value": "Young lady"
+                    },
+                    {
+                        "clueStart": 39,
+                        "clueNum": 15,
+                        "clueEnd": 41,
+                        "value": "Ooh and ___"
+                    },
+                    {
+                        "clueStart": 42,
+                        "clueNum": 17,
+                        "clueEnd": 44,
+                        "value": "Sports org. for Scottie Scheffler"
+                    },
+                    {
+                        "clueStart": 46,
+                        "clueNum": 18,
+                        "clueEnd": 48,
+                        "value": "\"Hey, just an F.Y.I.\u00a0\u2026,\" informally"
+                    },
+                    {
+                        "clueStart": 49,
+                        "clueNum": 19,
+                        "clueEnd": 51,
+                        "value": "When doubled, nickname for singer Swift"
+                    },
+                    {
+                        "clueStart": 53,
+                        "clueNum": 20,
+                        "clueEnd": 55,
+                        "value": "Socially timid"
+                    }
+                ],
+                "D": [
+                    {
+                        "clueStart": 0,
+                        "clueNum": 1,
+                        "clueEnd": 14,
+                        "value": "Morning moisture"
+                    },
+                    {
+                        "clueStart": 1,
+                        "clueNum": 2,
+                        "clueEnd": 50,
+                        "value": "\"Game of Thrones\" or Homer's \"Odyssey\""
+                    },
+                    {
+                        "clueStart": 2,
+                        "clueNum": 3,
+                        "clueEnd": 51,
+                        "value": "Good sportsmanship"
+                    },
+                    {
+                        "clueStart": 4,
+                        "clueNum": 4,
+                        "clueEnd": 53,
+                        "value": "White mountain toppers"
+                    },
+                    {
+                        "clueStart": 5,
+                        "clueNum": 5,
+                        "clueEnd": 54,
+                        "value": "Unrestrained, as a dog at a park"
+                    },
+                    {
+                        "clueStart": 6,
+                        "clueNum": 6,
+                        "clueEnd": 20,
+                        "value": "Sandwich that might be served \"triple-decker\""
+                    },
+                    {
+                        "clueStart": 24,
+                        "clueNum": 12,
+                        "clueEnd": 31,
+                        "value": "Common battery type"
+                    },
+                    {
+                        "clueStart": 35,
+                        "clueNum": 14,
+                        "clueEnd": 49,
+                        "value": "Chat___"
+                    },
+                    {
+                        "clueStart": 41,
+                        "clueNum": 16,
+                        "clueEnd": 55,
+                        "value": "It's for horses, in a classic joke punchline"
+                    }
+                ]
+            },
+            "answers": [
+                "D",
+                "E",
+                "F",
+                null,
+                "S",
+                "O",
+                "B",
+                "E",
+                "P",
+                "A",
+                null,
+                "N",
+                "F",
+                "L",
+                "W",
+                "I",
+                "I",
+                null,
+                "O",
+                "F",
+                "T",
+                null,
+                "C",
+                "R",
+                "A",
+                "W",
+                "L",
+                null,
+                null,
+                "S",
+                "P",
+                "A",
+                "C",
+                "E",
+                null,
+                "G",
+                "A",
+                "L",
+                null,
+                "A",
+                "A",
+                "H",
+                "P",
+                "G",
+                "A",
+                null,
+                "P",
+                "S",
+                "A",
+                "T",
+                "A",
+                "Y",
+                null,
+                "S",
+                "H",
+                "Y"
+            ],
+            "layout": [
+                1,
+                1,
+                1,
+                0,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                0,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                0,
+                1,
+                1,
+                1,
+                0,
+                1,
+                1,
+                1,
+                1,
+                1,
+                0,
+                0,
+                1,
+                1,
+                1,
+                1,
+                1,
+                0,
+                1,
+                1,
+                1,
+                0,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                0,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                0,
+                1,
+                1,
+                1
+            ]
+        }
+    }
+]
