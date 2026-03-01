@@ -1,0 +1,142 @@
+[
+    {
+        "puzzle_id": 23786,
+        "promo_id": null,
+        "version": 3,
+        "puzzle_meta": {
+            "formatType": "Normal",
+            "publishType": "Daily",
+            "title": "The Mini Crossword",
+            "printDate": "2026-03-01",
+            "printDotw": 0,
+            "editor": "Joel Fagliano",
+            "height": 5,
+            "width": 5,
+            "author": "Ian Livengood"
+        },
+        "print_date": "2026-03-01",
+        "enhanced_tier_date": null,
+        "puzzle_data": {
+            "clues": {
+                "A": [
+                    {
+                        "clueStart": 0,
+                        "clueNum": 1,
+                        "clueEnd": 3,
+                        "value": "Stereotypical wearer of a letterman jacket"
+                    },
+                    {
+                        "clueStart": 5,
+                        "clueNum": 5,
+                        "clueEnd": 9,
+                        "value": "Surrounding glows"
+                    },
+                    {
+                        "clueStart": 10,
+                        "clueNum": 7,
+                        "clueEnd": 14,
+                        "value": "Eschew a heavy meal in favor of light snacks"
+                    },
+                    {
+                        "clueStart": 16,
+                        "clueNum": 8,
+                        "clueEnd": 19,
+                        "value": "The white stuff?"
+                    },
+                    {
+                        "clueStart": 22,
+                        "clueNum": 9,
+                        "clueEnd": 24,
+                        "value": "M.M.A. fight enders, for short"
+                    }
+                ],
+                "D": [
+                    {
+                        "clueStart": 0,
+                        "clueNum": 1,
+                        "clueEnd": 10,
+                        "value": "Jacksonville N.F.L. player, informally"
+                    },
+                    {
+                        "clueStart": 1,
+                        "clueNum": 2,
+                        "clueEnd": 16,
+                        "value": "\"But this love is ___\" (Taylor Swift lyric)"
+                    },
+                    {
+                        "clueStart": 2,
+                        "clueNum": 3,
+                        "clueEnd": 22,
+                        "value": "Grumbly sort"
+                    },
+                    {
+                        "clueStart": 3,
+                        "clueNum": 4,
+                        "clueEnd": 23,
+                        "value": "Instrument that buzzes"
+                    },
+                    {
+                        "clueStart": 9,
+                        "clueNum": 6,
+                        "clueEnd": 24,
+                        "value": "Uses needle and thread"
+                    }
+                ]
+            },
+            "answers": [
+                "J",
+                "O",
+                "C",
+                "K",
+                null,
+                "A",
+                "U",
+                "R",
+                "A",
+                "S",
+                "G",
+                "R",
+                "A",
+                "Z",
+                "E",
+                null,
+                "S",
+                "N",
+                "O",
+                "W",
+                null,
+                null,
+                "K",
+                "O",
+                "S"
+            ],
+            "layout": [
+                1,
+                1,
+                1,
+                1,
+                0,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                0,
+                1,
+                1,
+                1,
+                1,
+                0,
+                0,
+                1,
+                1,
+                1
+            ]
+        }
+    }
+]
