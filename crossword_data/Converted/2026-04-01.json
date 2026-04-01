@@ -1,0 +1,142 @@
+[
+    {
+        "puzzle_id": 23813,
+        "promo_id": null,
+        "version": 3,
+        "puzzle_meta": {
+            "formatType": "Normal",
+            "publishType": "Daily",
+            "title": "The Mini Crossword",
+            "printDate": "2026-04-01",
+            "printDotw": 0,
+            "editor": "Joel Fagliano",
+            "height": 5,
+            "width": 5,
+            "author": "Sam Ezersky"
+        },
+        "print_date": "2026-04-01",
+        "enhanced_tier_date": null,
+        "puzzle_data": {
+            "clues": {
+                "A": [
+                    {
+                        "clueStart": 1,
+                        "clueNum": 1,
+                        "clueEnd": 4,
+                        "value": "Y Y Y Y Y Y Y"
+                    },
+                    {
+                        "clueStart": 5,
+                        "clueNum": 5,
+                        "clueEnd": 9,
+                        "value": "Back half of an old cassette tape"
+                    },
+                    {
+                        "clueStart": 10,
+                        "clueNum": 6,
+                        "clueEnd": 14,
+                        "value": "Perform lines that aren't in the script"
+                    },
+                    {
+                        "clueStart": 15,
+                        "clueNum": 7,
+                        "clueEnd": 18,
+                        "value": "G G G G G G G"
+                    },
+                    {
+                        "clueStart": 20,
+                        "clueNum": 8,
+                        "clueEnd": 23,
+                        "value": "Butt, to Brits"
+                    }
+                ],
+                "D": [
+                    {
+                        "clueStart": 1,
+                        "clueNum": 1,
+                        "clueEnd": 21,
+                        "value": "Opposite of narrower"
+                    },
+                    {
+                        "clueStart": 2,
+                        "clueNum": 2,
+                        "clueEnd": 22,
+                        "value": "Keeps the engine on while parked"
+                    },
+                    {
+                        "clueStart": 3,
+                        "clueNum": 3,
+                        "clueEnd": 23,
+                        "value": "C C C C C C C"
+                    },
+                    {
+                        "clueStart": 4,
+                        "clueNum": 4,
+                        "clueEnd": 14,
+                        "value": "___ and flow (tidal opposites)"
+                    },
+                    {
+                        "clueStart": 5,
+                        "clueNum": 5,
+                        "clueEnd": 20,
+                        "value": "Long, epic tale"
+                    }
+                ]
+            },
+            "answers": [
+                null,
+                "W",
+                "I",
+                "S",
+                "E",
+                "S",
+                "I",
+                "D",
+                "E",
+                "B",
+                "A",
+                "D",
+                "L",
+                "I",
+                "B",
+                "G",
+                "E",
+                "E",
+                "Z",
+                null,
+                "A",
+                "R",
+                "S",
+                "E",
+                null
+            ],
+            "layout": [
+                0,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                0,
+                1,
+                1,
+                1,
+                1,
+                0
+            ]
+        }
+    }
+]
