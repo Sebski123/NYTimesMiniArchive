@@ -1,0 +1,140 @@
+[
+    {
+        "puzzle_id": 23913,
+        "promo_id": null,
+        "version": 3,
+        "puzzle_meta": {
+            "formatType": "Normal",
+            "publishType": "Daily",
+            "title": "The Mini Crossword",
+            "printDate": "2026-04-03",
+            "printDotw": 0,
+            "editor": "",
+            "height": 4,
+            "width": 6,
+            "author": "Joel Fagliano"
+        },
+        "print_date": "2026-04-03",
+        "enhanced_tier_date": null,
+        "puzzle_data": {
+            "clues": {
+                "A": [
+                    {
+                        "clueStart": 0,
+                        "clueNum": 1,
+                        "clueEnd": 5,
+                        "value": "Jumped up ... or a season in the past tense?"
+                    },
+                    {
+                        "clueStart": 6,
+                        "clueNum": 7,
+                        "clueEnd": 11,
+                        "value": "Basketball player, informally"
+                    },
+                    {
+                        "clueStart": 12,
+                        "clueNum": 8,
+                        "clueEnd": 17,
+                        "value": "___ balloon"
+                    },
+                    {
+                        "clueStart": 19,
+                        "clueNum": 9,
+                        "clueEnd": 22,
+                        "value": "Tumbled down ... or a season in the past tense?"
+                    }
+                ],
+                "D": [
+                    {
+                        "clueStart": 0,
+                        "clueNum": 1,
+                        "clueEnd": 12,
+                        "value": "\"Be quiet!\""
+                    },
+                    {
+                        "clueStart": 1,
+                        "clueNum": 2,
+                        "clueEnd": 19,
+                        "value": "Sound of disappearance"
+                    },
+                    {
+                        "clueStart": 2,
+                        "clueNum": 3,
+                        "clueEnd": 20,
+                        "value": "Memorization technique based on repetition"
+                    },
+                    {
+                        "clueStart": 3,
+                        "clueNum": 4,
+                        "clueEnd": 21,
+                        "value": "\"C'mon, be ___\" (\"Help me out\")"
+                    },
+                    {
+                        "clueStart": 4,
+                        "clueNum": 5,
+                        "clueEnd": 22,
+                        "value": "Astronaut Armstrong"
+                    },
+                    {
+                        "clueStart": 5,
+                        "clueNum": 6,
+                        "clueEnd": 17,
+                        "value": "Dog's warning"
+                    }
+                ]
+            },
+            "answers": [
+                "S",
+                "P",
+                "R",
+                "A",
+                "N",
+                "G",
+                "H",
+                "O",
+                "O",
+                "P",
+                "E",
+                "R",
+                "H",
+                "O",
+                "T",
+                "A",
+                "I",
+                "R",
+                null,
+                "F",
+                "E",
+                "L",
+                "L",
+                null
+            ],
+            "layout": [
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                0,
+                1,
+                1,
+                1,
+                1,
+                0
+            ]
+        }
+    }
+]
