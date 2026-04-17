@@ -1,0 +1,142 @@
+[
+    {
+        "puzzle_id": 23955,
+        "promo_id": null,
+        "version": 3,
+        "puzzle_meta": {
+            "formatType": "Normal",
+            "publishType": "Daily",
+            "title": "The Mini Crossword",
+            "printDate": "2026-04-17",
+            "printDotw": 0,
+            "editor": "",
+            "height": 5,
+            "width": 5,
+            "author": "Joel Fagliano"
+        },
+        "print_date": "2026-04-17",
+        "enhanced_tier_date": null,
+        "puzzle_data": {
+            "clues": {
+                "A": [
+                    {
+                        "clueStart": 0,
+                        "clueNum": 1,
+                        "clueEnd": 2,
+                        "value": "Sound made while sinking into a hot tub"
+                    },
+                    {
+                        "clueStart": 5,
+                        "clueNum": 4,
+                        "clueEnd": 8,
+                        "value": "March Madness pick"
+                    },
+                    {
+                        "clueStart": 10,
+                        "clueNum": 6,
+                        "clueEnd": 14,
+                        "value": "Like \"status quo\" and \"mea culpa\""
+                    },
+                    {
+                        "clueStart": 15,
+                        "clueNum": 8,
+                        "clueEnd": 19,
+                        "value": "Large venue for a comedian"
+                    },
+                    {
+                        "clueStart": 20,
+                        "clueNum": 9,
+                        "clueEnd": 24,
+                        "value": "Piece of bacon"
+                    }
+                ],
+                "D": [
+                    {
+                        "clueStart": 0,
+                        "clueNum": 1,
+                        "clueEnd": 20,
+                        "value": "Book of maps"
+                    },
+                    {
+                        "clueStart": 1,
+                        "clueNum": 2,
+                        "clueEnd": 21,
+                        "value": "\u2764\ufe0f"
+                    },
+                    {
+                        "clueStart": 2,
+                        "clueNum": 3,
+                        "clueEnd": 22,
+                        "value": "Constant critic"
+                    },
+                    {
+                        "clueStart": 8,
+                        "clueNum": 5,
+                        "clueEnd": 23,
+                        "value": "Car that's easy to park"
+                    },
+                    {
+                        "clueStart": 14,
+                        "clueNum": 7,
+                        "clueEnd": 24,
+                        "value": "Much of the afternoon, for a toddler"
+                    }
+                ]
+            },
+            "answers": [
+                "A",
+                "H",
+                "H",
+                null,
+                null,
+                "T",
+                "E",
+                "A",
+                "M",
+                null,
+                "L",
+                "A",
+                "T",
+                "I",
+                "N",
+                "A",
+                "R",
+                "E",
+                "N",
+                "A",
+                "S",
+                "T",
+                "R",
+                "I",
+                "P"
+            ],
+            "layout": [
+                1,
+                1,
+                1,
+                0,
+                0,
+                1,
+                1,
+                1,
+                1,
+                0,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1
+            ]
+        }
+    }
+]
