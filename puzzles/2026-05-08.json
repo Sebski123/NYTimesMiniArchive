@@ -1,0 +1,158 @@
+[
+    {
+        "puzzle_id": 23977,
+        "promo_id": null,
+        "version": 3,
+        "puzzle_meta": {
+            "formatType": "Normal",
+            "publishType": "Daily",
+            "title": "The Mini Crossword",
+            "printDate": "2026-05-08",
+            "printDotw": 0,
+            "editor": "Joel Fagliano",
+            "height": 5,
+            "width": 6,
+            "author": "Christina Iverson"
+        },
+        "print_date": "2026-05-08",
+        "enhanced_tier_date": null,
+        "puzzle_data": {
+            "clues": {
+                "A": [
+                    {
+                        "clueStart": 1,
+                        "clueNum": 1,
+                        "clueEnd": 5,
+                        "value": "Squash"
+                    },
+                    {
+                        "clueStart": 6,
+                        "clueNum": 6,
+                        "clueEnd": 11,
+                        "value": "Monopoly card with a question mark on one side"
+                    },
+                    {
+                        "clueStart": 12,
+                        "clueNum": 7,
+                        "clueEnd": 17,
+                        "value": "\"Help! Help!\""
+                    },
+                    {
+                        "clueStart": 18,
+                        "clueNum": 8,
+                        "clueEnd": 22,
+                        "value": "Path around the sun"
+                    },
+                    {
+                        "clueStart": 24,
+                        "clueNum": 9,
+                        "clueEnd": 28,
+                        "value": "Pressing desires"
+                    }
+                ],
+                "D": [
+                    {
+                        "clueStart": 1,
+                        "clueNum": 1,
+                        "clueEnd": 25,
+                        "value": "Social media button with an arrow"
+                    },
+                    {
+                        "clueStart": 2,
+                        "clueNum": 2,
+                        "clueEnd": 26,
+                        "value": "Answer between \"yes\" and \"no\""
+                    },
+                    {
+                        "clueStart": 3,
+                        "clueNum": 3,
+                        "clueEnd": 27,
+                        "value": "Took back"
+                    },
+                    {
+                        "clueStart": 4,
+                        "clueNum": 4,
+                        "clueEnd": 28,
+                        "value": "Ad-libs in jazz singing"
+                    },
+                    {
+                        "clueStart": 5,
+                        "clueNum": 5,
+                        "clueEnd": 17,
+                        "value": "\"Yo!\""
+                    },
+                    {
+                        "clueStart": 6,
+                        "clueNum": 6,
+                        "clueEnd": 24,
+                        "value": "\"Dude!\""
+                    }
+                ]
+            },
+            "answers": [
+                null,
+                "S",
+                "M",
+                "U",
+                "S",
+                "H",
+                "C",
+                "H",
+                "A",
+                "N",
+                "C",
+                "E",
+                "M",
+                "A",
+                "Y",
+                "D",
+                "A",
+                "Y",
+                "O",
+                "R",
+                "B",
+                "I",
+                "T",
+                null,
+                "N",
+                "E",
+                "E",
+                "D",
+                "S",
+                null
+            ],
+            "layout": [
+                0,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                0,
+                1,
+                1,
+                1,
+                1,
+                1,
+                0
+            ]
+        }
+    }
+]
