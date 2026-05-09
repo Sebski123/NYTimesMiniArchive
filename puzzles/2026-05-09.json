@@ -1,0 +1,226 @@
+[
+    {
+        "puzzle_id": 23851,
+        "promo_id": null,
+        "version": 3,
+        "puzzle_meta": {
+            "formatType": "Normal",
+            "publishType": "Daily",
+            "title": "The Mini Crossword",
+            "printDate": "2026-05-09",
+            "printDotw": 0,
+            "editor": "",
+            "height": 7,
+            "width": 7,
+            "author": "Joel Fagliano"
+        },
+        "print_date": "2026-05-09",
+        "enhanced_tier_date": null,
+        "puzzle_data": {
+            "clues": {
+                "A": [
+                    {
+                        "clueStart": 2,
+                        "clueNum": 1,
+                        "clueEnd": 4,
+                        "value": "The \"S\" of H.S.: Abbr."
+                    },
+                    {
+                        "clueStart": 8,
+                        "clueNum": 4,
+                        "clueEnd": 12,
+                        "value": "King with a golden touch"
+                    },
+                    {
+                        "clueStart": 14,
+                        "clueNum": 6,
+                        "clueEnd": 20,
+                        "value": "New Delhi or New York"
+                    },
+                    {
+                        "clueStart": 21,
+                        "clueNum": 8,
+                        "clueEnd": 23,
+                        "value": "Raggedy ___ doll"
+                    },
+                    {
+                        "clueStart": 25,
+                        "clueNum": 9,
+                        "clueEnd": 27,
+                        "value": "Landmark Supreme Court case overturned by Dobbs"
+                    },
+                    {
+                        "clueStart": 28,
+                        "clueNum": 10,
+                        "clueEnd": 34,
+                        "value": "Segment of a train"
+                    },
+                    {
+                        "clueStart": 36,
+                        "clueNum": 12,
+                        "clueEnd": 40,
+                        "value": "Pig's nose"
+                    },
+                    {
+                        "clueStart": 44,
+                        "clueNum": 13,
+                        "clueEnd": 46,
+                        "value": "Place for an intuitive feeling"
+                    }
+                ],
+                "D": [
+                    {
+                        "clueStart": 2,
+                        "clueNum": 1,
+                        "clueEnd": 44,
+                        "value": "Author's event"
+                    },
+                    {
+                        "clueStart": 3,
+                        "clueNum": 2,
+                        "clueEnd": 17,
+                        "value": "Public health agcy."
+                    },
+                    {
+                        "clueStart": 4,
+                        "clueNum": 3,
+                        "clueEnd": 46,
+                        "value": "Barbershop offering"
+                    },
+                    {
+                        "clueStart": 8,
+                        "clueNum": 4,
+                        "clueEnd": 36,
+                        "value": "___ Tirith, capital of Gondor in the \"Lord of the Rings\" books"
+                    },
+                    {
+                        "clueStart": 12,
+                        "clueNum": 5,
+                        "clueEnd": 40,
+                        "value": "Short-tailed weasel"
+                    },
+                    {
+                        "clueStart": 14,
+                        "clueNum": 6,
+                        "clueEnd": 28,
+                        "value": "Place to order drinks"
+                    },
+                    {
+                        "clueStart": 20,
+                        "clueNum": 7,
+                        "clueEnd": 34,
+                        "value": "\"___ out!\" (umpire's shout)"
+                    },
+                    {
+                        "clueStart": 31,
+                        "clueNum": 11,
+                        "clueEnd": 45,
+                        "value": "Guitarist Reed"
+                    }
+                ]
+            },
+            "answers": [
+                null,
+                null,
+                "S",
+                "C",
+                "H",
+                null,
+                null,
+                null,
+                "M",
+                "I",
+                "D",
+                "A",
+                "S",
+                null,
+                "B",
+                "I",
+                "G",
+                "C",
+                "I",
+                "T",
+                "Y",
+                "A",
+                "N",
+                "N",
+                null,
+                "R",
+                "O",
+                "E",
+                "R",
+                "A",
+                "I",
+                "L",
+                "C",
+                "A",
+                "R",
+                null,
+                "S",
+                "N",
+                "O",
+                "U",
+                "T",
+                null,
+                null,
+                null,
+                "G",
+                "U",
+                "T",
+                null,
+                null
+            ],
+            "layout": [
+                0,
+                0,
+                1,
+                1,
+                1,
+                0,
+                0,
+                0,
+                1,
+                1,
+                1,
+                1,
+                1,
+                0,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                0,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                0,
+                1,
+                1,
+                1,
+                1,
+                1,
+                0,
+                0,
+                0,
+                1,
+                1,
+                1,
+                0,
+                0
+            ]
+        }
+    }
+]
