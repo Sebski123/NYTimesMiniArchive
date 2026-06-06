@@ -1,0 +1,238 @@
+[
+    {
+        "puzzle_id": 24090,
+        "promo_id": null,
+        "version": 3,
+        "puzzle_meta": {
+            "formatType": "Normal",
+            "publishType": "Daily",
+            "title": "The Mini Crossword",
+            "printDate": "2026-06-06",
+            "printDotw": 0,
+            "editor": "Joel Fagliano",
+            "height": 7,
+            "width": 7,
+            "author": "Ian Livengood"
+        },
+        "print_date": "2026-06-06",
+        "enhanced_tier_date": null,
+        "puzzle_data": {
+            "clues": {
+                "A": [
+                    {
+                        "clueStart": 0,
+                        "clueNum": 1,
+                        "clueEnd": 6,
+                        "value": "\"Easy peasy!\""
+                    },
+                    {
+                        "clueStart": 7,
+                        "clueNum": 8,
+                        "clueEnd": 13,
+                        "value": "Great Lake whose name can be translated in Iroquoian as \"great lake\""
+                    },
+                    {
+                        "clueStart": 14,
+                        "clueNum": 9,
+                        "clueEnd": 20,
+                        "value": "Use a ruler"
+                    },
+                    {
+                        "clueStart": 23,
+                        "clueNum": 10,
+                        "clueEnd": 25,
+                        "value": "Word after \"brake,\" \"Brillo\" or \"bachelor\""
+                    },
+                    {
+                        "clueStart": 28,
+                        "clueNum": 11,
+                        "clueEnd": 34,
+                        "value": "Having more sodium"
+                    },
+                    {
+                        "clueStart": 35,
+                        "clueNum": 15,
+                        "clueEnd": 41,
+                        "value": "Spider-Man foe who gained his powers from a lightning strike"
+                    },
+                    {
+                        "clueStart": 42,
+                        "clueNum": 16,
+                        "clueEnd": 48,
+                        "value": "George Washington or George Patton"
+                    }
+                ],
+                "D": [
+                    {
+                        "clueStart": 0,
+                        "clueNum": 1,
+                        "clueEnd": 14,
+                        "value": "___ de plume"
+                    },
+                    {
+                        "clueStart": 1,
+                        "clueNum": 2,
+                        "clueEnd": 15,
+                        "value": "First digit of pi after the decimal"
+                    },
+                    {
+                        "clueStart": 2,
+                        "clueNum": 3,
+                        "clueEnd": 44,
+                        "value": "Paper pusher?"
+                    },
+                    {
+                        "clueStart": 3,
+                        "clueNum": 4,
+                        "clueEnd": 45,
+                        "value": "Major mountain range in Utah"
+                    },
+                    {
+                        "clueStart": 4,
+                        "clueNum": 5,
+                        "clueEnd": 46,
+                        "value": "Well-read"
+                    },
+                    {
+                        "clueStart": 5,
+                        "clueNum": 6,
+                        "clueEnd": 19,
+                        "value": "It's mostly nitrogen and oxygen"
+                    },
+                    {
+                        "clueStart": 6,
+                        "clueNum": 7,
+                        "clueEnd": 20,
+                        "value": "Wiggler in a sock"
+                    },
+                    {
+                        "clueStart": 28,
+                        "clueNum": 11,
+                        "clueEnd": 42,
+                        "value": "Stitch up"
+                    },
+                    {
+                        "clueStart": 29,
+                        "clueNum": 12,
+                        "clueEnd": 43,
+                        "value": "Chicken ___ king"
+                    },
+                    {
+                        "clueStart": 33,
+                        "clueNum": 13,
+                        "clueEnd": 47,
+                        "value": "Make a mistake"
+                    },
+                    {
+                        "clueStart": 34,
+                        "clueNum": 14,
+                        "clueEnd": 48,
+                        "value": "Aussie animal, for short"
+                    }
+                ]
+            },
+            "answers": [
+                "N",
+                "O",
+                "S",
+                "W",
+                "E",
+                "A",
+                "T",
+                "O",
+                "N",
+                "T",
+                "A",
+                "R",
+                "I",
+                "O",
+                "M",
+                "E",
+                "A",
+                "S",
+                "U",
+                "R",
+                "E",
+                null,
+                null,
+                "P",
+                "A",
+                "D",
+                null,
+                null,
+                "S",
+                "A",
+                "L",
+                "T",
+                "I",
+                "E",
+                "R",
+                "E",
+                "L",
+                "E",
+                "C",
+                "T",
+                "R",
+                "O",
+                "W",
+                "A",
+                "R",
+                "H",
+                "E",
+                "R",
+                "O"
+            ],
+            "layout": [
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                0,
+                0,
+                1,
+                1,
+                1,
+                0,
+                0,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1
+            ]
+        }
+    }
+]
