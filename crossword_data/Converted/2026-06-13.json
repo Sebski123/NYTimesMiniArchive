@@ -1,0 +1,280 @@
+[
+    {
+        "puzzle_id": 24030,
+        "promo_id": null,
+        "version": 3,
+        "puzzle_meta": {
+            "formatType": "Normal",
+            "publishType": "Daily",
+            "title": "The Mini Crossword",
+            "printDate": "2026-06-13",
+            "printDotw": 0,
+            "editor": "",
+            "height": 8,
+            "width": 8,
+            "author": "Joel Fagliano"
+        },
+        "print_date": "2026-06-13",
+        "enhanced_tier_date": null,
+        "puzzle_data": {
+            "clues": {
+                "A": [
+                    {
+                        "clueStart": 2,
+                        "clueNum": 1,
+                        "clueEnd": 5,
+                        "value": "Sentry's \"Stop!\""
+                    },
+                    {
+                        "clueStart": 10,
+                        "clueNum": 5,
+                        "clueEnd": 13,
+                        "value": "___ vera (succulent)"
+                    },
+                    {
+                        "clueStart": 16,
+                        "clueNum": 6,
+                        "clueEnd": 23,
+                        "value": "\"That feeling should fade\""
+                    },
+                    {
+                        "clueStart": 24,
+                        "clueNum": 10,
+                        "clueEnd": 26,
+                        "value": "$1,000,000, informally"
+                    },
+                    {
+                        "clueStart": 29,
+                        "clueNum": 11,
+                        "clueEnd": 31,
+                        "value": "One of the Three Stooges"
+                    },
+                    {
+                        "clueStart": 32,
+                        "clueNum": 12,
+                        "clueEnd": 34,
+                        "value": "Caller of balls and strikes"
+                    },
+                    {
+                        "clueStart": 37,
+                        "clueNum": 13,
+                        "clueEnd": 39,
+                        "value": "___-1 (class of drugs that includes Ozempic and Wegovy)"
+                    },
+                    {
+                        "clueStart": 40,
+                        "clueNum": 14,
+                        "clueEnd": 47,
+                        "value": "Crunchy tendril used in Asian cuisine"
+                    },
+                    {
+                        "clueStart": 50,
+                        "clueNum": 17,
+                        "clueEnd": 53,
+                        "value": "___ Stadium, former home of the Mets"
+                    },
+                    {
+                        "clueStart": 58,
+                        "clueNum": 18,
+                        "clueEnd": 61,
+                        "value": "Silverstein who wrote \"The Giving Tree\""
+                    }
+                ],
+                "D": [
+                    {
+                        "clueStart": 2,
+                        "clueNum": 1,
+                        "clueEnd": 58,
+                        "value": "Student's slip"
+                    },
+                    {
+                        "clueStart": 3,
+                        "clueNum": 2,
+                        "clueEnd": 19,
+                        "value": "The \"A\" of GOAT"
+                    },
+                    {
+                        "clueStart": 4,
+                        "clueNum": 3,
+                        "clueEnd": 20,
+                        "value": "Chop (off)"
+                    },
+                    {
+                        "clueStart": 5,
+                        "clueNum": 4,
+                        "clueEnd": 61,
+                        "value": "Collective objective ... or what the ends of 1-Down, 6-Across and 14-Across lead to"
+                    },
+                    {
+                        "clueStart": 16,
+                        "clueNum": 6,
+                        "clueEnd": 40,
+                        "value": "\"Okay, it's my turn\""
+                    },
+                    {
+                        "clueStart": 17,
+                        "clueNum": 7,
+                        "clueEnd": 41,
+                        "value": "The \"T\" of GOAT"
+                    },
+                    {
+                        "clueStart": 22,
+                        "clueNum": 8,
+                        "clueEnd": 46,
+                        "value": "All by oneself"
+                    },
+                    {
+                        "clueStart": 23,
+                        "clueNum": 9,
+                        "clueEnd": 47,
+                        "value": "Month #9: Abbr."
+                    },
+                    {
+                        "clueStart": 43,
+                        "clueNum": 15,
+                        "clueEnd": 59,
+                        "value": "Librarian's warning"
+                    },
+                    {
+                        "clueStart": 44,
+                        "clueNum": 16,
+                        "clueEnd": 60,
+                        "value": "Tee-___ (giggle)"
+                    }
+                ]
+            },
+            "answers": [
+                null,
+                null,
+                "H",
+                "A",
+                "L",
+                "T",
+                null,
+                null,
+                null,
+                null,
+                "A",
+                "L",
+                "O",
+                "E",
+                null,
+                null,
+                "I",
+                "T",
+                "L",
+                "L",
+                "P",
+                "A",
+                "S",
+                "S",
+                "M",
+                "I",
+                "L",
+                null,
+                null,
+                "M",
+                "O",
+                "E",
+                "U",
+                "M",
+                "P",
+                null,
+                null,
+                "G",
+                "L",
+                "P",
+                "P",
+                "E",
+                "A",
+                "S",
+                "H",
+                "O",
+                "O",
+                "T",
+                null,
+                null,
+                "S",
+                "H",
+                "E",
+                "A",
+                null,
+                null,
+                null,
+                null,
+                "S",
+                "H",
+                "E",
+                "L",
+                null,
+                null
+            ],
+            "layout": [
+                0,
+                0,
+                1,
+                1,
+                1,
+                1,
+                0,
+                0,
+                0,
+                0,
+                1,
+                1,
+                1,
+                1,
+                0,
+                0,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                0,
+                0,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                0,
+                0,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                0,
+                0,
+                1,
+                1,
+                1,
+                1,
+                0,
+                0,
+                0,
+                0,
+                1,
+                1,
+                1,
+                1,
+                0,
+                0
+            ]
+        }
+    }
+]
