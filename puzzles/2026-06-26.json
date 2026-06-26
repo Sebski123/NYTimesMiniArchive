@@ -1,0 +1,142 @@
+[
+    {
+        "puzzle_id": 24208,
+        "promo_id": null,
+        "version": 3,
+        "puzzle_meta": {
+            "formatType": "Normal",
+            "publishType": "Daily",
+            "title": "The Mini Crossword",
+            "printDate": "2026-06-26",
+            "printDotw": 0,
+            "editor": "Joel Fagliano",
+            "height": 5,
+            "width": 5,
+            "author": "Tracy Bennett"
+        },
+        "print_date": "2026-06-26",
+        "enhanced_tier_date": null,
+        "puzzle_data": {
+            "clues": {
+                "A": [
+                    {
+                        "clueStart": 0,
+                        "clueNum": 1,
+                        "clueEnd": 4,
+                        "value": "Where you'll find two hands on one arm"
+                    },
+                    {
+                        "clueStart": 5,
+                        "clueNum": 6,
+                        "clueEnd": 9,
+                        "value": "State that's home to Shoshone Falls"
+                    },
+                    {
+                        "clueStart": 10,
+                        "clueNum": 7,
+                        "clueEnd": 14,
+                        "value": "Linking point"
+                    },
+                    {
+                        "clueStart": 15,
+                        "clueNum": 8,
+                        "clueEnd": 19,
+                        "value": "Vote into office"
+                    },
+                    {
+                        "clueStart": 20,
+                        "clueNum": 9,
+                        "clueEnd": 24,
+                        "value": "Seats for office workers"
+                    }
+                ],
+                "D": [
+                    {
+                        "clueStart": 0,
+                        "clueNum": 1,
+                        "clueEnd": 20,
+                        "value": "___ and dined"
+                    },
+                    {
+                        "clueStart": 1,
+                        "clueNum": 2,
+                        "clueEnd": 21,
+                        "value": "Singer of \"Hello\" and \"Skyfall\""
+                    },
+                    {
+                        "clueStart": 2,
+                        "clueNum": 3,
+                        "clueEnd": 22,
+                        "value": "Some paycheck withholdings"
+                    },
+                    {
+                        "clueStart": 3,
+                        "clueNum": 4,
+                        "clueEnd": 23,
+                        "value": "Apt name for a pet groundhog?"
+                    },
+                    {
+                        "clueStart": 4,
+                        "clueNum": 5,
+                        "clueEnd": 24,
+                        "value": "\"S.N.L.\" V.I.P.s"
+                    }
+                ]
+            },
+            "answers": [
+                "W",
+                "A",
+                "T",
+                "C",
+                "H",
+                "I",
+                "D",
+                "A",
+                "H",
+                "O",
+                "N",
+                "E",
+                "X",
+                "U",
+                "S",
+                "E",
+                "L",
+                "E",
+                "C",
+                "T",
+                "D",
+                "E",
+                "S",
+                "K",
+                "S"
+            ],
+            "layout": [
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1
+            ]
+        }
+    }
+]
