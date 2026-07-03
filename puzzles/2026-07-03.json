@@ -1,0 +1,142 @@
+[
+    {
+        "puzzle_id": 24245,
+        "promo_id": null,
+        "version": 3,
+        "puzzle_meta": {
+            "formatType": "Normal",
+            "publishType": "Daily",
+            "title": "The Mini Crossword",
+            "printDate": "2026-07-03",
+            "printDotw": 0,
+            "editor": "",
+            "height": 5,
+            "width": 5,
+            "author": "Joel Fagliano"
+        },
+        "print_date": "2026-07-03",
+        "enhanced_tier_date": null,
+        "puzzle_data": {
+            "clues": {
+                "A": [
+                    {
+                        "clueStart": 2,
+                        "clueNum": 1,
+                        "clueEnd": 4,
+                        "value": "Top of an org. chart"
+                    },
+                    {
+                        "clueStart": 5,
+                        "clueNum": 4,
+                        "clueEnd": 9,
+                        "value": "Terse way of saying \"I'd like to speak with you\""
+                    },
+                    {
+                        "clueStart": 10,
+                        "clueNum": 6,
+                        "clueEnd": 14,
+                        "value": "Grouping of musical notes"
+                    },
+                    {
+                        "clueStart": 15,
+                        "clueNum": 7,
+                        "clueEnd": 19,
+                        "value": "Roll on a pool chair"
+                    },
+                    {
+                        "clueStart": 20,
+                        "clueNum": 8,
+                        "clueEnd": 24,
+                        "value": "Like one's feet after a beach day"
+                    }
+                ],
+                "D": [
+                    {
+                        "clueStart": 2,
+                        "clueNum": 1,
+                        "clueEnd": 22,
+                        "value": "Jointly manage"
+                    },
+                    {
+                        "clueStart": 3,
+                        "clueNum": 2,
+                        "clueEnd": 23,
+                        "value": "Made a mistake"
+                    },
+                    {
+                        "clueStart": 4,
+                        "clueNum": 3,
+                        "clueEnd": 24,
+                        "value": "In a strange way"
+                    },
+                    {
+                        "clueStart": 5,
+                        "clueNum": 4,
+                        "clueEnd": 20,
+                        "value": "___ of the Apostles (Bible book)"
+                    },
+                    {
+                        "clueStart": 6,
+                        "clueNum": 5,
+                        "clueEnd": 21,
+                        "value": "\"Mind blown!\""
+                    }
+                ]
+            },
+            "answers": [
+                null,
+                null,
+                "C",
+                "E",
+                "O",
+                "A",
+                "W",
+                "O",
+                "R",
+                "D",
+                "C",
+                "H",
+                "O",
+                "R",
+                "D",
+                "T",
+                "O",
+                "W",
+                "E",
+                "L",
+                "S",
+                "A",
+                "N",
+                "D",
+                "Y"
+            ],
+            "layout": [
+                0,
+                0,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1
+            ]
+        }
+    }
+]
