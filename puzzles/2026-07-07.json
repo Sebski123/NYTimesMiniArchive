@@ -1,0 +1,142 @@
+[
+    {
+        "puzzle_id": 24257,
+        "promo_id": null,
+        "version": 3,
+        "puzzle_meta": {
+            "formatType": "Normal",
+            "publishType": "Daily",
+            "title": "The Mini Crossword",
+            "printDate": "2026-07-07",
+            "printDotw": 0,
+            "editor": "",
+            "height": 5,
+            "width": 5,
+            "author": "Joel Fagliano"
+        },
+        "print_date": "2026-07-07",
+        "enhanced_tier_date": null,
+        "puzzle_data": {
+            "clues": {
+                "A": [
+                    {
+                        "clueStart": 0,
+                        "clueNum": 1,
+                        "clueEnd": 2,
+                        "value": "Body part exposed in a sandal"
+                    },
+                    {
+                        "clueStart": 5,
+                        "clueNum": 4,
+                        "clueEnd": 9,
+                        "value": "With 7-Across, zen state of mind"
+                    },
+                    {
+                        "clueStart": 10,
+                        "clueNum": 7,
+                        "clueEnd": 14,
+                        "value": "See 4-Across"
+                    },
+                    {
+                        "clueStart": 15,
+                        "clueNum": 8,
+                        "clueEnd": 19,
+                        "value": "Goldman ___ (investment bank)"
+                    },
+                    {
+                        "clueStart": 22,
+                        "clueNum": 9,
+                        "clueEnd": 24,
+                        "value": "Many a kid's gift"
+                    }
+                ],
+                "D": [
+                    {
+                        "clueStart": 0,
+                        "clueNum": 1,
+                        "clueEnd": 15,
+                        "value": "Hits the \"15%\" or \"20%\" button, say"
+                    },
+                    {
+                        "clueStart": 1,
+                        "clueNum": 2,
+                        "clueEnd": 16,
+                        "value": "___-Day (vitamin brand)"
+                    },
+                    {
+                        "clueStart": 2,
+                        "clueNum": 3,
+                        "clueEnd": 22,
+                        "value": "Vote into law"
+                    },
+                    {
+                        "clueStart": 8,
+                        "clueNum": 5,
+                        "clueEnd": 23,
+                        "value": "Word shouted into a canyon"
+                    },
+                    {
+                        "clueStart": 9,
+                        "clueNum": 6,
+                        "clueEnd": 24,
+                        "value": "Table booking website"
+                    }
+                ]
+            },
+            "answers": [
+                "T",
+                "O",
+                "E",
+                null,
+                null,
+                "I",
+                "N",
+                "N",
+                "E",
+                "R",
+                "P",
+                "E",
+                "A",
+                "C",
+                "E",
+                "S",
+                "A",
+                "C",
+                "H",
+                "S",
+                null,
+                null,
+                "T",
+                "O",
+                "Y"
+            ],
+            "layout": [
+                1,
+                1,
+                1,
+                0,
+                0,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                0,
+                0,
+                1,
+                1,
+                1
+            ]
+        }
+    }
+]
