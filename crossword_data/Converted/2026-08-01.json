@@ -1,0 +1,226 @@
+[
+    {
+        "puzzle_id": 24357,
+        "promo_id": null,
+        "version": 3,
+        "puzzle_meta": {
+            "formatType": "Normal",
+            "publishType": "Daily",
+            "title": "The Mini Crossword",
+            "printDate": "2026-08-01",
+            "printDotw": 0,
+            "editor": "",
+            "height": 7,
+            "width": 7,
+            "author": "Joel Fagliano"
+        },
+        "print_date": "2026-08-01",
+        "enhanced_tier_date": null,
+        "puzzle_data": {
+            "clues": {
+                "A": [
+                    {
+                        "clueStart": 2,
+                        "clueNum": 1,
+                        "clueEnd": 6,
+                        "value": "Coffee choice before bed"
+                    },
+                    {
+                        "clueStart": 8,
+                        "clueNum": 6,
+                        "clueEnd": 13,
+                        "value": "Recurring bug?"
+                    },
+                    {
+                        "clueStart": 14,
+                        "clueNum": 7,
+                        "clueEnd": 20,
+                        "value": "California's most valuable crop, just barely edging out grapes"
+                    },
+                    {
+                        "clueStart": 21,
+                        "clueNum": 8,
+                        "clueEnd": 23,
+                        "value": "Fist pound"
+                    },
+                    {
+                        "clueStart": 25,
+                        "clueNum": 9,
+                        "clueEnd": 27,
+                        "value": "Back of a soccer goal"
+                    },
+                    {
+                        "clueStart": 28,
+                        "clueNum": 10,
+                        "clueEnd": 33,
+                        "value": "Carefully thought (over)"
+                    },
+                    {
+                        "clueStart": 35,
+                        "clueNum": 12,
+                        "clueEnd": 39,
+                        "value": "Brain sparks"
+                    },
+                    {
+                        "clueStart": 42,
+                        "clueNum": 13,
+                        "clueEnd": 45,
+                        "value": "Something that might end after \"Pencils down!\""
+                    }
+                ],
+                "D": [
+                    {
+                        "clueStart": 2,
+                        "clueNum": 1,
+                        "clueEnd": 44,
+                        "value": "Indentations at the end of a smile"
+                    },
+                    {
+                        "clueStart": 3,
+                        "clueNum": 2,
+                        "clueEnd": 17,
+                        "value": "Green: Prefix"
+                    },
+                    {
+                        "clueStart": 4,
+                        "clueNum": 3,
+                        "clueEnd": 39,
+                        "value": "Film festival with the Palme d'Or"
+                    },
+                    {
+                        "clueStart": 5,
+                        "clueNum": 4,
+                        "clueEnd": 33,
+                        "value": "No ___ sugar (product claim)"
+                    },
+                    {
+                        "clueStart": 6,
+                        "clueNum": 5,
+                        "clueEnd": 27,
+                        "value": "Speedy"
+                    },
+                    {
+                        "clueStart": 8,
+                        "clueNum": 6,
+                        "clueEnd": 43,
+                        "value": "Anthropic's A.I. assistant"
+                    },
+                    {
+                        "clueStart": 14,
+                        "clueNum": 7,
+                        "clueEnd": 42,
+                        "value": "Own up to"
+                    },
+                    {
+                        "clueStart": 31,
+                        "clueNum": 11,
+                        "clueEnd": 45,
+                        "value": "Back muscle, for short"
+                    }
+                ]
+            },
+            "answers": [
+                null,
+                null,
+                "D",
+                "E",
+                "C",
+                "A",
+                "F",
+                null,
+                "C",
+                "I",
+                "C",
+                "A",
+                "D",
+                "A",
+                "A",
+                "L",
+                "M",
+                "O",
+                "N",
+                "D",
+                "S",
+                "D",
+                "A",
+                "P",
+                null,
+                "N",
+                "E",
+                "T",
+                "M",
+                "U",
+                "L",
+                "L",
+                "E",
+                "D",
+                null,
+                "I",
+                "D",
+                "E",
+                "A",
+                "S",
+                null,
+                null,
+                "T",
+                "E",
+                "S",
+                "T",
+                null,
+                null,
+                null
+            ],
+            "layout": [
+                0,
+                0,
+                1,
+                1,
+                1,
+                1,
+                1,
+                0,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                0,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                0,
+                1,
+                1,
+                1,
+                1,
+                1,
+                0,
+                0,
+                1,
+                1,
+                1,
+                1,
+                0,
+                0,
+                0
+            ]
+        }
+    }
+]
