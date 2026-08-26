@@ -1,0 +1,142 @@
+[
+    {
+        "puzzle_id": 24413,
+        "promo_id": null,
+        "version": 3,
+        "puzzle_meta": {
+            "formatType": "Normal",
+            "publishType": "Daily",
+            "title": "The Mini Crossword",
+            "printDate": "2026-08-26",
+            "printDotw": 0,
+            "editor": "Joel Fagliano",
+            "height": 5,
+            "width": 5,
+            "author": "Adam Aaronson"
+        },
+        "print_date": "2026-08-26",
+        "enhanced_tier_date": null,
+        "puzzle_data": {
+            "clues": {
+                "A": [
+                    {
+                        "clueStart": 1,
+                        "clueNum": 1,
+                        "clueEnd": 3,
+                        "value": "Only three-letter element"
+                    },
+                    {
+                        "clueStart": 5,
+                        "clueNum": 4,
+                        "clueEnd": 9,
+                        "value": "Hole food"
+                    },
+                    {
+                        "clueStart": 10,
+                        "clueNum": 6,
+                        "clueEnd": 14,
+                        "value": "Section at the end of a song"
+                    },
+                    {
+                        "clueStart": 15,
+                        "clueNum": 7,
+                        "clueEnd": 19,
+                        "value": "Emblem topping a coat of arms"
+                    },
+                    {
+                        "clueStart": 22,
+                        "clueNum": 8,
+                        "clueEnd": 24,
+                        "value": "Only three-letter zodiac sign"
+                    }
+                ],
+                "D": [
+                    {
+                        "clueStart": 1,
+                        "clueNum": 1,
+                        "clueEnd": 16,
+                        "value": "Visit, as a college"
+                    },
+                    {
+                        "clueStart": 2,
+                        "clueNum": 2,
+                        "clueEnd": 22,
+                        "value": "Something gathered by a spy"
+                    },
+                    {
+                        "clueStart": 3,
+                        "clueNum": 3,
+                        "clueEnd": 23,
+                        "value": "Sip slowly"
+                    },
+                    {
+                        "clueStart": 5,
+                        "clueNum": 4,
+                        "clueEnd": 15,
+                        "value": "Only three-letter Disney dwarf"
+                    },
+                    {
+                        "clueStart": 9,
+                        "clueNum": 5,
+                        "clueEnd": 24,
+                        "value": "Big name in high-end toilets"
+                    }
+                ]
+            },
+            "answers": [
+                null,
+                "T",
+                "I",
+                "N",
+                null,
+                "D",
+                "O",
+                "N",
+                "U",
+                "T",
+                "O",
+                "U",
+                "T",
+                "R",
+                "O",
+                "C",
+                "R",
+                "E",
+                "S",
+                "T",
+                null,
+                null,
+                "L",
+                "E",
+                "O"
+            ],
+            "layout": [
+                0,
+                1,
+                1,
+                1,
+                0,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                0,
+                0,
+                1,
+                1,
+                1
+            ]
+        }
+    }
+]
