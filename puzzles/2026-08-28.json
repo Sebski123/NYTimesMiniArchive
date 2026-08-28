@@ -1,0 +1,142 @@
+[
+    {
+        "puzzle_id": 24408,
+        "promo_id": null,
+        "version": 3,
+        "puzzle_meta": {
+            "formatType": "Normal",
+            "publishType": "Daily",
+            "title": "The Mini Crossword",
+            "printDate": "2026-08-28",
+            "printDotw": 0,
+            "editor": "",
+            "height": 5,
+            "width": 5,
+            "author": "Joel Fagliano"
+        },
+        "print_date": "2026-08-28",
+        "enhanced_tier_date": null,
+        "puzzle_data": {
+            "clues": {
+                "A": [
+                    {
+                        "clueStart": 1,
+                        "clueNum": 1,
+                        "clueEnd": 3,
+                        "value": "Household items that come with remotes"
+                    },
+                    {
+                        "clueStart": 5,
+                        "clueNum": 4,
+                        "clueEnd": 9,
+                        "value": "String of saliva"
+                    },
+                    {
+                        "clueStart": 10,
+                        "clueNum": 6,
+                        "clueEnd": 14,
+                        "value": "Self-help book genre"
+                    },
+                    {
+                        "clueStart": 15,
+                        "clueNum": 7,
+                        "clueEnd": 19,
+                        "value": "Powerball or Mega Millions"
+                    },
+                    {
+                        "clueStart": 21,
+                        "clueNum": 8,
+                        "clueEnd": 24,
+                        "value": "Emoji voiced by Sir Patrick Stewart in \"The Emoji Movie\""
+                    }
+                ],
+                "D": [
+                    {
+                        "clueStart": 1,
+                        "clueNum": 1,
+                        "clueEnd": 21,
+                        "value": "Group of Girl Scouts"
+                    },
+                    {
+                        "clueStart": 2,
+                        "clueNum": 2,
+                        "clueEnd": 22,
+                        "value": "Promise that one will"
+                    },
+                    {
+                        "clueStart": 3,
+                        "clueNum": 3,
+                        "clueEnd": 23,
+                        "value": "___ voce (under one's breath)"
+                    },
+                    {
+                        "clueStart": 5,
+                        "clueNum": 4,
+                        "clueEnd": 15,
+                        "value": "Big name in shipping logistics"
+                    },
+                    {
+                        "clueStart": 9,
+                        "clueNum": 5,
+                        "clueEnd": 24,
+                        "value": "Shape formed by the O's in this puzzle"
+                    }
+                ]
+            },
+            "answers": [
+                null,
+                "T",
+                "V",
+                "S",
+                null,
+                "D",
+                "R",
+                "O",
+                "O",
+                "L",
+                "H",
+                "O",
+                "W",
+                "T",
+                "O",
+                "L",
+                "O",
+                "T",
+                "T",
+                "O",
+                null,
+                "P",
+                "O",
+                "O",
+                "P"
+            ],
+            "layout": [
+                0,
+                1,
+                1,
+                1,
+                0,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                0,
+                1,
+                1,
+                1,
+                1
+            ]
+        }
+    }
+]
