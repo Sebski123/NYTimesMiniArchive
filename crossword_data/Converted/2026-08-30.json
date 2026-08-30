@@ -1,0 +1,142 @@
+[
+    {
+        "puzzle_id": 24403,
+        "promo_id": null,
+        "version": 3,
+        "puzzle_meta": {
+            "formatType": "Normal",
+            "publishType": "Daily",
+            "title": "The Mini Crossword",
+            "printDate": "2026-08-30",
+            "printDotw": 0,
+            "editor": "Joel Fagliano",
+            "height": 5,
+            "width": 5,
+            "author": "Sam Ezersky"
+        },
+        "print_date": "2026-08-30",
+        "enhanced_tier_date": null,
+        "puzzle_data": {
+            "clues": {
+                "A": [
+                    {
+                        "clueStart": 0,
+                        "clueNum": 1,
+                        "clueEnd": 3,
+                        "value": "Classical instrument in the Guinness logo"
+                    },
+                    {
+                        "clueStart": 5,
+                        "clueNum": 5,
+                        "clueEnd": 9,
+                        "value": "Covered in vines"
+                    },
+                    {
+                        "clueStart": 10,
+                        "clueNum": 7,
+                        "clueEnd": 14,
+                        "value": "8-Across competitor, in the soda aisle"
+                    },
+                    {
+                        "clueStart": 16,
+                        "clueNum": 8,
+                        "clueEnd": 19,
+                        "value": "7-Across competitor, in the soda aisle"
+                    },
+                    {
+                        "clueStart": 22,
+                        "clueNum": 9,
+                        "clueEnd": 24,
+                        "value": "Owner of The Athletic, for short"
+                    }
+                ],
+                "D": [
+                    {
+                        "clueStart": 0,
+                        "clueNum": 1,
+                        "clueEnd": 10,
+                        "value": "Cool and in the know"
+                    },
+                    {
+                        "clueStart": 1,
+                        "clueNum": 2,
+                        "clueEnd": 16,
+                        "value": "French for \"with\""
+                    },
+                    {
+                        "clueStart": 2,
+                        "clueNum": 3,
+                        "clueEnd": 22,
+                        "value": "Ruthlessly make fun of"
+                    },
+                    {
+                        "clueStart": 3,
+                        "clueNum": 4,
+                        "clueEnd": 23,
+                        "value": "Annoying, like mosquitoes"
+                    },
+                    {
+                        "clueStart": 9,
+                        "clueNum": 6,
+                        "clueEnd": 24,
+                        "value": "Plan born from many a New Year's resolution"
+                    }
+                ]
+            },
+            "answers": [
+                "H",
+                "A",
+                "R",
+                "P",
+                null,
+                "I",
+                "V",
+                "I",
+                "E",
+                "D",
+                "P",
+                "E",
+                "P",
+                "S",
+                "I",
+                null,
+                "C",
+                "O",
+                "K",
+                "E",
+                null,
+                null,
+                "N",
+                "Y",
+                "T"
+            ],
+            "layout": [
+                1,
+                1,
+                1,
+                1,
+                0,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                0,
+                1,
+                1,
+                1,
+                1,
+                0,
+                0,
+                1,
+                1,
+                1
+            ]
+        }
+    }
+]
