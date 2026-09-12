@@ -1,9 +1,21 @@
+import html
 import json
 import os
+import re
+
+
+def clean_clue_text(raw_text: str) -> str:
+    if not raw_text:
+        return ""
+    # Strip HTML comments such as <!--EndFragment-->
+    cleaned = re.sub(r'<!--.*?-->', '', raw_text)
+    # Decode HTML entities while keeping tags intact
+    cleaned = html.unescape(cleaned)
+    return cleaned.strip()
 
 
 def convert_puzzle(file_path: str):
-    with open(file_path, 'r', encoding='utf-8') as f:
+    with open(file_path, 'r', encoding='utf-8', errors='replace') as f:
         nytimes_puzzle = json.load(f)
 
     converted_puzzle = {}
@@ -41,7 +53,10 @@ def convert_puzzle(file_path: str):
         converted_clue["clueStart"] = clue["cells"][0]
         converted_clue["clueNum"] = int(clue["label"])
         converted_clue["clueEnd"] = clue["cells"][-1]
-        converted_clue["value"] = clue["text"][0]["plain"]
+
+        clue_text_obj = clue["text"][0] if clue.get("text") else {}
+        clue_val = clue_text_obj.get("formatted") or clue_text_obj.get("plain", "")
+        converted_clue["value"] = clean_clue_text(clue_val)
 
         if clue["direction"] == "Across":
             across_clues.append(converted_clue)

@@ -1,59 +1,62 @@
-import classNames from 'classnames';
-import React from 'react';
-import { connect } from 'react-redux';
+import classNames from "classnames";
+import React from "react";
+import { connect } from "react-redux";
 
-import { abbreviatedDirections } from 'constants/clue';
+import { abbreviatedDirections } from "constants/clue";
 
-import css from './ActiveClue.scss';
-
+import css from "./ActiveClue.scss";
 
 class ActiveClue extends React.Component {
   render() {
     const { activeClue, abbreviatedDirection, obscured } = this.props;
 
     const containerClasses = classNames(css.activeClueContainer, {
-      [css.activeClueContainer_obscured]: obscured
+      [css.activeClueContainer_obscured]: obscured,
     });
 
     if (obscured) {
-      return <div className={containerClasses} />
+      return <div className={containerClasses} />;
     }
 
     return (
       <div className={css.activeClueContainer}>
         <div className={css.clueNumber}>
-          {activeClue ? `${activeClue.clueNum}${abbreviatedDirection}` : ''}
+          {activeClue
+            ? `${activeClue.clueNum}${abbreviatedDirection}`
+            : ""}
         </div>
-        <div className={css.clueValue}>
-          {activeClue ? activeClue.value:''}
-        </div>
+        <div
+          className={css.clueValue}
+          dangerouslySetInnerHTML={{
+            __html: activeClue ? activeClue.value : "",
+          }}
+        />
       </div>
-    )
+    );
   }
 }
 
 const mapStateToProps = (state, ownProps) => {
-  const {activeCellNumber, activeDirection, cells, clues} = state.puzzle[ownProps.puzzleName] || {};
-  if (state.modal.activeModal === 'start') {
+  const { activeCellNumber, activeDirection, cells, clues } =
+    state.puzzle[ownProps.puzzleName] || {};
+  if (state.modal.activeModal === "start") {
     return {
       obscured: true,
       activeClue: {},
-    }
+    };
   }
 
   const activeCell = cells[activeCellNumber];
-  const activeClue = clues[activeDirection][activeCell.cellClues[activeDirection]];
+  const activeClue =
+    clues[activeDirection][activeCell.cellClues[activeDirection]];
   const abbreviatedDirection = abbreviatedDirections[activeDirection];
   return {
-    obscured: state.modal.activeModal === 'start',
+    obscured: state.modal.activeModal === "start",
     abbreviatedDirection,
     activeClue,
-  }
+  };
 };
 
 const connectedActiveClue = connect(mapStateToProps)(ActiveClue);
 
-export {
-  connectedActiveClue as ActiveClue
-};
-
+export { connectedActiveClue as ActiveClue };

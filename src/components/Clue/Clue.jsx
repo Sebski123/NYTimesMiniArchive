@@ -1,16 +1,16 @@
-import classNames from 'classnames';
-import React from 'react';
-import { connect } from 'react-redux';
+import classNames from "classnames";
+import React from "react";
+import { connect } from "react-redux";
 
-import { clueClick } from 'reducers/puzzle';
-import { clueRange } from 'utils/puzzle';
+import { clueClick } from "reducers/puzzle";
+import { clueRange } from "utils/puzzle";
 
-import css from './Clue.scss';
-
+import css from "./Clue.scss";
 
 class Clue extends React.Component {
   render() {
-    const {isActiveClue, isActiveDirection, isFilled, clue, obscured} = this.props;
+    const { isActiveClue, isActiveDirection, isFilled, clue, obscured } =
+      this.props;
 
     const clueClasses = classNames(css.clue, {
       [css.clue_active]: isActiveClue && isActiveDirection,
@@ -18,27 +18,37 @@ class Clue extends React.Component {
       [css.clue_filled]: isFilled,
     });
 
-    const clueValueClasses =classNames(css.clueValue, {
+    const clueValueClasses = classNames(css.clueValue, {
       [css.clueValue_obscured]: obscured,
     });
 
     return (
-      <li className={clueClasses} onClick={this.props.clueClick} ref={this.props.clueRef}>
-        <span className={css.clueNumber}>{clue ? clue.clueNumber:0}</span>
-        <span className={clueValueClasses}>{clue ? clue.value:''}</span>
+      <li
+        className={clueClasses}
+        onClick={this.props.clueClick}
+        ref={this.props.clueRef}
+      >
+        <span className={css.clueNumber}>
+          {clue ? clue.clueNumber : 0}
+        </span>
+        <span
+          className={clueValueClasses}
+          dangerouslySetInnerHTML={{ __html: clue ? clue.value : "" }}
+        />
       </li>
     );
   }
 }
 
 const mapStateToProps = (state, ownProps) => {
-  const {activeCellNumber, activeDirection, cells, clues, width} = state.puzzle[ownProps.puzzleName] || {};
-  const {clueNumber, direction} = ownProps;
-  if (state.modal.activeModal === 'start') {
+  const { activeCellNumber, activeDirection, cells, clues, width } =
+    state.puzzle[ownProps.puzzleName] || {};
+  const { clueNumber, direction } = ownProps;
+  if (state.modal.activeModal === "start") {
     return {
       clue: clues[direction][clueNumber],
       obscured: true,
-    }
+    };
   }
   const activeCell = cells[activeCellNumber];
   const activeClueNumber = activeCell.cellClues[direction];
@@ -46,16 +56,19 @@ const mapStateToProps = (state, ownProps) => {
   return {
     isActiveClue: activeClueNumber === clueNumber,
     isActiveDirection: activeDirection === direction,
-    isFilled: clueRange(clue, direction, width).every(cellNumber => cells[cellNumber].guess),
+    isFilled: clueRange(clue, direction, width).every(
+      (cellNumber) => cells[cellNumber].guess,
+    ),
     clue: clues[direction][clueNumber],
-    obscured: state.modal.activeModal === 'start',
-  }
+    obscured: state.modal.activeModal === "start",
+  };
 };
 
-const mapDispatchToProps = dispatch => {
+const mapDispatchToProps = (dispatch) => {
   return {
-    clueClick: (puzzleName, direction, clueNumber) => () => dispatch(clueClick(puzzleName, direction, clueNumber)),
-  }
+    clueClick: (puzzleName, direction, clueNumber) => () =>
+      dispatch(clueClick(puzzleName, direction, clueNumber)),
+  };
 };
 
 const mergeProps = (stateProps, dispatchProps, ownProps) => {
@@ -63,13 +76,18 @@ const mergeProps = (stateProps, dispatchProps, ownProps) => {
     ...stateProps,
     ...dispatchProps,
     ...ownProps,
-    clueClick: dispatchProps.clueClick(ownProps.puzzleName, ownProps.direction, ownProps.clueNumber),
-  }
+    clueClick: dispatchProps.clueClick(
+      ownProps.puzzleName,
+      ownProps.direction,
+      ownProps.clueNumber,
+    ),
+  };
 };
 
-const connectedClue = connect(mapStateToProps, mapDispatchToProps, mergeProps)(Clue);
+const connectedClue = connect(
+  mapStateToProps,
+  mapDispatchToProps,
+  mergeProps,
+)(Clue);
 
-export {
-  connectedClue as Clue
-};
-
+export { connectedClue as Clue };
