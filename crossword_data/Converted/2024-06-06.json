@@ -23,7 +23,7 @@
                         "clueStart": 1,
                         "clueNum": 1,
                         "clueEnd": 4,
-                        "value": "Good way to get in shape \u2026 in more than one way"
+                        "value": "Good way to get in shape … in more than one way"
                     },
                     {
                         "clueStart": 5,
@@ -73,13 +73,13 @@
                         "clueStart": 4,
                         "clueNum": 4,
                         "clueEnd": 14,
-                        "value": "\"Your point is \u2026?\""
+                        "value": "\"Your point is …?\""
                     },
                     {
                         "clueStart": 5,
                         "clueNum": 5,
                         "clueEnd": 20,
-                        "value": "Like this text"
+                        "value": "<strong>Like this text</strong>"
                     }
                 ]
             },
@@ -109,6 +109,60 @@
                 "N",
                 null,
                 null
+            ],
+            "circled": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false
+            ],
+            "shaded": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false
             ],
             "layout": [
                 0,

@@ -23,7 +23,7 @@
                         "clueStart": 1,
                         "clueNum": 1,
                         "clueEnd": 4,
-                        "value": "Part of an apple \u2026\u00a0or an Apple computer"
+                        "value": "Part of an apple … or an Apple computer"
                     },
                     {
                         "clueStart": 6,
@@ -47,7 +47,7 @@
                         "clueStart": 20,
                         "clueNum": 8,
                         "clueEnd": 22,
-                        "value": "\"It's \u2026 just OK\""
+                        "value": "\"It's … just OK\""
                     }
                 ],
                 "D": [
@@ -109,6 +109,60 @@
                 "H",
                 null,
                 null
+            ],
+            "circled": [
+                false,
+                false,
+                false,
+                true,
+                false,
+                false,
+                true,
+                true,
+                true,
+                true,
+                false,
+                false,
+                false,
+                true,
+                false,
+                false,
+                false,
+                false,
+                true,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false
+            ],
+            "shaded": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false
             ],
             "layout": [
                 0,

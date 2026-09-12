@@ -35,7 +35,7 @@
                         "clueStart": 10,
                         "clueNum": 6,
                         "clueEnd": 14,
-                        "value": "\"Sesame Street\" character who sings \"Dance Myself to Sleep\" "
+                        "value": "\"Sesame Street\" character who sings \"Dance Myself to Sleep\""
                     },
                     {
                         "clueStart": 15,
@@ -55,7 +55,7 @@
                         "clueStart": 2,
                         "clueNum": 1,
                         "clueEnd": 22,
-                        "value": "\"Well, ___ you asked \u00e2\u20ac\u00a6\""
+                        "value": "\"Well, ___ you asked …\""
                     },
                     {
                         "clueStart": 3,
@@ -109,6 +109,60 @@
                 "E",
                 null,
                 null
+            ],
+            "circled": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false
+            ],
+            "shaded": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false
             ],
             "layout": [
                 0,

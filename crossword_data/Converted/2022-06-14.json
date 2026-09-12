@@ -73,13 +73,13 @@
                         "clueStart": 3,
                         "clueNum": 4,
                         "clueEnd": 23,
-                        "value": "Gala or Granny Smith "
+                        "value": "Gala or Granny Smith"
                     },
                     {
                         "clueStart": 14,
                         "clueNum": 7,
                         "clueEnd": 24,
-                        "value": "Currency with this symbol: \u00c2\u00a5"
+                        "value": "Currency with this symbol: ¥"
                     }
                 ]
             },
@@ -109,6 +109,60 @@
                 "D",
                 "E",
                 "N"
+            ],
+            "circled": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false
+            ],
+            "shaded": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false
             ],
             "layout": [
                 1,

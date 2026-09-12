@@ -23,7 +23,7 @@
                         "clueStart": 0,
                         "clueNum": 1,
                         "clueEnd": 2,
-                        "value": "\u2190"
+                        "value": "←"
                     },
                     {
                         "clueStart": 5,
@@ -47,7 +47,7 @@
                         "clueStart": 20,
                         "clueNum": 9,
                         "clueEnd": 23,
-                        "value": "\u2190"
+                        "value": "←"
                     }
                 ],
                 "D": [
@@ -73,7 +73,7 @@
                         "clueStart": 8,
                         "clueNum": 5,
                         "clueEnd": 23,
-                        "value": "\u2190"
+                        "value": "←"
                     },
                     {
                         "clueStart": 9,
@@ -109,6 +109,60 @@
                 "N",
                 "E",
                 null
+            ],
+            "circled": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false
+            ],
+            "shaded": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false
             ],
             "layout": [
                 1,

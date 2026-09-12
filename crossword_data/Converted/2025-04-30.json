@@ -47,7 +47,7 @@
                         "clueStart": 21,
                         "clueNum": 9,
                         "clueEnd": 24,
-                        "value": "Profit = revenue \u00e2\u20ac\u201c ___"
+                        "value": "Profit = revenue – ___"
                     }
                 ],
                 "D": [
@@ -61,7 +61,7 @@
                         "clueStart": 1,
                         "clueNum": 2,
                         "clueEnd": 21,
-                        "value": "Item in Indiana Jones's satchel, perhaps "
+                        "value": "Item in Indiana Jones's satchel, perhaps"
                     },
                     {
                         "clueStart": 2,
@@ -109,6 +109,60 @@
                 "O",
                 "S",
                 "T"
+            ],
+            "circled": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false
+            ],
+            "shaded": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false
             ],
             "layout": [
                 1,

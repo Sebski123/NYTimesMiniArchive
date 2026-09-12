@@ -29,19 +29,19 @@
                         "clueStart": 6,
                         "clueNum": 4,
                         "clueEnd": 9,
-                        "value": "Top section"
+                        "value": "<i>Top section</i>"
                     },
                     {
                         "clueStart": 10,
                         "clueNum": 5,
                         "clueEnd": 14,
-                        "value": "Middle section"
+                        "value": "<i>Middle section</i>"
                     },
                     {
                         "clueStart": 15,
                         "clueNum": 6,
                         "clueEnd": 18,
-                        "value": "Bottom section"
+                        "value": "<i>Bottom section</i>"
                     },
                     {
                         "clueStart": 20,
@@ -109,6 +109,60 @@
                 "S",
                 null,
                 null
+            ],
+            "circled": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false
+            ],
+            "shaded": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false
             ],
             "layout": [
                 0,

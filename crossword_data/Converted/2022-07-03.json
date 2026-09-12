@@ -23,7 +23,7 @@
                         "clueStart": 0,
                         "clueNum": 1,
                         "clueEnd": 3,
-                        "value": "Heading this way: \u2192"
+                        "value": "Heading this way: →"
                     },
                     {
                         "clueStart": 5,
@@ -47,7 +47,7 @@
                         "clueStart": 21,
                         "clueNum": 9,
                         "clueEnd": 24,
-                        "value": "Heading this way: \u2190"
+                        "value": "Heading this way: ←"
                     }
                 ],
                 "D": [
@@ -109,6 +109,60 @@
                 "E",
                 "S",
                 "T"
+            ],
+            "circled": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false
+            ],
+            "shaded": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false
             ],
             "layout": [
                 1,

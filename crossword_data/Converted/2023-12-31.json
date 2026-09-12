@@ -23,19 +23,19 @@
                         "clueStart": 2,
                         "clueNum": 1,
                         "clueEnd": 4,
-                        "value": "Happy feeling"
+                        "value": "<strong>Happy </strong>feeling"
                     },
                     {
                         "clueStart": 5,
                         "clueNum": 4,
                         "clueEnd": 9,
-                        "value": "20"
+                        "value": "<strong>20</strong>"
                     },
                     {
                         "clueStart": 10,
                         "clueNum": 6,
                         "clueEnd": 14,
-                        "value": "24-___ gold"
+                        "value": "<strong>24</strong>-___ gold"
                     },
                     {
                         "clueStart": 15,
@@ -109,6 +109,60 @@
                 "S",
                 null,
                 null
+            ],
+            "circled": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false
+            ],
+            "shaded": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false
             ],
             "layout": [
                 0,

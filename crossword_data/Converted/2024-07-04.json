@@ -73,13 +73,13 @@
                         "clueStart": 4,
                         "clueNum": 4,
                         "clueEnd": 19,
-                        "value": "\"Don't go!\" "
+                        "value": "\"Don't go!\""
                     },
                     {
                         "clueStart": 10,
                         "clueNum": 6,
                         "clueEnd": 20,
-                        "value": "\"From ___ to shining ___\" "
+                        "value": "\"From ___ to shining ___\""
                     }
                 ]
             },
@@ -109,6 +109,60 @@
                 "H",
                 "S",
                 null
+            ],
+            "circled": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false
+            ],
+            "shaded": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false
             ],
             "layout": [
                 0,

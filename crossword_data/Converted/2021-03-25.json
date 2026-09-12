@@ -55,7 +55,7 @@
                         "clueStart": 1,
                         "clueNum": 1,
                         "clueEnd": 21,
-                        "value": "String followed by \"\u2026 and sometimes Y\""
+                        "value": "String followed by \"… and sometimes Y\""
                     },
                     {
                         "clueStart": 2,
@@ -73,7 +73,7 @@
                         "clueStart": 4,
                         "clueNum": 4,
                         "clueEnd": 14,
-                        "value": "Like July and jalape\u00f1os"
+                        "value": "Like July and jalapeños"
                     },
                     {
                         "clueStart": 10,
@@ -109,6 +109,60 @@
                 "R",
                 "S",
                 null
+            ],
+            "circled": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false
+            ],
+            "shaded": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false
             ],
             "layout": [
                 0,

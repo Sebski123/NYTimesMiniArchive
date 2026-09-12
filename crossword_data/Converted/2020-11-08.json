@@ -29,7 +29,7 @@
                         "clueStart": 5,
                         "clueNum": 6,
                         "clueEnd": 9,
-                        "value": "Like a ten-lane highway, vis-\u00e0-vis a two-lane road"
+                        "value": "Like a ten-lane highway, vis-à-vis a two-lane road"
                     },
                     {
                         "clueStart": 10,
@@ -47,7 +47,7 @@
                         "clueStart": 20,
                         "clueNum": 9,
                         "clueEnd": 24,
-                        "value": "\"C\u00f3mo ___?\""
+                        "value": "\"Cómo ___?\""
                     }
                 ],
                 "D": [
@@ -109,6 +109,60 @@
                 "T",
                 "A",
                 "S"
+            ],
+            "circled": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false
+            ],
+            "shaded": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false
             ],
             "layout": [
                 1,

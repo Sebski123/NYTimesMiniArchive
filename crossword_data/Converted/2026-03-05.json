@@ -35,19 +35,19 @@
                         "clueStart": 10,
                         "clueNum": 5,
                         "clueEnd": 14,
-                        "value": "Word whose letters are appropriately found from left to right in \u2026 CHARISMA"
+                        "value": "Word whose letters are appropriately found from left to right in … CHARISMA"
                     },
                     {
                         "clueStart": 15,
                         "clueNum": 6,
                         "clueEnd": 18,
-                        "value": "\u2026 PRECIPITATION"
+                        "value": "… PRECIPITATION"
                     },
                     {
                         "clueStart": 20,
                         "clueNum": 7,
                         "clueEnd": 23,
-                        "value": "\u2026 UNSIGHTLY"
+                        "value": "… UNSIGHTLY"
                     }
                 ],
                 "D": [
@@ -109,6 +109,60 @@
                 "L",
                 "Y",
                 null
+            ],
+            "circled": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false
+            ],
+            "shaded": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false
             ],
             "layout": [
                 0,

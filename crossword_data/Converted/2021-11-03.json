@@ -23,7 +23,7 @@
                         "clueStart": 2,
                         "clueNum": 1,
                         "clueEnd": 4,
-                        "value": "C\u2191"
+                        "value": "C↑"
                     },
                     {
                         "clueStart": 6,
@@ -35,7 +35,7 @@
                         "clueStart": 10,
                         "clueNum": 5,
                         "clueEnd": 14,
-                        "value": "\u2193Y"
+                        "value": "↓Y"
                     },
                     {
                         "clueStart": 15,
@@ -109,6 +109,60 @@
                 "R",
                 null,
                 null
+            ],
+            "circled": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false
+            ],
+            "shaded": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false
             ],
             "layout": [
                 0,
