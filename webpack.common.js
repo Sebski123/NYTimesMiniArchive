@@ -29,12 +29,16 @@ module.exports = {
           {
             loader: 'css-loader',
             options: {
+              esModule: false,
               importLoaders: 1,
-              modules: true,
-              localIdentName: '[path][name]__[local]--[hash:base64:5]'
+              modules: {
+                exportLocalsConvention: 'as-is',
+                localIdentName: '[path][name]__[local]--[hash:base64:5]',
+              },
             }
           },
-          'postcss-loader'
+          'postcss-loader',
+          'sass-loader',
         ],
       },
       {

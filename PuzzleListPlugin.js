@@ -5,7 +5,7 @@ const path = require('path');
 
 class PuzzleListPlugin {
   apply(compiler) {
-    compiler.plugin('emit', (compilation, callback) => {
+    compiler.hooks.emit.tapAsync('PuzzleListPlugin', (compilation, callback) => {
       const puzzlesDir = path.resolve(__dirname, './dist/puzzles');
       const puzzles = fs
         .readdirSync(puzzlesDir)
