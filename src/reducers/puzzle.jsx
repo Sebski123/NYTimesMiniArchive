@@ -433,7 +433,7 @@ export function reducer(state = {}, action) {
           filledCells: newFilledCells,
           solved:
             newFilledCells === availableCells &&
-            isPuzzleSolved(cells, action.puzzleName),
+            isPuzzleSolved(newCells, action.puzzleName),
         },
       };
     }
