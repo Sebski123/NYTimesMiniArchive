@@ -294,7 +294,13 @@ export const getClearCells = (cells, clues, width, activeCellNumber, activeDirec
 };
 
 export const initializePuzzle = (puzzleObject) => {
-  const { layout, answers, clues } = puzzleObject.puzzle_data;
+  const {
+    layout,
+    answers,
+    clues,
+    circled = [],
+    shaded = [],
+  } = puzzleObject.puzzle_data;
   const { width } = puzzleObject.puzzle_meta;
   let availableCells = 0;
   const cells = layout.map((cell, index) => {
@@ -305,6 +311,8 @@ export const initializePuzzle = (puzzleObject) => {
     return {
       open: !!cell,
       answer: answers[index],
+      circled: !!circled[index],
+      shaded: !!shaded[index],
       cellClues: {},
     }
   });

@@ -10,6 +10,10 @@
   background-color: black;
 }
 
+.cell_shaded {
+  background-color: #d3d3d3;
+}
+
 .cell_selected {
   background-color: #A7D8FF;
 }
@@ -37,9 +41,19 @@
   font-size: 4vh;
   padding: 20% 7% 0;
   position: absolute;
+  z-index: 1;
   top: 0;
   line-height: 8px;
   box-sizing: border-box;
+}
+
+.circle {
+  border: 1px solid dimgray;
+  border-radius: 50%;
+  box-sizing: border-box;
+  position: absolute;
+  inset: 1px;
+  pointer-events: none;
 }
 
 .guess {
@@ -47,6 +61,7 @@
   line-height: 7vh;
   cursor: default;
   position: absolute;
+  z-index: 1;
   bottom: 0;
   text-align: center;
   width: 100%;

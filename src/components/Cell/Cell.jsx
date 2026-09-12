@@ -25,10 +25,11 @@ class Cell extends React.Component {
   };
   
   render() {
-    const {open, cheated, solved, revealed, active, selected, related} = this.props;
+    const {open, circled, shaded, cheated, solved, revealed, active, selected, related} = this.props;
     const closed = !open;
 
     const squareClasses = classNames(css.cell, {
+      [css.cell_shaded]: shaded,
       [css.cell_selected]: selected,
       [css.cell_active]: active,
       [css.cell_closed]: closed,
@@ -66,6 +67,7 @@ class Cell extends React.Component {
         <div className={css.number}>
           {this.props.clueStart}
         </div>
+        {circled && <div className={css.circle} />}
         <div className={guessClasses}>
           {this.props.guess}
         </div>

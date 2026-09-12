@@ -69,14 +69,22 @@ def convert_puzzle(file_path: str):
 
     # Extract the answers
     answers: list[str | None] = []
+    circled: list[bool] = []
+    shaded: list[bool] = []
 
     for cell in nytimes_puzzle["body"][0]["cells"]:
         if cell:
             answers.append(cell["answer"])
+            circled.append(cell.get("type") == 2)
+            shaded.append(cell.get("type") == 3)
         else:
             answers.append(None)
+            circled.append(False)
+            shaded.append(False)
 
     puzzle_data["answers"] = answers
+    puzzle_data["circled"] = circled
+    puzzle_data["shaded"] = shaded
 
     # Extract the layout
     # We're cheating a bit here by assuming that the layout is always a square
