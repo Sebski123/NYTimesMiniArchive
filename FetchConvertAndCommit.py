@@ -46,8 +46,8 @@ def fetch_convert_and_commit(date: datetime):
     logger.info("Constructing filepath")
     converted_filename = f"crossword_data/Converted/{puzzle_name}"
     logger.info("Saving converted puzzle")
-    with open(converted_filename, 'w') as f:
-        json.dump(converted_puzzle, f, indent=4)
+    with open(converted_filename, 'w', encoding='utf-8') as f:
+        json.dump(converted_puzzle, f, indent=4, ensure_ascii=False)
     logger.info("Commit and push changes")
     # Commit and push the changes
     os.system(f"git add {original_filename}")

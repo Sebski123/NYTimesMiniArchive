@@ -1,16 +1,9 @@
 import json
 import os
 
-import chardet
-
 
 def convert_puzzle(file_path: str):
-    # Detect the file encoding
-    with open(file_path, 'rb') as f:
-        result = chardet.detect(f.read())
-
-    # Use the detected encoding to read the file
-    with open(file_path, 'r', encoding=result['encoding']) as f:
+    with open(file_path, 'r', encoding='utf-8') as f:
         nytimes_puzzle = json.load(f)
 
     converted_puzzle = {}
@@ -96,5 +89,5 @@ if __name__ == "__main__":
             print(f"Converting {file} ({count}/{total})")
             count += 1
             converted_puzzle = convert_puzzle(f"crossword_data/Original/{file}")
-            with open(f"crossword_data/Converted/{file}", 'w') as f:
-                json.dump(converted_puzzle, f, indent=4)
+            with open(f"crossword_data/Converted/{file}", 'w', encoding='utf-8') as f:
+                json.dump(converted_puzzle, f, indent=4, ensure_ascii=False)
