@@ -41,7 +41,7 @@
                         "clueStart": 15,
                         "clueNum": 8,
                         "clueEnd": 19,
-                        "value": "\uf8ff\u00fc\u00b6\u00b5+ \uf8ff\u00fc\u00eb\u00c5 + \u201a\u00f2\u00ef\u00d4\u220f\u00e8"
+                        "value": "🦵+ 👁+ ☕️"
                     },
                     {
                         "clueStart": 21,
@@ -55,7 +55,7 @@
                         "clueStart": 0,
                         "clueNum": 1,
                         "clueEnd": 15,
-                        "value": "\uf8ff\u00fc\u00ea\u00f9 + \uf8ff\u00fc\u00b6\u00e2"
+                        "value": "🐝 + 🦉"
                     },
                     {
                         "clueStart": 1,
@@ -67,7 +67,7 @@
                         "clueStart": 2,
                         "clueNum": 3,
                         "clueEnd": 22,
-                        "value": "\uf8ff\u00fc\u00f6\u00f3 + (\uf8ff\u00fc\u00ea\u00ea \u201a\u00c4\u00ec @)"
+                        "value": "🚗 + (🐐 – @)"
                     },
                     {
                         "clueStart": 8,
@@ -109,6 +109,60 @@
                 "O",
                 "A",
                 "L"
+            ],
+            "circled": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false
+            ],
+            "shaded": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false
             ],
             "layout": [
                 1,

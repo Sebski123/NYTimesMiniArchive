@@ -35,7 +35,7 @@
                         "clueStart": 10,
                         "clueNum": 7,
                         "clueEnd": 14,
-                        "value": "Driver's 180\u00b0"
+                        "value": "Driver's 180°"
                     },
                     {
                         "clueStart": 15,
@@ -55,7 +55,7 @@
                         "clueStart": 0,
                         "clueNum": 1,
                         "clueEnd": 15,
-                        "value": "France's C\u00f4te d'___"
+                        "value": "France's Côte d'___"
                     },
                     {
                         "clueStart": 1,
@@ -67,7 +67,7 @@
                         "clueStart": 2,
                         "clueNum": 3,
                         "clueEnd": 22,
-                        "value": "\u2663 \u2663 \u2663"
+                        "value": "♣ ♣ ♣"
                     },
                     {
                         "clueStart": 8,
@@ -109,6 +109,60 @@
                 "S",
                 "P",
                 "A"
+            ],
+            "circled": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false
+            ],
+            "shaded": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false
             ],
             "layout": [
                 1,

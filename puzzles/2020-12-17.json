@@ -47,7 +47,7 @@
                         "clueStart": 20,
                         "clueNum": 8,
                         "clueEnd": 23,
-                        "value": "\"The Communist Manifesto\" author"
+                        "value": "\"The Communist Manifesto\" co-author"
                     }
                 ],
                 "D": [
@@ -79,7 +79,7 @@
                         "clueStart": 10,
                         "clueNum": 6,
                         "clueEnd": 20,
-                        "value": "CBS sitcom starring Allison Janney and Anna Faris"
+                        "value": "CBS sitcom starring Allison Janney"
                     }
                 ]
             },
@@ -109,6 +109,60 @@
                 "R",
                 "X",
                 null
+            ],
+            "circled": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false
+            ],
+            "shaded": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false
             ],
             "layout": [
                 0,

@@ -55,7 +55,7 @@
                         "clueStart": 0,
                         "clueNum": 1,
                         "clueEnd": 20,
-                        "value": "\"I hate to ___ your bubble, but \u00e2\u20ac\u00a6\""
+                        "value": "\"I hate to ___ your bubble, but …\""
                     },
                     {
                         "clueStart": 1,
@@ -67,7 +67,7 @@
                         "clueStart": 2,
                         "clueNum": 3,
                         "clueEnd": 22,
-                        "value": "#46 "
+                        "value": "#46"
                     },
                     {
                         "clueStart": 8,
@@ -109,6 +109,60 @@
                 "N",
                 "D",
                 null
+            ],
+            "circled": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false
+            ],
+            "shaded": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false
             ],
             "layout": [
                 1,

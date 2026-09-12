@@ -47,7 +47,7 @@
                         "clueStart": 20,
                         "clueNum": 7,
                         "clueEnd": 22,
-                        "value": "180\u00b0 from NNW"
+                        "value": "180° from NNW"
                     }
                 ],
                 "D": [
@@ -67,7 +67,7 @@
                         "clueStart": 4,
                         "clueNum": 3,
                         "clueEnd": 14,
-                        "value": "Bird that can rotate its head 270\u00b0"
+                        "value": "Bird that can rotate its head 270°"
                     },
                     {
                         "clueStart": 6,
@@ -109,6 +109,60 @@
                 "E",
                 null,
                 null
+            ],
+            "circled": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false
+            ],
+            "shaded": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false
             ],
             "layout": [
                 0,

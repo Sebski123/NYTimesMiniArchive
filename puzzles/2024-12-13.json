@@ -47,7 +47,7 @@
                         "clueStart": 21,
                         "clueNum": 9,
                         "clueEnd": 23,
-                        "value": "\"Might I ___ \u00e2\u20ac\u00a6\""
+                        "value": "\"Might I ___ …\""
                     }
                 ],
                 "D": [
@@ -55,7 +55,7 @@
                         "clueStart": 0,
                         "clueNum": 1,
                         "clueEnd": 10,
-                        "value": "Rating on a Hawaiian Tropic bottle, for short\t"
+                        "value": "Rating on a Hawaiian Tropic bottle, for short"
                     },
                     {
                         "clueStart": 1,
@@ -109,6 +109,60 @@
                 "D",
                 "D",
                 null
+            ],
+            "circled": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false
+            ],
+            "shaded": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false
             ],
             "layout": [
                 1,

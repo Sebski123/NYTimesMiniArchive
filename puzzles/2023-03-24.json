@@ -23,13 +23,13 @@
                         "clueStart": 1,
                         "clueNum": 1,
                         "clueEnd": 4,
-                        "value": "Country whose flag has blue-and-white stripes with a red triangle"
+                        "value": "Country with this flag: 🇨🇺"
                     },
                     {
                         "clueStart": 5,
                         "clueNum": 5,
                         "clueEnd": 9,
-                        "value": "Country whose flag is all-white with a red circle"
+                        "value": "Country with this flag: 🇯🇵"
                     },
                     {
                         "clueStart": 10,
@@ -47,7 +47,7 @@
                         "clueStart": 20,
                         "clueNum": 8,
                         "clueEnd": 23,
-                        "value": "Country whose flag alternates red and white bands"
+                        "value": "Country with this flag: 🇵🇪"
                     }
                 ],
                 "D": [
@@ -109,6 +109,60 @@
                 "R",
                 "U",
                 null
+            ],
+            "circled": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false
+            ],
+            "shaded": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false
             ],
             "layout": [
                 0,

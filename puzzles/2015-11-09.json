@@ -23,31 +23,31 @@
                         "clueStart": 2,
                         "clueNum": 1,
                         "clueEnd": 4,
-                        "value": "\u2192 Homo sapiens \u2190 60's war zone"
+                        "value": "→ Homo sapiens ← 60's war zone"
                     },
                     {
                         "clueStart": 6,
                         "clueNum": 4,
                         "clueEnd": 9,
-                        "value": "\u2192 Not taped \u2190 Demonic"
+                        "value": "→ Not taped ← Demonic"
                     },
                     {
                         "clueStart": 10,
                         "clueNum": 5,
                         "clueEnd": 14,
-                        "value": "\u2192 Pay \u2190 Microwave feature"
+                        "value": "→ Pay ← Microwave feature"
                     },
                     {
                         "clueStart": 15,
                         "clueNum": 6,
                         "clueEnd": 18,
-                        "value": "\u2192 A long time \u2190 Creator of Genesis"
+                        "value": "→ A long time ← Creator of Genesis"
                     },
                     {
                         "clueStart": 20,
                         "clueNum": 7,
                         "clueEnd": 22,
-                        "value": "\u2192 Deity \u2190 Follow everywhere"
+                        "value": "→ Deity ← Follow everywhere"
                     }
                 ],
                 "D": [
@@ -67,7 +67,7 @@
                         "clueStart": 4,
                         "clueNum": 3,
                         "clueEnd": 14,
-                        "value": "\u2192 Volleyball need \u2190 X"
+                        "value": "→ Volleyball need ← X"
                     },
                     {
                         "clueStart": 6,
@@ -79,7 +79,7 @@
                         "clueStart": 10,
                         "clueNum": 5,
                         "clueEnd": 20,
-                        "value": "\u2192 Tease \u2190 Needlefish"
+                        "value": "→ Tease ← Needlefish"
                     }
                 ]
             },
@@ -109,6 +109,60 @@
                 "D",
                 null,
                 null
+            ],
+            "circled": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false
+            ],
+            "shaded": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false
             ],
             "layout": [
                 0,

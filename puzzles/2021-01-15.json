@@ -35,7 +35,7 @@
                         "clueStart": 10,
                         "clueNum": 6,
                         "clueEnd": 14,
-                        "value": "Like 82 and 43"
+                        "value": "Like 8<sup>2</sup> and 4<sup>3</sup>"
                     },
                     {
                         "clueStart": 15,
@@ -47,7 +47,7 @@
                         "clueStart": 20,
                         "clueNum": 8,
                         "clueEnd": 22,
-                        "value": "\"On your mark, get ___ \u2026\""
+                        "value": "\"On your mark, get ___ …\""
                     }
                 ],
                 "D": [
@@ -109,6 +109,60 @@
                 "T",
                 null,
                 null
+            ],
+            "circled": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false
+            ],
+            "shaded": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false
             ],
             "layout": [
                 0,

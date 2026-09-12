@@ -23,31 +23,31 @@
                         "clueStart": 0,
                         "clueNum": 1,
                         "clueEnd": 3,
-                        "value": "Who assigned ratings like PG-13 and NC-17, until a recent name change"
+                        "value": "<i>Who</i> assigned ratings like PG-13 and NC-17, until a recent name change"
                     },
                     {
                         "clueStart": 5,
                         "clueNum": 5,
                         "clueEnd": 9,
-                        "value": "What voters do in November"
+                        "value": "<i>What</i> voters do in November"
                     },
                     {
                         "clueStart": 10,
                         "clueNum": 7,
                         "clueEnd": 14,
-                        "value": "Where Port-au-Prince is"
+                        "value": "<i>Where</i> Port-au-Prince is"
                     },
                     {
                         "clueStart": 16,
                         "clueNum": 8,
                         "clueEnd": 19,
-                        "value": "When the big and little hands reach 12"
+                        "value": "<i>When</i> the big and little hands reach 12"
                     },
                     {
                         "clueStart": 21,
                         "clueNum": 9,
                         "clueEnd": 24,
-                        "value": "\"Why not!\""
+                        "value": "\"<i>Why</i> not!\""
                     }
                 ],
                 "D": [
@@ -109,6 +109,60 @@
                 "U",
                 "R",
                 "E"
+            ],
+            "circled": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false
+            ],
+            "shaded": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false
             ],
             "layout": [
                 1,

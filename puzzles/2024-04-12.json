@@ -41,7 +41,7 @@
                         "clueStart": 16,
                         "clueNum": 8,
                         "clueEnd": 18,
-                        "value": "Tanqueray or Bombay Sapphire "
+                        "value": "Tanqueray or Bombay Sapphire"
                     },
                     {
                         "clueStart": 21,
@@ -55,7 +55,7 @@
                         "clueStart": 0,
                         "clueNum": 1,
                         "clueEnd": 10,
-                        "value": "Enthusiastic energy "
+                        "value": "Enthusiastic energy"
                     },
                     {
                         "clueStart": 1,
@@ -109,6 +109,60 @@
                 "C",
                 "T",
                 null
+            ],
+            "circled": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false
+            ],
+            "shaded": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false
             ],
             "layout": [
                 1,

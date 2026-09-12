@@ -23,7 +23,7 @@
                         "clueStart": 1,
                         "clueNum": 1,
                         "clueEnd": 3,
-                        "value": "\"Top Gear\" channel"
+                        "value": "\"<strong>Top</strong> Gear\" channel"
                     },
                     {
                         "clueStart": 5,
@@ -35,7 +35,7 @@
                         "clueStart": 10,
                         "clueNum": 6,
                         "clueEnd": 14,
-                        "value": "Middle of a drum kit, typically"
+                        "value": "<strong>Middle</strong> of a drum kit, typically"
                     },
                     {
                         "clueStart": 15,
@@ -47,7 +47,7 @@
                         "clueStart": 21,
                         "clueNum": 8,
                         "clueEnd": 23,
-                        "value": "Bottom line figure"
+                        "value": "<strong>Bottom</strong> line figure"
                     }
                 ],
                 "D": [
@@ -73,13 +73,13 @@
                         "clueStart": 5,
                         "clueNum": 4,
                         "clueEnd": 15,
-                        "value": "Left-leaning political org."
+                        "value": "<strong>Left</strong>-leaning political org."
                     },
                     {
                         "clueStart": 9,
                         "clueNum": 5,
                         "clueEnd": 19,
-                        "value": "\"Right you are!\""
+                        "value": "\"<strong>Right</strong> you are!\""
                     }
                 ]
             },
@@ -109,6 +109,60 @@
                 "E",
                 "T",
                 null
+            ],
+            "circled": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false
+            ],
+            "shaded": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false
             ],
             "layout": [
                 0,

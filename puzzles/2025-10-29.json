@@ -29,7 +29,7 @@
                         "clueStart": 5,
                         "clueNum": 4,
                         "clueEnd": 8,
-                        "value": "Bop it!"
+                        "value": "<i>Bop it!</i>"
                     },
                     {
                         "clueStart": 10,
@@ -41,7 +41,7 @@
                         "clueStart": 15,
                         "clueNum": 8,
                         "clueEnd": 19,
-                        "value": "Twist it! Pull it!"
+                        "value": "<i>Twist it! Pull it!</i>"
                     },
                     {
                         "clueStart": 20,
@@ -109,6 +109,60 @@
                 "I",
                 "T",
                 "E"
+            ],
+            "circled": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false
+            ],
+            "shaded": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false
             ],
             "layout": [
                 1,

@@ -23,7 +23,7 @@
                         "clueStart": 0,
                         "clueNum": 1,
                         "clueEnd": 4,
-                        "value": "What connects these four \u2013 NIGHTLIFE, CARDS, GOLF, EXTRACURRICULARS?"
+                        "value": "What connects these four – NIGHTLIFE, CARDS, GOLF, EXTRACURRICULARS?"
                     },
                     {
                         "clueStart": 5,
@@ -47,7 +47,7 @@
                         "clueStart": 20,
                         "clueNum": 9,
                         "clueEnd": 23,
-                        "value": "What connects these four \u2013 LOOSE, SPLIT, DEAD, BOOK?"
+                        "value": "What connects these four – LOOSE, SPLIT, DEAD, BOOK?"
                     }
                 ],
                 "D": [
@@ -73,7 +73,7 @@
                         "clueStart": 3,
                         "clueNum": 4,
                         "clueEnd": 23,
-                        "value": "What connects these four \u2013 FINANCE, SNOW, RIVERS, \"AMERICA'S NEXT TOP MODEL\"?"
+                        "value": "What connects these four – FINANCE, SNOW, RIVERS, \"AMERICA'S NEXT TOP MODEL\"?"
                     },
                     {
                         "clueStart": 4,
@@ -109,6 +109,60 @@
                 "D",
                 "S",
                 null
+            ],
+            "circled": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false
+            ],
+            "shaded": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false
             ],
             "layout": [
                 1,

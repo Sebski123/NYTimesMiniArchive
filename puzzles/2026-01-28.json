@@ -41,7 +41,7 @@
                         "clueStart": 15,
                         "clueNum": 8,
                         "clueEnd": 19,
-                        "value": "Kind of bored"
+                        "value": "<i>Kind of bored</i>"
                     },
                     {
                         "clueStart": 20,
@@ -55,7 +55,7 @@
                         "clueStart": 0,
                         "clueNum": 1,
                         "clueEnd": 20,
-                        "value": "Kind of board"
+                        "value": "<i>Kind of board</i>"
                     },
                     {
                         "clueStart": 1,
@@ -109,6 +109,60 @@
                 "E",
                 "S",
                 null
+            ],
+            "circled": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false
+            ],
+            "shaded": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false
             ],
             "layout": [
                 1,

@@ -47,7 +47,7 @@
                         "clueStart": 20,
                         "clueNum": 8,
                         "clueEnd": 23,
-                        "value": "\"Jane ___,\" 1847 Bront\u00eb novel"
+                        "value": "\"Jane ___,\" 1847 Brontë novel"
                     }
                 ],
                 "D": [
@@ -73,7 +73,7 @@
                         "clueStart": 4,
                         "clueNum": 4,
                         "clueEnd": 19,
-                        "value": "2^0 + 2^3"
+                        "value": "2<sup>0</sup> + 2<sup>3</sup>"
                     },
                     {
                         "clueStart": 5,
@@ -109,6 +109,60 @@
                 "R",
                 "E",
                 null
+            ],
+            "circled": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false
+            ],
+            "shaded": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false
             ],
             "layout": [
                 0,

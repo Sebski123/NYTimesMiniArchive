@@ -35,7 +35,7 @@
                         "clueStart": 10,
                         "clueNum": 5,
                         "clueEnd": 14,
-                        "value": "Tunisia, Haiti, Ecuador, Uruguay, Norway"
+                        "value": "<strong>T</strong>unisia, <strong>H</strong>aiti, <strong>E</strong>cuador, <strong>U</strong>ruguay, <strong>N</strong>orway"
                     },
                     {
                         "clueStart": 15,
@@ -47,7 +47,7 @@
                         "clueStart": 20,
                         "clueNum": 7,
                         "clueEnd": 22,
-                        "value": "Niners, Falcons, Lions"
+                        "value": "<strong>N</strong>iners, <strong>F</strong>alcons, <strong>L</strong>ions"
                     }
                 ],
                 "D": [
@@ -109,6 +109,60 @@
                 "L",
                 null,
                 null
+            ],
+            "circled": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false
+            ],
+            "shaded": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false
             ],
             "layout": [
                 0,
