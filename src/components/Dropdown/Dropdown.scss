@@ -1,5 +1,6 @@
 .dropdownContainer {
   cursor: pointer;
+  position: relative;
 }
 
 .button_open {
@@ -11,11 +12,14 @@
   height: 40px;
   transition: height 100ms;
   position: absolute;
+  top: 100%;
+  right: 0;
   list-style: none;
   border: 1px solid #e6e6e6;
   margin: 0;
   padding: 0;
-  z-index: 1;
+  z-index: 100;
+  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
 }
 
 .dropdownContent_open {

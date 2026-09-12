@@ -1,18 +1,17 @@
-import classNames from 'classnames';
-import React from 'react';
-import { connect } from 'react-redux';
+import classNames from "classnames";
+import React from "react";
+import { connect } from "react-redux";
 
-import { cellClick } from 'reducers/puzzle';
-import { cellNumberInClue, getAnyRelated } from 'utils/puzzle';
+import { cellClick } from "reducers/puzzle";
+import { cellNumberInClue, getAnyRelated } from "utils/puzzle";
 
-import css from './Cell.scss';
-
+import css from "./Cell.scss";
 
 class Cell extends React.Component {
   constructor(props) {
     super(props);
     this.inputRef = null;
-    this.setInputRef = element => {
+    this.setInputRef = (element) => {
       this.inputRef = element;
     };
   }
@@ -23,9 +22,19 @@ class Cell extends React.Component {
       this.inputRef.focus();
     }
   };
-  
+
   render() {
-    const {open, circled, shaded, cheated, solved, revealed, active, selected, related} = this.props;
+    const {
+      open,
+      circled,
+      shaded,
+      cheated,
+      solved,
+      revealed,
+      active,
+      selected,
+      related,
+    } = this.props;
     const closed = !open;
 
     const squareClasses = classNames(css.cell, {
@@ -46,59 +55,73 @@ class Cell extends React.Component {
     });
 
     const tatterClasses = classNames({
-      [css.tatter]: revealed
+      [css.tatter]: revealed,
     });
 
     const guessClasses = classNames(css.guess, {
       [css.solved]: solved,
     });
 
-
     return (
       <div className={squareClasses} onClick={this.props.cellClick}>
         <input
           type="text"
           ref={this.setInputRef}
-          style={{ position: 'absolute', opacity: 0, pointerEvents: 'none' }}
+          inputMode="text"
+          autoCapitalize="characters"
+          autoCorrect="off"
+          autoComplete="off"
+          spellCheck="false"
+          style={{
+            position: "absolute",
+            opacity: 0,
+            pointerEvents: "none",
+            width: 0,
+            height: 0,
+          }}
         />
         <div className={cheatClasses}>
           <div className={tatterClasses} />
         </div>
-        <div className={css.number}>
-          {this.props.clueStart}
-        </div>
+        <div className={css.number}>{this.props.clueStart}</div>
         {circled && <div className={css.circle} />}
-        <div className={guessClasses}>
-          {this.props.guess}
-        </div>
+        <div className={guessClasses}>{this.props.guess}</div>
       </div>
     );
   }
 }
 
 const mapStateToProps = (state, ownProps) => {
-  const {cells, activeDirection, clues, activeCellNumber, width} = state.puzzle[ownProps.puzzleName] || {};
-  if (state.modal.activeModal === 'start') {
+  const { cells, activeDirection, clues, activeCellNumber, width } =
+    state.puzzle[ownProps.puzzleName] || {};
+  if (state.modal.activeModal === "start") {
     return {
       ...cells[ownProps.cellNumber],
     };
   }
 
   const activeCell = cells[activeCellNumber];
-  const activeClue = clues[activeDirection][activeCell.cellClues[activeDirection]];
+  const activeClue =
+    clues[activeDirection][activeCell.cellClues[activeDirection]];
 
   return {
     active: activeCellNumber === ownProps.cellNumber,
-    selected: cellNumberInClue(ownProps.cellNumber, activeClue, activeDirection, width),
+    selected: cellNumberInClue(
+      ownProps.cellNumber,
+      activeClue,
+      activeDirection,
+      width,
+    ),
     related: getAnyRelated(ownProps.cellNumber, activeClue, clues, width),
     ...cells[ownProps.cellNumber],
-  }
+  };
 };
 
-const mapDispatchToProps = dispatch => {
+const mapDispatchToProps = (dispatch) => {
   return {
-    cellClick: (puzzleName, cellNumber) => () => dispatch(cellClick(puzzleName, cellNumber)),
-  }
+    cellClick: (puzzleName, cellNumber) => () =>
+      dispatch(cellClick(puzzleName, cellNumber)),
+  };
 };
 
 const mergeProps = (stateProps, dispatchProps, ownProps) => {
@@ -106,13 +129,17 @@ const mergeProps = (stateProps, dispatchProps, ownProps) => {
     ...stateProps,
     ...dispatchProps,
     ...ownProps,
-    cellClick: dispatchProps.cellClick(ownProps.puzzleName, ownProps.cellNumber),
-  }
-}
-
-const connectedCell = connect(mapStateToProps, mapDispatchToProps, mergeProps)(Cell);
-
-export {
-  connectedCell as Cell
+    cellClick: dispatchProps.cellClick(
+      ownProps.puzzleName,
+      ownProps.cellNumber,
+    ),
+  };
 };
 
+const connectedCell = connect(
+  mapStateToProps,
+  mapDispatchToProps,
+  mergeProps,
+)(Cell);
+
+export { connectedCell as Cell };

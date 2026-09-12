@@ -27,3 +27,31 @@
   content: "\25AA";
   margin-right: 8px;
 }
+
+@media (max-width: 1024px) {
+  .headerContainer {
+    padding: 10px 8px;
+    flex-direction: row;
+    align-items: flex-start;
+  }
+
+  .title {
+    font-size: clamp(20px, 5vw, 30px);
+    line-height: 1.2;
+  }
+
+  .subtitle {
+    display: flex;
+    flex-wrap: wrap;
+    font-size: 12px;
+  }
+
+  .subtitleItem {
+    margin-left: 0;
+    margin-right: 6px;
+  }
+
+  .subtitleItem::before {
+    margin-right: 6px;
+  }
+}

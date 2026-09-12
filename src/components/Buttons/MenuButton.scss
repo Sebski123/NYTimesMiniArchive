@@ -6,11 +6,21 @@
   background-color: transparent;
   outline: none;
   font-size: 14px;
-  width: 70px;
+  min-width: 55px;
   color: #959595;
   text-align: center;
+  box-sizing: border-box;
 }
 
 .button:hover {
   background-color: #f4f4f4;
+}
+
+@media (max-width: 1024px) {
+  .button {
+    height: 40px;
+    padding: 2px 4px;
+    font-size: 12px;
+    min-width: 48px;
+  }
 }

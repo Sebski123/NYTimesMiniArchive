@@ -1,3 +1,4 @@
+import classNames from "classnames";
 import React from "react";
 import { connect } from "react-redux";
 
@@ -5,6 +6,7 @@ import { ActiveClue } from "components/ActiveClue/ActiveClue";
 import { ClueList } from "components/ClueList/ClueList";
 import { Grid } from "components/Grid/Grid";
 import { Header } from "components/Header/Header";
+import { Keyboard } from "components/Keyboard/Keyboard";
 import { Modal } from "components/Modal/Modal";
 import { Toolbar } from "components/Toolbar/Toolbar";
 
@@ -33,11 +35,17 @@ import { STATUS_404 } from "utils/fetcher";
 
 import css from "./Puzzle.scss";
 
+const isMobileOrTablet = () => {
+  if (typeof window === "undefined") return false;
+  return window.innerWidth <= 1024 || "ontouchstart" in window;
+};
+
 class Puzzle extends React.Component {
   constructor(props) {
     super(props);
     this.state = {
       interval: null,
+      showKeyboard: isMobileOrTablet(),
     };
   }
 
@@ -84,6 +92,46 @@ class Puzzle extends React.Component {
     this.props.startTimer();
   };
 
+  toggleKeyboard = () => {
+    this.setState((prevState) => ({
+      showKeyboard: !prevState.showKeyboard,
+    }));
+  };
+
+  showKeyboard = () => {
+    if (!this.state.showKeyboard) {
+      this.setState({ showKeyboard: true });
+    }
+  };
+
+  handleKeyboardKeyPress = (key) => {
+    if (this.props.activeModal) {
+      return;
+    }
+    this.props.guessCell(key);
+  };
+
+  handleKeyboardBackspace = () => {
+    if (this.props.activeModal) {
+      return;
+    }
+    this.props.removeGuess();
+  };
+
+  handleKeyboardPrevClue = () => {
+    if (this.props.activeModal) {
+      return;
+    }
+    this.props.moveActiveClue(false);
+  };
+
+  handleKeyboardNextClue = () => {
+    if (this.props.activeModal) {
+      return;
+    }
+    this.props.moveActiveClue(true);
+  };
+
   handleKeyDown = (evt) => {
     if (evt.ctrlKey || evt.altKey || evt.metaKey) {
       return;
@@ -128,18 +176,27 @@ class Puzzle extends React.Component {
     let params = new URLSearchParams(window.location.search);
     let puzzleName = params.get("puzzleName");
 
+    const puzzleContainerClasses = classNames(css.puzzleContainer, {
+      [css.hasKeyboard]: this.state.showKeyboard,
+    });
+
     return (
       <div className={css.app}>
-        <div className={css.puzzleContainer}>
+        <div className={puzzleContainerClasses}>
           <Header puzzleName={puzzleName} />
           <div className={css.gameContainer}>
             <Toolbar
               puzzleName={puzzleName}
               openPauseModal={this.openPauseModal}
               resetPuzzle={this.resetPuzzle}
+              toggleKeyboard={this.toggleKeyboard}
+              showKeyboard={this.state.showKeyboard}
             />
             <div className={css.playArea}>
-              <div className={css.gridContainer}>
+              <div
+                className={css.gridContainer}
+                onClick={this.showKeyboard}
+              >
                 <ActiveClue puzzleName={puzzleName} />
                 <Grid puzzleName={puzzleName} />
               </div>
@@ -148,6 +205,14 @@ class Puzzle extends React.Component {
                 <ClueList direction={down} puzzleName={puzzleName} />
               </div>
             </div>
+            {this.state.showKeyboard && (
+              <Keyboard
+                onKeyPress={this.handleKeyboardKeyPress}
+                onBackspace={this.handleKeyboardBackspace}
+                onPrevClue={this.handleKeyboardPrevClue}
+                onNextClue={this.handleKeyboardNextClue}
+              />
+            )}
           </div>
         </div>
         <Modal
@@ -231,7 +296,7 @@ const mergeProps = (stateProps, dispatchProps, ownProps) => {
 const connectedPuzzle = connect(
   mapStateToProps,
   mapDispatchToProps,
-  mergeProps
+  mergeProps,
 )(Puzzle);
 
 export { connectedPuzzle as Puzzle };

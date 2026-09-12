@@ -9,7 +9,7 @@ import css from './Modal.scss';
 class CloseX extends React.Component {
   render() {
     return (
-      <div className={css.closeX}>
+      <div className={css.closeX} onClick={this.props.closeModal}>
         ×
       </div>
     )
@@ -25,7 +25,7 @@ class HelpContent extends React.Component {
           Your game has been <strong>paused</strong>.
         </div>
         <div>
-          <button className={css.button}>
+          <button className={css.button} onClick={this.props.closeModal}>
             <div className={css.buttonBody}>
               Resume
             </div>
@@ -59,12 +59,12 @@ class IncorrectContent extends React.Component {
   render() {
     return (
       <div>
-        <CloseX />
+        <CloseX closeModal={this.props.closeModal} />
         <header className={css.almost}>Almost there!</header>
         <div>
           You’ve filled the puzzle but have at least one error. Keep trying.
         </div>
-        <button className={css.button}>
+        <button className={css.button} onClick={this.props.closeModal}>
           <div className={css.buttonBody}>
             Ok
           </div>
@@ -78,7 +78,7 @@ class DoneContent extends React.Component {
   render() {
     return (
       <div>
-        <CloseX />
+        <CloseX closeModal={this.props.closeModal} />
         <div className={css.puzzleIcon} />
         <h2 className={css.congratulations}>Congratulations!</h2>
         <div>
@@ -112,8 +112,22 @@ export class Modal extends React.Component {
     style: 'fixed',
   };
 
+  constructor(props) {
+    super(props);
+    this.openedAt = 0;
+  }
+
   componentWillMount() {
     document.addEventListener("keydown", this.handleKeyDown);
+    if (this.props.activeModal === this.props.type) {
+      this.openedAt = Date.now();
+    }
+  }
+
+  componentWillReceiveProps(nextProps) {
+    if (nextProps.activeModal === nextProps.type && this.props.activeModal !== nextProps.type) {
+      this.openedAt = Date.now();
+    }
   }
 
   componentWillUnmount() {
@@ -132,6 +146,19 @@ export class Modal extends React.Component {
     }
   }
 
+  handleOverlayClick = (e) => {
+    if (Date.now() - this.openedAt < 500) {
+      return;
+    }
+    if (this.props.overlayClick && this.props.closeModal) {
+      this.props.closeModal();
+    }
+  }
+
+  handleContentClick = (e) => {
+    e.stopPropagation();
+  }
+
   render() {
     const modalClasses = classNames(css.modal, css[`modal_${this.props.style}`], {
       [css.modal_open]: this.props.activeModal === this.props.type,
@@ -141,9 +168,9 @@ export class Modal extends React.Component {
     const Content = CONTENT[this.props.type];
 
     return (
-      <div className={modalClasses} onClick={this.props.overlayClick && this.props.closeModal}>
+      <div className={modalClasses} onClick={this.handleOverlayClick}>
         <div className={overlayClasses} />
-        <div className={css.body}>
+        <div className={css.body} onClick={this.handleContentClick}>
           <Content {...this.props} />
         </div>
       </div>

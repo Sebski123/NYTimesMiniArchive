@@ -1,20 +1,20 @@
-import React from 'react';
-import { connect } from 'react-redux';
+import React from "react";
+import { connect } from "react-redux";
 
-import { Dropdown } from 'components/Dropdown/Dropdown';
-import { Timer } from 'components/Timer/Timer';
-import { MenuButton } from 'components/Buttons/MenuButton';
-import {WORD, PUZZLE, INCOMPLETE, SQUARE, PUZZLE_AND_TIMER} from 'constants/scopes';
-
+import { MenuButton } from "components/Buttons/MenuButton";
+import { Dropdown } from "components/Dropdown/Dropdown";
+import { Timer } from "components/Timer/Timer";
 import {
-  clearOption,
-  checkOption,
-  revealOption,
-} from 'reducers/puzzle';
+  INCOMPLETE,
+  PUZZLE,
+  PUZZLE_AND_TIMER,
+  SQUARE,
+  WORD,
+} from "constants/scopes";
 
-import css from './Toolbar.scss';
+import { checkOption, clearOption, revealOption } from "reducers/puzzle";
 
-
+import css from "./Toolbar.scss";
 
 class Toolbar extends React.Component {
   clearOptions = [
@@ -39,21 +39,35 @@ class Toolbar extends React.Component {
   resetPuzzle = () => {
     this.props.clearOption(PUZZLE_AND_TIMER);
     this.props.resetPuzzle();
-  }
+  };
 
   render() {
-    const { puzzleName, solved, openPauseModal } = this.props;
+    const {
+      puzzleName,
+      solved,
+      openPauseModal,
+      toggleKeyboard,
+      showKeyboard,
+    } = this.props;
     return (
       <div className={css.toolbarContainer}>
         <Timer puzzleName={puzzleName} openPauseModal={openPauseModal} />
         {solved ? (
           <div className={css.toolbarMenu}>
-            <MenuButton onClick={this.resetPuzzle}>
-              Reset
-            </MenuButton>
+            {toggleKeyboard && (
+              <MenuButton onClick={toggleKeyboard}>
+                {showKeyboard ? "Hide Kbd" : "Keyboard"}
+              </MenuButton>
+            )}
+            <MenuButton onClick={this.resetPuzzle}>Reset</MenuButton>
           </div>
         ) : (
           <div className={css.toolbarMenu}>
+            {toggleKeyboard && (
+              <MenuButton onClick={toggleKeyboard}>
+                {showKeyboard ? "Hide Kbd" : "Keyboard"}
+              </MenuButton>
+            )}
             <Dropdown
               onClick={this.props.clearOption}
               options={this.clearOptions}
@@ -72,7 +86,7 @@ class Toolbar extends React.Component {
           </div>
         )}
       </div>
-    )
+    );
   }
 }
 
@@ -81,15 +95,18 @@ const mapStateToProps = (state, ownProps) => {
 
   return {
     solved: puzzle.solved,
-  }
-}
+  };
+};
 
-const mapDispatchToProps = dispatch => {
+const mapDispatchToProps = (dispatch) => {
   return {
-    clearOption: puzzleName => option => dispatch(clearOption(puzzleName, option)),
-    checkOption: puzzleName => option => dispatch(checkOption(puzzleName, option)),
-    revealOption: puzzleName => option => dispatch(revealOption(puzzleName, option)),
-  }
+    clearOption: (puzzleName) => (option) =>
+      dispatch(clearOption(puzzleName, option)),
+    checkOption: (puzzleName) => (option) =>
+      dispatch(checkOption(puzzleName, option)),
+    revealOption: (puzzleName) => (option) =>
+      dispatch(revealOption(puzzleName, option)),
+  };
 };
 
 const mergeProps = (stateProps, dispatchProps, ownProps) => {
@@ -101,11 +118,13 @@ const mergeProps = (stateProps, dispatchProps, ownProps) => {
     clearOption: dispatchProps.clearOption(puzzleName),
     checkOption: dispatchProps.checkOption(puzzleName),
     revealOption: dispatchProps.revealOption(puzzleName),
-  }
+  };
 };
 
-const connectedToolbar = connect(mapStateToProps, mapDispatchToProps, mergeProps)(Toolbar);
+const connectedToolbar = connect(
+  mapStateToProps,
+  mapDispatchToProps,
+  mergeProps,
+)(Toolbar);
 
-export {
-  connectedToolbar as Toolbar,
-};
+export { connectedToolbar as Toolbar };

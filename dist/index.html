@@ -1,16 +1,19 @@
 <html>
-  <head>
-    <title>Crosswords</title>
-  </head>
 
-  <body>
-    <div id="root"></div>
-    <script>
-      // Redirect to /home if the current path is the base path
-      if (window.location.hash === "#/" || window.location.hash === "") {
-        window.location.hash = "#/home";
-      }
-    </script>
-    <script src="./bundle.js"></script>
-  </body>
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+  <title>Crosswords</title>
+</head>
+
+<body>
+  <div id="root"></div>
+  <script>
+    // Redirect to /home if the current path is the base path
+    if (window.location.hash === "#/" || window.location.hash === "") {
+      window.location.hash = "#/home";
+    }
+  </script>
+  <script src="./bundle.js"></script>
+</body>
+
 </html>

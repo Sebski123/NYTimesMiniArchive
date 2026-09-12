@@ -1,8 +1,15 @@
-import { delay } from 'redux-saga';
-import { all, call, put, race, take, takeLatest } from 'redux-saga/effects';
+import { delay } from "redux-saga";
+import {
+  all,
+  call,
+  put,
+  race,
+  take,
+  takeLatest,
+} from "redux-saga/effects";
 
-import { PUZZLE_AND_TIMER } from 'constants/scopes';
-import { STATUS_404, puzzleFetcher } from 'utils/fetcher';
+import { PUZZLE_AND_TIMER } from "constants/scopes";
+import { STATUS_404, puzzleFetcher } from "utils/fetcher";
 import {
   getCheckCells,
   getClearCells,
@@ -14,46 +21,44 @@ import {
   getRemoveGuessCellNumber,
   getRevealCells,
   initializePuzzle,
-  isPuzzleSolved
-} from 'utils/puzzle';
+  isPuzzleSolved,
+} from "utils/puzzle";
 
+const FETCH_PUZZLE = "puzzle/FETCH_PUZZLE";
+const FETCH_PUZZLE_RECEIVE = "puzzle/FETCH_PUZZLE_RECEIVE";
 
-const FETCH_PUZZLE = 'puzzle/FETCH_PUZZLE';
-const FETCH_PUZZLE_RECEIVE = 'puzzle/FETCH_PUZZLE_RECEIVE';
-
-const GUESS_CELL = 'puzzle/GUESS_CELL';
-const MOVE_ACTIVE_CELL = 'puzzle/MOVE_ACTIVE_CELL';
-const MOVE_ACTIVE_CLUE = 'puzzle/MOVE_ACTIVE_CLUE';
-const REMOVE_GUESS = 'puzzle/REMOVE_GUESS';
-const CELL_CLICK = 'puzzle/CELL_CLICK';
-const CLUE_CLICK = 'puzzle/CLUE_CLICK';
-const REVEAL_OPTION = 'puzzle/REVEAL_OPTION';
-const CHECK_OPTION = 'puzzle/CHECK_OPTION';
-const CLEAR_OPTION = 'puzzle/CLEAR_OPTION';
-const UPDATE_TIMER = 'puzzle/UPDATE_TIMER';
-const START_TIMER = 'puzzle/START_TIMER';
-const STOP_TIMER = 'puzzle/STOP_TIMER';
-
+const GUESS_CELL = "puzzle/GUESS_CELL";
+const MOVE_ACTIVE_CELL = "puzzle/MOVE_ACTIVE_CELL";
+const MOVE_ACTIVE_CLUE = "puzzle/MOVE_ACTIVE_CLUE";
+const REMOVE_GUESS = "puzzle/REMOVE_GUESS";
+const CELL_CLICK = "puzzle/CELL_CLICK";
+const CLUE_CLICK = "puzzle/CLUE_CLICK";
+const REVEAL_OPTION = "puzzle/REVEAL_OPTION";
+const CHECK_OPTION = "puzzle/CHECK_OPTION";
+const CLEAR_OPTION = "puzzle/CLEAR_OPTION";
+const UPDATE_TIMER = "puzzle/UPDATE_TIMER";
+const START_TIMER = "puzzle/START_TIMER";
+const STOP_TIMER = "puzzle/STOP_TIMER";
 
 export function startTimer(puzzleName) {
   return {
     type: START_TIMER,
-    puzzleName
-  }
+    puzzleName,
+  };
 }
 
 export function stopTimer(puzzleName) {
   return {
     type: STOP_TIMER,
     puzzleName,
-  }
+  };
 }
 
 export function updateTimer(puzzleName) {
   return {
     type: UPDATE_TIMER,
     puzzleName,
-  }
+  };
 }
 
 export function revealOption(puzzleName, option) {
@@ -61,7 +66,7 @@ export function revealOption(puzzleName, option) {
     type: REVEAL_OPTION,
     puzzleName,
     option,
-  }
+  };
 }
 
 export function checkOption(puzzleName, option) {
@@ -69,7 +74,7 @@ export function checkOption(puzzleName, option) {
     type: CHECK_OPTION,
     puzzleName,
     option,
-  }
+  };
 }
 
 export function clearOption(puzzleName, option) {
@@ -77,7 +82,7 @@ export function clearOption(puzzleName, option) {
     type: CLEAR_OPTION,
     puzzleName,
     option,
-  }
+  };
 }
 
 export function clueClick(puzzleName, direction, clueNumber) {
@@ -86,7 +91,7 @@ export function clueClick(puzzleName, direction, clueNumber) {
     puzzleName,
     direction,
     clueNumber,
-  }
+  };
 }
 
 export function cellClick(puzzleName, cellNumber) {
@@ -94,38 +99,38 @@ export function cellClick(puzzleName, cellNumber) {
     type: CELL_CLICK,
     puzzleName,
     cellNumber,
-  }
+  };
 }
 
 export function removeGuess(puzzleName) {
   return {
     type: REMOVE_GUESS,
     puzzleName,
-  }
+  };
 }
 
 export function moveActiveClue(puzzleName, move) {
   return {
     type: MOVE_ACTIVE_CLUE,
     puzzleName,
-    move
-  }
+    move,
+  };
 }
 
 export function moveActiveCell(puzzleName, move) {
   return {
     type: MOVE_ACTIVE_CELL,
     puzzleName,
-    move
-  }
+    move,
+  };
 }
 
 export function guessCell(puzzleName, guess) {
   return {
     type: GUESS_CELL,
     puzzleName,
-    guess
-  }
+    guess,
+  };
 }
 
 export function fetchPuzzle(puzzleName) {
@@ -144,7 +149,10 @@ function fetchPuzzleReceive(puzzleName, response) {
 }
 
 function* fetchPuzzleRequest(action) {
-  const response = yield call(puzzleFetcher, `./puzzles/${action.puzzleName}.json`);
+  const response = yield call(
+    puzzleFetcher,
+    `./puzzles/${action.puzzleName}.json`,
+  );
   yield put(fetchPuzzleReceive(action.puzzleName, response));
 }
 
@@ -156,7 +164,7 @@ function* runInterval() {
   let startTimer = yield take(START_TIMER);
   while (startTimer) {
     while (true) {
-      const {stopTimer} = yield race({
+      const { stopTimer } = yield race({
         stopTimer: take(STOP_TIMER),
         tickTimer: call(delay, 1000),
       });
@@ -172,10 +180,7 @@ function* runInterval() {
 }
 
 export function* rootSaga() {
-  yield all([
-    watchPuzzle(),
-    runInterval(),
-  ]);
+  yield all([watchPuzzle(), runInterval()]);
 }
 
 export function reducer(state = {}, action) {
@@ -185,7 +190,7 @@ export function reducer(state = {}, action) {
         return {
           ...state,
           [action.puzzleName]: STATUS_404,
-        }
+        };
       }
 
       const puzzleObject = action.response[0];
@@ -198,9 +203,25 @@ export function reducer(state = {}, action) {
     }
 
     case GUESS_CELL: {
-      const {cells, activeCellNumber, activeDirection, clues, width, filledCells, availableCells} = state[action.puzzleName];
+      const {
+        cells,
+        activeCellNumber,
+        activeDirection,
+        clues,
+        width,
+        defaultClues,
+        filledCells,
+        availableCells,
+      } = state[action.puzzleName];
       const activeCell = cells[activeCellNumber];
-      const nextCellNumber = getGuessCellNumber(activeCellNumber, activeDirection,  cells, clues, width);
+      const { newDirection, newCellNumber } = getGuessCellNumber(
+        activeCellNumber,
+        activeDirection,
+        cells,
+        clues,
+        width,
+        defaultClues,
+      );
 
       let newCells = cells;
       let newFilledCells = filledCells;
@@ -211,7 +232,7 @@ export function reducer(state = {}, action) {
             ...activeCell,
             guess: action.guess.toUpperCase(),
           },
-          ...cells.slice(activeCellNumber + 1)
+          ...cells.slice(activeCellNumber + 1),
         ];
       }
 
@@ -226,17 +247,26 @@ export function reducer(state = {}, action) {
         [action.puzzleName]: {
           ...state[action.puzzleName],
           cells: newCells,
-          activeCellNumber: nextCellNumber,
+          activeDirection: newDirection,
+          activeCellNumber: newCellNumber,
           filledCells: newFilledCells,
-          solved: newFilledCells === availableCells && isPuzzleSolved(newCells, action.puzzleName),
-        }
-      }
+          solved:
+            newFilledCells === availableCells &&
+            isPuzzleSolved(newCells, action.puzzleName),
+        },
+      };
     }
 
     case MOVE_ACTIVE_CELL: {
-      const {activeDirection, activeCellNumber, cells, width} = state[action.puzzleName];
-      const {newDirection, newCellNumber} = getMoveCellNumber(activeCellNumber, activeDirection,
-        cells, width, action.move);
+      const { activeDirection, activeCellNumber, cells, width } =
+        state[action.puzzleName];
+      const { newDirection, newCellNumber } = getMoveCellNumber(
+        activeCellNumber,
+        activeDirection,
+        cells,
+        width,
+        action.move,
+      );
 
       return {
         ...state,
@@ -244,14 +274,28 @@ export function reducer(state = {}, action) {
           ...state[action.puzzleName],
           activeDirection: newDirection,
           activeCellNumber: newCellNumber,
-        }
-      }
+        },
+      };
     }
 
     case MOVE_ACTIVE_CLUE: {
-      const {activeDirection, activeCellNumber, cells, width, clues, defaultClues} = state[action.puzzleName];
-      const {newDirection, newCellNumber} = getMoveClueNumber(activeCellNumber, activeDirection,
-        cells, clues, width, defaultClues, action.move);
+      const {
+        activeDirection,
+        activeCellNumber,
+        cells,
+        width,
+        clues,
+        defaultClues,
+      } = state[action.puzzleName];
+      const { newDirection, newCellNumber } = getMoveClueNumber(
+        activeCellNumber,
+        activeDirection,
+        cells,
+        clues,
+        width,
+        defaultClues,
+        action.move,
+      );
 
       return {
         ...state,
@@ -259,13 +303,26 @@ export function reducer(state = {}, action) {
           ...state[action.puzzleName],
           activeDirection: newDirection,
           activeCellNumber: newCellNumber,
-        }
-      }
+        },
+      };
     }
 
     case REMOVE_GUESS: {
-      const {cells, activeCellNumber, activeDirection, clues, width, filledCells} = state[action.puzzleName];
-      const nextCellNumber = getRemoveGuessCellNumber(activeCellNumber, activeDirection,  cells, clues, width);
+      const {
+        cells,
+        activeCellNumber,
+        activeDirection,
+        clues,
+        width,
+        filledCells,
+      } = state[action.puzzleName];
+      const nextCellNumber = getRemoveGuessCellNumber(
+        activeCellNumber,
+        activeDirection,
+        cells,
+        clues,
+        width,
+      );
       const cellToRemove = cells[nextCellNumber];
 
       let newCells = cells;
@@ -276,7 +333,7 @@ export function reducer(state = {}, action) {
             ...cellToRemove,
             guess: undefined,
           },
-          ...cells.slice(nextCellNumber + 1)
+          ...cells.slice(nextCellNumber + 1),
         ];
       }
 
@@ -287,26 +344,36 @@ export function reducer(state = {}, action) {
           cells: newCells,
           activeCellNumber: nextCellNumber,
           filledCells: cellToRemove.solved ? filledCells : filledCells - 1,
-        }
-      }
+        },
+      };
     }
 
     case CELL_CLICK: {
-      const {activeCellNumber, activeDirection} = state[action.puzzleName];
-      const newDirection = action.cellNumber === activeCellNumber ? getOtherDirection(activeDirection) : activeDirection;
+      const { activeCellNumber, activeDirection } =
+        state[action.puzzleName];
+      const newDirection =
+        action.cellNumber === activeCellNumber
+          ? getOtherDirection(activeDirection)
+          : activeDirection;
       return {
         ...state,
         [action.puzzleName]: {
           ...state[action.puzzleName],
           activeCellNumber: action.cellNumber,
           activeDirection: newDirection,
-        }
-      }
+        },
+      };
     }
 
     case CLUE_CLICK: {
-      const {cells, clues, width} = state[action.puzzleName];
-      const nextCellNumber = getClickClueNumber(cells, clues, width, action.direction, action.clueNumber);
+      const { cells, clues, width } = state[action.puzzleName];
+      const nextCellNumber = getClickClueNumber(
+        cells,
+        clues,
+        width,
+        action.direction,
+        action.clueNumber,
+      );
 
       return {
         ...state,
@@ -314,27 +381,49 @@ export function reducer(state = {}, action) {
           ...state[action.puzzleName],
           activeDirection: action.direction,
           activeCellNumber: nextCellNumber,
-        }
-      }
+        },
+      };
     }
 
     case CHECK_OPTION: {
-      const {cells, clues, activeCellNumber, activeDirection, width} = state[action.puzzleName];
-      const newCells = getCheckCells(cells, clues, width, activeCellNumber, activeDirection, action.option);
+      const { cells, clues, activeCellNumber, activeDirection, width } =
+        state[action.puzzleName];
+      const newCells = getCheckCells(
+        cells,
+        clues,
+        width,
+        activeCellNumber,
+        activeDirection,
+        action.option,
+      );
 
       return {
         ...state,
         [action.puzzleName]: {
           ...state[action.puzzleName],
           cells: newCells,
-        }
-      }
+        },
+      };
     }
 
     case REVEAL_OPTION: {
-      const {cells, clues, activeCellNumber, activeDirection, width, availableCells} = state[action.puzzleName];
-      const newCells = getRevealCells(cells, clues, width, activeCellNumber, activeDirection, action.option);
-      const newFilledCells = newCells.filter(cell => cell.guess).length;
+      const {
+        cells,
+        clues,
+        activeCellNumber,
+        activeDirection,
+        width,
+        availableCells,
+      } = state[action.puzzleName];
+      const newCells = getRevealCells(
+        cells,
+        clues,
+        width,
+        activeCellNumber,
+        activeDirection,
+        action.option,
+      );
+      const newFilledCells = newCells.filter((cell) => cell.guess).length;
 
       return {
         ...state,
@@ -342,9 +431,11 @@ export function reducer(state = {}, action) {
           ...state[action.puzzleName],
           cells: newCells,
           filledCells: newFilledCells,
-          solved: newFilledCells === availableCells && isPuzzleSolved(cells, action.puzzleName),
-        }
-      }
+          solved:
+            newFilledCells === availableCells &&
+            isPuzzleSolved(cells, action.puzzleName),
+        },
+      };
     }
 
     case CLEAR_OPTION: {
@@ -353,33 +444,41 @@ export function reducer(state = {}, action) {
           ...state,
           [action.puzzleName]: {
             ...initializePuzzle(state[action.puzzleName].raw),
-          }
-        }
+          },
+        };
       }
 
-      const {cells, clues, activeCellNumber, activeDirection, width} = state[action.puzzleName];
-      const newCells = getClearCells(cells, clues, width, activeCellNumber, activeDirection, action.option);
+      const { cells, clues, activeCellNumber, activeDirection, width } =
+        state[action.puzzleName];
+      const newCells = getClearCells(
+        cells,
+        clues,
+        width,
+        activeCellNumber,
+        activeDirection,
+        action.option,
+      );
 
       return {
         ...state,
         [action.puzzleName]: {
           ...state[action.puzzleName],
           cells: newCells,
-          filledCells: newCells.filter(cell => cell.guess).length,
-        }
-      }
+          filledCells: newCells.filter((cell) => cell.guess).length,
+        },
+      };
     }
 
     case UPDATE_TIMER: {
-      const {timer} = state[action.puzzleName];
+      const { timer } = state[action.puzzleName];
 
       return {
         ...state,
         [action.puzzleName]: {
           ...state[action.puzzleName],
           timer: timer + 1,
-        }
-      }
+        },
+      };
     }
 
     default: {

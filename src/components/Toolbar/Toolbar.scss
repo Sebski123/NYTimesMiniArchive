@@ -1,5 +1,6 @@
 .toolbarContainer {
   width: 100%;
+  max-width: 100%;
   border: 1px solid #e6e6e6;
   box-sizing: border-box;
   justify-content: space-between;
@@ -14,4 +15,5 @@
 
 .toolbarMenu {
   display: flex;
+  flex-wrap: nowrap;
 }
