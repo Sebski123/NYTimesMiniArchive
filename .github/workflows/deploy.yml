@@ -22,7 +22,7 @@ jobs:
       run: rm -fr ./dist/puzzles/ && mkdir ./dist/puzzles/ && cp ./crossword_data/Converted/* ./dist/puzzles/
 
     - name: Install dependencies
-      run: npm install
+      run: npm install --legacy-peer-deps
 
     - name: Build
       run: npm run build  # Your build command
