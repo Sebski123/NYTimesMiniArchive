@@ -1,0 +1,222 @@
+[
+    {
+        "puzzle_id": 24538,
+        "promo_id": null,
+        "version": 3,
+        "puzzle_meta": {
+            "formatType": "Normal",
+            "publishType": "Daily",
+            "title": "The Mini Crossword",
+            "printDate": "2026-09-21",
+            "printDotw": 0,
+            "editor": "",
+            "height": 5,
+            "width": 6,
+            "author": "Joel Fagliano"
+        },
+        "print_date": "2026-09-21",
+        "enhanced_tier_date": null,
+        "puzzle_data": {
+            "clues": {
+                "A": [
+                    {
+                        "clueStart": 2,
+                        "clueNum": 1,
+                        "clueEnd": 5,
+                        "value": "Appropriate shoes to wear on moving day?"
+                    },
+                    {
+                        "clueStart": 7,
+                        "clueNum": 5,
+                        "clueEnd": 11,
+                        "value": "Optimists keep them high"
+                    },
+                    {
+                        "clueStart": 12,
+                        "clueNum": 6,
+                        "clueEnd": 17,
+                        "value": "Baked entree with a flaky crust"
+                    },
+                    {
+                        "clueStart": 18,
+                        "clueNum": 7,
+                        "clueEnd": 22,
+                        "value": "Appropriate gas station to find by the beach?"
+                    },
+                    {
+                        "clueStart": 24,
+                        "clueNum": 8,
+                        "clueEnd": 27,
+                        "value": "Days of old"
+                    }
+                ],
+                "D": [
+                    {
+                        "clueStart": 2,
+                        "clueNum": 1,
+                        "clueEnd": 26,
+                        "value": "Ballot caster"
+                    },
+                    {
+                        "clueStart": 3,
+                        "clueNum": 2,
+                        "clueEnd": 27,
+                        "value": "Appropriate store beside a farmer's market?"
+                    },
+                    {
+                        "clueStart": 4,
+                        "clueNum": 3,
+                        "clueEnd": 22,
+                        "value": "Actor ___ Patrick Harris"
+                    },
+                    {
+                        "clueStart": 5,
+                        "clueNum": 4,
+                        "clueEnd": 17,
+                        "value": "Opposite of NNW"
+                    },
+                    {
+                        "clueStart": 7,
+                        "clueNum": 5,
+                        "clueEnd": 25,
+                        "value": "Appropriate snack for Santa?"
+                    },
+                    {
+                        "clueStart": 12,
+                        "clueNum": 6,
+                        "clueEnd": 24,
+                        "value": "\"Gangnam Style\" rapper"
+                    }
+                ]
+            },
+            "answers": [
+                null,
+                null,
+                "V",
+                "A",
+                "N",
+                "S",
+                null,
+                "H",
+                "O",
+                "P",
+                "E",
+                "S",
+                "P",
+                "O",
+                "T",
+                "P",
+                "I",
+                "E",
+                "S",
+                "H",
+                "E",
+                "L",
+                "L",
+                null,
+                "Y",
+                "O",
+                "R",
+                "E",
+                null,
+                null
+            ],
+            "circled": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false
+            ],
+            "shaded": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false
+            ],
+            "layout": [
+                0,
+                0,
+                1,
+                1,
+                1,
+                1,
+                0,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                0,
+                1,
+                1,
+                1,
+                1,
+                0,
+                0
+            ]
+        }
+    }
+]
