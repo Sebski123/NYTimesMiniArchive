@@ -1,0 +1,222 @@
+[
+    {
+        "puzzle_id": 24457,
+        "promo_id": null,
+        "version": 3,
+        "puzzle_meta": {
+            "formatType": "Normal",
+            "publishType": "Daily",
+            "title": "The Mini Crossword",
+            "printDate": "2026-10-04",
+            "printDotw": 0,
+            "editor": "Joel Fagliano",
+            "height": 5,
+            "width": 6,
+            "author": "Sam Ezersky"
+        },
+        "print_date": "2026-10-04",
+        "enhanced_tier_date": null,
+        "puzzle_data": {
+            "clues": {
+                "A": [
+                    {
+                        "clueStart": 2,
+                        "clueNum": 1,
+                        "clueEnd": 5,
+                        "value": "Wine barrel"
+                    },
+                    {
+                        "clueStart": 7,
+                        "clueNum": 5,
+                        "clueEnd": 11,
+                        "value": "Leader of the Pussycats, in comics and film"
+                    },
+                    {
+                        "clueStart": 12,
+                        "clueNum": 6,
+                        "clueEnd": 17,
+                        "value": "In a nutshell"
+                    },
+                    {
+                        "clueStart": 18,
+                        "clueNum": 7,
+                        "clueEnd": 23,
+                        "value": "2026 N.B.A. champions"
+                    },
+                    {
+                        "clueStart": 24,
+                        "clueNum": 8,
+                        "clueEnd": 28,
+                        "value": "Denial that sounds like 7-Across in Pig Latin"
+                    }
+                ],
+                "D": [
+                    {
+                        "clueStart": 2,
+                        "clueNum": 1,
+                        "clueEnd": 26,
+                        "value": "\"Santa Claus Is ___ to Town\" (holiday hit)"
+                    },
+                    {
+                        "clueStart": 3,
+                        "clueNum": 2,
+                        "clueEnd": 27,
+                        "value": "Pet adoption org."
+                    },
+                    {
+                        "clueStart": 4,
+                        "clueNum": 3,
+                        "clueEnd": 28,
+                        "value": "Like the texture of fine bedsheets"
+                    },
+                    {
+                        "clueStart": 5,
+                        "clueNum": 4,
+                        "clueEnd": 23,
+                        "value": "Bad things to leave locked in your house"
+                    },
+                    {
+                        "clueStart": 7,
+                        "clueNum": 5,
+                        "clueEnd": 25,
+                        "value": "\"We said the same thing at the same time!\""
+                    },
+                    {
+                        "clueStart": 12,
+                        "clueNum": 6,
+                        "clueEnd": 24,
+                        "value": "Hit the slopes"
+                    }
+                ]
+            },
+            "answers": [
+                null,
+                null,
+                "C",
+                "A",
+                "S",
+                "K",
+                null,
+                "J",
+                "O",
+                "S",
+                "I",
+                "E",
+                "S",
+                "I",
+                "M",
+                "P",
+                "L",
+                "Y",
+                "K",
+                "N",
+                "I",
+                "C",
+                "K",
+                "S",
+                "I",
+                "X",
+                "N",
+                "A",
+                "Y",
+                null
+            ],
+            "circled": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false
+            ],
+            "shaded": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false
+            ],
+            "layout": [
+                0,
+                0,
+                1,
+                1,
+                1,
+                1,
+                0,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                0
+            ]
+        }
+    }
+]
