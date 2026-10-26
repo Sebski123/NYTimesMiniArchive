@@ -1,0 +1,222 @@
+[
+    {
+        "puzzle_id": 24668,
+        "promo_id": null,
+        "version": 3,
+        "puzzle_meta": {
+            "formatType": "Normal",
+            "publishType": "Daily",
+            "title": "The Mini Crossword",
+            "printDate": "2026-10-26",
+            "printDotw": 0,
+            "editor": "",
+            "height": 5,
+            "width": 6,
+            "author": "Joel Fagliano"
+        },
+        "print_date": "2026-10-26",
+        "enhanced_tier_date": null,
+        "puzzle_data": {
+            "clues": {
+                "A": [
+                    {
+                        "clueStart": 0,
+                        "clueNum": 1,
+                        "clueEnd": 5,
+                        "value": "Sound of fall leaves underfoot"
+                    },
+                    {
+                        "clueStart": 6,
+                        "clueNum": 7,
+                        "clueEnd": 11,
+                        "value": "Santa's laugh"
+                    },
+                    {
+                        "clueStart": 12,
+                        "clueNum": 8,
+                        "clueEnd": 17,
+                        "value": "Hit film franchise with blue-skinned aliens known as Na'vi"
+                    },
+                    {
+                        "clueStart": 18,
+                        "clueNum": 9,
+                        "clueEnd": 23,
+                        "value": "Brain nerve cell"
+                    },
+                    {
+                        "clueStart": 26,
+                        "clueNum": 10,
+                        "clueEnd": 29,
+                        "value": "\"Say ___!\" (\"Alright, I get it\")"
+                    }
+                ],
+                "D": [
+                    {
+                        "clueStart": 0,
+                        "clueNum": 1,
+                        "clueEnd": 18,
+                        "value": "Action star Jackie"
+                    },
+                    {
+                        "clueStart": 1,
+                        "clueNum": 2,
+                        "clueEnd": 19,
+                        "value": "Wander this way and that"
+                    },
+                    {
+                        "clueStart": 2,
+                        "clueNum": 3,
+                        "clueEnd": 26,
+                        "value": "Big name in moving vans"
+                    },
+                    {
+                        "clueStart": 3,
+                        "clueNum": 4,
+                        "clueEnd": 27,
+                        "value": "___-Dame Cathedral"
+                    },
+                    {
+                        "clueStart": 4,
+                        "clueNum": 5,
+                        "clueEnd": 28,
+                        "value": "Complete pandemonium"
+                    },
+                    {
+                        "clueStart": 5,
+                        "clueNum": 6,
+                        "clueEnd": 29,
+                        "value": "\"Hook 'em ___\" (battle cry of the University of Texas)"
+                    }
+                ]
+            },
+            "answers": [
+                "C",
+                "R",
+                "U",
+                "N",
+                "C",
+                "H",
+                "H",
+                "O",
+                "H",
+                "O",
+                "H",
+                "O",
+                "A",
+                "V",
+                "A",
+                "T",
+                "A",
+                "R",
+                "N",
+                "E",
+                "U",
+                "R",
+                "O",
+                "N",
+                null,
+                null,
+                "L",
+                "E",
+                "S",
+                "S"
+            ],
+            "circled": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false
+            ],
+            "shaded": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false
+            ],
+            "layout": [
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                0,
+                0,
+                1,
+                1,
+                1,
+                1
+            ]
+        }
+    }
+]
