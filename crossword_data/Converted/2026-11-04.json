@@ -1,0 +1,222 @@
+[
+    {
+        "puzzle_id": 24640,
+        "promo_id": null,
+        "version": 3,
+        "puzzle_meta": {
+            "formatType": "Normal",
+            "publishType": "Daily",
+            "title": "The Mini Crossword",
+            "printDate": "2026-11-04",
+            "printDotw": 0,
+            "editor": "Joel Fagliano",
+            "height": 5,
+            "width": 6,
+            "author": "Christina Iverson"
+        },
+        "print_date": "2026-11-04",
+        "enhanced_tier_date": null,
+        "puzzle_data": {
+            "clues": {
+                "A": [
+                    {
+                        "clueStart": 0,
+                        "clueNum": 1,
+                        "clueEnd": 5,
+                        "value": "One of 21 around the island of Manhattan – most famously, the Brooklyn one"
+                    },
+                    {
+                        "clueStart": 6,
+                        "clueNum": 7,
+                        "clueEnd": 11,
+                        "value": "Tony-winning play that reimagines Abraham Lincoln's wife as an aspiring cabaret star"
+                    },
+                    {
+                        "clueStart": 12,
+                        "clueNum": 8,
+                        "clueEnd": 17,
+                        "value": "Hot dog, informally"
+                    },
+                    {
+                        "clueStart": 18,
+                        "clueNum": 9,
+                        "clueEnd": 22,
+                        "value": "Put into law"
+                    },
+                    {
+                        "clueStart": 24,
+                        "clueNum": 10,
+                        "clueEnd": 27,
+                        "value": "Not a single one"
+                    }
+                ],
+                "D": [
+                    {
+                        "clueStart": 0,
+                        "clueNum": 1,
+                        "clueEnd": 24,
+                        "value": "Yang who once played the iceberg that sank the Titanic on \"S.N.L.\""
+                    },
+                    {
+                        "clueStart": 1,
+                        "clueNum": 2,
+                        "clueEnd": 25,
+                        "value": "Big zoo animal"
+                    },
+                    {
+                        "clueStart": 2,
+                        "clueNum": 3,
+                        "clueEnd": 26,
+                        "value": "\"Sorry, let me rephrase ...\""
+                    },
+                    {
+                        "clueStart": 3,
+                        "clueNum": 4,
+                        "clueEnd": 27,
+                        "value": "Class where you might wear a leotard"
+                    },
+                    {
+                        "clueStart": 4,
+                        "clueNum": 5,
+                        "clueEnd": 22,
+                        "value": "Courage and perseverance"
+                    },
+                    {
+                        "clueStart": 5,
+                        "clueNum": 6,
+                        "clueEnd": 17,
+                        "value": "\"Keep your ___ on the ball!\""
+                    }
+                ]
+            },
+            "answers": [
+                "B",
+                "R",
+                "I",
+                "D",
+                "G",
+                "E",
+                "O",
+                "H",
+                "M",
+                "A",
+                "R",
+                "Y",
+                "W",
+                "I",
+                "E",
+                "N",
+                "I",
+                "E",
+                "E",
+                "N",
+                "A",
+                "C",
+                "T",
+                null,
+                "N",
+                "O",
+                "N",
+                "E",
+                null,
+                null
+            ],
+            "circled": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false
+            ],
+            "shaded": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false
+            ],
+            "layout": [
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                0,
+                1,
+                1,
+                1,
+                1,
+                0,
+                0
+            ]
+        }
+    }
+]
