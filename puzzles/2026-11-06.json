@@ -1,0 +1,222 @@
+[
+    {
+        "puzzle_id": 24695,
+        "promo_id": null,
+        "version": 3,
+        "puzzle_meta": {
+            "formatType": "Normal",
+            "publishType": "Daily",
+            "title": "The Mini Crossword",
+            "printDate": "2026-11-06",
+            "printDotw": 0,
+            "editor": "",
+            "height": 5,
+            "width": 6,
+            "author": "Joel Fagliano"
+        },
+        "print_date": "2026-11-06",
+        "enhanced_tier_date": null,
+        "puzzle_data": {
+            "clues": {
+                "A": [
+                    {
+                        "clueStart": 2,
+                        "clueNum": 1,
+                        "clueEnd": 5,
+                        "value": "Took legal action against"
+                    },
+                    {
+                        "clueStart": 7,
+                        "clueNum": 5,
+                        "clueEnd": 11,
+                        "value": "An \"F\" in Physics?"
+                    },
+                    {
+                        "clueStart": 12,
+                        "clueNum": 6,
+                        "clueEnd": 17,
+                        "value": "A \"C\" in Chemistry?"
+                    },
+                    {
+                        "clueStart": 18,
+                        "clueNum": 7,
+                        "clueEnd": 21,
+                        "value": "An \"A\" in Geometry?"
+                    },
+                    {
+                        "clueStart": 24,
+                        "clueNum": 8,
+                        "clueEnd": 27,
+                        "value": "\"Feel the ___\" (2010s political slogan)"
+                    }
+                ],
+                "D": [
+                    {
+                        "clueStart": 2,
+                        "clueNum": 1,
+                        "clueEnd": 26,
+                        "value": "More achy"
+                    },
+                    {
+                        "clueStart": 3,
+                        "clueNum": 2,
+                        "clueEnd": 27,
+                        "value": "Rural's opposite"
+                    },
+                    {
+                        "clueStart": 4,
+                        "clueNum": 3,
+                        "clueEnd": 16,
+                        "value": "Shorthand for things that are green"
+                    },
+                    {
+                        "clueStart": 5,
+                        "clueNum": 4,
+                        "clueEnd": 17,
+                        "value": "Where a bear hibernates in the winter"
+                    },
+                    {
+                        "clueStart": 7,
+                        "clueNum": 5,
+                        "clueEnd": 25,
+                        "value": "Cost of a 6-Down"
+                    },
+                    {
+                        "clueStart": 12,
+                        "clueNum": 6,
+                        "clueEnd": 24,
+                        "value": "Traditionally, it's black in London and yellow in New York City"
+                    }
+                ]
+            },
+            "answers": [
+                null,
+                null,
+                "S",
+                "U",
+                "E",
+                "D",
+                null,
+                "F",
+                "O",
+                "R",
+                "C",
+                "E",
+                "C",
+                "A",
+                "R",
+                "B",
+                "O",
+                "N",
+                "A",
+                "R",
+                "E",
+                "A",
+                null,
+                null,
+                "B",
+                "E",
+                "R",
+                "N",
+                null,
+                null
+            ],
+            "circled": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false
+            ],
+            "shaded": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false
+            ],
+            "layout": [
+                0,
+                0,
+                1,
+                1,
+                1,
+                1,
+                0,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                0,
+                0,
+                1,
+                1,
+                1,
+                1,
+                0,
+                0
+            ]
+        }
+    }
+]
