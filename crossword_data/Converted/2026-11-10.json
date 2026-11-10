@@ -1,0 +1,196 @@
+[
+    {
+        "puzzle_id": 24709,
+        "promo_id": null,
+        "version": 3,
+        "puzzle_meta": {
+            "formatType": "Normal",
+            "publishType": "Daily",
+            "title": "The Mini Crossword",
+            "printDate": "2026-11-10",
+            "printDotw": 0,
+            "editor": "",
+            "height": 5,
+            "width": 5,
+            "author": "Joel Fagliano"
+        },
+        "print_date": "2026-11-10",
+        "enhanced_tier_date": null,
+        "puzzle_data": {
+            "clues": {
+                "A": [
+                    {
+                        "clueStart": 0,
+                        "clueNum": 1,
+                        "clueEnd": 3,
+                        "value": "___ as a button"
+                    },
+                    {
+                        "clueStart": 5,
+                        "clueNum": 5,
+                        "clueEnd": 8,
+                        "value": "Computer operating system since 1969"
+                    },
+                    {
+                        "clueStart": 10,
+                        "clueNum": 6,
+                        "clueEnd": 14,
+                        "value": "Units of ice cream or beer"
+                    },
+                    {
+                        "clueStart": 16,
+                        "clueNum": 8,
+                        "clueEnd": 19,
+                        "value": "Green-skinned monster, perhaps"
+                    },
+                    {
+                        "clueStart": 21,
+                        "clueNum": 9,
+                        "clueEnd": 24,
+                        "value": "___ as a pin"
+                    }
+                ],
+                "D": [
+                    {
+                        "clueStart": 0,
+                        "clueNum": 1,
+                        "clueEnd": 10,
+                        "value": "Container for ice cream or beer"
+                    },
+                    {
+                        "clueStart": 1,
+                        "clueNum": 2,
+                        "clueEnd": 21,
+                        "value": "Worker's collective"
+                    },
+                    {
+                        "clueStart": 2,
+                        "clueNum": 3,
+                        "clueEnd": 22,
+                        "value": "Slightest bit of color"
+                    },
+                    {
+                        "clueStart": 3,
+                        "clueNum": 4,
+                        "clueEnd": 23,
+                        "value": "Background actor"
+                    },
+                    {
+                        "clueStart": 14,
+                        "clueNum": 7,
+                        "clueEnd": 24,
+                        "value": "Word before \"... go!\""
+                    }
+                ]
+            },
+            "answers": [
+                "C",
+                "U",
+                "T",
+                "E",
+                null,
+                "U",
+                "N",
+                "I",
+                "X",
+                null,
+                "P",
+                "I",
+                "N",
+                "T",
+                "S",
+                null,
+                "O",
+                "G",
+                "R",
+                "E",
+                null,
+                "N",
+                "E",
+                "A",
+                "T"
+            ],
+            "circled": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false
+            ],
+            "shaded": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false
+            ],
+            "layout": [
+                1,
+                1,
+                1,
+                1,
+                0,
+                1,
+                1,
+                1,
+                1,
+                0,
+                1,
+                1,
+                1,
+                1,
+                1,
+                0,
+                1,
+                1,
+                1,
+                1,
+                0,
+                1,
+                1,
+                1,
+                1
+            ]
+        }
+    }
+]
